@@ -1,0 +1,590 @@
+{
+ "schema": 1,
+ "version": 1,
+ "tasks": [
+  {
+   "id": "chain-lube",
+   "task": "Chain Clean & Lube",
+   "system": "drivetrain",
+   "hourInterval": null,
+   "monthInterval": 1,
+   "season": null,
+   "estimatedCost": [
+    3,
+    15
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Wipe and lube the chain monthly (sooner in rain/dust) \u2014 the two-minute habit that triples drivetrain life."
+  },
+  {
+   "id": "chain-wear",
+   "task": "Chain Wear Check",
+   "system": "drivetrain",
+   "hourInterval": null,
+   "monthInterval": 3,
+   "season": null,
+   "estimatedCost": [
+    0,
+    5
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Measure with a wear gauge; replace at 0.5% (11/12-speed) or 0.75% \u2014 a worn chain eats the cassette."
+  },
+  {
+   "id": "chain-replace",
+   "task": "Chain Replacement",
+   "system": "drivetrain",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    20,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Replace at the wear mark; with road salt or heavy miles, expect 1-2 per year."
+  },
+  {
+   "id": "cassette",
+   "task": "Cassette & Chainring Inspection",
+   "system": "drivetrain",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    120
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Check for shark-fin teeth and skipping under load when fitting a new chain."
+  },
+  {
+   "id": "derailleur-tune",
+   "task": "Shifting Tune-Up",
+   "system": "drivetrain",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Index the gears, check cable tension and hanger alignment; crisp shifting is adjustment, not luck."
+  },
+  {
+   "id": "cables",
+   "task": "Cables & Housing Service",
+   "system": "drivetrain",
+   "hourInterval": null,
+   "monthInterval": 24,
+   "season": null,
+   "estimatedCost": [
+    15,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Replace sticky shift/brake cables and housing; transformation-level improvement on older bikes."
+  },
+  {
+   "id": "brake-pads",
+   "task": "Brake Pad Check",
+   "system": "brakes",
+   "hourInterval": null,
+   "monthInterval": 3,
+   "season": null,
+   "estimatedCost": [
+    0,
+    40
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Inspect pad wear (rim: at the groove; disc: 1.5mm minimum) and look for glazing or contamination."
+  },
+  {
+   "id": "brake-bleed",
+   "task": "Hydraulic Brake Bleed",
+   "system": "brakes",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    20,
+    90
+   ],
+   "diy": false,
+   "appliesTo": [
+    "mountain",
+    "ebike",
+    "hybrid"
+   ],
+   "description": "Bleed hydraulic discs annually for a firm lever; mineral oil vs DOT per brand."
+  },
+  {
+   "id": "rotor-check",
+   "task": "Rotor True & Torque Check",
+   "system": "brakes",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "mountain",
+    "ebike",
+    "hybrid"
+   ],
+   "description": "Check rotors for true and bolts for torque; clean with isopropyl only."
+  },
+  {
+   "id": "tire-pressure",
+   "task": "Tire Pressure Top-Up",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 1,
+   "season": null,
+   "estimatedCost": [
+    0,
+    0
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Tubes lose air weekly; soft tires cause most flats and sluggish rides. 60 seconds with a floor pump."
+  },
+  {
+   "id": "tire-wear",
+   "task": "Tire Wear & Sidewall Check",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    140
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Look for squared tread, cuts, dry-rot cracking; bikes stored outdoors age out fast."
+  },
+  {
+   "id": "sealant",
+   "task": "Tubeless Sealant Refresh",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 4,
+   "season": null,
+   "estimatedCost": [
+    10,
+    40
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain"
+   ],
+   "description": "Sealant dries in 3-6 months; a dry tubeless tire is just a slow flat waiting."
+  },
+  {
+   "id": "wheel-true",
+   "task": "Wheel True & Spoke Tension",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Spin-check for wobble, pluck spokes for even tone; catch loose spokes before they take the wheel."
+  },
+  {
+   "id": "hub-service",
+   "task": "Hub & Bottom Bracket Service",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    20,
+    150
+   ],
+   "diy": false,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Annual bearing check \u2014 gritty or loose means service; creaks usually live here."
+  },
+  {
+   "id": "headset",
+   "task": "Headset Check",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Rock the bike with the front brake held: knocking means a loose or worn headset."
+  },
+  {
+   "id": "fork-lowers",
+   "task": "Suspension Fork Lowers Service",
+   "system": "suspension",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    40,
+    150
+   ],
+   "diy": false,
+   "appliesTo": [
+    "mountain",
+    "ebike"
+   ],
+   "description": "Fresh oil and wipers keep the fork plush; neglect turns to stiction then rebuilds."
+  },
+  {
+   "id": "shock-service",
+   "task": "Rear Shock Air Can Service",
+   "system": "suspension",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    30,
+    120
+   ],
+   "diy": false,
+   "appliesTo": [
+    "mountain"
+   ],
+   "description": "Air-can service per interval; check sag and pressures monthly when riding."
+  },
+  {
+   "id": "pivot-check",
+   "task": "Pivot Bolt Torque Check",
+   "system": "suspension",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    40
+   ],
+   "diy": true,
+   "appliesTo": [
+    "mountain"
+   ],
+   "description": "Torque-check frame pivots; loose pivots eat bearings."
+  },
+  {
+   "id": "ebike-battery",
+   "task": "E-Bike Battery Care Check",
+   "system": "ebike",
+   "hourInterval": null,
+   "monthInterval": 1,
+   "season": null,
+   "estimatedCost": [
+    0,
+    0
+   ],
+   "diy": true,
+   "appliesTo": [
+    "ebike"
+   ],
+   "description": "Store at 40-70% charge, never empty; avoid heat. Battery habits decide whether you get 3 years or 6."
+  },
+  {
+   "id": "ebike-firmware",
+   "task": "Motor & Firmware Service",
+   "system": "ebike",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    100
+   ],
+   "diy": false,
+   "appliesTo": [
+    "ebike"
+   ],
+   "description": "Dealer diagnostic + firmware update annually; error logs catch failing sensors early."
+  },
+  {
+   "id": "ebike-connectors",
+   "task": "Connector & Wiring Check",
+   "system": "ebike",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    50
+   ],
+   "diy": true,
+   "appliesTo": [
+    "ebike"
+   ],
+   "description": "Inspect and reseat battery/display connectors; dielectric grease on contacts."
+  },
+  {
+   "id": "helmet",
+   "task": "Helmet Age & Condition Check",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Replace helmets every ~5 years, or immediately after any crash \u2014 foam degrades invisibly."
+  },
+  {
+   "id": "lights",
+   "task": "Lights & Reflector Check",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Test lights, charge or replace batteries; check reflectors are present and aimed."
+  },
+  {
+   "id": "bolts",
+   "task": "Full-Bike Bolt Torque Check",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    30
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Stem, bars, seatpost, cranks: torque to spec (carbon parts especially)."
+  },
+  {
+   "id": "kids-fit",
+   "task": "Kids' Bike Fit & Safety Check",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    40
+   ],
+   "diy": true,
+   "appliesTo": [
+    "kids"
+   ],
+   "description": "Kids outgrow bikes mid-season: check seat height, brake reach, helmet fit."
+  },
+  {
+   "id": "bartape",
+   "task": "Bar Tape / Grips Refresh",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 24,
+   "season": null,
+   "estimatedCost": [
+    10,
+    50
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Replace worn tape and loose grips \u2014 a slipping grip is a crash."
+  },
+  {
+   "id": "spring-tune",
+   "task": "Spring Tune-Up",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Post-storage once-over: drivetrain, brakes, tires, bolt check, test ride."
+  },
+  {
+   "id": "winter-prep",
+   "task": "Winter Storage Prep",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "fall",
+   "estimatedCost": [
+    5,
+    40
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike",
+    "kids"
+   ],
+   "description": "Clean and lube before storage; hang or stand to protect tires; e-bike battery indoors at half charge."
+  },
+  {
+   "id": "deep-clean",
+   "task": "Drivetrain Deep Clean",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    10,
+    90
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Full degrease of chain, cassette, rings, jockey wheels \u2014 twice a season or after mud."
+  },
+  {
+   "id": "fit-check",
+   "task": "Position & Fit Review",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    200
+   ],
+   "diy": true,
+   "appliesTo": [
+    "road",
+    "mountain",
+    "hybrid",
+    "ebike"
+   ],
+   "description": "Numb hands or sore knees are fit problems; small saddle/bar tweaks fix most."
+  }
+ ]
+}

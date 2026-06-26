@@ -1,0 +1,129 @@
+{
+  "slug": "2018-nissan-rogue",
+  "make": "Nissan",
+  "model": "Rogue",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/NISSAN/ROGUE#complaints",
+  "generatedAt": "2026-06-23T03:50:04.111Z",
+  "total": 612,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 255,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "ON APRIL 11, 2018, I WAS DRIVING MY BRAND NEW 2018 NISSAN ROGUE. I HAD JUST GOTTEN OFF THE HIGHWAY, AND WAS DRIVING STRAIGHT ALONG A CITY STREET WHEN SUDDENLY THE BRAKES SLAMMED ON, THRUSTING ME FORWARD AND GIVING ME A NEAR HEART ATTACK. I COULD HAVE BEEN KILLED OR SERIOUSLY INJU",
+      "pct": 42
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 164,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "BRAND NEW 2018 ROGUE WITH LESS THAN 700 MILES - THE AUTOMATIC BREAKING SYSTEMS ENGAGED FOR NO REASON  WHILE MAKING A LEFT HAND TURN.  THE CAR BEHIND ME HAD TO SWERVE NOT TO HIT ME  OTHER TIMES THE SENSOR LIGHT FOR THE AUTOMATIC BREAKING SYSTEM FLASHES. ON ANOTHER DAY  A WARNING C",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 81,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 NISSAN ROGUE. WHILE DRIVING 40 MPH, THE BRAKES ENGAGED WITHOUT WARNING OR MANUAL PRESSURE. THE ANTI-LOCK BRAKES ENGAGED AND THE VEHICLE ACCELERATED FORWARD FOUR TIMES. IN ADDITION, AN UNKNOWN ORANGE WARNING INDICATOR ILLUMINATED AND THE DOORS LOCKED WI",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 52,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT LEASED A 2018 NISSAN ROGUE. WHEN THE VEHICLE WAS PARKED, THE ENGINE INDICATOR ILLUMINATED. THERE WAS NO WARNING MESSAGE DISPLAYED. THE VEHICLE WAS TAKEN TO FUCCILLO NISSAN (3893 NY-31, LIVERPOOL, NY 13090, 315-944-3200) WHERE THE TECHNICIAN REPROGRAMMED THE COMPUT",
+      "pct": 8
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 34,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 NISSAN ROGUE. WHILE ATTEMPTING TO PARK THE VEHICLE, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE ACCELERATED INDEPENDENTLY. AS A RESULT, THE CONTACT CRASHED INTO A VEHICLE WHICH, IN TURN, CRASHED INTO A PARKED VEHICLE. THERE WERE NO INJURIES SUSTAINED",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "Braking is the top worry for 2018 Nissan Rogue owners",
+    "summary": "The dominant pattern in owner complaints centers on unintended brake engagement — brakes activating suddenly without driver input, often while driving at normal speeds. A related cluster of reports involves the automatic emergency braking and forward collision avoidance system triggering unexpectedly in ordinary driving situations, including turns with no apparent hazard present. Electrical system anomalies and engine warning lights round out the complaint picture, sometimes occurring alongside the braking incidents.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 255,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "ON APRIL 11, 2018, I WAS DRIVING MY BRAND NEW 2018 NISSAN ROGUE. I HAD JUST GOTTEN OFF THE HIGHWAY, AND WAS DRIVING STRAIGHT ALONG A CITY STREET WHEN SUDDENLY THE BRAKES SLAMMED ON, THRUSTING ME FORWARD AND GIVING ME A NEAR HEART ATTACK. I COULD HAVE BEEN KILLED OR SERIOUSLY INJU",
+        "pct": 42,
+        "title": "Service Brakes",
+        "blurb": "Owners report the brakes engaging abruptly and without driver input, causing the vehicle to lurch forward and in some cases accelerate unexpectedly after the brake event. · 11 crash · 15 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 164,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "BRAND NEW 2018 ROGUE WITH LESS THAN 700 MILES - THE AUTOMATIC BREAKING SYSTEMS ENGAGED FOR NO REASON  WHILE MAKING A LEFT HAND TURN.  THE CAR BEHIND ME HAD TO SWERVE NOT TO HIT ME  OTHER TIMES THE SENSOR LIGHT FOR THE AUTOMATIC BREAKING SYSTEM FLASHES. ON ANOTHER DAY  A WARNING C",
+        "pct": 27,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Owners report the automatic braking system activating without an apparent obstacle present, including during left turns, sometimes forcing following vehicles to swerve to avoid a collision. · 6 crash · 9 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 81,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 NISSAN ROGUE. WHILE DRIVING 40 MPH, THE BRAKES ENGAGED WITHOUT WARNING OR MANUAL PRESSURE. THE ANTI-LOCK BRAKES ENGAGED AND THE VEHICLE ACCELERATED FORWARD FOUR TIMES. IN ADDITION, AN UNKNOWN ORANGE WARNING INDICATOR ILLUMINATED AND THE DOORS LOCKED WI",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "Owners report brakes engaging without warning while the vehicle is moving, accompanied by unexpected acceleration and unidentified warning indicators appearing on the dashboard. · 4 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 52,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT LEASED A 2018 NISSAN ROGUE. WHEN THE VEHICLE WAS PARKED, THE ENGINE INDICATOR ILLUMINATED. THERE WAS NO WARNING MESSAGE DISPLAYED. THE VEHICLE WAS TAKEN TO FUCCILLO NISSAN (3893 NY-31, LIVERPOOL, NY 13090, 315-944-3200) WHERE THE TECHNICIAN REPROGRAMMED THE COMPUT",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "Owners report the engine indicator light illuminating while the vehicle is parked, with no accompanying warning message explaining the cause. · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 34,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 NISSAN ROGUE. WHILE ATTEMPTING TO PARK THE VEHICLE, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE ACCELERATED INDEPENDENTLY. AS A RESULT, THE CONTACT CRASHED INTO A VEHICLE WHICH, IN TURN, CRASHED INTO A PARKED VEHICLE. THERE WERE NO INJURIES SUSTAINED",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "The smallest group at 34 reports (6%), but a notable crash rate: 6 crashes and 6 injuries, with reports of unintended acceleration."
+      }
+    ],
+    "enriched": true
+  }
+}

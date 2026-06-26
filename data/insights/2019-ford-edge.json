@@ -1,0 +1,129 @@
+{
+  "slug": "2019-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/EDGE#complaints",
+  "generatedAt": "2026-06-23T03:49:10.010Z",
+  "total": 712,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 418,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 FORD EDGE. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE WOULD NOT IMMEDIATELY SHIFT INTO GEAR AND WOULD NOT IMMEDIATELY ACCELERATE WHEN DEPRESSING THE ACCELERATOR PEDAL. THE VEHICLE WAS TAKEN TO TENVOORDE FORD (185 ROOSEVELT RD, ST CLOUD, MN), BUT THE CAU",
+      "pct": 59
+    },
+    {
+      "component": "ENGINE",
+      "count": 148,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SINGLE POINT OF FAILURE WHERE GROUND WIRE DISCONNECTED FROM ECM AND CAR LOST 100% FUNCTIONALITY AND SHUT DOWN COMPLETELY WHILE OPERATING/DRIVING WHILE STOPPED AT A RED LIGHT. HAZARDS WARNING LIGHTS WERE NON OPERABLE THEREFORE MY CONCERN IS IF AIRBAGS WOULD OF EVEN ACTUATED IF A R",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 34,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SINGLE POINT OF FAILURE WHERE GROUND WIRE DISCONNECTED FROM ECM AND CAR LOST 100% FUNCTIONALITY AND SHUT DOWN COMPLETELY WHILE OPERATING/DRIVING WHILE STOPPED AT A RED LIGHT. HAZARDS WARNING LIGHTS WERE NON OPERABLE THEREFORE MY CONCERN IS IF AIRBAGS WOULD OF EVEN ACTUATED IF A R",
+      "pct": 5
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Edge. The contact stated while driving 45 MPH, the vehicle was driving rough. The contact stated that the vehicle then lost motive power and stalled without warning. The contact was not able to pull to the side of the road; however, the vehicle was to",
+      "pct": 5
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 31,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 FORD EDGE ST - USING PARALLEL PARK ASSIST FEATURE, I FOLLOWED PROMPTS ON SCREEN, THE CAR BACKED INTO ANOTHER VEHICLE, DAMAGING THE RIGHT REAR QUARTER-PANEL OF THE EDGE. I HAD TO TAKE OVER AND BRAKE ONCE I REALIZED IT WAS ABOUT TO HIT THE OTHER VEHICLE. NO ALERTS OR WARNINGS ",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2019 Ford Edge: transmission and engine top owner complaints",
+    "summary": "The dominant pattern in owner complaints for the Ford Edge of this generation centers on powertrain behavior, with the most common reports describing delayed or unresponsive gear engagement and sluggish acceleration when pressing the accelerator. A secondary cluster of complaints involves the engine and electrical system, where owners describe sudden and complete vehicle shutdown — including loss of hazard lights — attributed to a ground wire separating from the ECM while the vehicle was in motion or stopped at a light. A smaller share of owners also report the vehicle running roughly and stalling without warning at moderate speeds.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 418,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 FORD EDGE. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE WOULD NOT IMMEDIATELY SHIFT INTO GEAR AND WOULD NOT IMMEDIATELY ACCELERATE WHEN DEPRESSING THE ACCELERATOR PEDAL. THE VEHICLE WAS TAKEN TO TENVOORDE FORD (185 ROOSEVELT RD, ST CLOUD, MN), BUT THE CAU",
+        "pct": 59,
+        "title": "Power Train",
+        "blurb": "Owners report the vehicle failing to shift into gear promptly and not accelerating immediately when the accelerator pedal is depressed while driving at various speeds · 4 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 148,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SINGLE POINT OF FAILURE WHERE GROUND WIRE DISCONNECTED FROM ECM AND CAR LOST 100% FUNCTIONALITY AND SHUT DOWN COMPLETELY WHILE OPERATING/DRIVING WHILE STOPPED AT A RED LIGHT. HAZARDS WARNING LIGHTS WERE NON OPERABLE THEREFORE MY CONCERN IS IF AIRBAGS WOULD OF EVEN ACTUATED IF A R",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "Owners report a ground wire disconnecting from the ECM causing complete loss of vehicle functionality and an unexpected shutdown while driving, including loss of hazard warning lights · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 34,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SINGLE POINT OF FAILURE WHERE GROUND WIRE DISCONNECTED FROM ECM AND CAR LOST 100% FUNCTIONALITY AND SHUT DOWN COMPLETELY WHILE OPERATING/DRIVING WHILE STOPPED AT A RED LIGHT. HAZARDS WARNING LIGHTS WERE NON OPERABLE THEREFORE MY CONCERN IS IF AIRBAGS WOULD OF EVEN ACTUATED IF A R",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "Owners report a ground wire disconnecting from the ECM resulting in total electrical failure and vehicle shutdown while in operation, with hazard warning lights rendered inoperable · 2 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Edge. The contact stated while driving 45 MPH, the vehicle was driving rough. The contact stated that the vehicle then lost motive power and stalled without warning. The contact was not able to pull to the side of the road; however, the vehicle was to",
+        "pct": 5,
+        "title": "Engine And Engine Cooling",
+        "blurb": "Owners report the vehicle running rough and then losing motive power and stalling without warning while driving at moderate speeds"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 31,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 FORD EDGE ST - USING PARALLEL PARK ASSIST FEATURE, I FOLLOWED PROMPTS ON SCREEN, THE CAR BACKED INTO ANOTHER VEHICLE, DAMAGING THE RIGHT REAR QUARTER-PANEL OF THE EDGE. I HAD TO TAKE OVER AND BRAKE ONCE I REALIZED IT WAS ABOUT TO HIT THE OTHER VEHICLE. NO ALERTS OR WARNINGS ",
+        "pct": 4,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The smallest of the top five: 31 reports (4%), with 2 crashes. If you rely on driver-assist features like park assist, test them carefully and stay ready to take over."
+      }
+    ],
+    "enriched": true
+  }
+}

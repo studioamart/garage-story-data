@@ -1,0 +1,40 @@
+{
+  "slug": "2023-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:23.260Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While riding home on June 7 2025 on I64 West between Parham Rd and Gaskins Rd exits, my Kawasaki ZX-6R lurched while travelling around 70 mph at approximately 11:30PM. Engine RPM rose slightly during the lurch, afterwhich there was a noticeable drop in engine power. The engine co",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While riding home on June 7 2025 on I64 West between Parham Rd and Gaskins Rd exits, my Kawasaki ZX-6R lurched while travelling around 70 mph at approximately 11:30PM. Engine RPM rose slightly during the lurch, afterwhich there was a noticeable drop in engine power. The engine co",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

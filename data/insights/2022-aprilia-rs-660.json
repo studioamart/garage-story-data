@@ -1,0 +1,62 @@
+{
+  "slug": "2022-aprilia-rs-660",
+  "make": "Aprilia",
+  "model": "RS 660",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/APRILIA/RS%20660#complaints",
+  "generatedAt": "2026-06-23T22:36:19.401Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Aprilia RS 660. The contact stated while riding at approximately 65 MPH, the engine began to vibrate violently, causing the motorcycle to be difficult to control. The contact stated that the motorcycle stalled and coasted to a stop on the side of the road.",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "So just got the bike and i was driving home. I noticed an issue going into second gear. Bike would actually go into neutral. Ended up getting the bike home after somehow getting it into second. When I noticed that the teeth on the input shaft by the quick shift sensor looks kinda",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Aprilia Rs 660 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Aprilia RS 660. The contact stated while riding at approximately 65 MPH, the engine began to vibrate violently, causing the motorcycle to be difficult to control. The contact stated that the motorcycle stalled and coasted to a stop on the side of the road.",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "So just got the bike and i was driving home. I noticed an issue going into second gear. Bike would actually go into neutral. Ended up getting the bike home after somehow getting it into second. When I noticed that the teeth on the input shaft by the quick shift sensor looks kinda",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

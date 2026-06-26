@@ -1,0 +1,62 @@
+{
+  "slug": "2019-honda-cbr600rr",
+  "make": "Honda",
+  "model": "CBR600RR",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/CBR600RR#complaints",
+  "generatedAt": "2026-06-23T22:33:44.549Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Nothing has happened, but this recall for my vehicle was release several months ago and since then has had no updates on arrival of fuel pump. If at all possible there needs to be a timely release so that there are no potential issues in the future regarding the recalled fuel pum",
+      "pct": 67
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA CBR600RR. THE CONTACT STATED THAT WHILE EXITING OF THE DRIVEWAY, ALL OF THE INSTRUMENT PANEL LIGHTS STARTED FLASHING. THE VEHICLE KEPT CHANGING SPEEDS AT 20 MPH AND FINALLY SHUT OFF. THE CONTACT TRIED TO RESTART THE VEHICLE AND HAD TO PUSH THE VE",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Honda Cbr600rr owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Nothing has happened, but this recall for my vehicle was release several months ago and since then has had no updates on arrival of fuel pump. If at all possible there needs to be a timely release so that there are no potential issues in the future regarding the recalled fuel pum",
+        "pct": 67,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA CBR600RR. THE CONTACT STATED THAT WHILE EXITING OF THE DRIVEWAY, ALL OF THE INSTRUMENT PANEL LIGHTS STARTED FLASHING. THE VEHICLE KEPT CHANGING SPEEDS AT 20 MPH AND FINALLY SHUT OFF. THE CONTACT TRIED TO RESTART THE VEHICLE AND HAD TO PUSH THE VE",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%) · 1 fire"
+      }
+    ]
+  }
+}

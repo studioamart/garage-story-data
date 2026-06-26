@@ -1,0 +1,129 @@
+{
+  "slug": "2018-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-06-23T06:10:33.977Z",
+  "total": 699,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 282,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE WERE TRAVELING ON I-10 IN OUR RENTAL CAR..GOING ABOUT 75 MILES PER HOUR IN TEXAS WHEN THE DRIVERS SIDE FRONT WINDSHIELD MOULDING FLEW OFF THE WINDSHIELD HITTING THE WINDOW AND CONTINUING TO FLY OVER THE CAR.  WE SWERVED BECAUSE WE THOUGHT IT WAS A BIRD STRIKE OR SOMETHING CAME",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 91,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "WHEN ACCELERATING, THE SMELL OF EXHAUST FILLS THE CAR. WHEN YOU PRESS THE GAS ALL YOU CAN SMELL IS EXHAUST. IT'S BEEN THIS WAY FROM DAY ONE. FORD TRIED TO FIX IT UNDER RECALL BUT IT DID ABSOLUTELY NOTHING. YOU CAN STILL SMELL IT JUST THE SAME. NO DIFFERENCE AFTER THEIR ATTEMPT TO",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 56,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "DURING STARTUP ON COLD MORNINGS (NOT ALWAYS) I HAVE RECEIVED MULTIPLE FAILURE WARNINGS.  WHEN THIS HAPPENS THE VEHICLE HAS NO POWER STEERING, TURN SIGNALS, OR WINDSHIELD WIPERS.  THE WARNINGS ARE: 4WD OFF, CHECK PARKING AID, SEE MANUAL, SERVICE ADVANCETRAC, STEERING ASSIST FAULT,",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 43,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2016 EXPLORER HAS 74,000 MILES AND THE RPM NEEDLE IS STICKING.  HAD IT EVALUATED AND FOUND TRANSMISSION NEUTRAL OUT ON A 2/3 SHIFT AND A 4/5 SHIFT.  FLUID LEVEL IS CORRECT, THIS IS DUE TO EXCESSIVE CLEARANCE IN THE DIRECT CLUTCH.  THE FORD DEALERSHIP RECOMMEND OVERHAUL OR REPL",
+      "pct": 6
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 28,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 FORD EXPLORER. THE CONTACT STATED THAT EXHAUST FUMES SEEPED INSIDE THE VEHICLE CABIN WHILE DRIVING. THE VEHICLE WAS TAKEN TO HEALEY FORD LINCOLN (2528 NY-17M, GOSHEN, NY 10924, (877) 706-3640) AND WAS REPAIRED AT LEAST TWICE FOR THE FAILURE. THE CONTAC",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "Structure complaints lead the 2018 Ford Explorer, with engine fumes a safety concern",
+    "summary": "Structural complaints dominate owner reports, with windshield trim and molding separating from the vehicle at highway speeds being the most commonly described issue. Engine exhaust odor entering the cabin during acceleration is the next most-cited problem, with owners noting the smell persists even after dealer attempts to address it. Electrical and powertrain faults round out the pattern, covering cold-start warning cascades and transmission irregularities during gear changes.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 282,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE WERE TRAVELING ON I-10 IN OUR RENTAL CAR..GOING ABOUT 75 MILES PER HOUR IN TEXAS WHEN THE DRIVERS SIDE FRONT WINDSHIELD MOULDING FLEW OFF THE WINDSHIELD HITTING THE WINDOW AND CONTINUING TO FLY OVER THE CAR.  WE SWERVED BECAUSE WE THOUGHT IT WAS A BIRD STRIKE OR SOMETHING CAME",
+        "pct": 40,
+        "title": "Structure",
+        "blurb": "Owners report windshield molding and trim separating from the vehicle while driving at highway speeds, with pieces striking the glass or flying over the car. · 4 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 91,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "WHEN ACCELERATING, THE SMELL OF EXHAUST FILLS THE CAR. WHEN YOU PRESS THE GAS ALL YOU CAN SMELL IS EXHAUST. IT'S BEEN THIS WAY FROM DAY ONE. FORD TRIED TO FIX IT UNDER RECALL BUT IT DID ABSOLUTELY NOTHING. YOU CAN STILL SMELL IT JUST THE SAME. NO DIFFERENCE AFTER THEIR ATTEMPT TO",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "Owners report a persistent exhaust smell entering the cabin when accelerating, which some note was present from the time of purchase and continued after dealer service attempts. · 2 fire · 2 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 56,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "DURING STARTUP ON COLD MORNINGS (NOT ALWAYS) I HAVE RECEIVED MULTIPLE FAILURE WARNINGS.  WHEN THIS HAPPENS THE VEHICLE HAS NO POWER STEERING, TURN SIGNALS, OR WINDSHIELD WIPERS.  THE WARNINGS ARE: 4WD OFF, CHECK PARKING AID, SEE MANUAL, SERVICE ADVANCETRAC, STEERING ASSIST FAULT,",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "Owners report that on cold mornings the vehicle can display multiple simultaneous warning messages and lose power steering, turn signals, and windshield wipers. · 2 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 43,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2016 EXPLORER HAS 74,000 MILES AND THE RPM NEEDLE IS STICKING.  HAD IT EVALUATED AND FOUND TRANSMISSION NEUTRAL OUT ON A 2/3 SHIFT AND A 4/5 SHIFT.  FLUID LEVEL IS CORRECT, THIS IS DUE TO EXCESSIVE CLEARANCE IN THE DIRECT CLUTCH.  THE FORD DEALERSHIP RECOMMEND OVERHAUL OR REPL",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "Owners report the RPM needle sticking and the transmission dropping to neutral during upshifts, with the fluid level found to be correct. · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 28,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 FORD EXPLORER. THE CONTACT STATED THAT EXHAUST FUMES SEEPED INSIDE THE VEHICLE CABIN WHILE DRIVING. THE VEHICLE WAS TAKEN TO HEALEY FORD LINCOLN (2528 NY-17M, GOSHEN, NY 10924, (877) 706-3640) AND WAS REPAIRED AT LEAST TWICE FOR THE FAILURE. THE CONTAC",
+        "pct": 4,
+        "title": "Engine And Engine Cooling",
+        "blurb": "28 reports (4%), with 1 fire and 1 injury reported. The smallest of the top issues, but worth a check alongside the engine complaints above."
+      }
+    ],
+    "enriched": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2017-triumph-bonneville-t100",
+  "make": "Triumph",
+  "model": "Bonneville T100",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/TRIUMPH/BONNEVILLE%20T100#complaints",
+  "generatedAt": "2026-06-23T22:35:46.927Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WITH FULL TANK OF GAS AND QUICK STOPS AND STARTS GAS SPILLS FROM THE TANK. IT'S IMPOSSIBLE TO MAKE THE TANK ANY TIGHTER. GASKET IS IN PLACE.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Triumph Bonneville T100 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WITH FULL TANK OF GAS AND QUICK STOPS AND STARTS GAS SPILLS FROM THE TANK. IT'S IMPOSSIBLE TO MAKE THE TANK ANY TIGHTER. GASKET IS IN PLACE.",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

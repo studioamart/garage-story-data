@@ -1,0 +1,128 @@
+{
+  "slug": "2014-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:32.945Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE MOTORCYCLE PULLS HARD TO THE LEFT (TOWARD ONCOMING TRAFFIC) WHEN LIGHT PRESSURE IS USED ON THE HANDLEBARS. THE VEHICLE BASICALLY DOES NOT TRACK STRAIGHT ON ITS OWN WITHOUT SIGNIFICANT PRESSURE TO COUNTERACT THE EFFECT.    BMW WAS CONTACTED VIA MY LOCAL BMW LOCAL DEALERSHIP, W",
+      "pct": 57
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE HIGHWAY IN TRAFFIC AT APPROXIMATELY 70MPH, THE ENGINE SUDDENLY SHUT OFF WITH NO WARNING. WE WERE FORCED TO GO OFF THE ROAD ON LEFT SHOULDER TO AVOID BEING STRUCK FROM BEHIND. ENGINE WOULD NOT RESTART, AND WE COASTED ACROSS TO THE RIGHT SHOULDER WHEN IT WAS SA",
+      "pct": 29
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BMW has an open recall regarding a defective fuel pump. Affected bikes: BMW K 1600 GT, K 1600 GTL, K 1600 GTL Exclusive (2011-2014) When I contact BMW they tell me my VIN is not affected, but I have 100% confirmed that my fuel pump is leaking gas at a very unsafe rate. My bike ye",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN MY WIFE AND I CAME TO A STOP AFTER COMING OFF THE INTERSTATE, SHE ADJUSTED HER SELF ON THE SEAT OF THE 2014 BMW K1600 MOTORCYCLE, AS SHE USED THE ARM REST FOR SUPPORT IN SHIFFING HER WEIGH (SHE WEIGHTS 105 LBS) THE ARM REST SNAPPED OFF). HAD WE BEEN GOING INTO A TURN OR PASS",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE RIDING THE BMW MOTORCYCLE THERE IS A PRONOUNCED PULL TO THE LEFT.  THIS HAPPENS AT ALL SPEEDS. THE HIGHER THE SPEED THE GREATER THE PULL IS. THIS IS AN ONGOING PROBLEM SINCE APRIL 2014.  DIFFERENT TIRES AND CHANGING THE RECOMMENDED TIRE PRESSURE MAKES NO IMPROVEMENT IN THE ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Steering (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE MOTORCYCLE PULLS HARD TO THE LEFT (TOWARD ONCOMING TRAFFIC) WHEN LIGHT PRESSURE IS USED ON THE HANDLEBARS. THE VEHICLE BASICALLY DOES NOT TRACK STRAIGHT ON ITS OWN WITHOUT SIGNIFICANT PRESSURE TO COUNTERACT THE EFFECT.    BMW WAS CONTACTED VIA MY LOCAL BMW LOCAL DEALERSHIP, W",
+        "pct": 57,
+        "title": "Steering",
+        "blurb": "4 reports (57%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE HIGHWAY IN TRAFFIC AT APPROXIMATELY 70MPH, THE ENGINE SUDDENLY SHUT OFF WITH NO WARNING. WE WERE FORCED TO GO OFF THE ROAD ON LEFT SHOULDER TO AVOID BEING STRUCK FROM BEHIND. ENGINE WOULD NOT RESTART, AND WE COASTED ACROSS TO THE RIGHT SHOULDER WHEN IT WAS SA",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BMW has an open recall regarding a defective fuel pump. Affected bikes: BMW K 1600 GT, K 1600 GTL, K 1600 GTL Exclusive (2011-2014) When I contact BMW they tell me my VIN is not affected, but I have 100% confirmed that my fuel pump is leaking gas at a very unsafe rate. My bike ye",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN MY WIFE AND I CAME TO A STOP AFTER COMING OFF THE INTERSTATE, SHE ADJUSTED HER SELF ON THE SEAT OF THE 2014 BMW K1600 MOTORCYCLE, AS SHE USED THE ARM REST FOR SUPPORT IN SHIFFING HER WEIGH (SHE WEIGHTS 105 LBS) THE ARM REST SNAPPED OFF). HAD WE BEEN GOING INTO A TURN OR PASS",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE RIDING THE BMW MOTORCYCLE THERE IS A PRONOUNCED PULL TO THE LEFT.  THIS HAPPENS AT ALL SPEEDS. THE HIGHER THE SPEED THE GREATER THE PULL IS. THIS IS AN ONGOING PROBLEM SINCE APRIL 2014.  DIFFERENT TIRES AND CHANGING THE RECOMMENDED TIRE PRESSURE MAKES NO IMPROVEMENT IN THE ",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2018-indian-chieftain",
+  "make": "Indian",
+  "model": "Chieftain",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/INDIAN/CHIEFTAIN#complaints",
+  "generatedAt": "2026-06-23T22:36:08.831Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The gear position indicator has been replaced multiple times, including the recall “fix” intended to remediate the incorrect readings.  The continuing issue is that the indicator often senses neutral when the transmission is actually in 6th gear (the other gears are often incorre",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Indian Chieftain owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (100% of reports).",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The gear position indicator has been replaced multiple times, including the recall “fix” intended to remediate the incorrect readings.  The continuing issue is that the indicator often senses neutral when the transmission is actually in 6th gear (the other gears are often incorre",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

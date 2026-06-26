@@ -1,0 +1,129 @@
+{
+  "slug": "2018-ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/FORD/FOCUS#complaints",
+  "generatedAt": "2026-06-23T16:30:38.650Z",
+  "total": 819,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 312,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FROM A COMPLETE STOP (DUE TO STOPPED TRAFFIC ON THE HIGHWAY OR WHILE AT A STOP LIGHT), ACCELERATION CAUSES THE VEHICLE TO HESITATE, RAPIDLY INCREASE RPM, AND SHUDDER/SHAKE VIOLENTLY. HAPPENS ROUGHLY BETWEEN 0-35 MPH. THE ISSUE IS BECOMING MORE FREQUENT, SO I'LL BE TAKING THE VEHI",
+      "pct": 38
+    },
+    {
+      "component": "ENGINE",
+      "count": 226,
+      "crash": 4,
+      "fire": 3,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "FROM A COMPLETE STOP (DUE TO STOPPED TRAFFIC ON THE HIGHWAY OR WHILE AT A STOP LIGHT), ACCELERATION CAUSES THE VEHICLE TO HESITATE, RAPIDLY INCREASE RPM, AND SHUDDER/SHAKE VIOLENTLY. HAPPENS ROUGHLY BETWEEN 0-35 MPH. THE ISSUE IS BECOMING MORE FREQUENT, SO I'LL BE TAKING THE VEHI",
+      "pct": 28
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 128,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE VEHICLE FAILS TO ACHIEVE MORE THAN 25 MPG ON A FULL 12 GALLON FUEL TANK WITH 100% GASOLINE. THERE IS A GASOLINE ODOR AT TIMES WHEN THE VEHICLE IS SHUT OFF AFTER BEING DRIVEN FOR MULTIPLE HOURS. THE VEHICLE IS EQUIPPED WITH A 1 LITER ECOBOOST MOTOR THAT WAS PURCHASED NEW WITH ",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 123,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Ford Focus. The contact stated that while his son was driving at an undisclosed speed, the vehicle stalled. The vehicle was taken to an independent mechanic where the purge valve, fuel pump, fuel tank, gasket, and fuel sender valve were replaced. The conta",
+      "pct": 15
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 64,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 FORD FOCUS. THE CONTACT STATED THAT WHILE DRIVING, THE TRANSMISSION FAILED TO PROPERLY SHIFT GEARS WHILE THE RPMS INCREASED AT LOW SPEEDS. ADDITIONALLY, THE VEHICLE HESITATED WHILE DEPRESSING THE ACCELERATOR PEDAL. THE CONTACT ALSO STATED THAT AFTER RE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ford Focus owners report most",
+    "summary": "The dominant pattern across owner complaints is drivetrain hesitation and violent shuddering during low-speed acceleration, particularly from a complete stop through moderate speeds. A secondary cluster involves fuel system concerns, including unexpectedly low fuel economy and a gasoline odor after extended drives. Engine stalling events also appear in the data, sometimes attributed to fuel delivery components.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 312,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FROM A COMPLETE STOP (DUE TO STOPPED TRAFFIC ON THE HIGHWAY OR WHILE AT A STOP LIGHT), ACCELERATION CAUSES THE VEHICLE TO HESITATE, RAPIDLY INCREASE RPM, AND SHUDDER/SHAKE VIOLENTLY. HAPPENS ROUGHLY BETWEEN 0-35 MPH. THE ISSUE IS BECOMING MORE FREQUENT, SO I'LL BE TAKING THE VEHI",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "Owners report that accelerating from a complete stop causes the vehicle to hesitate, the engine RPM to spike rapidly, and the whole vehicle to shudder or shake violently through low-to-moderate speeds."
+      },
+      {
+        "component": "ENGINE",
+        "count": 226,
+        "crash": 4,
+        "fire": 3,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "FROM A COMPLETE STOP (DUE TO STOPPED TRAFFIC ON THE HIGHWAY OR WHILE AT A STOP LIGHT), ACCELERATION CAUSES THE VEHICLE TO HESITATE, RAPIDLY INCREASE RPM, AND SHUDDER/SHAKE VIOLENTLY. HAPPENS ROUGHLY BETWEEN 0-35 MPH. THE ISSUE IS BECOMING MORE FREQUENT, SO I'LL BE TAKING THE VEHI",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "Owners report the same hesitation, rapid RPM increase, and violent shuddering during acceleration from a full stop, with a subset of complaints also involving fires or crashes. · 3 fire · 4 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 128,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE VEHICLE FAILS TO ACHIEVE MORE THAN 25 MPG ON A FULL 12 GALLON FUEL TANK WITH 100% GASOLINE. THERE IS A GASOLINE ODOR AT TIMES WHEN THE VEHICLE IS SHUT OFF AFTER BEING DRIVEN FOR MULTIPLE HOURS. THE VEHICLE IS EQUIPPED WITH A 1 LITER ECOBOOST MOTOR THAT WAS PURCHASED NEW WITH ",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Owners report unexpectedly low fuel economy on a full tank of gasoline and a noticeable gasoline odor when the vehicle is shut off after extended driving, with some complaints involving fires or crashes. · 2 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 123,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Ford Focus. The contact stated that while his son was driving at an undisclosed speed, the vehicle stalled. The vehicle was taken to an independent mechanic where the purge valve, fuel pump, fuel tank, gasket, and fuel sender valve were replaced. The conta",
+        "pct": 15,
+        "title": "Engine And Engine Cooling",
+        "blurb": "Owners report the vehicle stalling unexpectedly while in motion, with subsequent inspection pointing to fuel delivery components such as the purge valve and fuel pump."
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 64,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 FORD FOCUS. THE CONTACT STATED THAT WHILE DRIVING, THE TRANSMISSION FAILED TO PROPERLY SHIFT GEARS WHILE THE RPMS INCREASED AT LOW SPEEDS. ADDITIONALLY, THE VEHICLE HESITATED WHILE DEPRESSING THE ACCELERATOR PEDAL. THE CONTACT ALSO STATED THAT AFTER RE",
+        "pct": 8,
+        "title": "Fuel System",
+        "blurb": "64 reports (8%)"
+      }
+    ],
+    "enriched": true
+  }
+}

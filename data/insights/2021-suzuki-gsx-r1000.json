@@ -1,0 +1,62 @@
+{
+  "slug": "2021-suzuki-gsx-r1000",
+  "make": "Suzuki",
+  "model": "GSX-R1000",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/SUZUKI/GSX-R1000#complaints",
+  "generatedAt": "2026-06-23T22:35:08.730Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This problem relates to the battery which was purchased 5 months before the incident. While riding my motorcycle down the freeway I lost all power (lights, engine, instruments, everything) abruptly and unexpectedly. This nearly caused an accident. A couple hours later the bike st",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Suzuki GXS-R1000. The contact stated that while her husband was riding 80 MPH, the motorcycle stalled while shifting from 3rd to 4th gear. The rider was able to coast to the side of the road and noticed fluid dripping onto the exhaust. Additionally, the ch",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Suzuki Gsx-R1000 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This problem relates to the battery which was purchased 5 months before the incident. While riding my motorcycle down the freeway I lost all power (lights, engine, instruments, everything) abruptly and unexpectedly. This nearly caused an accident. A couple hours later the bike st",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Suzuki GXS-R1000. The contact stated that while her husband was riding 80 MPH, the motorcycle stalled while shifting from 3rd to 4th gear. The rider was able to coast to the side of the road and noticed fluid dripping onto the exhaust. Additionally, the ch",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

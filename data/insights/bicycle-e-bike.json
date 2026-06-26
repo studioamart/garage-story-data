@@ -1,0 +1,28 @@
+{
+  "slug": "bicycle-e-bike",
+  "make": "Bicycle",
+  "model": "E-Bike",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Battery Degradation / Care", "pct": 28, "blurb": "The battery loses capacity with charge cycles and poor storage habits, and range drop is the single most common long-term complaint." },
+    { "component": "Motor / Firmware", "pct": 22, "blurb": "Hub or mid-drive motors and their controllers throw errors, cut out, or need firmware updates that affect power delivery and reliability." },
+    { "component": "Faster Drivetrain Wear Under Torque", "pct": 20, "blurb": "Motor torque accelerates chain, cassette, and chainring wear well beyond a non-assisted bike, so drivetrains need replacing sooner." },
+    { "component": "Brakes (Heavier Bike)", "pct": 18, "blurb": "The added weight and higher speeds put more demand on the brakes, wearing pads and rotors faster and making braking power critical." },
+    { "component": "Water Ingress on Electronics", "pct": 12, "blurb": "Connectors, displays, and the battery interface can let in moisture, leading to intermittent faults or corrosion if not sealed well." }
+  ],
+  "narrative": {
+    "headline": "What e-bike owners report most",
+    "summary": "These are issues commonly reported by e-bike owners as a general reference, not expert-verified data and possibly outdated. Battery health, the motor and firmware, and faster drivetrain wear under power tend to come up most.",
+    "issues": [
+      { "component": "Battery Degradation / Care", "title": "Battery Degradation & Care", "pct": 28, "blurb": "Commonly reported (~28%) — the battery loses capacity with cycles and poor storage; range drop is the top long-term complaint." },
+      { "component": "Motor / Firmware", "title": "Motor & Firmware", "pct": 22, "blurb": "Commonly reported (~22%) — motors and controllers throw errors, cut out, or need firmware updates." },
+      { "component": "Faster Drivetrain Wear Under Torque", "title": "Faster Drivetrain Wear Under Torque", "pct": 20, "blurb": "Often reported (~20%) — motor torque wears chains and cassettes faster than a non-assisted bike." },
+      { "component": "Brakes (Heavier Bike)", "title": "Brakes (Heavier Bike)", "pct": 18, "blurb": "Often reported (~18%) — added weight and speed wear pads and rotors faster, making braking power critical." },
+      { "component": "Water Ingress on Electronics", "title": "Water Ingress on Electronics", "pct": 12, "blurb": "Reported (~12%) — connectors, displays, and battery interfaces can let in moisture, causing faults or corrosion." }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2017-kawasaki-ninja-650",
+  "make": "Kawasaki",
+  "model": "Ninja 650",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KAWASAKI/NINJA%20650#complaints",
+  "generatedAt": "2026-06-23T22:34:18.143Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE OVERHEATS EVEN IN 50 DEGREE FAHRENHEIT. THE GAUGE INDICATES 4 OR 5 BAR ALL THE TIME AND FAN STARTS ON 5 AND SWITCH TO OFF ON 4 AND KEEP DOING IT. THERE COULD BE PROBLEM WITH RADIATOR.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Kawasaki Ninja 650 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE OVERHEATS EVEN IN 50 DEGREE FAHRENHEIT. THE GAUGE INDICATES 4 OR 5 BAR ALL THE TIME AND FAN STARTS ON 5 AND SWITCH TO OFF ON 4 AND KEEP DOING IT. THERE COULD BE PROBLEM WITH RADIATOR.",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "2014-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:11.929Z",
+  "total": 583,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 189,
+      "crash": 6,
+      "fire": 3,
+      "injuries": 2,
+      "deaths": 1,
+      "sample": "I BOUGHT AT 2014 CRV END OF SEPT/OCT OF 2013. UPON THE FIRST SNOW FALL I DROVE THE VEHICLE AND HAD IMMEDIATE PROBLEMS. THE CAR WAS NOT GETTING ANY TRACTION, IT WAS SLIDING AROUND GOING DOWN HILLS AND UPON TRYING TO DRIVE UP HILLS IT WOULD STOP WITHOUT EVEN TRYING TO GO UP. IT WOU",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 77,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "TIRE PRESSURE MONITORING SYSTEM IS INOPERATIVE AS WARNING LIGHT STAYS LIT CONSTANTLY. WARNING LIGHT CAME ON IMMEDIATELY UPON DRIVE HOME FROM DEALER WITH BRAND NEW CAR. NO ADJUSTMENTS OR RE-SETTING WILL PREVENT LIGHT FROM GOING ON. RETURNED TO DEALER TWICE (DCH HONDA OLD BRIDGE NJ",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 68,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT AT 2014 CRV END OF SEPT/OCT OF 2013. UPON THE FIRST SNOW FALL I DROVE THE VEHICLE AND HAD IMMEDIATE PROBLEMS. THE CAR WAS NOT GETTING ANY TRACTION, IT WAS SLIDING AROUND GOING DOWN HILLS AND UPON TRYING TO DRIVE UP HILLS IT WOULD STOP WITHOUT EVEN TRYING TO GO UP. IT WOU",
+      "pct": 12
+    },
+    {
+      "component": "TIRES",
+      "count": 52,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 HONDA CR-V. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 50 MPH, THE TIRE SENSOR WARNING INDICATOR ILLUMINATED. THE CONTACTED CHECKED THE TIRE PRESSURE FOR ALL FOUR TIRES, OF WHICH WERE FOUND TO BE AT THE RECOMMENDED PRESSURE READING. THE CONTAC",
+      "pct": 9
+    },
+    {
+      "component": "WHEELS",
+      "count": 47,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TIRE PRESSURE MONITORING SYSTEM IS INOPERATIVE AS WARNING LIGHT STAYS LIT CONSTANTLY. WARNING LIGHT CAME ON IMMEDIATELY UPON DRIVE HOME FROM DEALER WITH BRAND NEW CAR. NO ADJUSTMENTS OR RE-SETTING WILL PREVENT LIGHT FROM GOING ON. RETURNED TO DEALER TWICE (DCH HONDA OLD BRIDGE NJ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Honda Cr-V owners report most",
+    "summary": "Engine and powertrain complaints dominate owner reports, with many describing loss of traction and the vehicle sliding on slippery surfaces. Electrical system issues — particularly a tire pressure warning light that stays on from the moment of purchase and cannot be reset — account for a substantial share of complaints. Tire-related reports echo the sensor warning theme, with the indicator illuminating during normal highway driving.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 189,
+        "crash": 6,
+        "fire": 3,
+        "injuries": 2,
+        "deaths": 1,
+        "sample": "I BOUGHT AT 2014 CRV END OF SEPT/OCT OF 2013. UPON THE FIRST SNOW FALL I DROVE THE VEHICLE AND HAD IMMEDIATE PROBLEMS. THE CAR WAS NOT GETTING ANY TRACTION, IT WAS SLIDING AROUND GOING DOWN HILLS AND UPON TRYING TO DRIVE UP HILLS IT WOULD STOP WITHOUT EVEN TRYING TO GO UP. IT WOU",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "Owners report the vehicle failing to gain traction and sliding on snowy or slippery roads, with the problem appearing on the first exposure to winter conditions. · 3 fire · 6 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 77,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "TIRE PRESSURE MONITORING SYSTEM IS INOPERATIVE AS WARNING LIGHT STAYS LIT CONSTANTLY. WARNING LIGHT CAME ON IMMEDIATELY UPON DRIVE HOME FROM DEALER WITH BRAND NEW CAR. NO ADJUSTMENTS OR RE-SETTING WILL PREVENT LIGHT FROM GOING ON. RETURNED TO DEALER TWICE (DCH HONDA OLD BRIDGE NJ",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "Owners report the tire pressure monitoring system warning light remaining illuminated continuously, beginning immediately on the drive home from the dealership and persisting despite attempts to reset it. · 1 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 68,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT AT 2014 CRV END OF SEPT/OCT OF 2013. UPON THE FIRST SNOW FALL I DROVE THE VEHICLE AND HAD IMMEDIATE PROBLEMS. THE CAR WAS NOT GETTING ANY TRACTION, IT WAS SLIDING AROUND GOING DOWN HILLS AND UPON TRYING TO DRIVE UP HILLS IT WOULD STOP WITHOUT EVEN TRYING TO GO UP. IT WOU",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "Owners report an inability to maintain traction and the vehicle sliding downhill on snowy surfaces, with the problem presenting at the first encounter with winter driving conditions. · 2 crash · 2 injured"
+      },
+      {
+        "component": "TIRES",
+        "count": 52,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 HONDA CR-V. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 50 MPH, THE TIRE SENSOR WARNING INDICATOR ILLUMINATED. THE CONTACTED CHECKED THE TIRE PRESSURE FOR ALL FOUR TIRES, OF WHICH WERE FOUND TO BE AT THE RECOMMENDED PRESSURE READING. THE CONTAC",
+        "pct": 9,
+        "title": "Tires",
+        "blurb": "Owners report the tire sensor warning indicator illuminating while driving at highway speeds, even after checking that all four tires appear to be properly inflated."
+      },
+      {
+        "component": "WHEELS",
+        "count": 47,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TIRE PRESSURE MONITORING SYSTEM IS INOPERATIVE AS WARNING LIGHT STAYS LIT CONSTANTLY. WARNING LIGHT CAME ON IMMEDIATELY UPON DRIVE HOME FROM DEALER WITH BRAND NEW CAR. NO ADJUSTMENTS OR RE-SETTING WILL PREVENT LIGHT FROM GOING ON. RETURNED TO DEALER TWICE (DCH HONDA OLD BRIDGE NJ",
+        "pct": 8,
+        "title": "Wheels",
+        "blurb": "47 reports (8%)"
+      }
+    ],
+    "enriched": true
+  }
+}

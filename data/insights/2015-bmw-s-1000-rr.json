@@ -1,0 +1,62 @@
+{
+  "slug": "2015-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:29.360Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 BMW S 1000 RR. THE CONTACT HEARD AN ABNORMAL NOISE COMING FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER, WHERE IT WAS CONFIRMED THAT THE CAMSHAFT MALFUNCTIONED. THE VEHICLE WAS NOT REPAIRED DUE TO THE MANUFACTURER NOT SENDING THE PARTS. THE MAN",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE BIKE TIPS OR VEERS TO THE RIGHT EVERYTIME IT IS RIDDEN. THE PROBLEM IS MORE APPARENT AT SPEEDS ABOVE 35MPH AND IS NOT AFFECTED BY THE CROWN OF THE ROAD. EXTRA STEERING EFFORT IS REQUIRED ESPECIALLY AT HIGHWAY SPEEDS AS THE BIKE ALWAYS WANTS TO TIP INTO TO THE RIGHT SIDE OF TH",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Bmw S 1000 Rr owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 BMW S 1000 RR. THE CONTACT HEARD AN ABNORMAL NOISE COMING FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER, WHERE IT WAS CONFIRMED THAT THE CAMSHAFT MALFUNCTIONED. THE VEHICLE WAS NOT REPAIRED DUE TO THE MANUFACTURER NOT SENDING THE PARTS. THE MAN",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE BIKE TIPS OR VEERS TO THE RIGHT EVERYTIME IT IS RIDDEN. THE PROBLEM IS MORE APPARENT AT SPEEDS ABOVE 35MPH AND IS NOT AFFECTED BY THE CROWN OF THE ROAD. EXTRA STEERING EFFORT IS REQUIRED ESPECIALLY AT HIGHWAY SPEEDS AS THE BIKE ALWAYS WANTS TO TIP INTO TO THE RIGHT SIDE OF TH",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

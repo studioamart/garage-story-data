@@ -1,0 +1,84 @@
+{
+  "slug": "2019-royal-enfield-himalayan",
+  "make": "Royal Enfield",
+  "model": "Himalayan",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/ROYAL%20ENFIELD/HIMALAYAN#complaints",
+  "generatedAt": "2026-06-23T22:36:15.253Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MOTORCYCLE DIED WHILE RIDING TODAY, TWICE WITHIN APPROXIMATELY 10 MILES.  BOUGHT THE BIKE YESTERDAY (02/02/2019) AND IT ONLY HAS 55.2 MILES ON IT.  WAS OUT FOR A SHORT BREAK-IN RIDE ON COUNTRY ROADS WHEN THE ENGINE CUT OFF, BIKE WENT DEAD.  NO USER ERROR WAS INVOLVED.  NO ACCIDEN",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MOTORCYCLE DIED AGAIN WHILE RIDING HOME FROM WORK TODAY IN TRAFFIC (02/07). I DID NOT STALL THE BIKE.  I WAS ABLE TO RESTART IT QUICKLY AND GET MOVING BEFORE BEING BUMPED FROM BEHIND.  BOUGHT THE BIKE (02/02/2019) AND IT NOW HAS 160 MILES ON IT. I AM THE SAME POSTER / SAME BIKE A",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECEIVED MOTORCYCLE FROM DEALER 6/30/2020. PUT 40 MILES ON CYCLE AS PER BREAKING IN GUIDANCE. ON JULY 2 AT 35 MPH ON COUNTY ROAD WITH LITTLE TO NO TRAFFIC ENGINE QUIT RUNNING AND BATTERY LIGHT CAME ON. COASTED TO THE SIDE OF THE ROAD. TURNED KEY OFF, WAITED A MINUTE OR TWO AND TU",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Royal Enfield Himalayan owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MOTORCYCLE DIED WHILE RIDING TODAY, TWICE WITHIN APPROXIMATELY 10 MILES.  BOUGHT THE BIKE YESTERDAY (02/02/2019) AND IT ONLY HAS 55.2 MILES ON IT.  WAS OUT FOR A SHORT BREAK-IN RIDE ON COUNTRY ROADS WHEN THE ENGINE CUT OFF, BIKE WENT DEAD.  NO USER ERROR WAS INVOLVED.  NO ACCIDEN",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MOTORCYCLE DIED AGAIN WHILE RIDING HOME FROM WORK TODAY IN TRAFFIC (02/07). I DID NOT STALL THE BIKE.  I WAS ABLE TO RESTART IT QUICKLY AND GET MOVING BEFORE BEING BUMPED FROM BEHIND.  BOUGHT THE BIKE (02/02/2019) AND IT NOW HAS 160 MILES ON IT. I AM THE SAME POSTER / SAME BIKE A",
+        "pct": 67,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECEIVED MOTORCYCLE FROM DEALER 6/30/2020. PUT 40 MILES ON CYCLE AS PER BREAKING IN GUIDANCE. ON JULY 2 AT 35 MPH ON COUNTY ROAD WITH LITTLE TO NO TRAFFIC ENGINE QUIT RUNNING AND BATTERY LIGHT CAME ON. COASTED TO THE SIDE OF THE ROAD. TURNED KEY OFF, WAITED A MINUTE OR TWO AND TU",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

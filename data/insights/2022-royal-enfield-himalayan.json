@@ -1,0 +1,84 @@
+{
+  "slug": "2022-royal-enfield-himalayan",
+  "make": "Royal Enfield",
+  "model": "Himalayan",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/ROYAL%20ENFIELD/HIMALAYAN#complaints",
+  "generatedAt": "2026-06-23T22:36:16.052Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "COLD ENGINE STARTS ARE UNSUCCECCFUL UNLESS YOU KEEP REVVING THE ENGINE. ENGINE WILL STALL ERRATICALLY, ie; RED LIGHTS,STOP SIGNS, EVEN WHEN YOU COAST[NO THROTTLE]. THERES A DANGER OF COLLISION [THATS OBVIOUS], WHEN YOUR ENGINE DIES IN TRAFFIC. IT SEEMS THIS IS A COMMON PROBLEM AM",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "COLD ENGINE STARTS ARE UNSUCCECCFUL UNLESS YOU KEEP REVVING THE ENGINE. ENGINE WILL STALL ERRATICALLY, ie; RED LIGHTS,STOP SIGNS, EVEN WHEN YOU COAST[NO THROTTLE]. THERES A DANGER OF COLLISION [THATS OBVIOUS], WHEN YOUR ENGINE DIES IN TRAFFIC. IT SEEMS THIS IS A COMMON PROBLEM AM",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Motorcycle will not start and idle consistently and it is believed that it is due to anyone of the following: TPS sensor, idle screw adjustment, throttle body, and/or ECU programming. If it is not any of these components, then it is an unknown problem.   Motorcycle will oftentime",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Royal Enfield Himalayan owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "COLD ENGINE STARTS ARE UNSUCCECCFUL UNLESS YOU KEEP REVVING THE ENGINE. ENGINE WILL STALL ERRATICALLY, ie; RED LIGHTS,STOP SIGNS, EVEN WHEN YOU COAST[NO THROTTLE]. THERES A DANGER OF COLLISION [THATS OBVIOUS], WHEN YOUR ENGINE DIES IN TRAFFIC. IT SEEMS THIS IS A COMMON PROBLEM AM",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "COLD ENGINE STARTS ARE UNSUCCECCFUL UNLESS YOU KEEP REVVING THE ENGINE. ENGINE WILL STALL ERRATICALLY, ie; RED LIGHTS,STOP SIGNS, EVEN WHEN YOU COAST[NO THROTTLE]. THERES A DANGER OF COLLISION [THATS OBVIOUS], WHEN YOUR ENGINE DIES IN TRAFFIC. IT SEEMS THIS IS A COMMON PROBLEM AM",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Motorcycle will not start and idle consistently and it is believed that it is due to anyone of the following: TPS sensor, idle screw adjustment, throttle body, and/or ECU programming. If it is not any of these components, then it is an unknown problem.   Motorcycle will oftentime",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

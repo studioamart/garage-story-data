@@ -1,0 +1,106 @@
+{
+  "slug": "2024-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:23.352Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "As you are probably aware of this issue, there is a \"do not ride\" order in place for my 2024 Kawasaki ZX6R. The dealership confirmed that my VIN has been involved. I just got it, and I am paying for a motorcycle that cannot be used. The issues are below. This is unacceptable.   s",
+      "pct": 56
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kawasaki Ninja ZX-6R. The contact received notification of NHTSA Campaign Number: 25V376000 ( ENGINE AND ENGINE COOLING); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount o",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle: 2024 Kawasaki Ninja ZX-6R Recall Number: 25V376 VIN: [XXX]  Date Received “Do Not Ride” Notice: 6/20/2025  Subject: Recall 25V376 – No Remedy Provided / Loss of Use / Warranty Concerns  Dear NHTSA, I am submitting this complaint regarding NHTSA Recall No. 25V376, which a",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "Unknown.  Fatal motorcycle accident. Based on the police report, one witness said he blew a tire and all witnesses state that he and the bike went airborn. The motorcycle was part of the group of ZX6R's recalled by Kawasaki though its since been salvaged. The officer at the scene",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Engine (56% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "As you are probably aware of this issue, there is a \"do not ride\" order in place for my 2024 Kawasaki ZX6R. The dealership confirmed that my VIN has been involved. I just got it, and I am paying for a motorcycle that cannot be used. The issues are below. This is unacceptable.   s",
+        "pct": 56,
+        "title": "Engine",
+        "blurb": "10 reports (56%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kawasaki Ninja ZX-6R. The contact received notification of NHTSA Campaign Number: 25V376000 ( ENGINE AND ENGINE COOLING); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount o",
+        "pct": 33,
+        "title": "Engine And Engine Cooling",
+        "blurb": "6 reports (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle: 2024 Kawasaki Ninja ZX-6R Recall Number: 25V376 VIN: [XXX]  Date Received “Do Not Ride” Notice: 6/20/2025  Subject: Recall 25V376 – No Remedy Provided / Loss of Use / Warranty Concerns  Dear NHTSA, I am submitting this complaint regarding NHTSA Recall No. 25V376, which a",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "Unknown.  Fatal motorcycle accident. Based on the police report, one witness said he blew a tire and all witnesses state that he and the bike went airborn. The motorcycle was part of the group of ZX6R's recalled by Kawasaki though its since been salvaged. The officer at the scene",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "1 report (6%) · 1 crash"
+      }
+    ]
+  }
+}

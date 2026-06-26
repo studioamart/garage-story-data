@@ -1,0 +1,129 @@
+{
+  "slug": "2014-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-06-23T16:30:19.298Z",
+  "total": 1667,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 495,
+      "crash": 10,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 1,
+      "sample": "TO AVOID HITTING ANOTHER VEHICLE THAT ILLEGALLY CAME INTO THE LANE I WAS ENTERING (THEY WERE DRIVING ON THE SHOULDER), I HAD TO TAKE EVASIVE ACTION, WHICH CAUSED ME TO TURN MY VEHICLE INTO A CURB.  AT THE TIME, I WAS TRAVELING 15 TO MAYBE 20 MPH.  AFTER HITTING THE CURB, MY VEHIC",
+      "pct": 30
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 272,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2014 FORD EXPLORER. THE CONTACT STATED THAT HE ATTEMPTED TO OPEN THE REAR CUP HOLDER BUT FOUR OF HIS FINGERS BECAME STUCK INSIDE OF THE PLASTIC HOLDER. THE CONTACT STATED THAT HE HAD TO PRY THE HOLDER OPEN IN ORDER TO RELEASE HIS FINGERS. THE VEHICLE WAS ",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 196,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I BOUGHT MY FORD EXPLORER 2014 ON JULY 1ST 2013.     ON AUGUST 1ST, 2013, MY CAR DID NOT MOVE FORWARD WHILE I STARTED THE CAR AND PUT IT TO 'D' (DRIVE) IN A PARKING LOT. INSTEAD, THE CAR WENT BACKWARDS WHILE I STEPPED ON GAS. I WAS VERY CONFUSED, AND THOUGHT IT WAS MY ILLUSION. S",
+      "pct": 12
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 102,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TO AVOID HITTING ANOTHER VEHICLE THAT ILLEGALLY CAME INTO THE LANE I WAS ENTERING (THEY WERE DRIVING ON THE SHOULDER), I HAD TO TAKE EVASIVE ACTION, WHICH CAUSED ME TO TURN MY VEHICLE INTO A CURB.  AT THE TIME, I WAS TRAVELING 15 TO MAYBE 20 MPH.  AFTER HITTING THE CURB, MY VEHIC",
+      "pct": 6
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 99,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED 2014 FORD EXPLORER JULY 20, 2014 - JULY 26,2014 - I WAS PULLING AWAY FROM DRIVE THRU PHARMACY AND MY DASH LIGHTS WENT BLACK.  TOOK MY VEHICLE INTO SERVICE THE NEXT MORNING - THEY COULD NOT FIND ANYTHING WRONG.  MY VEHICLE HAS BEEN BACK 6 MORE TIMES.  ONCE AGAIN FOR LOOS",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Ford Explorer owners report most",
+    "summary": "Steering complaints dominate owner reports for this Explorer model year, with drivers describing loss of control during evasive maneuvers. Structure and engine issues each account for a meaningful share of complaints, with owners reporting problems ranging from interior components trapping fingers to unexpected vehicle movement at low speed. Suspension complaints, while less frequent, are also associated with crash incidents.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 495,
+        "crash": 10,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 1,
+        "sample": "TO AVOID HITTING ANOTHER VEHICLE THAT ILLEGALLY CAME INTO THE LANE I WAS ENTERING (THEY WERE DRIVING ON THE SHOULDER), I HAD TO TAKE EVASIVE ACTION, WHICH CAUSED ME TO TURN MY VEHICLE INTO A CURB.  AT THE TIME, I WAS TRAVELING 15 TO MAYBE 20 MPH.  AFTER HITTING THE CURB, MY VEHIC",
+        "pct": 30,
+        "title": "Steering",
+        "blurb": "Owners report that evasive steering maneuvers — such as swerving to avoid another vehicle — resulted in loss of directional control and collision with curbs or other objects, with some incidents involving fires or crashes · 1 fire · 10 crash · 6 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 272,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2014 FORD EXPLORER. THE CONTACT STATED THAT HE ATTEMPTED TO OPEN THE REAR CUP HOLDER BUT FOUR OF HIS FINGERS BECAME STUCK INSIDE OF THE PLASTIC HOLDER. THE CONTACT STATED THAT HE HAD TO PRY THE HOLDER OPEN IN ORDER TO RELEASE HIS FINGERS. THE VEHICLE WAS ",
+        "pct": 16,
+        "title": "Structure",
+        "blurb": "Owners report interior plastic components, including rear cup holders, trapping fingers and requiring force to free them · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 196,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I BOUGHT MY FORD EXPLORER 2014 ON JULY 1ST 2013.     ON AUGUST 1ST, 2013, MY CAR DID NOT MOVE FORWARD WHILE I STARTED THE CAR AND PUT IT TO 'D' (DRIVE) IN A PARKING LOT. INSTEAD, THE CAR WENT BACKWARDS WHILE I STEPPED ON GAS. I WAS VERY CONFUSED, AND THOUGHT IT WAS MY ILLUSION. S",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "Owners report the vehicle moving in reverse unexpectedly after being shifted into drive, contrary to the driver's intended direction · 5 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 102,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TO AVOID HITTING ANOTHER VEHICLE THAT ILLEGALLY CAME INTO THE LANE I WAS ENTERING (THEY WERE DRIVING ON THE SHOULDER), I HAD TO TAKE EVASIVE ACTION, WHICH CAUSED ME TO TURN MY VEHICLE INTO A CURB.  AT THE TIME, I WAS TRAVELING 15 TO MAYBE 20 MPH.  AFTER HITTING THE CURB, MY VEHIC",
+        "pct": 6,
+        "title": "Suspension",
+        "blurb": "Owners report that during evasive maneuvers the vehicle became uncontrollable and struck curbs, with some incidents resulting in crashes · 8 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 99,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED 2014 FORD EXPLORER JULY 20, 2014 - JULY 26,2014 - I WAS PULLING AWAY FROM DRIVE THRU PHARMACY AND MY DASH LIGHTS WENT BLACK.  TOOK MY VEHICLE INTO SERVICE THE NEXT MORNING - THEY COULD NOT FIND ANYTHING WRONG.  MY VEHICLE HAS BEEN BACK 6 MORE TIMES.  ONCE AGAIN FOR LOOS",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "99 reports (6%) · 2 fire · 1 crash"
+      }
+    ],
+    "enriched": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2010-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:27.938Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CPSC#I1290121A. 2010 BMW S1000RR. CONSUMER STATED HE STARTED TO HAVE PROBLEMS WITH HIS CLUTCH CABLE AFTER ONLY A FEW THOUSAND MILES. *LN  THE CONSUMER STATED THE CLUTCH CABLE BEGAN TO FRAY.  HE STATED THE LEVER DESIGN TO ACCEPT THE CLUTCH CABLE WAS NOT CENTERED WITHIN THE CLUTCH ",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MOTORCYCLE ENGINE POWER CAN STOP SUDDENLY, WITHOUT WARNING, AT ANY TIME DURING OTHERWISE NORMAL OPERATION.  ENGINE DIES IMMEDIATELY WHEN THE SLIGHTEST BIT OF THROTTLE IS APPLIED, LEAVING THE RIDER POWERLESS AND COMPLETELY VULNERABLE TO SURROUNDING TRAFFIC AND CONDITIONS. MY BMW S",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MOTORCYCLE ENGINE POWER CAN STOP SUDDENLY, WITHOUT WARNING, AT ANY TIME DURING OTHERWISE NORMAL OPERATION.  ENGINE DIES IMMEDIATELY WHEN THE SLIGHTEST BIT OF THROTTLE IS APPLIED, LEAVING THE RIDER POWERLESS AND COMPLETELY VULNERABLE TO SURROUNDING TRAFFIC AND CONDITIONS. MY BMW S",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw S 1000 Rr owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (67% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CPSC#I1290121A. 2010 BMW S1000RR. CONSUMER STATED HE STARTED TO HAVE PROBLEMS WITH HIS CLUTCH CABLE AFTER ONLY A FEW THOUSAND MILES. *LN  THE CONSUMER STATED THE CLUTCH CABLE BEGAN TO FRAY.  HE STATED THE LEVER DESIGN TO ACCEPT THE CLUTCH CABLE WAS NOT CENTERED WITHIN THE CLUTCH ",
+        "pct": 67,
+        "title": "Power Train",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MOTORCYCLE ENGINE POWER CAN STOP SUDDENLY, WITHOUT WARNING, AT ANY TIME DURING OTHERWISE NORMAL OPERATION.  ENGINE DIES IMMEDIATELY WHEN THE SLIGHTEST BIT OF THROTTLE IS APPLIED, LEAVING THE RIDER POWERLESS AND COMPLETELY VULNERABLE TO SURROUNDING TRAFFIC AND CONDITIONS. MY BMW S",
+        "pct": 67,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MOTORCYCLE ENGINE POWER CAN STOP SUDDENLY, WITHOUT WARNING, AT ANY TIME DURING OTHERWISE NORMAL OPERATION.  ENGINE DIES IMMEDIATELY WHEN THE SLIGHTEST BIT OF THROTTLE IS APPLIED, LEAVING THE RIDER POWERLESS AND COMPLETELY VULNERABLE TO SURROUNDING TRAFFIC AND CONDITIONS. MY BMW S",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

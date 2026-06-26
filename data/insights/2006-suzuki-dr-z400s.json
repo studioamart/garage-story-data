@@ -1,0 +1,40 @@
+{
+  "slug": "2006-suzuki-dr-z400s",
+  "make": "Suzuki",
+  "model": "DR-Z400S",
+  "year": 2006,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2006/SUZUKI/DR-Z400S#complaints",
+  "generatedAt": "2026-06-23T22:35:13.476Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2006 Suzuki DR-Z400S Motorcycle equipped with Continental Tires, Tire Line: TKC80, Tire Size: 90/90/R21, DOT Number: 4819. The contact became aware of NHTSA Campaign Number: 22T006000 (Tires) and contacted the manufacturer for recall repair; however, the manufa",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2006 Suzuki Dr-Z400s owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Tires (100% of reports).",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2006 Suzuki DR-Z400S Motorcycle equipped with Continental Tires, Tire Line: TKC80, Tire Size: 90/90/R21, DOT Number: 4819. The contact became aware of NHTSA Campaign Number: 22T006000 (Tires) and contacted the manufacturer for recall repair; however, the manufa",
+        "pct": 100,
+        "title": "Tires",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

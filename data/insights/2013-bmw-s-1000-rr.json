@@ -1,0 +1,62 @@
+{
+  "slug": "2013-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:28.046Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 BMW S 1000 RR. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 45 MPH, THE RPMS DECREASED AND THE VEHICLE LUNGED FORWARD UNINTENDED. THE VEHICLE STALLED AND AFTER RESTARTING, IT RESUMED TO NORMAL. THE FAILURE RECURRED SPORADICALLY. THE CONTACT MENT",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 BMW S 1000 RR MOTORCYCLE. THE CONTACT STATED THAT THE FRONT BRAKES WOULD NOT ENGAGE UNLESS THE CONTACT REPEATEDLY PUMPED THE PEDAL.  THE CONTACT TOOK THE VEHICLE TO THE DEALER WHERE HE WAS AWAITING DIAGNOSIS OF THE FAILURE. THE MANUFACTURER WAS NOT CON",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Bmw S 1000 Rr owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Structure (50% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 BMW S 1000 RR. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 45 MPH, THE RPMS DECREASED AND THE VEHICLE LUNGED FORWARD UNINTENDED. THE VEHICLE STALLED AND AFTER RESTARTING, IT RESUMED TO NORMAL. THE FAILURE RECURRED SPORADICALLY. THE CONTACT MENT",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 BMW S 1000 RR MOTORCYCLE. THE CONTACT STATED THAT THE FRONT BRAKES WOULD NOT ENGAGE UNLESS THE CONTACT REPEATEDLY PUMPED THE PEDAL.  THE CONTACT TOOK THE VEHICLE TO THE DEALER WHERE HE WAS AWAITING DIAGNOSIS OF THE FAILURE. THE MANUFACTURER WAS NOT CON",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

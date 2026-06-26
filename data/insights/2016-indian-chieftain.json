@@ -1,0 +1,40 @@
+{
+  "slug": "2016-indian-chieftain",
+  "make": "Indian",
+  "model": "Chieftain",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/INDIAN/CHIEFTAIN#complaints",
+  "generatedAt": "2026-06-23T22:36:08.340Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2016 INDIAN CHIEFTAIN THAT HAS @7500 MILES DISPLAY FLICKERS.  THIS HAPPENS WHEN THE THROTTLE IS OPERATED IN ALL CONDITIONS.  I HAVE BEEN INFORMED THAT NUMEROUS CHIEFTAINS WERE IN THE SHOP FOR THE SAME REASON.   IT'S BEEN IN THE SHOP SINCE SEPTEMBER 29TH.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Indian Chieftain owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2016 INDIAN CHIEFTAIN THAT HAS @7500 MILES DISPLAY FLICKERS.  THIS HAPPENS WHEN THE THROTTLE IS OPERATED IN ALL CONDITIONS.  I HAVE BEEN INFORMED THAT NUMEROUS CHIEFTAINS WERE IN THE SHOP FOR THE SAME REASON.   IT'S BEEN IN THE SHOP SINCE SEPTEMBER 29TH.",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

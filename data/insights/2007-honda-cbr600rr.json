@@ -1,0 +1,40 @@
+{
+  "slug": "2007-honda-cbr600rr",
+  "make": "Honda",
+  "model": "CBR600RR",
+  "year": 2007,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2007/HONDA/CBR600RR#complaints",
+  "generatedAt": "2026-06-23T22:33:41.458Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine stalling at higher rpm and there are intermittent acceleration issues, likely to be caused by the fuel pump or fuel intake to the engine. My safety and the safety of others was put at risk due to inconsistent acceleration and deceleration. The vehicle has not been inspecte",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2007 Honda Cbr600rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine stalling at higher rpm and there are intermittent acceleration issues, likely to be caused by the fuel pump or fuel intake to the engine. My safety and the safety of others was put at risk due to inconsistent acceleration and deceleration. The vehicle has not been inspecte",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

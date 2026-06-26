@@ -1,0 +1,84 @@
+{
+  "slug": "2020-royal-enfield-himalayan",
+  "make": "Royal Enfield",
+  "model": "Himalayan",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ROYAL%20ENFIELD/HIMALAYAN#complaints",
+  "generatedAt": "2026-06-23T22:36:15.143Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount ",
+      "pct": 67
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount ",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE SHUTS OFF. SOMETIMES SITTING AT A STOPLIGHT. SOMETIMES MOVING THROUGH TRAFFIC. OR SOMETIMES AT HIGHWAY SPEED AS IT DID TODAY. GENERALLY TURN THE KEY OFF TURN THE KEY BACK ON AND THE ENGINE COMES BACK TO LIFE. THIS IS ABOUT THE 15TH TIME IT'S HAPPENED.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Royal Enfield Himalayan owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Service Brakes (67% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount ",
+        "pct": 67,
+        "title": "Service Brakes",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount ",
+        "pct": 67,
+        "title": "Hydraulic",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE SHUTS OFF. SOMETIMES SITTING AT A STOPLIGHT. SOMETIMES MOVING THROUGH TRAFFIC. OR SOMETIMES AT HIGHWAY SPEED AS IT DID TODAY. GENERALLY TURN THE KEY OFF TURN THE KEY BACK ON AND THE ENGINE COMES BACK TO LIFE. THIS IS ABOUT THE 15TH TIME IT'S HAPPENED.",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

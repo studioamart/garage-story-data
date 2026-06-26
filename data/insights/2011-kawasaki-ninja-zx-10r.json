@@ -1,0 +1,62 @@
+{
+  "slug": "2011-kawasaki-ninja-zx-10r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-10R",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/KAWASAKI/NINJA%20ZX-10R#complaints",
+  "generatedAt": "2026-06-23T22:34:24.356Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 KAWASAKI NINJA ZX-10R. WHILE DRIVING AT APPROXIMATELY 25 MPH, THE VEHICLE POWERED DOWN BUT THE ENGINE DID NOT STALL. LESS THAN A BLOCK LATER, THE ENGINE STALLED WITHOUT WARNING. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2011 KAWASAKI NINJA ZX-10R (NA). THE CONTACT STATED THAT THE DRIVER OF THE VEHICLE WAS INVOLVED IN A CRASH, DUE TO A POSSIBLE FAILURE. THE VEHICLE WAS ACCELERATING AT SPEEDS OF 50 MILES PER HOUR, WHEN IT STALLED AND CAUGHT ON FIRE. THE DRIVER SUFFERED INJU",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Kawasaki Ninja Zx-10r owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 KAWASAKI NINJA ZX-10R. WHILE DRIVING AT APPROXIMATELY 25 MPH, THE VEHICLE POWERED DOWN BUT THE ENGINE DID NOT STALL. LESS THAN A BLOCK LATER, THE ENGINE STALLED WITHOUT WARNING. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2011 KAWASAKI NINJA ZX-10R (NA). THE CONTACT STATED THAT THE DRIVER OF THE VEHICLE WAS INVOLVED IN A CRASH, DUE TO A POSSIBLE FAILURE. THE VEHICLE WAS ACCELERATING AT SPEEDS OF 50 MILES PER HOUR, WHEN IT STALLED AND CAUGHT ON FIRE. THE DRIVER SUFFERED INJU",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

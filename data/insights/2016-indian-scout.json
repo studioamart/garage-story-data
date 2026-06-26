@@ -1,0 +1,128 @@
+{
+  "slug": "2016-indian-scout",
+  "make": "Indian",
+  "model": "Scout",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/INDIAN/SCOUT#complaints",
+  "generatedAt": "2026-06-23T22:36:00.854Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ELECTRICAL CONNECTION TO THE TAIL LIGHT ASSEMBLY (BRAKE LIGHT AND TURN SIGNALS) AND THE MAIN CHASSIS HARNESS WAS NOT PROPERLY FASTENED BY THE FACTORY, AND FAILED AFTER RUBBING ON THE REAR TIRE FROM BEING UNPROPERLY FASTENED. THE BIKE LOST SAFETY SIGNALS AND BECAME A SAFETY HA",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 INDIAN SCOUT 900. WHILE DRIVING APPROXIMATELY 55 MPH, THE CONTACT ATTEMPTED TO SLOW DOWN BY DEPRESSING THE REAR BRAKE PEDAL; HOWEVER, THE MOTORCYCLE DID NOT STOP. THE CONTACT HAD TO USE THE FRONT BRAKE TO STOP THE VEHICLE. THE MOTORCYCLE WAS DRIVEN TO ",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2016 INDIAN SCOUT SIXTY HAS ONLY 1,526 MILES ON IT. I PURCHASED IT, AND TOOK DELIVERY ON NOV. 1ST, 2016. WHILE RIDING MY MOTORCYCLE ONE DAY RECENTLY, IT STARTED TO RUN ROUGH. IT FREQUENTLY SOUNDED LIKE IT MISFIRED, PLUS WHEN I ROLLED OUT ON THE THROTTLE AT TAKEOFF, AND AT CRUI",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A NEW LEFTOVER 2016 SCOUT ABS ON APRIL 8, 2017 FROM THE MARIETTA, GA DEALERSHIP.  ON APRIL 19, 2017, I HAD TO SEMI-PANIC STOP AND BRAKE REALLY HARD WHEN AN SUV PULLED OUT DIRECTLY IN FRONT OF ME. I WAS DRIVING IN A STRAIGHT LINE AT ABOUT 30 MPH IN AN URBAN SETTING.  ONCE",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN ATTEMPTING TO DECELERATE, THE ENGINE RPM'S CONTINUE TO GO HIGHER. I HAVE SAT AT A LIGHT, BIKE IS IN NEUTRAL, AND THE THROTTLE CONTINUES TO ACCELERATE. I AM CONCERNED THAT THIS ISSUE COULD CAUSE ME TO GET IN A SERIOUS ACCIDENT WITH THIS MOTORCYCLE.",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Indian Scout owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ELECTRICAL CONNECTION TO THE TAIL LIGHT ASSEMBLY (BRAKE LIGHT AND TURN SIGNALS) AND THE MAIN CHASSIS HARNESS WAS NOT PROPERLY FASTENED BY THE FACTORY, AND FAILED AFTER RUBBING ON THE REAR TIRE FROM BEING UNPROPERLY FASTENED. THE BIKE LOST SAFETY SIGNALS AND BECAME A SAFETY HA",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 INDIAN SCOUT 900. WHILE DRIVING APPROXIMATELY 55 MPH, THE CONTACT ATTEMPTED TO SLOW DOWN BY DEPRESSING THE REAR BRAKE PEDAL; HOWEVER, THE MOTORCYCLE DID NOT STOP. THE CONTACT HAD TO USE THE FRONT BRAKE TO STOP THE VEHICLE. THE MOTORCYCLE WAS DRIVEN TO ",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2016 INDIAN SCOUT SIXTY HAS ONLY 1,526 MILES ON IT. I PURCHASED IT, AND TOOK DELIVERY ON NOV. 1ST, 2016. WHILE RIDING MY MOTORCYCLE ONE DAY RECENTLY, IT STARTED TO RUN ROUGH. IT FREQUENTLY SOUNDED LIKE IT MISFIRED, PLUS WHEN I ROLLED OUT ON THE THROTTLE AT TAKEOFF, AND AT CRUI",
+        "pct": 17,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A NEW LEFTOVER 2016 SCOUT ABS ON APRIL 8, 2017 FROM THE MARIETTA, GA DEALERSHIP.  ON APRIL 19, 2017, I HAD TO SEMI-PANIC STOP AND BRAKE REALLY HARD WHEN AN SUV PULLED OUT DIRECTLY IN FRONT OF ME. I WAS DRIVING IN A STRAIGHT LINE AT ABOUT 30 MPH IN AN URBAN SETTING.  ONCE",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN ATTEMPTING TO DECELERATE, THE ENGINE RPM'S CONTINUE TO GO HIGHER. I HAVE SAT AT A LIGHT, BIKE IS IN NEUTRAL, AND THE THROTTLE CONTINUES TO ACCELERATE. I AM CONCERNED THAT THIS ISSUE COULD CAUSE ME TO GET IN A SERIOUS ACCIDENT WITH THIS MOTORCYCLE.",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

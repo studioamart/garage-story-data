@@ -1,0 +1,129 @@
+{
+  "slug": "2017-hyundai-santa-fe",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/HYUNDAI/SANTA%20FE#complaints",
+  "generatedAt": "2026-06-23T16:34:08.386Z",
+  "total": 931,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 624,
+      "crash": 1,
+      "fire": 13,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT THE VEHICLE ON 5/7/16. ON 6/2/16 I WAS DRIVING ON HIGHWAY 395 WHEN I NOTICED SMOKE COMING OUT OF THE ENGINE COMPARTMENT. THE CAR STARTED LOSING POWER AND EVENTUALLY DIED. WHEN I GOT IT PULLED OVER TO THE SIDE OF THE ROAD I NOTICED FLAMES COMING OUT FROM THE FRONT OF THE ",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 149,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THERE IS A RECURRING ISSUE WITH THE TRANSMISSION WHERE IN LOW OR SLOW SPEED SITUATIONS WHEN YOU APPLY POWER THE TRANSMISSIONS STUTTERS OR STUMBLES. IT IS MOST PREVALENT WHEN TURNING IN AN INTERSECTION ACROSS ONCOMING TRAFFIC WHERE YOU NEVER QUITE STOP OR WHEN ROLLING AT STOP SIGN",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 64,
+      "crash": 2,
+      "fire": 10,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I BOUGHT THE VEHICLE ON 5/7/16. ON 6/2/16 I WAS DRIVING ON HIGHWAY 395 WHEN I NOTICED SMOKE COMING OUT OF THE ENGINE COMPARTMENT. THE CAR STARTED LOSING POWER AND EVENTUALLY DIED. WHEN I GOT IT PULLED OVER TO THE SIDE OF THE ROAD I NOTICED FLAMES COMING OUT FROM THE FRONT OF THE ",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 59,
+      "crash": 4,
+      "fire": 4,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI SANTA FE. WHEN THE CONTACT DEPRESSED THE BRAKE PEDAL, THE VEHICLE ACCELERATED AGGRESSIVELY. THE CONTACT CONTINUED TO DEPRESS THE BRAKE PEDAL MULTIPLE TIMES FOR THE VEHICLE TO STOP. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED, BUT T",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 56,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI SANTA FE. WHILE ATTEMPTING TO ACCELERATE FROM A STOP, THE VEHICLE HESITATED BEFORE ACCELERATING. THE FAILURE OCCURRED WITHOUT WARNING. THE DEALER WAS UNABLE TO DUPLICATE THE FAILURE. THE DEALER RECOMMENDED THAT A FUEL ADDITIVE BE ADDED TO THE F",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Hyundai Santa Fe owners report most",
+    "summary": "Engine complaints dominate the report picture, with owners describing sudden power loss, smoke from the engine compartment, and vehicles that stall and cannot be restarted. Powertrain and electrical system issues appear alongside engine complaints, and brake-related reports describe the vehicle accelerating rather than slowing when the pedal is depressed. Across all categories, a subset of reports involve fires or crashes.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 624,
+        "crash": 1,
+        "fire": 13,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT THE VEHICLE ON 5/7/16. ON 6/2/16 I WAS DRIVING ON HIGHWAY 395 WHEN I NOTICED SMOKE COMING OUT OF THE ENGINE COMPARTMENT. THE CAR STARTED LOSING POWER AND EVENTUALLY DIED. WHEN I GOT IT PULLED OVER TO THE SIDE OF THE ROAD I NOTICED FLAMES COMING OUT FROM THE FRONT OF THE ",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "Owners report smoke emerging from the engine compartment while driving at highway speeds, followed by a loss of power and the vehicle dying and becoming inoperable. · 13 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 149,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THERE IS A RECURRING ISSUE WITH THE TRANSMISSION WHERE IN LOW OR SLOW SPEED SITUATIONS WHEN YOU APPLY POWER THE TRANSMISSIONS STUTTERS OR STUMBLES. IT IS MOST PREVALENT WHEN TURNING IN AN INTERSECTION ACROSS ONCOMING TRAFFIC WHERE YOU NEVER QUITE STOP OR WHEN ROLLING AT STOP SIGN",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "Owners report the transmission stuttering or stumbling when power is applied at low or slow speeds, most notably when turning through an intersection. · 3 fire · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 64,
+        "crash": 2,
+        "fire": 10,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I BOUGHT THE VEHICLE ON 5/7/16. ON 6/2/16 I WAS DRIVING ON HIGHWAY 395 WHEN I NOTICED SMOKE COMING OUT OF THE ENGINE COMPARTMENT. THE CAR STARTED LOSING POWER AND EVENTUALLY DIED. WHEN I GOT IT PULLED OVER TO THE SIDE OF THE ROAD I NOTICED FLAMES COMING OUT FROM THE FRONT OF THE ",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "Owners report smoke from the engine compartment accompanied by power loss and the vehicle stalling, with the electrical system implicated alongside the engine in overlapping incidents. · 10 fire · 2 crash · 4 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 59,
+        "crash": 4,
+        "fire": 4,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI SANTA FE. WHEN THE CONTACT DEPRESSED THE BRAKE PEDAL, THE VEHICLE ACCELERATED AGGRESSIVELY. THE CONTACT CONTINUED TO DEPRESS THE BRAKE PEDAL MULTIPLE TIMES FOR THE VEHICLE TO STOP. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED, BUT T",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "Owners report that depressing the brake pedal causes the vehicle to accelerate aggressively rather than slow, requiring repeated brake applications before the vehicle stops. · 4 fire · 4 crash · 5 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 56,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI SANTA FE. WHILE ATTEMPTING TO ACCELERATE FROM A STOP, THE VEHICLE HESITATED BEFORE ACCELERATING. THE FAILURE OCCURRED WITHOUT WARNING. THE DEALER WAS UNABLE TO DUPLICATE THE FAILURE. THE DEALER RECOMMENDED THAT A FUEL ADDITIVE BE ADDED TO THE F",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "56 reports (6%) · 1 fire · 2 crash"
+      }
+    ],
+    "enriched": true
+  }
+}

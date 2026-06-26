@@ -1,0 +1,129 @@
+{
+  "slug": "2015-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-06-23T16:31:57.833Z",
+  "total": 591,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 233,
+      "crash": 3,
+      "fire": 3,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I PURCHASED THIS VEHICLE ABOUT 3 MONTHS AGO. HONDA STATES THAT THE TEXT MESSAGES WILL DISPLAY ON THE HONDA DISPLAY AS A HANDS FREE USE.  HOWEVER, I HAVE NOT BEEN ABLE TO USE THIS FUNCTION.  THE CAR DOESN'T ALLOW THIS FUNCTION. I HAVE DONE EVERYTHING FROM RESETTING MY PHONE AND HA",
+      "pct": 39
+    },
+    {
+      "component": "ENGINE",
+      "count": 105,
+      "crash": 4,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 HONDA ACCORD. WHILE DRIVING AT ANY SPEED WITH THE BRAKES ENGAGED, THERE WAS A LOSS OF POWER. SECONDS LATER, THE VEHICLE RESUMED NORMAL OPERATION. THE VEHICLE WAS TAKEN TO THE DEALER. THE TECHNICIAN WAS NOT ABLE TO DUPLICATE THE FAILURE. THE VEHICLE WAS",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 77,
+      "crash": 12,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "WHILE TURNING LEFT AFTER THE STOP LIGHT DISPLAYED GREEN, THE STEERING WHEEL GOT LOCKED AND BECAME VERY DIFFICULT TO TURN. I ENDED UP HITTING THE CURB ON THE RIGHT SIDE. I TURNED THE IGNITION OFF AND RESTARTED THE ENGINE. ONLY THEN WAS I ABLE TO ROTATE THE STEERING WHEEL. FORTUNAT",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 40,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS 2015 BRAND NEW ACCORD LX WITH CVT. THE ISSUES ARE:  1. THE CAR HAS OBVIOUS SIDE TO SIDE SWAY AT SPEED 15 MPH.  2. THE CAR HAS BIG AMPLITUDE VIBRATION AT SPEED 25~35 MPH. ESPECIALLY ON A DOWNWARD SLOPE.   3. THE WHOLE CAR IS VIBRATING AT HIGH SPEED (>70 MPH). MY HANDS AND ",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 36,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I PARKED  MY CAR IN TARGET PARKING LOT.(  THE CAR IS A MANUAL TRANSMISSION .)  I PUT THE CAR IN NEUTRAL AND APPLIED THE PARKING BRAKE WHERE I DID HEAR A COUPLE OF CLICKS OF ENGAGEMENT OF BRAKE. ENTERED STORE , RETURNED APPROXIMATELY 10 MINUTES LATER AND MY CAR HAD ROLLED FROM ITS",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Honda Accord owners report most",
+    "summary": "Electrical system faults dominate owner reports, with complaints spanning infotainment malfunctions and more serious incidents. Engine and steering complaints describe unexpected power loss while braking and steering wheels that lock or become very difficult to turn mid-maneuver. A smaller share of owners report powertrain roughness, including side-to-side sway and notable vibration at low to moderate speeds.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 233,
+        "crash": 3,
+        "fire": 3,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I PURCHASED THIS VEHICLE ABOUT 3 MONTHS AGO. HONDA STATES THAT THE TEXT MESSAGES WILL DISPLAY ON THE HONDA DISPLAY AS A HANDS FREE USE.  HOWEVER, I HAVE NOT BEEN ABLE TO USE THIS FUNCTION.  THE CAR DOESN'T ALLOW THIS FUNCTION. I HAVE DONE EVERYTHING FROM RESETTING MY PHONE AND HA",
+        "pct": 39,
+        "title": "Electrical System",
+        "blurb": "Owners report infotainment features failing to function as described, such as hands-free text display not working despite the vehicle being marketed with that capability. · 3 fire · 3 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 105,
+        "crash": 4,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 HONDA ACCORD. WHILE DRIVING AT ANY SPEED WITH THE BRAKES ENGAGED, THERE WAS A LOSS OF POWER. SECONDS LATER, THE VEHICLE RESUMED NORMAL OPERATION. THE VEHICLE WAS TAKEN TO THE DEALER. THE TECHNICIAN WAS NOT ABLE TO DUPLICATE THE FAILURE. THE VEHICLE WAS",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "Owners report sudden loss of power while driving with the brakes engaged, followed by the vehicle resuming normal operation on its own shortly after. · 2 fire · 4 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 77,
+        "crash": 12,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "WHILE TURNING LEFT AFTER THE STOP LIGHT DISPLAYED GREEN, THE STEERING WHEEL GOT LOCKED AND BECAME VERY DIFFICULT TO TURN. I ENDED UP HITTING THE CURB ON THE RIGHT SIDE. I TURNED THE IGNITION OFF AND RESTARTED THE ENGINE. ONLY THEN WAS I ABLE TO ROTATE THE STEERING WHEEL. FORTUNAT",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "Owners report the steering wheel locking up or becoming extremely difficult to turn during maneuvers, in some cases leading to the vehicle striking a curb. · 1 fire · 12 crash · 8 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 40,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS 2015 BRAND NEW ACCORD LX WITH CVT. THE ISSUES ARE:  1. THE CAR HAS OBVIOUS SIDE TO SIDE SWAY AT SPEED 15 MPH.  2. THE CAR HAS BIG AMPLITUDE VIBRATION AT SPEED 25~35 MPH. ESPECIALLY ON A DOWNWARD SLOPE.   3. THE WHOLE CAR IS VIBRATING AT HIGH SPEED (>70 MPH). MY HANDS AND ",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "Owners of CVT-equipped vehicles report pronounced side-to-side sway and high-amplitude vibration at low to moderate speeds, particularly on downward slopes. · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 36,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I PARKED  MY CAR IN TARGET PARKING LOT.(  THE CAR IS A MANUAL TRANSMISSION .)  I PUT THE CAR IN NEUTRAL AND APPLIED THE PARKING BRAKE WHERE I DID HEAR A COUPLE OF CLICKS OF ENGAGEMENT OF BRAKE. ENTERED STORE , RETURNED APPROXIMATELY 10 MINUTES LATER AND MY CAR HAD ROLLED FROM ITS",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "36 reports (6%) · 3 crash · 1 injured"
+      }
+    ],
+    "enriched": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2009-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:49.337Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY FIRST ISSUE WAS ROUGHLY ONE MONTH AGO. THE NEXT RIDE AFTER MY FIRST TRACK DAY AT (THANK GOD NOTHING HAPPENED AT THE HIGH SPEEDS OF THE TRACK WITH OTHER RIDERS ALL AROUND). CAME INTO A CORNER WITH TWO RIDERS FOLLOWING CLOSE BEHIND AND HAD TO TAKE THE TURN HOT WHEN I REALIZED MY",
+      "pct": 80
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY FIRST ISSUE WAS ROUGHLY ONE MONTH AGO. THE NEXT RIDE AFTER MY FIRST TRACK DAY AT (THANK GOD NOTHING HAPPENED AT THE HIGH SPEEDS OF THE TRACK WITH OTHER RIDERS ALL AROUND). CAME INTO A CORNER WITH TWO RIDERS FOLLOWING CLOSE BEHIND AND HAD TO TAKE THE TURN HOT WHEN I REALIZED MY",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA CBR1000RR. WHILE DRIVING AT APPROXIMATELY 100 MPH ON A RACE TRACK, THE THROTTLE DID NOT OPERATE AND THE VEHICLE WOULD NOT DECELERATE WHICH RESULTED IN A CRASH. THE CONTACT WAS INJURED AND THE VEHICLE WAS DESTROYED. THE VEHICLE WAS INSPECTED BY AN",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Cbr1000rr owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Service Brakes (80% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY FIRST ISSUE WAS ROUGHLY ONE MONTH AGO. THE NEXT RIDE AFTER MY FIRST TRACK DAY AT (THANK GOD NOTHING HAPPENED AT THE HIGH SPEEDS OF THE TRACK WITH OTHER RIDERS ALL AROUND). CAME INTO A CORNER WITH TWO RIDERS FOLLOWING CLOSE BEHIND AND HAD TO TAKE THE TURN HOT WHEN I REALIZED MY",
+        "pct": 80,
+        "title": "Service Brakes",
+        "blurb": "4 reports (80%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY FIRST ISSUE WAS ROUGHLY ONE MONTH AGO. THE NEXT RIDE AFTER MY FIRST TRACK DAY AT (THANK GOD NOTHING HAPPENED AT THE HIGH SPEEDS OF THE TRACK WITH OTHER RIDERS ALL AROUND). CAME INTO A CORNER WITH TWO RIDERS FOLLOWING CLOSE BEHIND AND HAD TO TAKE THE TURN HOT WHEN I REALIZED MY",
+        "pct": 20,
+        "title": "Hydraulic",
+        "blurb": "1 report (20%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA CBR1000RR. WHILE DRIVING AT APPROXIMATELY 100 MPH ON A RACE TRACK, THE THROTTLE DID NOT OPERATE AND THE VEHICLE WOULD NOT DECELERATE WHICH RESULTED IN A CRASH. THE CONTACT WAS INJURED AND THE VEHICLE WAS DESTROYED. THE VEHICLE WAS INSPECTED BY AN",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (20%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

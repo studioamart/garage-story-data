@@ -1,0 +1,129 @@
+{
+  "slug": "2022-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-06-23T06:06:44.389Z",
+  "total": 874,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 726,
+      "crash": 27,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda Civic. The contact stated while driving approximately 55 to 60 mph, the steering wheel was vibrating. The dealer was made aware of the failure and the vehicle was inspected; however, the dealer informed the contact that the steering column part was n",
+      "pct": 83
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 71,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
+      "pct": 8
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 66,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "My wife purchased a new 2022 Honda civic sport, it has lane control assist and at high speed it wonders, pulls side to side, follows lanes color change, pulls into a curve and pulls when going by big trucks into the truck. I have to hold the steering very tight and it has made my",
+      "pct": 8
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 42,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
+      "pct": 5
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 38,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda Civic. The contact stated that while driving the traffic sign recognition feature provided an inaccurate speed data. The local dealer was not contacted. The vehicle was not diagnosed nor repaired. The manufacturer was contacted and informed of the fa",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Honda Civic: steering dominates the owner complaints",
+    "summary": "Steering problems — particularly vibration in the steering wheel at highway speeds — are the most commonly reported issue for this model, with a substantial majority of owner complaints falling in that area. A secondary cluster of complaints covers the driver-assistance suite, where owners describe the adaptive cruise control disengaging without warning and lane-keep assist making erratic lateral corrections, especially near lane markings, curves, and large vehicles. These assist-system behaviors appear across both the forward collision avoidance and lane departure components, suggesting a broader pattern in the sensing or control logic.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 726,
+        "crash": 27,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda Civic. The contact stated while driving approximately 55 to 60 mph, the steering wheel was vibrating. The dealer was made aware of the failure and the vehicle was inspected; however, the dealer informed the contact that the steering column part was n",
+        "pct": 83,
+        "title": "Steering",
+        "blurb": "Owners report the steering wheel vibrating noticeably while driving at highway speeds, with the condition prompting dealer inspections. · 27 crash · 9 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 71,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Owners report the cruise control — whether in adaptive or standard mode — disengaging randomly and refusing to re-engage, with the cruise control icon appearing on the center display during the event. · 4 crash · 5 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 66,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "My wife purchased a new 2022 Honda civic sport, it has lane control assist and at high speed it wonders, pulls side to side, follows lanes color change, pulls into a curve and pulls when going by big trucks into the truck. I have to hold the steering very tight and it has made my",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "Owners report the lane control assist causing the vehicle to wander, pull side to side, follow lane color changes, tug toward curves, and drift toward large trucks at high speed. · 6 crash · 2 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 42,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "Owners report the cruise control cutting out unexpectedly in both adaptive and standard modes, with subsequent attempts to restart the system failing and the cruise control icon displaying on screen. · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 38,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda Civic. The contact stated that while driving the traffic sign recognition feature provided an inaccurate speed data. The local dealer was not contacted. The vehicle was not diagnosed nor repaired. The manufacturer was contacted and informed of the fa",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "The fewest at 38 reports (4%), tied to 3 crashes and 1 injury. Some reports mention the traffic sign recognition showing wrong speed data."
+      }
+    ],
+    "enriched": true
+  }
+}

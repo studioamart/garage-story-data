@@ -1,0 +1,62 @@
+{
+  "slug": "2015-indian-chieftain",
+  "make": "Indian",
+  "model": "Chieftain",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/INDIAN/CHIEFTAIN#complaints",
+  "generatedAt": "2026-06-23T22:36:08.485Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1) PRESSED IGNITION BOTTON TO TURN BIKE OFF AND BIKE STAYED ON. 2) ABS INDICATOR LIGHT STAYS ON. 3) SPEEDOMETER WENT TO ZERO  WHILE RIDING. 4) RADIO JUST STOPPED WORKING NO INDICATION ON DASHBOARD WHILE RIDING.",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I HAD AN ACCIDENT WITH A PASSENGER ON THE BIKE THAT I BELIEVE WAS CAUSED BY A LEAKING REAR BRAKE RESERVOIR.  I APPROACHED A SWEEPING RIGHT HAND CURVE AND THE BIKE WOULD NOT TURN, WE WENT HEAD FIRST INTO A GUARDRAIL AT ABOUT 40MPH.  I BELIEVE THE REAR BRAKE RESERVOIR LEAKED BRAKE ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Indian Chieftain owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1) PRESSED IGNITION BOTTON TO TURN BIKE OFF AND BIKE STAYED ON. 2) ABS INDICATOR LIGHT STAYS ON. 3) SPEEDOMETER WENT TO ZERO  WHILE RIDING. 4) RADIO JUST STOPPED WORKING NO INDICATION ON DASHBOARD WHILE RIDING.",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I HAD AN ACCIDENT WITH A PASSENGER ON THE BIKE THAT I BELIEVE WAS CAUSED BY A LEAKING REAR BRAKE RESERVOIR.  I APPROACHED A SWEEPING RIGHT HAND CURVE AND THE BIKE WOULD NOT TURN, WE WENT HEAD FIRST INTO A GUARDRAIL AT ABOUT 40MPH.  I BELIEVE THE REAR BRAKE RESERVOIR LEAKED BRAKE ",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

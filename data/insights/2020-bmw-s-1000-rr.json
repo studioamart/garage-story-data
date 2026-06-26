@@ -1,0 +1,84 @@
+{
+  "slug": "2020-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:30.301Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Leaking coolant from weep hole after every ride, telltale sign water/oil pump is bad. Yes it’s available. Coolant and oil are very slick. I could fall and die if my rear tire decides to slip under the liquids. Yes the dealer and bmw confirmed it was leaking from the weep hole but",
+      "pct": 57
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FRONT BRAKE CALIPERS LEAKING DURING VEHICLE REST PERIODS SINCE OR BEFORE 20TH AUGUST 2020. A LARGE AMOUNT OF BRAKE RESERVOIR HAS BEEN CONSUMED BEFORE NOTICING.   THIS IS A KNOWN CONDITION AS ADVISED BY THE MANUFACTURER AS YET NO FIX HAS BEEN IMPLEMENTED ON THIS VEHICLE.  VEHICLE ",
+      "pct": 29
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Carbon fiber rims developed bubble with minor air leakage...about ~2psi per day.  First noticed this deformity around ~Nov 2024  If there is a micro crack developed along the valve stem on a carbon fiber rim, then the wheel forces can cause the crack to grow and sudden loss of pr",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw S 1000 Rr owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Engine (57% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Leaking coolant from weep hole after every ride, telltale sign water/oil pump is bad. Yes it’s available. Coolant and oil are very slick. I could fall and die if my rear tire decides to slip under the liquids. Yes the dealer and bmw confirmed it was leaking from the weep hole but",
+        "pct": 57,
+        "title": "Engine",
+        "blurb": "4 reports (57%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FRONT BRAKE CALIPERS LEAKING DURING VEHICLE REST PERIODS SINCE OR BEFORE 20TH AUGUST 2020. A LARGE AMOUNT OF BRAKE RESERVOIR HAS BEEN CONSUMED BEFORE NOTICING.   THIS IS A KNOWN CONDITION AS ADVISED BY THE MANUFACTURER AS YET NO FIX HAS BEEN IMPLEMENTED ON THIS VEHICLE.  VEHICLE ",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Carbon fiber rims developed bubble with minor air leakage...about ~2psi per day.  First noticed this deformity around ~Nov 2024  If there is a micro crack developed along the valve stem on a carbon fiber rim, then the wheel forces can cause the crack to grow and sudden loss of pr",
+        "pct": 14,
+        "title": "Wheels",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

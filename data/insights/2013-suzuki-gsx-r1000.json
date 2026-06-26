@@ -1,0 +1,40 @@
+{
+  "slug": "2013-suzuki-gsx-r1000",
+  "make": "Suzuki",
+  "model": "GSX-R1000",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/SUZUKI/GSX-R1000#complaints",
+  "generatedAt": "2026-06-23T22:35:07.070Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 SUZUKI GSX-R1000 MOTORCYCLE. WHILE SHIFTING FROM FIRST GEAR TO THE SECOND GEAR AT 5 MPH, THE ENGINE REVVED AND CAUSED THE VEHICLE TO RAISE OFF THE GROUND AND FLIP OVER. THE CRANK COVER AND TAIL LIGHT WERE FRACTURED AND THE FRONT RIM SUSTAINED DAMAGE. T",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Suzuki Gsx-R1000 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 SUZUKI GSX-R1000 MOTORCYCLE. WHILE SHIFTING FROM FIRST GEAR TO THE SECOND GEAR AT 5 MPH, THE ENGINE REVVED AND CAUSED THE VEHICLE TO RAISE OFF THE GROUND AND FLIP OVER. THE CRANK COVER AND TAIL LIGHT WERE FRACTURED AND THE FRONT RIM SUSTAINED DAMAGE. T",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

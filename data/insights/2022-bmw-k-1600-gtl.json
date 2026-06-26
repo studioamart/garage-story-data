@@ -1,0 +1,40 @@
+{
+  "slug": "2022-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:35.314Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Started the motorcycle in my garage, then shut it off within a few seconds as soon as I realized that gasoline was streaming at high volume out the bottom of the motorcycle. In seconds I had a 4 foot diameter puddle on the floor of my garage. The exhaust pipes got hot enough in j",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Started the motorcycle in my garage, then shut it off within a few seconds as soon as I realized that gasoline was streaming at high volume out the bottom of the motorcycle. In seconds I had a 4 foot diameter puddle on the floor of my garage. The exhaust pipes got hot enough in j",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

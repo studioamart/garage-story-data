@@ -1,0 +1,129 @@
+{
+  "slug": "2016-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-06-23T16:30:28.774Z",
+  "total": 2413,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 565,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 FORD EXPLORER. WHILE THE VEHICLE WAS PARKED, THE LIFTGATE AUTOMATICALLY CLOSED INDEPENDENTLY. THE VEHICLE WAS TAKEN TO A DEALER, BUT WAS NOT DIAGNOSED OR REPAIRED. THE CONTACT STATED THAT THE FAILURE RECURRED SEVERAL TIMES. THE MANUFACTURER WAS MADE AW",
+      "pct": 23
+    },
+    {
+      "component": "STEERING",
+      "count": 526,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "I RECENTLY RECEIVED A 2016 FORD POLICE UTILITY (EXPLORER) AS A NEW PATROL VEHICLE.  WHILE ON PATROL I SUDDENLY LOST POWER STEERING.  I RECEIVED A STEERING ASSIST FAULT MESSAGE ON THE DASH, AS WELL AS A TRACTION AND STABILITY CONTROL ERROR MESSAGE.  THE VEHICLE HAS 935 MILES ON IT",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 379,
+      "crash": 3,
+      "fire": 3,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "RADIATOR COOLING FAN SQUEALS LOUDLY WHEN CAR IS IDLE OR DRIVING SLOWLY.  CAR HAS ALREADY BEEN IN THE SHOP TO REPLACE THE FAN ONCE.  NEW FAN BEGAN SQUEALING AGAIN WITHIN 30 MINUTES OF DRIVING AFTER REPAIR.  CAR ONLY HAS 4000 MILES ON IT.  HAVE READ OTHER COMPLAINTS OF FAULTY COOLI",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 212,
+      "crash": 6,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE LOST ACCELERATION SUDDENLY: FIRST TIME HAPPENED WHEN I STOPPED AT THE INTERSECTION WAITING THE TRAFFIC TO CLEAR AND WHEN I WANT THE VEHICLE TO ACCELERATE IT DID NOT SO I PULLED OVER AND TURNED ENGINE OFF AND RESTART IT FIVE MINUETS LATER AND THE VEHICLE ACCELERATE AND I M",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 123,
+      "crash": 1,
+      "fire": 6,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "WHILE I WAS SITTING IN THE DRIVER'S SEAT OF MY RENTAL (THE VEHICLE RUNNING AND IN PARK), I PRESSED #2 OF THE NUMBERED BUTTONS, NEXT TO THE LOCK CONTROLS, AND THE SEAT STARTED MOVING BY ITSELF. THE SEAT MOVED UP AND FORWARD, WHILE THE STEERING WHEEL MOVED DOWN.  MY LEGS STARTED TO",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Ford Explorer owners report most",
+    "summary": "Structure-related complaints make up the largest share of owner reports, with steering failures and engine noise also appearing frequently across the complaint set. Owners describe a range of sudden and unexpected behaviors — including loss of steering control, unintended liftgate movement, acceleration failure, and persistent cooling fan noise. Some complaints across multiple areas note associated fires or crashes, indicating the issues can occur in consequential driving situations.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 565,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 FORD EXPLORER. WHILE THE VEHICLE WAS PARKED, THE LIFTGATE AUTOMATICALLY CLOSED INDEPENDENTLY. THE VEHICLE WAS TAKEN TO A DEALER, BUT WAS NOT DIAGNOSED OR REPAIRED. THE CONTACT STATED THAT THE FAILURE RECURRED SEVERAL TIMES. THE MANUFACTURER WAS MADE AW",
+        "pct": 23,
+        "title": "Structure",
+        "blurb": "Owners report the liftgate closing on its own while the vehicle is parked, with dealers in some cases unable to diagnose or repair the condition. · 1 fire · 4 crash · 6 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 526,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "I RECENTLY RECEIVED A 2016 FORD POLICE UTILITY (EXPLORER) AS A NEW PATROL VEHICLE.  WHILE ON PATROL I SUDDENLY LOST POWER STEERING.  I RECEIVED A STEERING ASSIST FAULT MESSAGE ON THE DASH, AS WELL AS A TRACTION AND STABILITY CONTROL ERROR MESSAGE.  THE VEHICLE HAS 935 MILES ON IT",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "Owners report sudden complete loss of power steering accompanied by a steering assist fault message on the dashboard, along with traction and stability warning indicators. · 10 crash · 7 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 379,
+        "crash": 3,
+        "fire": 3,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "RADIATOR COOLING FAN SQUEALS LOUDLY WHEN CAR IS IDLE OR DRIVING SLOWLY.  CAR HAS ALREADY BEEN IN THE SHOP TO REPLACE THE FAN ONCE.  NEW FAN BEGAN SQUEALING AGAIN WITHIN 30 MINUTES OF DRIVING AFTER REPAIR.  CAR ONLY HAS 4000 MILES ON IT.  HAVE READ OTHER COMPLAINTS OF FAULTY COOLI",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "Owners report loud squealing from the radiator cooling fan at idle and low speeds, with the noise recurring shortly after the fan was already replaced at a shop. · 3 fire · 3 crash · 8 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 212,
+        "crash": 6,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE LOST ACCELERATION SUDDENLY: FIRST TIME HAPPENED WHEN I STOPPED AT THE INTERSECTION WAITING THE TRAFFIC TO CLEAR AND WHEN I WANT THE VEHICLE TO ACCELERATE IT DID NOT SO I PULLED OVER AND TURNED ENGINE OFF AND RESTART IT FIVE MINUETS LATER AND THE VEHICLE ACCELERATE AND I M",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "Owners report the vehicle suddenly losing the ability to accelerate from a stop, requiring the engine to be shut off and restarted before movement is possible. · 4 fire · 6 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 123,
+        "crash": 1,
+        "fire": 6,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "WHILE I WAS SITTING IN THE DRIVER'S SEAT OF MY RENTAL (THE VEHICLE RUNNING AND IN PARK), I PRESSED #2 OF THE NUMBERED BUTTONS, NEXT TO THE LOCK CONTROLS, AND THE SEAT STARTED MOVING BY ITSELF. THE SEAT MOVED UP AND FORWARD, WHILE THE STEERING WHEEL MOVED DOWN.  MY LEGS STARTED TO",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "123 reports (5%) · 6 fire · 1 crash · 4 injured"
+      }
+    ],
+    "enriched": true
+  }
+}

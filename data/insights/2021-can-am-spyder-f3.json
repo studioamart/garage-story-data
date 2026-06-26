@@ -1,0 +1,40 @@
+{
+  "slug": "2021-can-am-spyder-f3",
+  "make": "Can-Am",
+  "model": "Spyder F3",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CAN-AM/SPYDER%20F3#complaints",
+  "generatedAt": "2026-06-23T22:36:36.737Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The location of the mirrors causes your rear view to be blocked by the handlebars. I'm 6' 4\" and with the handlebars properly adjusted I can't see behind me without changing my body position to be able to see the mirrors clearly.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Can-Am Spyder F3 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Visibility/Wiper (100% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The location of the mirrors causes your rear view to be blocked by the handlebars. I'm 6' 4\" and with the handlebars properly adjusted I can't see behind me without changing my body position to be able to see the mirrors clearly.",
+        "pct": 100,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

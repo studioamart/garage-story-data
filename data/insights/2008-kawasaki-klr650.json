@@ -1,0 +1,128 @@
+{
+  "slug": "2008-kawasaki-klr650",
+  "make": "Kawasaki",
+  "model": "KLR650",
+  "year": 2008,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2008/KAWASAKI/KLR650#complaints",
+  "generatedAt": "2026-06-23T22:34:37.681Z",
+  "total": 116,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 85,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CERTAIN RUBBER COMPONENTS ON THE MOTORCYCLE HAVE DRIED OUT AND ARE CRUMBLING. THE FOLLOWING ARE EXAMPLES  A) TURN SIGNAL STALKS HAVE FALLEN OFF WITHOUT PRIOR NOTICE WHICH COULD CAUSE AN ACCIDENT DUE TO THE OTHER TRAFFIC NOT SEEING YOUR TURN SIGNAL  B) WINDSHIELD RETAINING WELL NU",
+      "pct": 73
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2008 KAWASAKI KLR-650 MOTORCYCLE.  MUFFLER FELL OFF WILE RIDING DOWN THE ROAD WITH ONLY 3,000K ON ODOMETER. ALL 3 MOUNTING BOLTS FELL OUT. THIS WAS A RECALL FOR OTHER KLR BIKES. MY BIKE WAS NOT RECALLED. ONE OF THE MOUNTING BOLTS WELDED NUT FELL OFF ALSO.  DEALER GAVE ME NEW BOLT",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED AN ENDURO MOTORCYCLE FOR USE ON THE HIGHWAY,THE MOTORCYCLE IS EQUIPPED WITH ALL NECESSARY COMPONENTS FOR THAT PURPOSE. THE FIRST PROBLEM WAS THE SPEEDOMETER WAS NOT CALIBRATED TO THE FAULT THAT I NEVER KNEW WHAT THE READING WOULD BE EVAN AT THE SAME ESTIMATED SPEED. I",
+      "pct": 9
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SHOCK PRELOAD ADJUSTER ON MY 2008 KAWASAKI KLR 650 BROKE. EVERY 08 KLR I KNOW OF, THIS PART HAS FAILED. AT THIS TIME THE REPLACEMENT PARTS ARE FAILING JUST AS FAST. KAWASAKI SO FAR IS REPLACEING THE PARTS UNDER WARENTY, HOW EVER THEY HAVENT UPGRADED THE THE PART TO PREVENT FAILER",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A  2008 KAWASAKI KLR650. HE WAS DRIVING 55MPH ON HIS MOTORCYCLE AND IT SHUT OFF WITHOUT WARNING. THE DEALER STATED THAT THE WIRES WERE RUBBING UNDERNEATH THE GAS TANK. WHEN THE WIRES RUBBED TOGETHER THEY BLEW A FUSE AND CAUSED THE ENGINE TO SHUT OFF. THE MECHA",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2008 Kawasaki Klr650 owners report most",
+    "summary": "Across 116 owner complaints to NHTSA, the most reported area is Exterior Lighting (73% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 85,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CERTAIN RUBBER COMPONENTS ON THE MOTORCYCLE HAVE DRIED OUT AND ARE CRUMBLING. THE FOLLOWING ARE EXAMPLES  A) TURN SIGNAL STALKS HAVE FALLEN OFF WITHOUT PRIOR NOTICE WHICH COULD CAUSE AN ACCIDENT DUE TO THE OTHER TRAFFIC NOT SEEING YOUR TURN SIGNAL  B) WINDSHIELD RETAINING WELL NU",
+        "pct": 73,
+        "title": "Exterior Lighting",
+        "blurb": "85 reports (73%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2008 KAWASAKI KLR-650 MOTORCYCLE.  MUFFLER FELL OFF WILE RIDING DOWN THE ROAD WITH ONLY 3,000K ON ODOMETER. ALL 3 MOUNTING BOLTS FELL OUT. THIS WAS A RECALL FOR OTHER KLR BIKES. MY BIKE WAS NOT RECALLED. ONE OF THE MOUNTING BOLTS WELDED NUT FELL OFF ALSO.  DEALER GAVE ME NEW BOLT",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "12 reports (10%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED AN ENDURO MOTORCYCLE FOR USE ON THE HIGHWAY,THE MOTORCYCLE IS EQUIPPED WITH ALL NECESSARY COMPONENTS FOR THAT PURPOSE. THE FIRST PROBLEM WAS THE SPEEDOMETER WAS NOT CALIBRATED TO THE FAULT THAT I NEVER KNEW WHAT THE READING WOULD BE EVAN AT THE SAME ESTIMATED SPEED. I",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "10 reports (9%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SHOCK PRELOAD ADJUSTER ON MY 2008 KAWASAKI KLR 650 BROKE. EVERY 08 KLR I KNOW OF, THIS PART HAS FAILED. AT THIS TIME THE REPLACEMENT PARTS ARE FAILING JUST AS FAST. KAWASAKI SO FAR IS REPLACEING THE PARTS UNDER WARENTY, HOW EVER THEY HAVENT UPGRADED THE THE PART TO PREVENT FAILER",
+        "pct": 8,
+        "title": "Suspension",
+        "blurb": "9 reports (8%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A  2008 KAWASAKI KLR650. HE WAS DRIVING 55MPH ON HIS MOTORCYCLE AND IT SHUT OFF WITHOUT WARNING. THE DEALER STATED THAT THE WIRES WERE RUBBING UNDERNEATH THE GAS TANK. WHEN THE WIRES RUBBED TOGETHER THEY BLEW A FUSE AND CAUSED THE ENGINE TO SHUT OFF. THE MECHA",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "5 reports (4%)"
+      }
+    ]
+  }
+}

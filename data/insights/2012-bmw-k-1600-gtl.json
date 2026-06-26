@@ -1,0 +1,128 @@
+{
+  "slug": "2012-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:33.892Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 BMW K1600 GTL MOTORCYCLE. THE CONTACT STATED THAT WHILE DRIVING 72 MPH, HE ENGAGED THE HORN AND ATTEMPTED TO CHANGE LANES, BUT THE DRIVER OF ANOTHER VEHICLE WAS UNABLE TO HEAR THE HORN, ALMOST RESULTING IN A CRASH. THE CONTACT STATED THAT THE HORN OUTP",
+      "pct": 24
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE BIKE HAS PULLED TO THE LEFT FROM THE TIME I PURCHASED IT.  BMW DEALER TESTED IT AND VERIFIED THE PULL TO THE LEFT.  LAST WEEK A STEERING PART WAS REPLACED AND THE DEALER SAID IT WAS FIXED.  AFTER RIDING IT I KNOW THAT IT IS NOT FIXED.  STILL PULLS TO THE LEFT - PERHAPS NOT QU",
+      "pct": 21
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER RETURNING FROM A RIDE, I NOTICED A FUEL SMELL. I LOCATED DROPS OF FUEL BENEATH THE BIKE AND BEGAN TO TRACE THE LIQUID TO IT'S SOURCE. THE SOURCE WAS A CRACKED FUEL PUMP FLANGE WHERE A THREADED FITTING WAS INSTALLED. BMW ISSUED A RECALL ON 2012 K1600 GTLS, BUT DID NOT INCLUD",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THREE (3) K1600 GTL SUDDEN ENGINE CUTOFF EVENTS THAT I EXPERIENCED ON JUNE 14, AND JUNE 16, 2013.    THIS DOCUMENTS A SIGNIFICANT SAFETY CONCERN ON MY 2012 BMW K1600GTL.  IN THREE SEPARATE EVENTS, MY K1600GTL ENGINE SHUTDOWN AT FULL SPEED (75 MPH, 55 MPH) WHILE ON THE THROTTLE WI",
+      "pct": 12
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON TURNING ON THE IGNITION KEY IN MY GARAGE, THE FUEL PUMP WAS AUDIBLE, AND THE BIKE FAILED TO START WHEN THE STARTER BUTTON WAS PRESSED.  IMMEDIATELY I NOTICED A VERY LARGE TORRENT OF GASOLINE POURING OUT OF THE BOTTOM OF THE ENGINE, RIGHT OVER THE EXHAUST HEADERS, WHICH WERE FO",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 BMW K1600 GTL MOTORCYCLE. THE CONTACT STATED THAT WHILE DRIVING 72 MPH, HE ENGAGED THE HORN AND ATTEMPTED TO CHANGE LANES, BUT THE DRIVER OF ANOTHER VEHICLE WAS UNABLE TO HEAR THE HORN, ALMOST RESULTING IN A CRASH. THE CONTACT STATED THAT THE HORN OUTP",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "8 reports (24%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE BIKE HAS PULLED TO THE LEFT FROM THE TIME I PURCHASED IT.  BMW DEALER TESTED IT AND VERIFIED THE PULL TO THE LEFT.  LAST WEEK A STEERING PART WAS REPLACED AND THE DEALER SAID IT WAS FIXED.  AFTER RIDING IT I KNOW THAT IT IS NOT FIXED.  STILL PULLS TO THE LEFT - PERHAPS NOT QU",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "7 reports (21%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER RETURNING FROM A RIDE, I NOTICED A FUEL SMELL. I LOCATED DROPS OF FUEL BENEATH THE BIKE AND BEGAN TO TRACE THE LIQUID TO IT'S SOURCE. THE SOURCE WAS A CRACKED FUEL PUMP FLANGE WHERE A THREADED FITTING WAS INSTALLED. BMW ISSUED A RECALL ON 2012 K1600 GTLS, BUT DID NOT INCLUD",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THREE (3) K1600 GTL SUDDEN ENGINE CUTOFF EVENTS THAT I EXPERIENCED ON JUNE 14, AND JUNE 16, 2013.    THIS DOCUMENTS A SIGNIFICANT SAFETY CONCERN ON MY 2012 BMW K1600GTL.  IN THREE SEPARATE EVENTS, MY K1600GTL ENGINE SHUTDOWN AT FULL SPEED (75 MPH, 55 MPH) WHILE ON THE THROTTLE WI",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "4 reports (12%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON TURNING ON THE IGNITION KEY IN MY GARAGE, THE FUEL PUMP WAS AUDIBLE, AND THE BIKE FAILED TO START WHEN THE STARTER BUTTON WAS PRESSED.  IMMEDIATELY I NOTICED A VERY LARGE TORRENT OF GASOLINE POURING OUT OF THE BOTTOM OF THE ENGINE, RIGHT OVER THE EXHAUST HEADERS, WHICH WERE FO",
+        "pct": 12,
+        "title": "Fuel System",
+        "blurb": "4 reports (12%)"
+      }
+    ]
+  }
+}

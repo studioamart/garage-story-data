@@ -1,0 +1,84 @@
+{
+  "slug": "2021-aprilia-rs-660",
+  "make": "Aprilia",
+  "model": "RS 660",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/APRILIA/RS%20660#complaints",
+  "generatedAt": "2026-06-23T22:36:19.341Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Aprilia RS660 motorcycle. The contact stated while riding at 80 mph on a closed track, the contact was approaching a left turn when attempting to brake but the electronic control unit of the braking system did not work which caused the motorcycle to cartwh",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Aprilia Motorcycle. The contact stated while riding 30 mph, the motorcycle abruptly stalled. The contact was able to restart the motorcycle and rode to the dealer. The contact had not received a diagnostic report. The contact stated that the motorcycle had",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Aprilia RS 660. The contact stated that while driving 75 MPH, the vehicle began to make an abnormal vibrating sound as the alarm pressure warning light illuminated. Due to the failure, the contact initially had the vehicle towed to his house, and then the ",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Aprilia Rs 660 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Aprilia RS660 motorcycle. The contact stated while riding at 80 mph on a closed track, the contact was approaching a left turn when attempting to brake but the electronic control unit of the braking system did not work which caused the motorcycle to cartwh",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Aprilia Motorcycle. The contact stated while riding 30 mph, the motorcycle abruptly stalled. The contact was able to restart the motorcycle and rode to the dealer. The contact had not received a diagnostic report. The contact stated that the motorcycle had",
+        "pct": 33,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Aprilia RS 660. The contact stated that while driving 75 MPH, the vehicle began to make an abnormal vibrating sound as the alarm pressure warning light illuminated. Due to the failure, the contact initially had the vehicle towed to his house, and then the ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

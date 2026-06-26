@@ -1,0 +1,824 @@
+{
+ "schema": 1,
+ "version": 1,
+ "tasks": [
+  {
+   "id": "engine-oil",
+   "task": "Engine Oil & Filter Change",
+   "system": "chassis",
+   "hourInterval": 5000,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    60,
+    250
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc"
+   ],
+   "description": "Chassis engine oil per mileage or annually \u2014 RV engines idle long and sit longer; time matters as much as miles."
+  },
+  {
+   "id": "chassis-service",
+   "task": "Chassis Lube & Inspection",
+   "system": "chassis",
+   "hourInterval": 7500,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    50,
+    300
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc"
+   ],
+   "description": "Grease points, belts, hoses, and fluid levels on the drivetrain side."
+  },
+  {
+   "id": "gen-oil",
+   "task": "Generator Oil & Filter",
+   "system": "chassis",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    30,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "fifthwheel"
+   ],
+   "description": "Generator oil by its own hour meter or annually; exercise the generator monthly under load."
+  },
+  {
+   "id": "gen-exercise",
+   "task": "Generator Exercise Run",
+   "system": "chassis",
+   "hourInterval": null,
+   "monthInterval": 1,
+   "season": null,
+   "estimatedCost": [
+    5,
+    15
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "fifthwheel"
+   ],
+   "description": "Run 30+ minutes under half load monthly \u2014 sitting kills generators via varnished carbs."
+  },
+  {
+   "id": "trans-service",
+   "task": "Transmission Service",
+   "system": "chassis",
+   "hourInterval": 50000,
+   "monthInterval": null,
+   "season": null,
+   "estimatedCost": [
+    150,
+    400
+   ],
+   "diy": false,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc"
+   ],
+   "description": "Fluid and filter per chassis schedule."
+  },
+  {
+   "id": "chassis-brakes",
+   "task": "Brake Inspection (Chassis)",
+   "system": "chassis",
+   "hourInterval": 12000,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    400
+   ],
+   "diy": false,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc"
+   ],
+   "description": "Pads, rotors, and fluid on the drivable chassis."
+  },
+  {
+   "id": "tire-age",
+   "task": "Tire Age & Condition Check",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    600
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "RV tires age out (5-7 years by DOT date) long before tread wears; sidewall cracking is the tell. Blowouts are the #1 RV roadside emergency."
+  },
+  {
+   "id": "tire-pressure",
+   "task": "Tire Pressure Check (Cold)",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 1,
+   "season": null,
+   "estimatedCost": [
+    0,
+    10
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Check cold pressures before every trip and monthly in storage; weigh the rig and inflate to the load tables."
+  },
+  {
+   "id": "wheel-bearings",
+   "task": "Wheel Bearing Repack",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    60,
+    350
+   ],
+   "diy": false,
+   "appliesTo": [
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Towable axles need bearing repacks \u2014 annually or per mileage; a failed bearing takes the axle with it."
+  },
+  {
+   "id": "trailer-brakes",
+   "task": "Trailer Brake Service",
+   "system": "tires",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    50,
+    400
+   ],
+   "diy": false,
+   "appliesTo": [
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Electric brake adjustment, magnets, and breakaway switch test."
+  },
+  {
+   "id": "roof-inspect",
+   "task": "Roof Inspection",
+   "system": "roof",
+   "hourInterval": null,
+   "monthInterval": 3,
+   "season": null,
+   "estimatedCost": [
+    0,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Walk (or ladder-check) the roof quarterly: membrane condition, seams, and every penetration. Water is the RV killer."
+  },
+  {
+   "id": "roof-reseal",
+   "task": "Roof Seam & Sealant Service",
+   "system": "roof",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    40,
+    400
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Re-caulk lap seals around vents, skylights, and edges with compatible sealant \u2014 the single highest-ROI RV task."
+  },
+  {
+   "id": "body-seals",
+   "task": "Body Seam & Window Reseal Check",
+   "system": "roof",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "fall",
+   "estimatedCost": [
+    20,
+    300
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Inspect sidewall seams, windows, and slide flanges; reseal cracking joints before they leak into walls."
+  },
+  {
+   "id": "wash-wax",
+   "task": "Wash & Wax / UV Protect",
+   "system": "roof",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": "spring",
+   "estimatedCost": [
+    30,
+    400
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Wash and UV-protect fiberglass and decals; oxidation restoration costs 10x prevention."
+  },
+  {
+   "id": "awning",
+   "task": "Awning Inspection & Lube",
+   "system": "roof",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Clean fabric, check for tears, lube the arms and spring tension."
+  },
+  {
+   "id": "slideout",
+   "task": "Slide-Out Service",
+   "system": "roof",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    20,
+    250
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Lube slide mechanisms and condition the rubber seals; a dry seal tears and a torn seal leaks."
+  },
+  {
+   "id": "water-sanitize",
+   "task": "Fresh Water System Sanitize",
+   "system": "water",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    10,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Bleach-sanitize the tank and lines each spring and after storage."
+  },
+  {
+   "id": "water-heater-rv",
+   "task": "Water Heater Service (Anode/Flush)",
+   "system": "water",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "fall",
+   "estimatedCost": [
+    15,
+    120
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Flush sediment and replace the anode rod (Suburban) or inspect element (Atwood/tankless descale)."
+  },
+  {
+   "id": "water-pump",
+   "task": "Water Pump & Filter Check",
+   "system": "water",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Clean the pump strainer, check pressure and accumulator."
+  },
+  {
+   "id": "dump-valves",
+   "task": "Dump Valve Lube & Seals",
+   "system": "water",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    10,
+    120
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Lube gate valve seals and verify smooth operation; sticky valves become messy emergencies."
+  },
+  {
+   "id": "tank-treat",
+   "task": "Holding Tank Deep Clean",
+   "system": "water",
+   "hourInterval": null,
+   "monthInterval": 3,
+   "season": null,
+   "estimatedCost": [
+    10,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Backflush and treat black/gray tanks; sensor-cleaning flush keeps gauges honest."
+  },
+  {
+   "id": "propane-check",
+   "task": "Propane System Leak Check",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    120
+   ],
+   "diy": false,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Soap-test connections and have the regulator checked; regulators age out around 10 years."
+  },
+  {
+   "id": "detectors-rv",
+   "task": "Smoke / CO / Propane Detector Test",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 1,
+   "season": null,
+   "estimatedCost": [
+    0,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Test monthly in season; propane and CO detectors have hard expiry dates printed on them \u2014 replace per label."
+  },
+  {
+   "id": "extinguisher-rv",
+   "task": "Fire Extinguisher Check",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Gauge green, mounts solid, one in the kitchen area and one accessible outside."
+  },
+  {
+   "id": "breakaway",
+   "task": "Breakaway Switch & Chains Test",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    0,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Test the breakaway brake engagement and inspect safety chains and hitch hardware."
+  },
+  {
+   "id": "hitch-service",
+   "task": "Hitch / Fifth-Wheel Lube & Inspection",
+   "system": "safety",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    10,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Lube the hitch head/kingpin, check torque on mounting bolts."
+  },
+  {
+   "id": "house-batteries",
+   "task": "House Battery Service",
+   "system": "electrical",
+   "hourInterval": null,
+   "monthInterval": 3,
+   "season": null,
+   "estimatedCost": [
+    0,
+    80
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Check water (flooded), clean terminals, verify charging voltages; storage kills batteries via slow discharge."
+  },
+  {
+   "id": "battery-replace-rv",
+   "task": "House Battery Replacement",
+   "system": "electrical",
+   "hourInterval": null,
+   "monthInterval": 48,
+   "season": null,
+   "estimatedCost": [
+    150,
+    800
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Flooded house batteries last 3-5 years; lithium longer. Replace proactively."
+  },
+  {
+   "id": "shore-cord",
+   "task": "Shore Power Cord & Surge Check",
+   "system": "electrical",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": null,
+   "estimatedCost": [
+    0,
+    100
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Inspect cord ends for heat discoloration; test the surge protector."
+  },
+  {
+   "id": "solar-check",
+   "task": "Solar Panel & Controller Check",
+   "system": "electrical",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    100
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Clean panels, verify charge controller output and connections."
+  },
+  {
+   "id": "12v-systems",
+   "task": "12V Systems Walkthrough",
+   "system": "electrical",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Test every light, fan, jack, and slide on battery alone \u2014 find issues at home, not at the campsite."
+  },
+  {
+   "id": "fridge-service",
+   "task": "RV Refrigerator Service",
+   "system": "appliances",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    200
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Absorption fridges: clean the burner and flue annually, check door seals; 12V compressors: clean condenser."
+  },
+  {
+   "id": "furnace-rv",
+   "task": "Furnace Inspection",
+   "system": "appliances",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "fall",
+   "estimatedCost": [
+    0,
+    180
+   ],
+   "diy": false,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Clear the burner and exhaust of debris and nests; verify sail switch operation."
+  },
+  {
+   "id": "ac-service-rv",
+   "task": "Roof A/C Service",
+   "system": "appliances",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    150
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Clean filters monthly in season; coils and shroud inspection annually."
+  },
+  {
+   "id": "range-fridge-vents",
+   "task": "Appliance Vent & Bug Screens",
+   "system": "appliances",
+   "hourInterval": null,
+   "monthInterval": 6,
+   "season": null,
+   "estimatedCost": [
+    10,
+    60
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Mud daubers love RV appliance vents \u2014 screen and check fridge, furnace, and water heater vents."
+  },
+  {
+   "id": "winterize-rv",
+   "task": "Winterize Water Systems",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "fall",
+   "estimatedCost": [
+    30,
+    250
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Blow out lines or pump pink antifreeze through every fixture, bypass the water heater, drain tanks \u2014 before first freeze."
+  },
+  {
+   "id": "dewinterize",
+   "task": "De-Winterize & Spring Prep",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    20,
+    200
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Flush antifreeze, sanitize, leak-test at city pressure, recommission appliances."
+  },
+  {
+   "id": "storage-prep",
+   "task": "Storage Prep (Covers, Rodents, Sun)",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "fall",
+   "estimatedCost": [
+    20,
+    300
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Cover or UV-protect, seal entry points against rodents, leave fridge propped open."
+  },
+  {
+   "id": "reg-insurance",
+   "task": "Registration & Insurance Review",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    20,
+    200
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Renew registration; review coverage and photograph condition annually."
+  },
+  {
+   "id": "shakedown",
+   "task": "First Shakedown Trip of Season",
+   "system": "seasonal",
+   "hourInterval": null,
+   "monthInterval": 12,
+   "season": "spring",
+   "estimatedCost": [
+    0,
+    0
+   ],
+   "diy": true,
+   "appliesTo": [
+    "classa",
+    "classb",
+    "classc",
+    "traveltrailer",
+    "fifthwheel"
+   ],
+   "description": "Short close-to-home trip: test every system loaded before the real vacation does it for you."
+  }
+ ]
+}

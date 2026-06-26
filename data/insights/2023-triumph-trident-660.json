@@ -1,0 +1,62 @@
+{
+  "slug": "2023-triumph-trident-660",
+  "make": "Triumph",
+  "model": "Trident 660",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TRIUMPH/TRIDENT%20660#complaints",
+  "generatedAt": "2026-06-23T22:35:54.442Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had the dealership, Jay Hatfield Motorsports of Wichita, Kansas take care of the recall not long after I bought my motorcycle, in 2023. Two years later I took the motorcycle back to the dealership because the problem persisted. The dealership is still wanting to charge me for t",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had the dealership, Jay Hatfield Motorsports of Wichita, Kansas take care of the recall not long after I bought my motorcycle, in 2023. Two years later I took the motorcycle back to the dealership because the problem persisted. The dealership is still wanting to charge me for t",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Triumph Trident 660 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had the dealership, Jay Hatfield Motorsports of Wichita, Kansas take care of the recall not long after I bought my motorcycle, in 2023. Two years later I took the motorcycle back to the dealership because the problem persisted. The dealership is still wanting to charge me for t",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had the dealership, Jay Hatfield Motorsports of Wichita, Kansas take care of the recall not long after I bought my motorcycle, in 2023. Two years later I took the motorcycle back to the dealership because the problem persisted. The dealership is still wanting to charge me for t",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2021-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:30.809Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The coolant started leaking at the weep hole under the oil pan. This is a pretty common issue for many 2020 and 2021 model year. Upon researches, it is caused by bad the O-Ring/Seal of the water/oil pump inside the oil pan that must be replaced. Some models leaked coolant and eng",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The coolant started leaking at the weep hole under the oil pan. This is a pretty common issue for many 2020 and 2021 model year. Upon researches, it is caused by bad the O-Ring/Seal of the water/oil pump inside the oil pan that must be replaced. Some models leaked coolant and eng",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw S 1000 Rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The coolant started leaking at the weep hole under the oil pan. This is a pretty common issue for many 2020 and 2021 model year. Upon researches, it is caused by bad the O-Ring/Seal of the water/oil pump inside the oil pan that must be replaced. Some models leaked coolant and eng",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The coolant started leaking at the weep hole under the oil pan. This is a pretty common issue for many 2020 and 2021 model year. Upon researches, it is caused by bad the O-Ring/Seal of the water/oil pump inside the oil pan that must be replaced. Some models leaked coolant and eng",
+        "pct": 100,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

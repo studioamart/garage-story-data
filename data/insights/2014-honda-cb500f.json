@@ -1,0 +1,40 @@
+{
+  "slug": "2014-honda-cb500f",
+  "make": "Honda",
+  "model": "CB500F",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/HONDA/CB500F#complaints",
+  "generatedAt": "2026-06-23T22:33:29.175Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MOTORCYCLE PARKED IN NOONDAY SUN ON CLEAR 60-DEGREE WINTER DAY. CAME BACK AFTER 2 HOURS TO FIND ELECTRONIC INSTRUMENT PANEL MELTING AND HOT TO THE TOUCH. PANEL ALSO TURNED BLACK SO NO SPEED, FUEL LEVEL, TACHOMETER, AND ENGINE WARNING LIGHTS. IDENTICAL SITUATION OCCURRED DECEMBER ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Honda Cb500f owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MOTORCYCLE PARKED IN NOONDAY SUN ON CLEAR 60-DEGREE WINTER DAY. CAME BACK AFTER 2 HOURS TO FIND ELECTRONIC INSTRUMENT PANEL MELTING AND HOT TO THE TOUCH. PANEL ALSO TURNED BLACK SO NO SPEED, FUEL LEVEL, TACHOMETER, AND ENGINE WARNING LIGHTS. IDENTICAL SITUATION OCCURRED DECEMBER ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

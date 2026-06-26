@@ -1,0 +1,62 @@
+{
+  "slug": "2020-vespa-gts-300",
+  "make": "Vespa",
+  "model": "GTS 300",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/VESPA/GTS%20300#complaints",
+  "generatedAt": "2026-06-23T22:36:22.437Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After the Vespa has sat for a couple days, the rear (right) brake lever locks up and is unable to be pulled after the ABS light goes out.  Usually, I can pull pressure to the lever and it will free up.  This started happening around the end of August 2022.  Today, 12-3-2022, I tr",
+      "pct": 88
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Piaggio Vespa GTS 300. The contact stated while driving at 5-10 MPH, the vehicle stalled. The contact stated he was able to restart the vehicle; however, the failure reoccurred several times while driving on that same day. The vehicle was taken to the deal",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Vespa Gts 300 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Service Brakes (88% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After the Vespa has sat for a couple days, the rear (right) brake lever locks up and is unable to be pulled after the ABS light goes out.  Usually, I can pull pressure to the lever and it will free up.  This started happening around the end of August 2022.  Today, 12-3-2022, I tr",
+        "pct": 88,
+        "title": "Service Brakes",
+        "blurb": "7 reports (88%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Piaggio Vespa GTS 300. The contact stated while driving at 5-10 MPH, the vehicle stalled. The contact stated he was able to restart the vehicle; however, the failure reoccurred several times while driving on that same day. The vehicle was taken to the deal",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

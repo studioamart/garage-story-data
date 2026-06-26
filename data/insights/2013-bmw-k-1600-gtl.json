@@ -1,0 +1,128 @@
+{
+  "slug": "2013-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:32.944Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONTACT OWNS A 2013 BMW K 1600 GTL. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 21V160000 (FUEL SYSTEM, GASOLINE) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER HAD EXCEEDED A REASONABLE AMOUNT OF TIME",
+      "pct": 57
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BMW K1600 GTL 2013 have the same issues that lates model, engine a lot noise and clank engine, unstable when you raided up 70 mph, really dangerous. Have to be responsable and do recalls in all those motorcycles. Thanks.",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BMW K1600 GTL 2013 have the same issues that lates model, engine a lot noise and clank engine, unstable when you raided up 70 mph, really dangerous. Have to be responsable and do recalls in all those motorcycles. Thanks.",
+      "pct": 14
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2013 BMW K1600 GTL. The contact received notification of NHTSA Campaign Number: 21V060000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time ",
+      "pct": 14
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2013 BMW K1600 GTL. The contact received notification of NHTSA Campaign Number: 21V060000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (57% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONTACT OWNS A 2013 BMW K 1600 GTL. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 21V160000 (FUEL SYSTEM, GASOLINE) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER HAD EXCEEDED A REASONABLE AMOUNT OF TIME",
+        "pct": 57,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (57%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BMW K1600 GTL 2013 have the same issues that lates model, engine a lot noise and clank engine, unstable when you raided up 70 mph, really dangerous. Have to be responsable and do recalls in all those motorcycles. Thanks.",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BMW K1600 GTL 2013 have the same issues that lates model, engine a lot noise and clank engine, unstable when you raided up 70 mph, really dangerous. Have to be responsable and do recalls in all those motorcycles. Thanks.",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2013 BMW K1600 GTL. The contact received notification of NHTSA Campaign Number: 21V060000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time ",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2013 BMW K1600 GTL. The contact received notification of NHTSA Campaign Number: 21V060000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time ",
+        "pct": 14,
+        "title": "Gasoline",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2022-bmw-r-18",
+  "make": "BMW",
+  "model": "R 18",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/R%2018#complaints",
+  "generatedAt": "2026-06-23T22:35:36.876Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Motorcycle is equipped with an Adaptive headlight. The main reflector that is a part of the moving adaptive headlight has broken off inside the headlight assembly and is obstructing the headlight beam pattern. It also does not allow the headlight to aim properly. The broken refle",
+      "pct": 89
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A fire started near the reverse mechanism and battery when it was started.",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw R 18 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Exterior Lighting (89% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Motorcycle is equipped with an Adaptive headlight. The main reflector that is a part of the moving adaptive headlight has broken off inside the headlight assembly and is obstructing the headlight beam pattern. It also does not allow the headlight to aim properly. The broken refle",
+        "pct": 89,
+        "title": "Exterior Lighting",
+        "blurb": "8 reports (89%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A fire started near the reverse mechanism and battery when it was started.",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "1 report (11%) · 1 fire"
+      }
+    ]
+  }
+}

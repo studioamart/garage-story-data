@@ -1,0 +1,129 @@
+{
+  "slug": "2019-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-06-23T03:48:56.127Z",
+  "total": 858,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 198,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "VEHICLES IN MOTION ON FREEWAY AND CITY ROADS. DASH WARNING LIGHTS GO HAYWIRE WHEN DRIVING. LOSS OF OF LANE KEEP ASSIST AND ADAPTIVE CRUISE CONTROL WHILE DRIVING IS A SERIOUS SAFETY ISSUES. ALL WARNING LIGHTS TURN ON. DEALERSHIP RESET THE COMPUTER BUT ISSUE NOT RESOLVED. ISSUE HAS",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 186,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE ARE 2 ISSUES, POSSIBLY RELATED. FIRST OF ALL, WARNING FOR COLLISION MITIGATION SYSTEM PROBLEM APPEARED AND THEN THE DIGITAL DISPLAY WENT BLANK.THE STEERING WHEEL SHOOK VIOLENTLY. IN THE SECOND PROBLEM THAT OCCURRED, A WARNING LIGHT FLASHED ON AND OFF (TOO QUICKLY TO DETERMI",
+      "pct": 22
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 129,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In September 2021, I started occasionally receiving the error message \"Collision Mitigation System Problem\" on my dashboard. It would appear and quickly disappear. At that time, my car shut itself off when I came to a full stop at traffic lights and stop signs 3 different times. ",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 120,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "1. 2ND ROW DRIVER AND PASSENGER SEATS DO NOT \"LOCK\" INTO PLACE WHEN FOLDED FORWARD, CREATING A \"FREE FLYING\" SEAT WHEN DRIVING/IN MOTION AND AN ENTRAPMENT ISSUE WHEN PARKED FOR 3RD ROW PASSENGERS ATTEMPTING TO EXIT THE 3RD ROW.  THIS IS SPECIALLY DANGEROUS ON A HILL.  MY 3 YEAR O",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 120,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE IS PROHIBITED FROM SHIFTING TRANSMISSION OUT OF PARK WHEN ENGINE IS NOT RUNNING.  IF VEHICLE ENGINE SHUTS OFF AND WILL NOT RE-START AND VEHICLE IS IN UNSAFE LOCATION (I.E. IN A ROADWAY), THE PUSH-BUTTON TRANSMISSION PROHIBITS SHIFTING THE CAR TO NEUTRAL IN ORDER TO PUSH I",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "Electrical gremlins and driver-assist glitches top 2019 Odyssey complaints",
+    "summary": "Electrical and advanced driver-assistance system failures dominate owner complaints for this model, with dashboard warning lights activating unexpectedly and collision-mitigation and lane-keeping systems dropping out while the vehicle is in motion. Forward collision avoidance and lane departure systems generate overlapping reports, often describing the same warning message appearing on the dashboard, suggesting the issues may be related. Engine-area complaints round out the top concerns, with at least some reports describing seat hardware behavior that owners characterize as a safety issue.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 198,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "VEHICLES IN MOTION ON FREEWAY AND CITY ROADS. DASH WARNING LIGHTS GO HAYWIRE WHEN DRIVING. LOSS OF OF LANE KEEP ASSIST AND ADAPTIVE CRUISE CONTROL WHILE DRIVING IS A SERIOUS SAFETY ISSUES. ALL WARNING LIGHTS TURN ON. DEALERSHIP RESET THE COMPUTER BUT ISSUE NOT RESOLVED. ISSUE HAS",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "Owners report multiple dashboard warning lights activating simultaneously while driving, accompanied by loss of lane keep assist and adaptive cruise control during normal operation on freeways and city roads. · 1 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 186,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE ARE 2 ISSUES, POSSIBLY RELATED. FIRST OF ALL, WARNING FOR COLLISION MITIGATION SYSTEM PROBLEM APPEARED AND THEN THE DIGITAL DISPLAY WENT BLANK.THE STEERING WHEEL SHOOK VIOLENTLY. IN THE SECOND PROBLEM THAT OCCURRED, A WARNING LIGHT FLASHED ON AND OFF (TOO QUICKLY TO DETERMI",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Owners report a collision mitigation system warning appearing on the dashboard, followed by the digital display going blank and the steering wheel shaking violently while the vehicle is in motion. · 2 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 129,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In September 2021, I started occasionally receiving the error message \"Collision Mitigation System Problem\" on my dashboard. It would appear and quickly disappear. At that time, my car shut itself off when I came to a full stop at traffic lights and stop signs 3 different times. ",
+        "pct": 15,
+        "title": "Lane Departure",
+        "blurb": "Owners report an intermittent error message reading 'Collision Mitigation System Problem' appearing and disappearing on the dashboard, in some cases accompanied by the vehicle shutting itself off when coming to a stop."
+      },
+      {
+        "component": "ENGINE",
+        "count": 120,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "1. 2ND ROW DRIVER AND PASSENGER SEATS DO NOT \"LOCK\" INTO PLACE WHEN FOLDED FORWARD, CREATING A \"FREE FLYING\" SEAT WHEN DRIVING/IN MOTION AND AN ENTRAPMENT ISSUE WHEN PARKED FOR 3RD ROW PASSENGERS ATTEMPTING TO EXIT THE 3RD ROW.  THIS IS SPECIALLY DANGEROUS ON A HILL.  MY 3 YEAR O",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "Owners report that second-row seats do not lock into place when folded forward, describing the unsecured seat as a hazard while the vehicle is in motion and as an entrapment risk for third-row passengers attempting to exit. · 4 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 120,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE IS PROHIBITED FROM SHIFTING TRANSMISSION OUT OF PARK WHEN ENGINE IS NOT RUNNING.  IF VEHICLE ENGINE SHUTS OFF AND WILL NOT RE-START AND VEHICLE IS IN UNSAFE LOCATION (I.E. IN A ROADWAY), THE PUSH-BUTTON TRANSMISSION PROHIBITS SHIFTING THE CAR TO NEUTRAL IN ORDER TO PUSH I",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "120 complaints (14%) about the drivetrain and transmission. No crashes, fires, or injuries reported in this group."
+      }
+    ],
+    "enriched": true
+  }
+}

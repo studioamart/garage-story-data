@@ -1,0 +1,40 @@
+{
+  "slug": "2014-suzuki-gsx-r750",
+  "make": "Suzuki",
+  "model": "GSX-R750",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/SUZUKI/GSX-R750#complaints",
+  "generatedAt": "2026-06-23T22:35:01.008Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 SUZUKI GSX-R750. WHILE RIDING AT 65 MPH, SMOKE APPEARED FROM THE MOTORCYCLE. THE CONTACT NOTICED OIL LEAKING FROM THE ENGINE ONTO THE REAR TIRE. UPON INSPECTING THE MOTORCYCLE, THE CONTACT NOTICED THAT THE CONNECTING ROD PUNCHED THROUGH THE ENGINE. THE",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Suzuki Gsx-R750 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 SUZUKI GSX-R750. WHILE RIDING AT 65 MPH, SMOKE APPEARED FROM THE MOTORCYCLE. THE CONTACT NOTICED OIL LEAKING FROM THE ENGINE ONTO THE REAR TIRE. UPON INSPECTING THE MOTORCYCLE, THE CONTACT NOTICED THAT THE CONNECTING ROD PUNCHED THROUGH THE ENGINE. THE",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%) · 1 fire"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "2019-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:19.595Z",
+  "total": 1052,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 293,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 17,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA CR-V. WHILE THE CONTACT WAS DRIVING APPROXIMATELY 45 MPH, ANOTHER VEHICLE PAUSING ON THE PASSENGER SIDE OF THE CONTACT'S VEHICLE CAUSED THE AUTOMATIC BRAKING SYSTEM TO ACTIVATE. AS A RESULT, THE CONTACT'S VEHICLE INDEPENDENTLY AND ABRUPTLY STOPPE",
+      "pct": 28
+    },
+    {
+      "component": "STEERING",
+      "count": 177,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WITH THE 2019 MODEL OF CR-V, I AM UNABLE TO ONLY TURN OF THE LANE KEEP ASSIST. THERE IS NO MENTION IN THE OWNER'S MANUAL ABOUT HOW TO EXCLUSIVELY TURN THE LANE KEEP ASSIST OFF, OR AT THE VERY LEAST CONFIGURE IT SO THAT IT DOES NOT APPLY FORCE ON THE STEERING WHEEL. ALL OTHER ADVA",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 154,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA CR-V. WHILE DRIVING 70 MPH, THE VEHICLE SHOOK, VIBRATED, AND BEGAN TO DECELERATE. ALSO, THE ELECTRIC PARKING BRAKE, TRANSMISSION, BRAKE SYSTEM, BRAKE HOLD, ADAPTIVE CRUISE CONTROL, COLLISION MITIGATION SYSTEM, ROAD DEPARTURE MITIGATION SYSTEM, BL",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 125,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE REFUELING (AT DIFFERENT GAS STATIONS AND DIFFERENT PUMPS) THE FUEL NOZZLE BECOMES STUCK IN THE CAP LESS FILLER. LOCATED IN CALIFORNIA, WHERE THE PUMPS HAVE THE VAPOR RE-CYCLER. DON'T KNOW IF THAT IS CAUSING THE ISSUE OR NOT. THIS IS WHILE VEHICLE IS STOPPED, ENGINE OFF. WAI",
+      "pct": 12
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 117,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel Pump module with out of specification impellers. My vehicle had this above specific recall, in which I took my vehicle into the local Honda dealership to get repaired, however, just 2 days after my vehicle had been “repaired” it broke down/stalled and became inoperable while",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Honda Cr-V owners report most",
+    "summary": "The most commonly reported concern on the CR-V centers on the forward collision avoidance system activating unexpectedly while driving at speed, sometimes causing crashes. Owners also report the steering system behaving in unwanted ways, tied to lane-keeping behavior that cannot be disabled through normal controls. Electrical system failures and fuel filler issues round out the pattern of complaints.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 293,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 17,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA CR-V. WHILE THE CONTACT WAS DRIVING APPROXIMATELY 45 MPH, ANOTHER VEHICLE PAUSING ON THE PASSENGER SIDE OF THE CONTACT'S VEHICLE CAUSED THE AUTOMATIC BRAKING SYSTEM TO ACTIVATE. AS A RESULT, THE CONTACT'S VEHICLE INDEPENDENTLY AND ABRUPTLY STOPPE",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Owners report the automatic braking system engaging without warning while driving, triggered by nearby vehicles that are pausing or moving alongside, sometimes resulting in crashes. · 7 crash · 17 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 177,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WITH THE 2019 MODEL OF CR-V, I AM UNABLE TO ONLY TURN OF THE LANE KEEP ASSIST. THERE IS NO MENTION IN THE OWNER'S MANUAL ABOUT HOW TO EXCLUSIVELY TURN THE LANE KEEP ASSIST OFF, OR AT THE VERY LEAST CONFIGURE IT SO THAT IT DOES NOT APPLY FORCE ON THE STEERING WHEEL. ALL OTHER ADVA",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "Owners report being unable to turn off the lane keep assist independently, with the owner's manual offering no clear instructions for disabling or configuring it separately from other systems. · 2 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 154,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA CR-V. WHILE DRIVING 70 MPH, THE VEHICLE SHOOK, VIBRATED, AND BEGAN TO DECELERATE. ALSO, THE ELECTRIC PARKING BRAKE, TRANSMISSION, BRAKE SYSTEM, BRAKE HOLD, ADAPTIVE CRUISE CONTROL, COLLISION MITIGATION SYSTEM, ROAD DEPARTURE MITIGATION SYSTEM, BL",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "Owners report the vehicle shaking, vibrating, and decelerating while driving at highway speed, accompanied by simultaneous warnings or failures across multiple systems including the electric parking brake, transmission, brakes, and adaptive cruise control. · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 125,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE REFUELING (AT DIFFERENT GAS STATIONS AND DIFFERENT PUMPS) THE FUEL NOZZLE BECOMES STUCK IN THE CAP LESS FILLER. LOCATED IN CALIFORNIA, WHERE THE PUMPS HAVE THE VAPOR RE-CYCLER. DON'T KNOW IF THAT IS CAUSING THE ISSUE OR NOT. THIS IS WHILE VEHICLE IS STOPPED, ENGINE OFF. WAI",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Owners report the fuel nozzle becoming stuck in the capless filler opening during refueling, occurring across different gas stations and different pumps. · 2 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 117,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel Pump module with out of specification impellers. My vehicle had this above specific recall, in which I took my vehicle into the local Honda dealership to get repaired, however, just 2 days after my vehicle had been “repaired” it broke down/stalled and became inoperable while",
+        "pct": 11,
+        "title": "Fuel System",
+        "blurb": "117 reports (11%)"
+      }
+    ],
+    "enriched": true
+  }
+}

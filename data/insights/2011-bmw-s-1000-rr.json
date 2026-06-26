@@ -1,0 +1,40 @@
+{
+  "slug": "2011-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:27.662Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONNECTING ROD BOLTS BECAME LOOSE AND CAUSED ENGINE DAMAGE, THE ROD BLOW AND CAME OUT OF THE CRANKCASE, AFTER DEALING WITH BMW THEY REFUSE TO ACCEPT THE PROBLEM AND SAID THAT WAS MY FAULT BECAUSE THE MOTOR WAS NEW !!!  *TR",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Bmw S 1000 Rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine And Engine Cooling (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONNECTING ROD BOLTS BECAME LOOSE AND CAUSED ENGINE DAMAGE, THE ROD BLOW AND CAME OUT OF THE CRANKCASE, AFTER DEALING WITH BMW THEY REFUSE TO ACCEPT THE PROBLEM AND SAID THAT WAS MY FAULT BECAUSE THE MOTOR WAS NEW !!!  *TR",
+        "pct": 100,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

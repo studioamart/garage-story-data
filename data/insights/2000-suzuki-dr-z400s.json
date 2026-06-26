@@ -1,0 +1,40 @@
+{
+  "slug": "2000-suzuki-dr-z400s",
+  "make": "Suzuki",
+  "model": "DR-Z400S",
+  "year": 2000,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2000/SUZUKI/DR-Z400S#complaints",
+  "generatedAt": "2026-06-23T22:35:12.568Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE HEAD GASKET ON MY DR-Z400 BLEW AT 45 MPH WITH ONLY 4100 MILES, I USUALLY ONLY DRIVE THE MOTORCYCLE DURING THE SUMMER, AND I ALWAYS PUT NEW OIL AND NEW RADIATOR FLUID, AND DO ALL MAINTENANCE BEFORE I TAKE THE MOTORCYCLE OUT FOR THE YEAR, I WAS TRAVELING ABOUT 45 ON THE ROAD AN",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2000 Suzuki Dr-Z400s owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE HEAD GASKET ON MY DR-Z400 BLEW AT 45 MPH WITH ONLY 4100 MILES, I USUALLY ONLY DRIVE THE MOTORCYCLE DURING THE SUMMER, AND I ALWAYS PUT NEW OIL AND NEW RADIATOR FLUID, AND DO ALL MAINTENANCE BEFORE I TAKE THE MOTORCYCLE OUT FOR THE YEAR, I WAS TRAVELING ABOUT 45 ON THE ROAD AN",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

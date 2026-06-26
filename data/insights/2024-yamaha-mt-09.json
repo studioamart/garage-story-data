@@ -1,0 +1,62 @@
+{
+  "slug": "2024-yamaha-mt-09",
+  "make": "Yamaha",
+  "model": "MT-09",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/YAMAHA/MT-09#complaints",
+  "generatedAt": "2026-06-23T22:34:06.654Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased a new 2024 Yamaha MT-09 on 10/20/24.  No test drive was allowed by the dealer prior to purchase.  There is a safety-related defect affecting the motorcycle which appears to involve the engine control unit (ECU) programming and results in significant loss of engine power",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased a new 2024 Yamaha MT-09 on 10/20/24.  No test drive was allowed by the dealer prior to purchase.  There is a safety-related defect affecting the motorcycle which appears to involve the engine control unit (ECU) programming and results in significant loss of engine power",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Yamaha Mt-09 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased a new 2024 Yamaha MT-09 on 10/20/24.  No test drive was allowed by the dealer prior to purchase.  There is a safety-related defect affecting the motorcycle which appears to involve the engine control unit (ECU) programming and results in significant loss of engine power",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased a new 2024 Yamaha MT-09 on 10/20/24.  No test drive was allowed by the dealer prior to purchase.  There is a safety-related defect affecting the motorcycle which appears to involve the engine control unit (ECU) programming and results in significant loss of engine power",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

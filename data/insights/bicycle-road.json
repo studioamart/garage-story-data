@@ -1,0 +1,30 @@
+{
+  "slug": "bicycle-road",
+  "make": "Bicycle",
+  "model": "Road",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Drivetrain Wear", "pct": 26, "blurb": "Chains, cassettes, and chainrings stretch and wear with mileage, and skipping or poor shifting follows if the chain is not replaced in time." },
+    { "component": "Brake Pads (Rim / Disc)", "pct": 22, "blurb": "Rim and disc brake pads wear down with use and weather, reducing stopping power and risking damage to the rim or rotor if run too far." },
+    { "component": "Tubeless Sealant / Flats", "pct": 20, "blurb": "Tubeless sealant dries out and needs topping up, and thin road tires still pick up punctures and pinch flats that need attention." },
+    { "component": "Headset / Bottom Bracket Bearings", "pct": 16, "blurb": "Headset and bottom bracket bearings develop play, grinding, or creaking from rain and road grit, especially on higher-mileage bikes." },
+    { "component": "Shifting / Cable or Hydraulic", "pct": 12, "blurb": "Shift cables stretch and housings contaminate, or electronic and hydraulic systems drift, causing slow or imprecise gear changes." },
+    { "component": "Wheel Truing", "pct": 4, "blurb": "Spoke tension shifts over time and wheels go out of true, causing rub and wobble until re-tensioned." }
+  ],
+  "narrative": {
+    "headline": "What road bike owners report most",
+    "summary": "These are issues commonly reported by road cyclists as a general reference, not expert-verified data and possibly outdated. Drivetrain wear, brake pads, and tubeless or flat tire issues tend to come up most.",
+    "issues": [
+      { "component": "Drivetrain Wear", "title": "Drivetrain Wear", "pct": 26, "blurb": "Commonly reported (~26%) — chains, cassettes, and rings wear with mileage and cause skipping if not replaced." },
+      { "component": "Brake Pads (Rim / Disc)", "title": "Brake Pads (Rim / Disc)", "pct": 22, "blurb": "Commonly reported (~22%) — pads wear with use and weather, cutting stopping power and risking rim or rotor damage." },
+      { "component": "Tubeless Sealant / Flats", "title": "Tubeless Sealant & Flats", "pct": 20, "blurb": "Often reported (~20%) — sealant dries out and thin tires still pick up punctures and pinch flats." },
+      { "component": "Headset / Bottom Bracket Bearings", "title": "Headset & Bottom Bracket Bearings", "pct": 16, "blurb": "Reported (~16%) — bearings develop play, grinding, or creaking from rain and grit." },
+      { "component": "Shifting / Cable or Hydraulic", "title": "Shifting (Cable or Hydraulic)", "pct": 12, "blurb": "Reported (~12%) — cables stretch or systems drift, causing slow or imprecise shifts." },
+      { "component": "Wheel Truing", "title": "Wheel Truing", "pct": 4, "blurb": "Reported (~4%) — spoke tension shifts and wheels go out of true, causing rub and wobble." }
+    ]
+  }
+}

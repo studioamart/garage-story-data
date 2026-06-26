@@ -1,0 +1,84 @@
+{
+  "slug": "2012-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:20.419Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "COMING TO A STOP LIGHT  I NOTICED THAT MY GAUGE CLUSTER WASN'T WORKING (COMPLETELY BLANK), AS I CAME TO A STOP I HONKED MY HORN TO GAUGE IT'S POWER AND THEN MY BIKE SHUT OFF COMPLETELY. TRIED JUMPING THE BIKE WHICH WAS SUCCESSFUL IN GETTING IT TO RUN AGAIN, BUT DIED SHORTLY AFTER",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "COMING TO A STOP LIGHT  I NOTICED THAT MY GAUGE CLUSTER WASN'T WORKING (COMPLETELY BLANK), AS I CAME TO A STOP I HONKED MY HORN TO GAUGE IT'S POWER AND THEN MY BIKE SHUT OFF COMPLETELY. TRIED JUMPING THE BIKE WHICH WAS SUCCESSFUL IN GETTING IT TO RUN AGAIN, BUT DIED SHORTLY AFTER",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE REGULATOR/RECTIFIER FAILED, CAUSING THE MOTORCYCLE TO STALL WHILE AT A COMPLETE STOP (FORTUNATELY NOT WHILE MOVING) LOOKED UP VIN AND CONFIRMED WITH KAWASAKI THAT THIS MOTORCYCLE IS SUPPOSEDLY NOT ONE OF THE EFFECTED BIKES BUT AM FAIRLY CONVINCED THAT ONE OF THE FAULT PARTS W",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electronic Stability Control (Esc) (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "COMING TO A STOP LIGHT  I NOTICED THAT MY GAUGE CLUSTER WASN'T WORKING (COMPLETELY BLANK), AS I CAME TO A STOP I HONKED MY HORN TO GAUGE IT'S POWER AND THEN MY BIKE SHUT OFF COMPLETELY. TRIED JUMPING THE BIKE WHICH WAS SUCCESSFUL IN GETTING IT TO RUN AGAIN, BUT DIED SHORTLY AFTER",
+        "pct": 50,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "COMING TO A STOP LIGHT  I NOTICED THAT MY GAUGE CLUSTER WASN'T WORKING (COMPLETELY BLANK), AS I CAME TO A STOP I HONKED MY HORN TO GAUGE IT'S POWER AND THEN MY BIKE SHUT OFF COMPLETELY. TRIED JUMPING THE BIKE WHICH WAS SUCCESSFUL IN GETTING IT TO RUN AGAIN, BUT DIED SHORTLY AFTER",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE REGULATOR/RECTIFIER FAILED, CAUSING THE MOTORCYCLE TO STALL WHILE AT A COMPLETE STOP (FORTUNATELY NOT WHILE MOVING) LOOKED UP VIN AND CONFIRMED WITH KAWASAKI THAT THIS MOTORCYCLE IS SUPPOSEDLY NOT ONE OF THE EFFECTED BIKES BUT AM FAIRLY CONVINCED THAT ONE OF THE FAULT PARTS W",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-can-am-spyder-f3",
+  "make": "Can-Am",
+  "model": "Spyder F3",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CAN-AM/SPYDER%20F3#complaints",
+  "generatedAt": "2026-06-23T22:36:35.941Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2018 SPYDER F3. CONSUMER WRITES SEEKING REIMBURSEMENT FOR REPAIRS MADE RELATED TO NHTSA SAFETY RECALL 22V-352.  THE CONSUMER STATED THE VEHICLE WAS NOT TAKEN TO THE LOCAL DEALER DUE TO THEM HAVING POOR SERVICE. THE VEHICLE WAS REPAIRED AT LOCAL SHOP THAT SPECIALIZES IN THE SPYDER",
+      "pct": 42
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Aug 22 Parking brake will not release AGAIN.  This has happened multiple times.  This is a known issue and has been reported multiple times.  This needs to be address/fixed by BRP!    Sept 2021, I had to manually disengage parking brake to get the bike to move.  I drove it withou",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Gear shift paddle will not respond when manually down shifting. Sometimes, I have to pull hard on the lever 3 or 4 times to get it to down shift. Sometimes it simply won’t manually change gears. This is very dangerous, especially on corners, when you need to slow down quickly the",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on a straight stretch of highway at posted highway speeds of 75mph, no additional acceleration, torque, turning, or high rpms, my bike experienced a sudden jolt and immediate loss of propulsion. I was able to pull to the side of the highway to find my front left dri",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on a straight stretch of highway at posted highway speeds of 75mph, no additional acceleration, torque, turning, or high rpms, my bike experienced a sudden jolt and immediate loss of propulsion. I was able to pull to the side of the highway to find my front left dri",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Can-Am Spyder F3 owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Power Train (42% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2018 SPYDER F3. CONSUMER WRITES SEEKING REIMBURSEMENT FOR REPAIRS MADE RELATED TO NHTSA SAFETY RECALL 22V-352.  THE CONSUMER STATED THE VEHICLE WAS NOT TAKEN TO THE LOCAL DEALER DUE TO THEM HAVING POOR SERVICE. THE VEHICLE WAS REPAIRED AT LOCAL SHOP THAT SPECIALIZES IN THE SPYDER",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "5 reports (42%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Aug 22 Parking brake will not release AGAIN.  This has happened multiple times.  This is a known issue and has been reported multiple times.  This needs to be address/fixed by BRP!    Sept 2021, I had to manually disengage parking brake to get the bike to move.  I drove it withou",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Gear shift paddle will not respond when manually down shifting. Sometimes, I have to pull hard on the lever 3 or 4 times to get it to down shift. Sometimes it simply won’t manually change gears. This is very dangerous, especially on corners, when you need to slow down quickly the",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on a straight stretch of highway at posted highway speeds of 75mph, no additional acceleration, torque, turning, or high rpms, my bike experienced a sudden jolt and immediate loss of propulsion. I was able to pull to the side of the highway to find my front left dri",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on a straight stretch of highway at posted highway speeds of 75mph, no additional acceleration, torque, turning, or high rpms, my bike experienced a sudden jolt and immediate loss of propulsion. I was able to pull to the side of the highway to find my front left dri",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

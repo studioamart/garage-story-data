@@ -1,0 +1,106 @@
+{
+  "slug": "2009-kawasaki-klr650",
+  "make": "Kawasaki",
+  "model": "KLR650",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/KAWASAKI/KLR650#complaints",
+  "generatedAt": "2026-06-23T22:34:36.142Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 KAWASAKI KLR650 MOTORCYCLE.  THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 65 MPH, THE ENGINE STALLED WITHOUT WARNING. THE MOTORCYCLE WAS NOT ABLE TO RESTART.  THE MOTORCYCLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAI",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS COMPLAINT DOES NOT REPRESENT AN INCIDENT WITH MY PERSONAL VEHICLE.  THE KAWASAKI KLR650 SERIES, ALL MODELS SPANNING ALL MFG YEARS, SUFFER FROM A WEAK CHAIN TENSIONER ASSEMBLY FOR THE COUNTERBALANCE SHAFTS. THIS IS AN INTERNAL ENGINE COMPONENT.  ON THE INTERNET, THIS ASSEMBLY",
+      "pct": 50
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE KLR 650 REAR SIGNAL LIGHTS ARE MADE WITH DEFECTIVE RUBBER THAT CAUSES THEM TO BREAK AND DANGLE BY THE ELECTRICAL WIRES. SOME OF THE 2008 MODELS WERE RECALLED, MINE IS A 2009. I CONTACTED KAWASAKI AND THEY SAID THERE IS NOT AN OPEN RECALL FOR THIS ISSUE AND CONTACTED THE LOCAL",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS `09 KLR 650 WAS PURCHASED USED FROM GUY WHO BOUGHT IT NEW HAVING APPROX. 8000 MI.  MY BIGGEST COMPLAINT IS POSSIBLY DUE TO ENGINE MOUNTING AND VIBRATION WHEREAS FOUND EXHAUST MANIFOLD CLAMP HAD VIBRATED LOOSE AND DETACHED FROM ENGINE EXHAUST PORT.    ANOTHER TIME FOUND ONE O",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Kawasaki Klr650 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 KAWASAKI KLR650 MOTORCYCLE.  THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 65 MPH, THE ENGINE STALLED WITHOUT WARNING. THE MOTORCYCLE WAS NOT ABLE TO RESTART.  THE MOTORCYCLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAI",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS COMPLAINT DOES NOT REPRESENT AN INCIDENT WITH MY PERSONAL VEHICLE.  THE KAWASAKI KLR650 SERIES, ALL MODELS SPANNING ALL MFG YEARS, SUFFER FROM A WEAK CHAIN TENSIONER ASSEMBLY FOR THE COUNTERBALANCE SHAFTS. THIS IS AN INTERNAL ENGINE COMPONENT.  ON THE INTERNET, THIS ASSEMBLY",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE KLR 650 REAR SIGNAL LIGHTS ARE MADE WITH DEFECTIVE RUBBER THAT CAUSES THEM TO BREAK AND DANGLE BY THE ELECTRICAL WIRES. SOME OF THE 2008 MODELS WERE RECALLED, MINE IS A 2009. I CONTACTED KAWASAKI AND THEY SAID THERE IS NOT AN OPEN RECALL FOR THIS ISSUE AND CONTACTED THE LOCAL",
+        "pct": 17,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS `09 KLR 650 WAS PURCHASED USED FROM GUY WHO BOUGHT IT NEW HAVING APPROX. 8000 MI.  MY BIGGEST COMPLAINT IS POSSIBLY DUE TO ENGINE MOUNTING AND VIBRATION WHEREAS FOUND EXHAUST MANIFOLD CLAMP HAD VIBRATED LOOSE AND DETACHED FROM ENGINE EXHAUST PORT.    ANOTHER TIME FOUND ONE O",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2017-kawasaki-klr650",
+  "make": "Kawasaki",
+  "model": "KLR650",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KAWASAKI/KLR650#complaints",
+  "generatedAt": "2026-06-23T22:34:38.412Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FOOT PEG MOUNTING BRACKET BOLT SHEARED WHILE RIDING",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Kawasaki Klr650 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FOOT PEG MOUNTING BRACKET BOLT SHEARED WHILE RIDING",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

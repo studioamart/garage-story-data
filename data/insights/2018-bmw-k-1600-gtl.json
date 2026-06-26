@@ -1,0 +1,128 @@
+{
+  "slug": "2018-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:34.797Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I OWNED A 2012 MODEL OF THIS BIKE FEW YEARS BACK AND I HAD THE SAME SYMPTOMS ONLY APPARENT IN THIS MODEL OF BMW BRAND BIKES. THIS PROBLEM WELL KNOWN IN THE BMW RIDERS COMMUNITY AS \"PULLING TOTHE LEFT\" ISSUE ONLY ON K1600GTL MODEL BIKES SINCE YEARS. SOME PULLS EXTREMELY AGGRESSIVE",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A BMW K1600. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V-692000 (POWER TRAIN) HOWEVER, THE PARTS TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT MANUFACTURER HAD EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL RE",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 BMW K 1600 GTL. THE CONTACT STATED WHILE DRIVING AT 65 MPH, THE ACCELERATOR PEDAL WAS DEPRESSED BUT THE VEHICLE FAILED TO ACCELERATE. THE CONTACT STATED ENGINE PROBLEM WARNING MESSAGE DISPLAYED. THE CONTACT WAS ABLE TO PARK ON THE SIDE OF ROAD AND AFTE",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 BMW K 1600 GTL. THE CONTACT STATED WHILE DRIVING AT 65 MPH, THE ACCELERATOR PEDAL WAS DEPRESSED BUT THE VEHICLE FAILED TO ACCELERATE. THE CONTACT STATED ENGINE PROBLEM WARNING MESSAGE DISPLAYED. THE CONTACT WAS ABLE TO PARK ON THE SIDE OF ROAD AND AFTE",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At the end of April, 2026,  I was using the 'Reverse Gear' function to assist with parking the motorcycle.  I needed to move back about 15 feet into the parking spot.   As I was moving backward, at approximately 3 to 5 feet,  the reverse function suddenly stopped propelling the m",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Steering (31% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I OWNED A 2012 MODEL OF THIS BIKE FEW YEARS BACK AND I HAD THE SAME SYMPTOMS ONLY APPARENT IN THIS MODEL OF BMW BRAND BIKES. THIS PROBLEM WELL KNOWN IN THE BMW RIDERS COMMUNITY AS \"PULLING TOTHE LEFT\" ISSUE ONLY ON K1600GTL MODEL BIKES SINCE YEARS. SOME PULLS EXTREMELY AGGRESSIVE",
+        "pct": 31,
+        "title": "Steering",
+        "blurb": "5 reports (31%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A BMW K1600. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V-692000 (POWER TRAIN) HOWEVER, THE PARTS TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT MANUFACTURER HAD EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL RE",
+        "pct": 19,
+        "title": "Power Train",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 BMW K 1600 GTL. THE CONTACT STATED WHILE DRIVING AT 65 MPH, THE ACCELERATOR PEDAL WAS DEPRESSED BUT THE VEHICLE FAILED TO ACCELERATE. THE CONTACT STATED ENGINE PROBLEM WARNING MESSAGE DISPLAYED. THE CONTACT WAS ABLE TO PARK ON THE SIDE OF ROAD AND AFTE",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 BMW K 1600 GTL. THE CONTACT STATED WHILE DRIVING AT 65 MPH, THE ACCELERATOR PEDAL WAS DEPRESSED BUT THE VEHICLE FAILED TO ACCELERATE. THE CONTACT STATED ENGINE PROBLEM WARNING MESSAGE DISPLAYED. THE CONTACT WAS ABLE TO PARK ON THE SIDE OF ROAD AND AFTE",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At the end of April, 2026,  I was using the 'Reverse Gear' function to assist with parking the motorcycle.  I needed to move back about 15 feet into the parking spot.   As I was moving backward, at approximately 3 to 5 feet,  the reverse function suddenly stopped propelling the m",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

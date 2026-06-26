@@ -1,0 +1,28 @@
+{
+  "slug": "bicycle-hybrid",
+  "make": "Bicycle",
+  "model": "Hybrid",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Drivetrain & Chain", "pct": 26, "blurb": "Daily commuting miles and weather wear the chain and cassette, and a neglected chain leads to skipping and faster drivetrain replacement." },
+    { "component": "Brakes", "pct": 22, "blurb": "Rim or disc brakes need regular pad and adjustment attention, since stop-and-go commuting eats through pads and detunes the setup." },
+    { "component": "Flats / Tires", "pct": 22, "blurb": "Commuter tires pick up glass and debris on city streets, making flats one of the most frequent interruptions for riders." },
+    { "component": "Rack / Fender / Accessory Bolts Loosening", "pct": 18, "blurb": "Racks, fenders, and bolted-on accessories vibrate loose over time, causing rattles and the risk of parts shifting or dropping." },
+    { "component": "Bearings", "pct": 12, "blurb": "Hub, headset, and bottom bracket bearings wear and develop play from all-weather commuting and infrequent service." }
+  ],
+  "narrative": {
+    "headline": "What hybrid / commuter bike owners report most",
+    "summary": "These are issues commonly reported by hybrid and commuter riders as a general reference, not expert-verified data and possibly outdated. Drivetrain, brakes, and flats tend to dominate for bikes ridden in all weather.",
+    "issues": [
+      { "component": "Drivetrain & Chain", "title": "Drivetrain & Chain", "pct": 26, "blurb": "Commonly reported (~26%) — commuting miles and weather wear the chain and cassette; neglect causes skipping." },
+      { "component": "Brakes", "title": "Brakes", "pct": 22, "blurb": "Commonly reported (~22%) — stop-and-go commuting eats pads and detunes the brakes." },
+      { "component": "Flats / Tires", "title": "Flats & Tires", "pct": 22, "blurb": "Commonly reported (~22%) — city debris causes frequent flats and tire wear." },
+      { "component": "Rack / Fender / Accessory Bolts Loosening", "title": "Rack, Fender & Accessory Bolts Loosening", "pct": 18, "blurb": "Often reported (~18%) — racks, fenders, and accessories vibrate loose and rattle." },
+      { "component": "Bearings", "title": "Bearings", "pct": 12, "blurb": "Reported (~12%) — hub, headset, and bottom bracket bearings develop play from all-weather use." }
+    ]
+  }
+}

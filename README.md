@@ -1,5 +1,5 @@
-# garage-story-data
+# vehiclestory-data
 
-Public dataset for garage-story. Served as a data release.
-
-Skeleton only.
+Public dataset for the **Vehicle Story** app — multi-vehicle maintenance schedules & task
+templates (car, motorcycle, RV, bike), manifest + JSON via GitHub Pages. Reference only; not
+professional mechanical advice.

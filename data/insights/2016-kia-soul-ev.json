@@ -1,0 +1,129 @@
+{
+  "slug": "2016-kia-soul-ev",
+  "make": "Kia",
+  "model": "Soul EV",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/KIA/SOUL%20EV#complaints",
+  "generatedAt": "2026-06-23T16:37:01.583Z",
+  "total": 798,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 544,
+      "crash": 4,
+      "fire": 28,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY CAR IS 2016, ITS 18 MONTHS OLD HAS 19K MILES AND THE ONLY THING DONE TO THE CAR WAS OIL CHANGES WHICH WERE PERFORMED AT THE DEALER WHERE I BOUGHT MY CAR. ON JAN 19, 2018 MY CAR STOP WORKING WHILE DRIVING 45 MILES AN HOUR ON THE STREET. IT HAPPENED ON NW 36TH STREET GOING EAST ",
+      "pct": 68
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 104,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 KIA SOUL. WHILE DRIVING APPROXIMATELY 25 MPH, A KNOCKING SOUND WAS HEARD FROM THE ENGINE COMPARTMENT AND THE VEHICLE LOST POWER. THE VEHICLE WAS DRIVEN TO GERALD KIA OF NAPERVILLE (1661 AURORA AVE, NAPERVILLE, IL 60540) WHERE IT WAS DETERMINED THAT THE",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 79,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I EXPERIENCE INTERMITTENT HESITATION WHEN PRESSING ON THE ACCELERATOR.  IT FEELS LIKE THE CAR ISN'T DOWNSHIFTING CORRECTLY OR ISN'T GETTING ENOUGH FUEL IN ORDER TO PICK UP SPEED. I TOOK THE CAR TO THE KIA DEALER SERVICE DEPARTMENT AND THEY SAID THEY DIDN'T FIND ANY PROBLEMS AND C",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 63,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SINCE DAY ONE, MY KIA LOOSE COMMUNICATION WITH GAS PEDAL TO TRANSMISSION OR COMPUTER.FROM STOP I ACCELERATE, AND IF FOR ANY REASON I OUGHT TO RELEASE THE GAS PEDAL, THE TRANSMISSION ACT LIKE IT IS IN NEUTRAL GEAR,AFTER ACCELERATE TWO OR THREE TIMES IT ACCELERATE ABRUPTLY.IT ACT E",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 57,
+      "crash": 1,
+      "fire": 7,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "DRIVING THIS CAR HIGH SPEEDS (FREEWAY) FOR LONGER PERIODS OF TIME (30 MINUTES OR MORE PER DAY) FOR MORE THAN 3 CONSECUTIVE DAYS AFFECTS MY OVERALL HEALTH AND ABILITY TO DRIVE THE CAR. IT GET CHRONIC HEADACHES, TROUBLE CONCENTRATING, SLEEPING PROBLEMS, DIZZINESS, FORGETFULNESS, EX",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Kia Soul Ev owners report most",
+    "summary": "The dominant pattern across owner complaints is sudden loss of power while driving, often with no warning. A secondary cluster describes knocking noises from the engine compartment accompanied by power loss, and a smaller share of owners report hesitation or sluggish response when pressing the accelerator. Powertrain communication issues — where the vehicle behaves as though it has slipped into neutral after the accelerator is released — also appear across reports.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 544,
+        "crash": 4,
+        "fire": 28,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY CAR IS 2016, ITS 18 MONTHS OLD HAS 19K MILES AND THE ONLY THING DONE TO THE CAR WAS OIL CHANGES WHICH WERE PERFORMED AT THE DEALER WHERE I BOUGHT MY CAR. ON JAN 19, 2018 MY CAR STOP WORKING WHILE DRIVING 45 MILES AN HOUR ON THE STREET. IT HAPPENED ON NW 36TH STREET GOING EAST ",
+        "pct": 68,
+        "title": "Engine",
+        "blurb": "Owners report the vehicle stopping or cutting out entirely while driving at normal road speeds, with no prior warning signs. · 28 fire · 4 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 104,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 KIA SOUL. WHILE DRIVING APPROXIMATELY 25 MPH, A KNOCKING SOUND WAS HEARD FROM THE ENGINE COMPARTMENT AND THE VEHICLE LOST POWER. THE VEHICLE WAS DRIVEN TO GERALD KIA OF NAPERVILLE (1661 AURORA AVE, NAPERVILLE, IL 60540) WHERE IT WAS DETERMINED THAT THE",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "Owners report a knocking sound from the engine compartment followed by sudden loss of power while the vehicle is in motion. · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 79,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I EXPERIENCE INTERMITTENT HESITATION WHEN PRESSING ON THE ACCELERATOR.  IT FEELS LIKE THE CAR ISN'T DOWNSHIFTING CORRECTLY OR ISN'T GETTING ENOUGH FUEL IN ORDER TO PICK UP SPEED. I TOOK THE CAR TO THE KIA DEALER SERVICE DEPARTMENT AND THEY SAID THEY DIDN'T FIND ANY PROBLEMS AND C",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Owners report intermittent hesitation when pressing the accelerator, describing a feeling that the vehicle is not picking up speed as expected. · 4 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 63,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SINCE DAY ONE, MY KIA LOOSE COMMUNICATION WITH GAS PEDAL TO TRANSMISSION OR COMPUTER.FROM STOP I ACCELERATE, AND IF FOR ANY REASON I OUGHT TO RELEASE THE GAS PEDAL, THE TRANSMISSION ACT LIKE IT IS IN NEUTRAL GEAR,AFTER ACCELERATE TWO OR THREE TIMES IT ACCELERATE ABRUPTLY.IT ACT E",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "Owners report the vehicle losing its response to the accelerator after releasing and re-pressing the pedal, causing the vehicle to behave as though it has shifted into neutral. · 2 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 57,
+        "crash": 1,
+        "fire": 7,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "DRIVING THIS CAR HIGH SPEEDS (FREEWAY) FOR LONGER PERIODS OF TIME (30 MINUTES OR MORE PER DAY) FOR MORE THAN 3 CONSECUTIVE DAYS AFFECTS MY OVERALL HEALTH AND ABILITY TO DRIVE THE CAR. IT GET CHRONIC HEADACHES, TROUBLE CONCENTRATING, SLEEPING PROBLEMS, DIZZINESS, FORGETFULNESS, EX",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "57 reports (7%) · 7 fire · 1 crash · 5 injured"
+      }
+    ],
+    "enriched": true
+  }
+}

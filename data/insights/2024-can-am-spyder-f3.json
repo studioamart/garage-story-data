@@ -1,0 +1,40 @@
+{
+  "slug": "2024-can-am-spyder-f3",
+  "make": "Can-Am",
+  "model": "Spyder F3",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CAN-AM/SPYDER%20F3#complaints",
+  "generatedAt": "2026-06-23T22:36:37.145Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I cold started the motorcycle and while waiting for a security gate to open the engine suddenly quit.  I hit the starter and it immediately restarted. Then after I pulled out into traffic the engine died again.  Fortunately I was in the right hand lane and again hit the starter a",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Can-Am Spyder F3 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I cold started the motorcycle and while waiting for a security gate to open the engine suddenly quit.  I hit the starter and it immediately restarted. Then after I pulled out into traffic the engine died again.  Fortunately I was in the right hand lane and again hit the starter a",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

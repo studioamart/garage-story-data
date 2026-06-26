@@ -1,0 +1,40 @@
+{
+  "slug": "2025-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2025,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2025/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:48.414Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The motorcycle experienced repeated drivetrain grinding and engine stall during clutch release. The manufacturer failed to provide proper escalation after multiple attempts, and their support system disconnected or refused to document my safety concern.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2025 Honda Cbr1000rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The motorcycle experienced repeated drivetrain grinding and engine stall during clutch release. The manufacturer failed to provide proper escalation after multiple attempts, and their support system disconnected or refused to document my safety concern.",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}
