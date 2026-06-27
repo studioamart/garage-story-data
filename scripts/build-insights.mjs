@@ -10,10 +10,23 @@ import { fileURLToPath } from 'node:url';
 
 const dir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../data/insights');
 const out = [];
+let skipped = 0;
 for (const f of fs.readdirSync(dir)) {
   if (f === 'all.json' || !f.endsWith('.json')) continue;
-  out.push(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')));
+  let m;
+  try {
+    m = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+  } catch {
+    skipped++;
+    continue;
+  }
+  // only valid ModelInsight rows (must be sortable/renderable by the site)
+  if (m && typeof m.make === 'string' && typeof m.model === 'string' && typeof m.year === 'number') {
+    out.push(m);
+  } else {
+    skipped++;
+  }
 }
 out.sort((a, b) => a.make.localeCompare(b.make) || b.year - a.year || a.model.localeCompare(b.model));
 fs.writeFileSync(path.join(dir, 'all.json'), JSON.stringify(out));
-console.log(`wrote data/insights/all.json (${out.length} models)`);
+console.log(`wrote data/insights/all.json (${out.length} models, skipped ${skipped})`);
