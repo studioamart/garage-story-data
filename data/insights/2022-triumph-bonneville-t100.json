@@ -1,0 +1,40 @@
+{
+  "slug": "2022-triumph-bonneville-t100",
+  "make": "Triumph",
+  "model": "Bonneville T100",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TRIUMPH/BONNEVILLE%20T100#complaints",
+  "generatedAt": "2026-06-23T22:35:47.601Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The bike will no longer downshift reliably.   This jeopardizes the rider because the inability to select a lower gear to slow the motorcycle using engine braking and when arriving at a traffic light or an intersection that requires a lower gear to pull out from a stop safely into",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Triumph Bonneville T100 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The bike will no longer downshift reliably.   This jeopardizes the rider because the inability to select a lower gear to slow the motorcycle using engine braking and when arriving at a traffic light or an intersection that requires a lower gear to pull out from a stop safely into",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

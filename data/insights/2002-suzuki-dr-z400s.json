@@ -1,0 +1,62 @@
+{
+  "slug": "2002-suzuki-dr-z400s",
+  "make": "Suzuki",
+  "model": "DR-Z400S",
+  "year": 2002,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2002/SUZUKI/DR-Z400S#complaints",
+  "generatedAt": "2026-06-23T22:35:12.603Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DT*:  THE CONTACT STATED WHILE DRIVING OFF ROAD IN WARM WEATHER THE MOTORCYCLE RUNS ROUGH AND THERE IS A GAS SMELL.  THE GAS CAP WAS TAKEN OFF OF THE VEHICLE; GASOLINE SPURTED FROM THE GAS TANK.  THE DEALER STATED THE MOTORCYCLE NEEDED A VENTED GAS CAP, HOWEVER DUE TO THE MOTORCY",
+      "pct": 100
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DT*:  THE CONTACT STATED WHILE DRIVING OFF ROAD IN WARM WEATHER THE MOTORCYCLE RUNS ROUGH AND THERE IS A GAS SMELL.  THE GAS CAP WAS TAKEN OFF OF THE VEHICLE; GASOLINE SPURTED FROM THE GAS TANK.  THE DEALER STATED THE MOTORCYCLE NEEDED A VENTED GAS CAP, HOWEVER DUE TO THE MOTORCY",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2002 Suzuki Dr-Z400s owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DT*:  THE CONTACT STATED WHILE DRIVING OFF ROAD IN WARM WEATHER THE MOTORCYCLE RUNS ROUGH AND THERE IS A GAS SMELL.  THE GAS CAP WAS TAKEN OFF OF THE VEHICLE; GASOLINE SPURTED FROM THE GAS TANK.  THE DEALER STATED THE MOTORCYCLE NEEDED A VENTED GAS CAP, HOWEVER DUE TO THE MOTORCY",
+        "pct": 100,
+        "title": "Fuel System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DT*:  THE CONTACT STATED WHILE DRIVING OFF ROAD IN WARM WEATHER THE MOTORCYCLE RUNS ROUGH AND THERE IS A GAS SMELL.  THE GAS CAP WAS TAKEN OFF OF THE VEHICLE; GASOLINE SPURTED FROM THE GAS TANK.  THE DEALER STATED THE MOTORCYCLE NEEDED A VENTED GAS CAP, HOWEVER DUE TO THE MOTORCY",
+        "pct": 100,
+        "title": "Gasoline",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

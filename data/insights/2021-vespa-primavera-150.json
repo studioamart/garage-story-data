@@ -1,0 +1,62 @@
+{
+  "slug": "2021-vespa-primavera-150",
+  "make": "Vespa",
+  "model": "Primavera 150",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VESPA/PRIMAVERA%20150#complaints",
+  "generatedAt": "2026-06-23T22:36:26.497Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have taken this bike to the dealer as the wheel is defective. They even mentioned that this is a known issue and i fear for my safety. I have inquired with several other owners of similar vehicles and they stated this is a known issue from Vespa.  I inquired with the manufactur",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Piaggio Vespa Primavera. The contact stated that while approaching a stop light at 35 MPH, the front brake lever failed to operate without warning. The contact needed additional brake travel time to stop the vehicle with the rear brake lever. The contact w",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Vespa Primavera 150 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Wheels (50% of reports).",
+    "issues": [
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have taken this bike to the dealer as the wheel is defective. They even mentioned that this is a known issue and i fear for my safety. I have inquired with several other owners of similar vehicles and they stated this is a known issue from Vespa.  I inquired with the manufactur",
+        "pct": 50,
+        "title": "Wheels",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Piaggio Vespa Primavera. The contact stated that while approaching a stop light at 35 MPH, the front brake lever failed to operate without warning. The contact needed additional brake travel time to stop the vehicle with the rear brake lever. The contact w",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

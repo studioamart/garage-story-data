@@ -1,0 +1,106 @@
+{
+  "slug": "2017-suzuki-gsx-r1000",
+  "make": "Suzuki",
+  "model": "GSX-R1000",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/SUZUKI/GSX-R1000#complaints",
+  "generatedAt": "2026-06-23T22:35:07.765Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 SUZUKI GSX-R1000. AFTER PULLING THE THROTTLE, A LOUD NOISE COULD BE HEARD FROM THE MOTORCYCLE AND IT BECAME INOPERABLE. THE VEHICLE WAS TOWED TO FLORIDA MOTORSPORTS (6329 NAPLES BLVD, FL) WHERE IT WAS DIAGNOSED THAT THE OUTPUT SHAFT WAS DEFECTIVE AND N",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE POSITION LIGHTS THAT ARE LED ILLUMINATED ON THE R MODEL OF THE GSXR ARE COVERED BY PLASTIC THAT BECOMES SUSCEPTIBLE TO CRACKING AND BREAKING WITH NORMAL DRIVING WHEN THE MOTORCYCLE IS LEFT IN THE SUN DUE TO COMMON ROAD DEBRIS. WAS DRIVING AT 40-45 MPH ON A CITY STREET AFTER T",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 SUZUKI GSX-R1000. AFTER PULLING THE THROTTLE, A LOUD NOISE COULD BE HEARD FROM THE MOTORCYCLE AND IT BECAME INOPERABLE. THE VEHICLE WAS TOWED TO FLORIDA MOTORSPORTS (6329 NAPLES BLVD, FL) WHERE IT WAS DIAGNOSED THAT THE OUTPUT SHAFT WAS DEFECTIVE AND N",
+      "pct": 25
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE POSITION LIGHTS THAT ARE LED ILLUMINATED ON THE R MODEL OF THE GSXR ARE COVERED BY PLASTIC THAT BECOMES SUSCEPTIBLE TO CRACKING AND BREAKING WITH NORMAL DRIVING WHEN THE MOTORCYCLE IS LEFT IN THE SUN DUE TO COMMON ROAD DEBRIS. WAS DRIVING AT 40-45 MPH ON A CITY STREET AFTER T",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Suzuki Gsx-R1000 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 SUZUKI GSX-R1000. AFTER PULLING THE THROTTLE, A LOUD NOISE COULD BE HEARD FROM THE MOTORCYCLE AND IT BECAME INOPERABLE. THE VEHICLE WAS TOWED TO FLORIDA MOTORSPORTS (6329 NAPLES BLVD, FL) WHERE IT WAS DIAGNOSED THAT THE OUTPUT SHAFT WAS DEFECTIVE AND N",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE POSITION LIGHTS THAT ARE LED ILLUMINATED ON THE R MODEL OF THE GSXR ARE COVERED BY PLASTIC THAT BECOMES SUSCEPTIBLE TO CRACKING AND BREAKING WITH NORMAL DRIVING WHEN THE MOTORCYCLE IS LEFT IN THE SUN DUE TO COMMON ROAD DEBRIS. WAS DRIVING AT 40-45 MPH ON A CITY STREET AFTER T",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 SUZUKI GSX-R1000. AFTER PULLING THE THROTTLE, A LOUD NOISE COULD BE HEARD FROM THE MOTORCYCLE AND IT BECAME INOPERABLE. THE VEHICLE WAS TOWED TO FLORIDA MOTORSPORTS (6329 NAPLES BLVD, FL) WHERE IT WAS DIAGNOSED THAT THE OUTPUT SHAFT WAS DEFECTIVE AND N",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE POSITION LIGHTS THAT ARE LED ILLUMINATED ON THE R MODEL OF THE GSXR ARE COVERED BY PLASTIC THAT BECOMES SUSCEPTIBLE TO CRACKING AND BREAKING WITH NORMAL DRIVING WHEN THE MOTORCYCLE IS LEFT IN THE SUN DUE TO COMMON ROAD DEBRIS. WAS DRIVING AT 40-45 MPH ON A CITY STREET AFTER T",
+        "pct": 25,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

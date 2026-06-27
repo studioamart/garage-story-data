@@ -1,0 +1,62 @@
+{
+  "slug": "2009-suzuki-gsx-r600",
+  "make": "Suzuki",
+  "model": "GSX-R600",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/SUZUKI/GSX-R600#complaints",
+  "generatedAt": "2026-06-23T22:34:54.212Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 SUZUKI GSX-R600. THE CONTACT STATED WHILE RIDING THE MOTORCYCLE AT 65 MPH, THE MOTORCYCLE HESITATED AND ALL THE WARNING LIGHTS ILLUMINATED AS THE MOTORCYCLE STALLED. THE CONTACT STATED THAT THE MOTORCYCLE WAS SHUT DOWN HOWEVER WAS ABLE TO RESTART AFTER",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 SUZUKI GSX-R600. THE CONTACT STATED WHILE RIDING THE MOTORCYCLE AT 65 MPH, THE MOTORCYCLE HESITATED AND ALL THE WARNING LIGHTS ILLUMINATED AS THE MOTORCYCLE STALLED. THE CONTACT STATED THAT THE MOTORCYCLE WAS SHUT DOWN HOWEVER WAS ABLE TO RESTART AFTER",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Suzuki Gsx-R600 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 SUZUKI GSX-R600. THE CONTACT STATED WHILE RIDING THE MOTORCYCLE AT 65 MPH, THE MOTORCYCLE HESITATED AND ALL THE WARNING LIGHTS ILLUMINATED AS THE MOTORCYCLE STALLED. THE CONTACT STATED THAT THE MOTORCYCLE WAS SHUT DOWN HOWEVER WAS ABLE TO RESTART AFTER",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 SUZUKI GSX-R600. THE CONTACT STATED WHILE RIDING THE MOTORCYCLE AT 65 MPH, THE MOTORCYCLE HESITATED AND ALL THE WARNING LIGHTS ILLUMINATED AS THE MOTORCYCLE STALLED. THE CONTACT STATED THAT THE MOTORCYCLE WAS SHUT DOWN HOWEVER WAS ABLE TO RESTART AFTER",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%) · 1 fire"
+      }
+    ]
+  }
+}

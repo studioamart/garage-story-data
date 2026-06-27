@@ -1,0 +1,40 @@
+{
+  "slug": "2024-aprilia-rs-660",
+  "make": "Aprilia",
+  "model": "RS 660",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/APRILIA/RS%20660#complaints",
+  "generatedAt": "2026-06-23T22:36:19.218Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Motorcycle had a sudden engine knock causing catastrophic engine failure after going over a abutment. Issue found to be a broken connection rods. No warning lights, clear traffic, happened at 3:30 in the morning.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Aprilia Rs 660 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Motorcycle had a sudden engine knock causing catastrophic engine failure after going over a abutment. Issue found to be a broken connection rods. No warning lights, clear traffic, happened at 3:30 in the morning.",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

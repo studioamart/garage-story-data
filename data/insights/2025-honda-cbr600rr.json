@@ -1,0 +1,40 @@
+{
+  "slug": "2025-honda-cbr600rr",
+  "make": "Honda",
+  "model": "CBR600RR",
+  "year": 2025,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2025/HONDA/CBR600RR#complaints",
+  "generatedAt": "2026-06-23T22:33:40.590Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "[XXX] [XXX] Fax: [XXX] [XXX] INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2025 Honda Cbr600rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "[XXX] [XXX] Fax: [XXX] [XXX] INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2022-indian-scout",
+  "make": "Indian",
+  "model": "Scout",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/INDIAN/SCOUT#complaints",
+  "generatedAt": "2026-06-23T22:36:02.535Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Indian Scout motorcycle. The contact stated while riding approximately 5 MPH, the ABS system inadvertently locked up. There was the smell of burning metal. The ABS warning light illuminated on the instrument panel after the motorcycle stopped. The motorcyc",
+      "pct": 100
+    },
+    {
+      "component": "AIR",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Indian Scout motorcycle. The contact stated while riding approximately 5 MPH, the ABS system inadvertently locked up. There was the smell of burning metal. The ABS warning light illuminated on the instrument panel after the motorcycle stopped. The motorcyc",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Indian Scout owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Indian Scout motorcycle. The contact stated while riding approximately 5 MPH, the ABS system inadvertently locked up. There was the smell of burning metal. The ABS warning light illuminated on the instrument panel after the motorcycle stopped. The motorcyc",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "AIR",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Indian Scout motorcycle. The contact stated while riding approximately 5 MPH, the ABS system inadvertently locked up. There was the smell of burning metal. The ABS warning light illuminated on the instrument panel after the motorcycle stopped. The motorcyc",
+        "pct": 100,
+        "title": "Air",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

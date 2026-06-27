@@ -1,0 +1,40 @@
+{
+  "slug": "2019-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:34.938Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY MOTORCYCLE HAD A TICKING SOUND COMING FROM THE GEARBOX. THE DEALER DECIDED IT WAS NOT SAFE TO RIDE THE BIKE, THAT I SHOULD LEAVE IT UNTIL BMW COMES WITH A SOLUTION. I CURRENTLY HAVE A 2019 K1600 GTL SITTING IN SERVICE WITHOUT ANY RESOLUTION. THE BIKE IS WITH EUROCYCLES OF DAYT",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY MOTORCYCLE HAD A TICKING SOUND COMING FROM THE GEARBOX. THE DEALER DECIDED IT WAS NOT SAFE TO RIDE THE BIKE, THAT I SHOULD LEAVE IT UNTIL BMW COMES WITH A SOLUTION. I CURRENTLY HAVE A 2019 K1600 GTL SITTING IN SERVICE WITHOUT ANY RESOLUTION. THE BIKE IS WITH EUROCYCLES OF DAYT",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "3 reports (100%)"
+      }
+    ]
+  }
+}

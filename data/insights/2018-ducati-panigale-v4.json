@@ -1,0 +1,84 @@
+{
+  "slug": "2018-ducati-panigale-v4",
+  "make": "Ducati",
+  "model": "Panigale V4",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/DUCATI/PANIGALE%20V4#complaints",
+  "generatedAt": "2026-06-23T22:35:40.907Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 DUCATI PANIGALE V4 MOTORCYCLE. THE CONTACT STATED THAT THE MOTORCYCLE MIRROR'S PLASTIC HOUSING FRACTURED. EACH TIME THE CONTACT ATTEMPTED TO ADJUST THE MIRRORS, THE PLASTIC ASSEMBLY FAILED AND THE MIRRORS FRACTURED. THE FAILURE WAS EXPERIENCED NUMEROUS",
+      "pct": 71
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "POTENTIAL OIL COOLER FAILURE AT THE \"B\" NUT JOINT AS OBSERVED ON THREE MOTORCYCLES WORLDWIDE. VEHICLES IN HUNGRY AND THE UNITED KINGDOM WERE IN MOTION WHEN FAILURES OCCURRED. OWNER THAT SUBMITTED THIS INCIDENT INFORMATION HAS PHOTOS OF WHAT APPEARS TO BE AN OIL COOLER JOINT THAT ",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS NEW BIKE IS CUTTING OFF AND ON THE FUEL  LEADING TO ONE BUCKING MOTORCYCLE THAT COULD CAUSE SERIOUS PROBLEMS OR DEATH  VERY BAD ON DECELERATION. NOT ON ACCELERATION   EXTREME DANGER FOR THIS TYPE OF MACHINE  IT'S A NEW ENGINE NEW BIKE BY DUCATI",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ducati Panigale V4 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Visibility/Wiper (71% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 DUCATI PANIGALE V4 MOTORCYCLE. THE CONTACT STATED THAT THE MOTORCYCLE MIRROR'S PLASTIC HOUSING FRACTURED. EACH TIME THE CONTACT ATTEMPTED TO ADJUST THE MIRRORS, THE PLASTIC ASSEMBLY FAILED AND THE MIRRORS FRACTURED. THE FAILURE WAS EXPERIENCED NUMEROUS",
+        "pct": 71,
+        "title": "Visibility/Wiper",
+        "blurb": "5 reports (71%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "POTENTIAL OIL COOLER FAILURE AT THE \"B\" NUT JOINT AS OBSERVED ON THREE MOTORCYCLES WORLDWIDE. VEHICLES IN HUNGRY AND THE UNITED KINGDOM WERE IN MOTION WHEN FAILURES OCCURRED. OWNER THAT SUBMITTED THIS INCIDENT INFORMATION HAS PHOTOS OF WHAT APPEARS TO BE AN OIL COOLER JOINT THAT ",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS NEW BIKE IS CUTTING OFF AND ON THE FUEL  LEADING TO ONE BUCKING MOTORCYCLE THAT COULD CAUSE SERIOUS PROBLEMS OR DEATH  VERY BAD ON DECELERATION. NOT ON ACCELERATION   EXTREME DANGER FOR THIS TYPE OF MACHINE  IT'S A NEW ENGINE NEW BIKE BY DUCATI",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

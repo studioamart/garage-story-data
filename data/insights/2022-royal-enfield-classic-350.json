@@ -1,0 +1,84 @@
+{
+  "slug": "2022-royal-enfield-classic-350",
+  "make": "Royal Enfield",
+  "model": "Classic 350",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/ROYAL%20ENFIELD/CLASSIC%20350#complaints",
+  "generatedAt": "2026-06-23T22:36:10.924Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The speedometer keeps failing under sun and temperature over 70F the back of the speedometer peels causing the needle of the speedometer to stop moving. This results in driver unable to know the speed at which the vehicle is going. The dealer has replaced once but same issue is p",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The speedometer keeps failing under sun and temperature over 70F the back of the speedometer peels causing the needle of the speedometer to stop moving. This results in driver unable to know the speed at which the vehicle is going. The dealer has replaced once but same issue is p",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brake light does not illuminate when brake pedal depressed (while activating rear brake with pedal). There is no mechanical switch. The brake light/pedal relationship is controlled by the ABS modulator. Problem was discovered during a pre-ride inspection.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Royal Enfield Classic 350 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The speedometer keeps failing under sun and temperature over 70F the back of the speedometer peels causing the needle of the speedometer to stop moving. This results in driver unable to know the speed at which the vehicle is going. The dealer has replaced once but same issue is p",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The speedometer keeps failing under sun and temperature over 70F the back of the speedometer peels causing the needle of the speedometer to stop moving. This results in driver unable to know the speed at which the vehicle is going. The dealer has replaced once but same issue is p",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brake light does not illuminate when brake pedal depressed (while activating rear brake with pedal). There is no mechanical switch. The brake light/pedal relationship is controlled by the ABS modulator. Problem was discovered during a pre-ride inspection.",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

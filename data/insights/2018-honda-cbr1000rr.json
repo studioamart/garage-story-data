@@ -1,0 +1,40 @@
+{
+  "slug": "2018-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:52.507Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The part has not failed yet. As soon as I received the recall notice and safety concerns, I stopped riding the motorcycle. I am filing a complaint because it has been two months, I have called the local dealership multiple times, and they are still unable to correct the issue. I ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Honda Cbr1000rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The part has not failed yet. As soon as I received the recall notice and safety concerns, I stopped riding the motorcycle. I am filing a complaint because it has been two months, I have called the local dealership multiple times, and they are still unable to correct the issue. I ",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

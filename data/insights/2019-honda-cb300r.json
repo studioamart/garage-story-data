@@ -1,0 +1,84 @@
+{
+  "slug": "2019-honda-cb300r",
+  "make": "Honda",
+  "model": "CB300R",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/CB300R#complaints",
+  "generatedAt": "2026-06-23T22:33:24.740Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA CB300R MOTORCYCLE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V412000 (POWER TRAIN). THE CONTACT CALLED STATION PARK HONDA AT 502-587-8496 (LOCATED AT 830 S 9TH ST, LOUISVILLE, KY 40203) AND WAS INFORMED THAT THE PARTS WERE NOT",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am submitting a complaint regarding a 2019 Honda CB300R with approximately 1,225 miles.  This vehicle is subject to an open recall (NHTSA Recall 19V-412) involving a transmission mainshaft circlip that can detach and cause gear misalignment and shifting issues.  Prior to servic",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS RIDING THRU A TURN ON MY 2019 HONDA CB300R AND WHEN I STARTED TO ACCELERATE OUT OF IT IN 2ND GEAR IT POPPED OUT OF SECOND AND DOWN INTO NEUTRAL CAUSING ME TO LOSE TRACTION AND FALL ONTO MY LEFT SIDE. LUCKILY I WALKED AWAY WITH ONLY SOME ROAD RASH. I HAD THE RECALL DONE, BUT",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Honda Cb300r owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (67% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA CB300R MOTORCYCLE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V412000 (POWER TRAIN). THE CONTACT CALLED STATION PARK HONDA AT 502-587-8496 (LOCATED AT 830 S 9TH ST, LOUISVILLE, KY 40203) AND WAS INFORMED THAT THE PARTS WERE NOT",
+        "pct": 67,
+        "title": "Power Train",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am submitting a complaint regarding a 2019 Honda CB300R with approximately 1,225 miles.  This vehicle is subject to an open recall (NHTSA Recall 19V-412) involving a transmission mainshaft circlip that can detach and cause gear misalignment and shifting issues.  Prior to servic",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS RIDING THRU A TURN ON MY 2019 HONDA CB300R AND WHEN I STARTED TO ACCELERATE OUT OF IT IN 2ND GEAR IT POPPED OUT OF SECOND AND DOWN INTO NEUTRAL CAUSING ME TO LOSE TRACTION AND FALL ONTO MY LEFT SIDE. LUCKILY I WALKED AWAY WITH ONLY SOME ROAD RASH. I HAD THE RECALL DONE, BUT",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

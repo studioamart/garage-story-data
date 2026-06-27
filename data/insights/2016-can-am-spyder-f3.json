@@ -1,0 +1,40 @@
+{
+  "slug": "2016-can-am-spyder-f3",
+  "make": "Can-Am",
+  "model": "Spyder F3",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/CAN-AM/SPYDER%20F3#complaints",
+  "generatedAt": "2026-06-23T22:36:35.348Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON SATURDAY MAY 6, 2017 I TEST DROVE A 2016 CAN AM SPYDER F3. IT WAS A CLEAR, BUT CHILLY AND WINDY DAY IN NORTH EAST GEORGIA. I HAD PREARRANGED A TEST RIDE WITH MOUNTAIN MOTORSPORTS IN BUFORD, GA. THE MACHINE WAS PREVIOUSLY OWNED, BUT HAD LESS THAN 1000 MILES ON THE ODOMETER.    ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Can-Am Spyder F3 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Service Brakes (50% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON SATURDAY MAY 6, 2017 I TEST DROVE A 2016 CAN AM SPYDER F3. IT WAS A CLEAR, BUT CHILLY AND WINDY DAY IN NORTH EAST GEORGIA. I HAD PREARRANGED A TEST RIDE WITH MOUNTAIN MOTORSPORTS IN BUFORD, GA. THE MACHINE WAS PREVIOUSLY OWNED, BUT HAD LESS THAN 1000 MILES ON THE ODOMETER.    ",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

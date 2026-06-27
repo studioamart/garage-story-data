@@ -1,0 +1,84 @@
+{
+  "slug": "2017-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:52.013Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2017 HONDA CBR1000RR. WHILE RIDING THE MOTORCYCLE AT VARIOUS SPEEDS, IT FAILED TO ACCELERATE. IN ADDITION, AN ABNORMAL NOISE WAS HEARD COMING FROM THE ENGINE BLOCK. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE MOTORCYCLE WAS TAKEN TO CAPITAL POWERSPORT",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2017 HONDA CBR1000RR MOTORCYCLE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 17V681000 (FUEL SYSTEM, GASOLINE); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TI",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 HONDA CBR1000RR. WHILE RIDING THE MOTORCYCLE AT VARIOUS SPEEDS, IT FAILED TO ACCELERATE. IN ADDITION, AN ABNORMAL NOISE WAS HEARD COMING FROM THE ENGINE BLOCK. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE MOTORCYCLE WAS TAKEN TO CAPITAL POWERSPORT",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Honda Cbr1000rr owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2017 HONDA CBR1000RR. WHILE RIDING THE MOTORCYCLE AT VARIOUS SPEEDS, IT FAILED TO ACCELERATE. IN ADDITION, AN ABNORMAL NOISE WAS HEARD COMING FROM THE ENGINE BLOCK. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE MOTORCYCLE WAS TAKEN TO CAPITAL POWERSPORT",
+        "pct": 67,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (67%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2017 HONDA CBR1000RR MOTORCYCLE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 17V681000 (FUEL SYSTEM, GASOLINE); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TI",
+        "pct": 67,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (67%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 HONDA CBR1000RR. WHILE RIDING THE MOTORCYCLE AT VARIOUS SPEEDS, IT FAILED TO ACCELERATE. IN ADDITION, AN ABNORMAL NOISE WAS HEARD COMING FROM THE ENGINE BLOCK. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE MOTORCYCLE WAS TAKEN TO CAPITAL POWERSPORT",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

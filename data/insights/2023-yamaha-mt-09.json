@@ -1,0 +1,40 @@
+{
+  "slug": "2023-yamaha-mt-09",
+  "make": "Yamaha",
+  "model": "MT-09",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/YAMAHA/MT-09#complaints",
+  "generatedAt": "2026-06-23T22:34:06.653Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Yamaha MT-09. The contact stated that while stopped at a traffic light, the contact noticed a crack on the frame of the motorcycle. The contact stated that there was no impact to the frame to have caused the crack. The vehicle was not diagnosed or repaired",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Yamaha Mt-09 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Structure (100% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Yamaha MT-09. The contact stated that while stopped at a traffic light, the contact noticed a crack on the frame of the motorcycle. The contact stated that there was no impact to the frame to have caused the crack. The vehicle was not diagnosed or repaired",
+        "pct": 100,
+        "title": "Structure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "rv-class-a",
+  "make": "RV",
+  "model": "Class A",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Water Intrusion / Roof Leaks", "pct": 26, "blurb": "Sealant on the roof, seams, and slide-outs dries out and cracks with age, letting water reach the wood substructure and cause hidden rot." },
+    { "component": "Slide-Out Mechanism", "pct": 22, "blurb": "Slide-out motors, gears, cables, and seals wear or bind over time, leading to rooms that stick, leak, or fail to extend and retract evenly." },
+    { "component": "Leveling Jacks / Hydraulics", "pct": 18, "blurb": "Hydraulic leveling jacks develop fluid leaks, failed solenoids, or sensor faults that leave the coach unable to level or stow the jacks." },
+    { "component": "Chassis / Engine", "pct": 14, "blurb": "Gas chassis (often the Ford V10) and diesel pushers see drivetrain, exhaust manifold, and overheating issues, especially when running heavy on grades." },
+    { "component": "House Electrical (Converter / Inverter)", "pct": 12, "blurb": "Power converters, inverters, and auto-generator-start systems fail or behave erratically, disrupting 12V house power and battery charging." },
+    { "component": "Tire Age Blowouts", "pct": 8, "blurb": "Motorhome tires often time out before they wear out, and aged sidewalls blow on the highway even with plenty of tread remaining." }
+  ],
+  "narrative": {
+    "headline": "What Class A motorhome owners report most",
+    "summary": "These are issues commonly reported by Class A owners as a general reference, not expert-verified data and possibly outdated. Water intrusion, slide-out mechanisms, and leveling hydraulics tend to come up most across big motorhomes.",
+    "issues": [
+      { "component": "Water Intrusion / Roof Leaks", "title": "Water Intrusion & Roof Leaks", "pct": 26, "blurb": "Commonly reported (~26%) — aging roof and seam sealant lets water in and rots the substructure if not caught early." },
+      { "component": "Slide-Out Mechanism", "title": "Slide-Out Mechanism Failures", "pct": 22, "blurb": "Commonly reported (~22%) — motors, gears, and seals wear so rooms stick, leak, or extend unevenly." },
+      { "component": "Leveling Jacks / Hydraulics", "title": "Leveling Jacks & Hydraulics", "pct": 18, "blurb": "Often reported (~18%) — fluid leaks and failed solenoids leave the coach unable to level or stow." },
+      { "component": "Chassis / Engine", "title": "Chassis & Engine", "pct": 14, "blurb": "Reported (~14%) — gas (Ford V10) and diesel chassis see drivetrain and overheating issues under heavy loads." },
+      { "component": "House Electrical (Converter / Inverter)", "title": "House Electrical (Converter / Inverter)", "pct": 12, "blurb": "Reported (~12%) — converters, inverters, and auto-gen-start systems fail and disrupt 12V house power." },
+      { "component": "Tire Age Blowouts", "title": "Tire Age Blowouts", "pct": 8, "blurb": "Reported (~8%) — RV tires age out before the tread wears, and old sidewalls blow on the road." }
+    ]
+  }
+}

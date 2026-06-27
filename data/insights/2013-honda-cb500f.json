@@ -1,0 +1,40 @@
+{
+  "slug": "2013-honda-cb500f",
+  "make": "Honda",
+  "model": "CB500F",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/CB500F#complaints",
+  "generatedAt": "2026-06-23T22:33:29.183Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LEFT FRONT PARKING LAMP / RUNNING LIGHT INTEGRATED WITH TURN SIGNAL ASSEMBLY FAILS REPEATEDLY. REPLACING WITH OEM OR AFTER-MARKET LONG-LIFE RATED BULBS, THE PARKING LAMP FILAMENT WILL STILL FAIL AFTER A BRIEF PERIOD OF TIME (< 2 MONTHS). FAILURE OCCUR IN ANY SITUATION - WHETHER M",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Cb500f owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Exterior Lighting (100% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LEFT FRONT PARKING LAMP / RUNNING LIGHT INTEGRATED WITH TURN SIGNAL ASSEMBLY FAILS REPEATEDLY. REPLACING WITH OEM OR AFTER-MARKET LONG-LIFE RATED BULBS, THE PARKING LAMP FILAMENT WILL STILL FAIL AFTER A BRIEF PERIOD OF TIME (< 2 MONTHS). FAILURE OCCUR IN ANY SITUATION - WHETHER M",
+        "pct": 100,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

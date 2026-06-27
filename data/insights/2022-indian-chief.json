@@ -1,0 +1,84 @@
+{
+  "slug": "2022-indian-chief",
+  "make": "Indian",
+  "model": "Chief",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/INDIAN/CHIEF#complaints",
+  "generatedAt": "2026-06-23T22:36:07.064Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The motorcycle has developed corrosion and rust on all bolts and exposed metal.  There is rust and corrosion coming through the paint and powder coat, including on the frame in the recesses and bolt holes where the frame is bolted together; threads inside the frame where foot peg",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 70mph on I-95 in the outside lane between Rt 50 and Rt 46 in Titusville FL, the vehicle tipover sensor triggered causing the motorcycle to engine to shut down. The roads were clear and dry, it was night time with no streetlights. The motorcycle immediately began to slow down, ",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 70mph on I-95 in the outside lane between Rt 50 and Rt 46 in Titusville FL, the vehicle tipover sensor triggered causing the motorcycle to engine to shut down. The roads were clear and dry, it was night time with no streetlights. The motorcycle immediately began to slow down, ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Indian Chief owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Structure (50% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The motorcycle has developed corrosion and rust on all bolts and exposed metal.  There is rust and corrosion coming through the paint and powder coat, including on the frame in the recesses and bolt holes where the frame is bolted together; threads inside the frame where foot peg",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 70mph on I-95 in the outside lane between Rt 50 and Rt 46 in Titusville FL, the vehicle tipover sensor triggered causing the motorcycle to engine to shut down. The roads were clear and dry, it was night time with no streetlights. The motorcycle immediately began to slow down, ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 70mph on I-95 in the outside lane between Rt 50 and Rt 46 in Titusville FL, the vehicle tipover sensor triggered causing the motorcycle to engine to shut down. The roads were clear and dry, it was night time with no streetlights. The motorcycle immediately began to slow down, ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2021-indian-scout",
+  "make": "Indian",
+  "model": "Scout",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/INDIAN/SCOUT#complaints",
+  "generatedAt": "2026-06-23T22:36:02.554Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "received a recall dated 12/1/2022 for Campaign 22V837.  Have been trying for 3 months to schedule an appointment with the Indian Dealership Maddie's Power Sports in Dansville NY to include using their online customer contact form and received a call 15 FEB from their Sales Agent ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Indian Scout owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "received a recall dated 12/1/2022 for Campaign 22V837.  Have been trying for 3 months to schedule an appointment with the Indian Dealership Maddie's Power Sports in Dansville NY to include using their online customer contact form and received a call 15 FEB from their Sales Agent ",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

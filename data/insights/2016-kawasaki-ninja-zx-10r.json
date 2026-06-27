@@ -1,0 +1,40 @@
+{
+  "slug": "2016-kawasaki-ninja-zx-10r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-10R",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/KAWASAKI/NINJA%20ZX-10R#complaints",
+  "generatedAt": "2026-06-23T22:34:25.080Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY MOTORCYCLE DEALER WHERE I PURCHASED THE VEHICLE FROM WAS UNABLE TO PROPERLY INSTALL THE \"RECALL KIT\" PROVIDED BY THE MANUFACTURE.  PER THE RECALL, SPECIFIC TRANSMISSION GEARS WERE TO BE REPLACED WITH GEARS FABRICATED USING A STRONGER MATERIAL.    THIS RECALL REPAIR PROCESS WAS",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Kawasaki Ninja Zx-10r owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY MOTORCYCLE DEALER WHERE I PURCHASED THE VEHICLE FROM WAS UNABLE TO PROPERLY INSTALL THE \"RECALL KIT\" PROVIDED BY THE MANUFACTURE.  PER THE RECALL, SPECIFIC TRANSMISSION GEARS WERE TO BE REPLACED WITH GEARS FABRICATED USING A STRONGER MATERIAL.    THIS RECALL REPAIR PROCESS WAS",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "3 reports (100%)"
+      }
+    ]
+  }
+}

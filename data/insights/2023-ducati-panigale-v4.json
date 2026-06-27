@@ -1,0 +1,62 @@
+{
+  "slug": "2023-ducati-panigale-v4",
+  "make": "Ducati",
+  "model": "Panigale V4",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/DUCATI/PANIGALE%20V4#complaints",
+  "generatedAt": "2026-06-23T22:35:41.930Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "From the day I bought the V4 it stalled and started developing DTC Errors. My bike was in the shop for 3 months before Ducati replaces the BBS ECU and fixed the issue.   Since there have been multiple reports of stalling and DTC errors. These are dangerous as the bike stalles whi",
+      "pct": 50
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The fuel tank of my Ducati V4 get very hot and the fuel inside start boiling, i discovered the issue when the motorcycle was stored in my garage after a ride, some noise was coming from the fuel tank, i opened the cap and i saw the fuel gurgling. I panicked and i put the motorcyc",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ducati Panigale V4 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "From the day I bought the V4 it stalled and started developing DTC Errors. My bike was in the shop for 3 months before Ducati replaces the BBS ECU and fixed the issue.   Since there have been multiple reports of stalling and DTC errors. These are dangerous as the bike stalles whi",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The fuel tank of my Ducati V4 get very hot and the fuel inside start boiling, i discovered the issue when the motorcycle was stored in my garage after a ride, some noise was coming from the fuel tank, i opened the cap and i saw the fuel gurgling. I panicked and i put the motorcyc",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

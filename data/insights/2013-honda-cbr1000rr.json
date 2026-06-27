@@ -1,0 +1,40 @@
+{
+  "slug": "2013-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:50.860Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE FEATHERING THE FRONT BRAKE OF THE BRAND NEW MOTORCYCLE, TO MODULATE THE BIKE'S SPEED BEFORE APPROACHING A TRAFFIC LIGHT, BRAKE LEVER BECAME MUSHY. SUBSEQUENT APPLICATION OF THE BRAKE LEVER RESULTED IN NO BRAKING / REDUCED BRAKING FORCE. THE SAME APPLICATION OF BRAKING POWER",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Cbr1000rr owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE FEATHERING THE FRONT BRAKE OF THE BRAND NEW MOTORCYCLE, TO MODULATE THE BIKE'S SPEED BEFORE APPROACHING A TRAFFIC LIGHT, BRAKE LEVER BECAME MUSHY. SUBSEQUENT APPLICATION OF THE BRAKE LEVER RESULTED IN NO BRAKING / REDUCED BRAKING FORCE. THE SAME APPLICATION OF BRAKING POWER",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

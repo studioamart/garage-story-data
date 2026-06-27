@@ -1,0 +1,62 @@
+{
+  "slug": "2009-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:20.398Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 KAWASAKI NINJA ZX-6R. THE VEHICLE WAS INCLUDED IN NHTSA CAMPAIGN ID NUMBER: 12V064000 (ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR). THE CONTACT STATED THAT APPROXIMATELY ONE MONTH AFTER THE REPAIR, WHILE DRIVING APPROXIMATELY 75 MPH THE VEHICLE S",
+      "pct": 60
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE HAD APPLICABLE RECALL RELATED TO VOLTAGE RECTIFIER PERFORMED IN 2012. THERE WAS NO ISSUE OBSERVED WITH VEHICLE UP UNTIL TODAY. VEHICLE FAILED TO START AND GAUGES WOULD DIM SECONDS LATER UNTIL IT DIED COMPLETELY. A FEW WEEKS EARLIER WHILE RIDING ANOTHER RIDER MADE THE OBSE",
+      "pct": 60
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (60% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 KAWASAKI NINJA ZX-6R. THE VEHICLE WAS INCLUDED IN NHTSA CAMPAIGN ID NUMBER: 12V064000 (ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR). THE CONTACT STATED THAT APPROXIMATELY ONE MONTH AFTER THE REPAIR, WHILE DRIVING APPROXIMATELY 75 MPH THE VEHICLE S",
+        "pct": 60,
+        "title": "Electrical System",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE HAD APPLICABLE RECALL RELATED TO VOLTAGE RECTIFIER PERFORMED IN 2012. THERE WAS NO ISSUE OBSERVED WITH VEHICLE UP UNTIL TODAY. VEHICLE FAILED TO START AND GAUGES WOULD DIM SECONDS LATER UNTIL IT DIED COMPLETELY. A FEW WEEKS EARLIER WHILE RIDING ANOTHER RIDER MADE THE OBSE",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "3 reports (60%)"
+      }
+    ]
+  }
+}

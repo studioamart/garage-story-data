@@ -1,0 +1,84 @@
+{
+  "slug": "2024-kawasaki-klr650",
+  "make": "Kawasaki",
+  "model": "KLR650",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KAWASAKI/KLR650#complaints",
+  "generatedAt": "2026-06-23T22:34:39.759Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kawasaki KLR650. The contact stated that while riding approximately 2-3 MPH, the ABS engaged independently. The contact stated that there was an ABS module failure as well. No warning light was illuminated. The contact stated that the motorcycle downshifte",
+      "pct": 100
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kawasaki KLR650. The contact stated that while riding approximately 2-3 MPH, the ABS engaged independently. The contact stated that there was an ABS module failure as well. No warning light was illuminated. The contact stated that the motorcycle downshifte",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kawasaki KLR650. The contact stated that while riding approximately 2-3 MPH, the ABS engaged independently. The contact stated that there was an ABS module failure as well. No warning light was illuminated. The contact stated that the motorcycle downshifte",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kawasaki Klr650 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kawasaki KLR650. The contact stated that while riding approximately 2-3 MPH, the ABS engaged independently. The contact stated that there was an ABS module failure as well. No warning light was illuminated. The contact stated that the motorcycle downshifte",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kawasaki KLR650. The contact stated that while riding approximately 2-3 MPH, the ABS engaged independently. The contact stated that there was an ABS module failure as well. No warning light was illuminated. The contact stated that the motorcycle downshifte",
+        "pct": 100,
+        "title": "Hydraulic",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kawasaki KLR650. The contact stated that while riding approximately 2-3 MPH, the ABS engaged independently. The contact stated that there was an ABS module failure as well. No warning light was illuminated. The contact stated that the motorcycle downshifte",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

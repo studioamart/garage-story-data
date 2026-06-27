@@ -1,0 +1,40 @@
+{
+  "slug": "2018-indian-scout",
+  "make": "Indian",
+  "model": "Scout",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/INDIAN/SCOUT#complaints",
+  "generatedAt": "2026-06-23T22:36:00.641Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2018 INDIAN SCOUT. THE CONTACT STATED THAT THE REAR BRAKES FAILED TO SLOW THE MOTORCYCLE DOWN WHEN MAKING TURNS. AS A RESULT, THE MOTORCYCLE FELL OVER. THE CONTACT SUSTAINED MINOR SCRATCHES THAT DID NOT REQUIRE MEDICAL ATTENTION. THE CONTACT WAS ABLE TO RI",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Indian Scout owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2018 INDIAN SCOUT. THE CONTACT STATED THAT THE REAR BRAKES FAILED TO SLOW THE MOTORCYCLE DOWN WHEN MAKING TURNS. AS A RESULT, THE MOTORCYCLE FELL OVER. THE CONTACT SUSTAINED MINOR SCRATCHES THAT DID NOT REQUIRE MEDICAL ATTENTION. THE CONTACT WAS ABLE TO RI",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "2 reports (100%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

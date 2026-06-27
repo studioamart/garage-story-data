@@ -1,0 +1,40 @@
+{
+  "slug": "2018-ktm-390-duke",
+  "make": "KTM",
+  "model": "390 Duke",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/KTM/390%20DUKE#complaints",
+  "generatedAt": "2026-06-23T22:35:56.771Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "GET LOW OIL PRESSURE WARNING RANDOMLY THAT WILL LEAD TO INTERMITTENT POWER ISSUES TO THE POINT OF STALLING OR TOTALLY HAVING THE ENGINE SHUT OFF. AFTER THAT IT WILL NOT BE ABLE TO START FOR A LONG TIME OR WONT START AT ALL. HAS BEEN PLAGUED WITH ALOT OF SENSOR ISSUES AND OVERHEAT",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ktm 390 Duke owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "GET LOW OIL PRESSURE WARNING RANDOMLY THAT WILL LEAD TO INTERMITTENT POWER ISSUES TO THE POINT OF STALLING OR TOTALLY HAVING THE ENGINE SHUT OFF. AFTER THAT IT WILL NOT BE ABLE TO START FOR A LONG TIME OR WONT START AT ALL. HAS BEEN PLAGUED WITH ALOT OF SENSOR ISSUES AND OVERHEAT",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2023-triumph-bonneville-t120",
+  "make": "Triumph",
+  "model": "Bonneville T120",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TRIUMPH/BONNEVILLE%20T120#complaints",
+  "generatedAt": "2026-06-23T22:35:50.364Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Triumph Bonneville T120. The contact received notification of NHTSA Campaign Number: 24V785000 (ELECTRICAL SYSTEM); however, there are no local dealers on the island to repair the recall. The contact stated that there was an abnormal sound coming from the ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Triumph Bonneville T120 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Triumph Bonneville T120. The contact received notification of NHTSA Campaign Number: 24V785000 (ELECTRICAL SYSTEM); however, there are no local dealers on the island to repair the recall. The contact stated that there was an abnormal sound coming from the ",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

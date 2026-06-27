@@ -1,0 +1,128 @@
+{
+  "slug": "2019-can-am-ryker",
+  "make": "Can-Am",
+  "model": "Ryker",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CAN-AM/RYKER#complaints",
+  "generatedAt": "2026-06-23T22:36:39.275Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "VSS code is triggered with three codes making the Ryker go into limp mode. It started happening when I was going around turns (left) then eventually it locked me out of full performance. YAW/SAS  C0063 and/or C0052 and *C006C) I hit a guard rail as it jolted me.  Turns out there ",
+      "pct": 44
+    },
+    {
+      "component": "WHEELS",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 CAN-AM RYKER. BEFORE THE MOTORCYCLE WAS STARTED, THE CONTACT NOTICED THAT THE LUG NUT WAS FRACTURED. THE CONTACT STATED THAT THE MOTORCYCLE HAD ONLY ONE WHEEL IN THE REAR WITH A SINGLE NUT SYSTEM. THE MOTORCYCLE WAS TAKEN TO FREEDOM POWERSPORTS OF LEWI",
+      "pct": 36
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The VSS Vehicle stability system on the right tire goes on at speeds of 30 MPH or more while making a sweeping left hand turn. Like on a canyon, highway or street. This causes the vehicle to apply brake pressure only to the the right tire and then pulls the vehicle further to the",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "VSS code is triggered with three codes making the Ryker go into limp mode. It started happening when I was going around turns (left) then eventually it locked me out of full performance. YAW/SAS  C0063 and/or C0052 and *C006C) I hit a guard rail as it jolted me.  Turns out there ",
+      "pct": 18
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Vehicle goes into VSS mode when making left hand turnes at speeds of 30 MPH or more. Also cause the vehicle to fishtail.  This cause the vehicle to swerve into the lane to the right while making the left turn. Breaking and shaking is automatically applied to the right tire while ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Can-Am Ryker owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Steering (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "VSS code is triggered with three codes making the Ryker go into limp mode. It started happening when I was going around turns (left) then eventually it locked me out of full performance. YAW/SAS  C0063 and/or C0052 and *C006C) I hit a guard rail as it jolted me.  Turns out there ",
+        "pct": 44,
+        "title": "Steering",
+        "blurb": "17 reports (44%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 CAN-AM RYKER. BEFORE THE MOTORCYCLE WAS STARTED, THE CONTACT NOTICED THAT THE LUG NUT WAS FRACTURED. THE CONTACT STATED THAT THE MOTORCYCLE HAD ONLY ONE WHEEL IN THE REAR WITH A SINGLE NUT SYSTEM. THE MOTORCYCLE WAS TAKEN TO FREEDOM POWERSPORTS OF LEWI",
+        "pct": 36,
+        "title": "Wheels",
+        "blurb": "14 reports (36%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The VSS Vehicle stability system on the right tire goes on at speeds of 30 MPH or more while making a sweeping left hand turn. Like on a canyon, highway or street. This causes the vehicle to apply brake pressure only to the the right tire and then pulls the vehicle further to the",
+        "pct": 26,
+        "title": "Service Brakes",
+        "blurb": "10 reports (26%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "VSS code is triggered with three codes making the Ryker go into limp mode. It started happening when I was going around turns (left) then eventually it locked me out of full performance. YAW/SAS  C0063 and/or C0052 and *C006C) I hit a guard rail as it jolted me.  Turns out there ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "7 reports (18%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Vehicle goes into VSS mode when making left hand turnes at speeds of 30 MPH or more. Also cause the vehicle to fishtail.  This cause the vehicle to swerve into the lane to the right while making the left turn. Breaking and shaking is automatically applied to the right tire while ",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (13%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

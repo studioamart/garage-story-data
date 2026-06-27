@@ -1,0 +1,40 @@
+{
+  "slug": "2014-suzuki-gsx-r1000",
+  "make": "Suzuki",
+  "model": "GSX-R1000",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/SUZUKI/GSX-R1000#complaints",
+  "generatedAt": "2026-06-23T22:35:06.934Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 SUZUKI GSX-R1000. THE CONTACT STATED THAT THE SIDE PANELS OF THE FUEL TANK WERE RUBBING THE PAINT OFF THE FUEL TANK CAUSING IT TO RUST. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 4",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Suzuki Gsx-R1000 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Structure (100% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 SUZUKI GSX-R1000. THE CONTACT STATED THAT THE SIDE PANELS OF THE FUEL TANK WERE RUBBING THE PAINT OFF THE FUEL TANK CAUSING IT TO RUST. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 4",
+        "pct": 100,
+        "title": "Structure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

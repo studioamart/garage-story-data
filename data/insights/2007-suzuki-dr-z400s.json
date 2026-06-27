@@ -1,0 +1,40 @@
+{
+  "slug": "2007-suzuki-dr-z400s",
+  "make": "Suzuki",
+  "model": "DR-Z400S",
+  "year": 2007,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2007/SUZUKI/DR-Z400S#complaints",
+  "generatedAt": "2026-06-23T22:35:13.611Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A  2007 SUZUKI DRZ400S. WHILE STOPPING THE MOTORCYCLE TO APPROACH A STOP LIGHT, THE BATTERY SPONTANEOUSLY FAILED DISABLING THE VEHICLE. AS A CONSEQUENCE, HE WAS ALMOST REAR ENDED BY ANOTHER VEHICLE. PRIOR TO THE FAILURE THE THE BATTERY FAILED THREE TIMES. THE ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2007 Suzuki Dr-Z400s owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A  2007 SUZUKI DRZ400S. WHILE STOPPING THE MOTORCYCLE TO APPROACH A STOP LIGHT, THE BATTERY SPONTANEOUSLY FAILED DISABLING THE VEHICLE. AS A CONSEQUENCE, HE WAS ALMOST REAR ENDED BY ANOTHER VEHICLE. PRIOR TO THE FAILURE THE THE BATTERY FAILED THREE TIMES. THE ",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

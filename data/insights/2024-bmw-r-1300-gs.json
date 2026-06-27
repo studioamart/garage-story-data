@@ -1,0 +1,40 @@
+{
+  "slug": "2024-bmw-r-1300-gs",
+  "make": "BMW",
+  "model": "R 1300 GS",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/R%201300%20GS#complaints",
+  "generatedAt": "2026-06-23T22:35:26.099Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Component/System: Clutch assembly (friction plates/engagement mechanism)  While riding my 2024 BMW R1300GS with approximately 3,000 miles on the odometer, the clutch suddenly failed while climbing a rocky hillside trail. The clutch stopped engaging entirely, which caused an immed",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw R 1300 Gs owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Component/System: Clutch assembly (friction plates/engagement mechanism)  While riding my 2024 BMW R1300GS with approximately 3,000 miles on the odometer, the clutch suddenly failed while climbing a rocky hillside trail. The clutch stopped engaging entirely, which caused an immed",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%) · 1 crash"
+      }
+    ]
+  }
+}

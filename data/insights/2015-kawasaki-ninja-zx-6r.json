@@ -1,0 +1,40 @@
+{
+  "slug": "2015-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:21.312Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "COLD STARTS IT WILL IDLE ROUGH FOR A FEW SECONDS AND STALL, SOMETIMES WHEN RIDING AND AT A STOP IT WILL STALL , NOT SAFE  JUST BOUGHT THIS BIKE ONLY HAS 1,500 miles!",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "COLD STARTS IT WILL IDLE ROUGH FOR A FEW SECONDS AND STALL, SOMETIMES WHEN RIDING AND AT A STOP IT WILL STALL , NOT SAFE  JUST BOUGHT THIS BIKE ONLY HAS 1,500 miles!",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

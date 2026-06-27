@@ -1,0 +1,62 @@
+{
+  "slug": "2017-ktm-390-duke",
+  "make": "KTM",
+  "model": "390 Duke",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KTM/390%20DUKE#complaints",
+  "generatedAt": "2026-06-23T22:35:56.668Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE COOLANT IN THE RESERVOIR TANK BECOMES EMPTY WHEN DRIVING THE MOTORCYCLE FOR AROUND 100-130 MILES IN NORMAL CONDITIONS. THERE SEEMS TO BE AN ISSUE WITH THE VALVE SEPARATING THE ENGINE OIL AND THE COOLANT. DUE TO THIS ISSUE, THE COOLANT LEAKS INTO THE ENGINE AND CAUSES ISSUES L",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN IN MOTION, AND GEARING DOWN, AS I PULL IN THE CLUTCH THE RPMS DROP. AS THEY DO, THE BIKE WILL INTERMITTENTLY STALL. THIS IS A CONTINUOUS ISSUE. THERE IS NO DIFFERENCE BETWEEN RUNNING COLD OR HOT. ALSO, THIS BIKE WAS JUST BOUGHT FROM PREVIOUS OWNER. THE TITLE IS NOT YET SIGNE",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Ktm 390 Duke owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE COOLANT IN THE RESERVOIR TANK BECOMES EMPTY WHEN DRIVING THE MOTORCYCLE FOR AROUND 100-130 MILES IN NORMAL CONDITIONS. THERE SEEMS TO BE AN ISSUE WITH THE VALVE SEPARATING THE ENGINE OIL AND THE COOLANT. DUE TO THIS ISSUE, THE COOLANT LEAKS INTO THE ENGINE AND CAUSES ISSUES L",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN IN MOTION, AND GEARING DOWN, AS I PULL IN THE CLUTCH THE RPMS DROP. AS THEY DO, THE BIKE WILL INTERMITTENTLY STALL. THIS IS A CONTINUOUS ISSUE. THERE IS NO DIFFERENCE BETWEEN RUNNING COLD OR HOT. ALSO, THIS BIKE WAS JUST BOUGHT FROM PREVIOUS OWNER. THE TITLE IS NOT YET SIGNE",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2025-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2025,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2025/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:19.764Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2025 kawasaki zx6r and I went into get my first service yesterday and they told me they just got a stop sales order from the manufacturer and that I will soon get a stop ride order in the mail and they didnt wanna service it since a recall is next. The issue is for a #5 ",
+      "pct": 83
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "The contact's son owned a 2025 Kawasaki Ninja ZX-6R. The contact stated that while his son was driving at an undisclosed speed, he was involved in a collision with two other vehicles; the cause of the collision was still under investigation by the California Highway Patrol. The c",
+      "pct": 4
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While riding at normal speed, I heard a loud popping noise from the engine, followed by immediate power loss. The motorcycle shut off without warning and coolant began leaking heavily near the front wheel. There were no warning lights or symptoms beforehand. The bike had fewer th",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2025 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Engine (83% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2025 kawasaki zx6r and I went into get my first service yesterday and they told me they just got a stop sales order from the manufacturer and that I will soon get a stop ride order in the mail and they didnt wanna service it since a recall is next. The issue is for a #5 ",
+        "pct": 83,
+        "title": "Engine",
+        "blurb": "19 reports (83%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "The contact's son owned a 2025 Kawasaki Ninja ZX-6R. The contact stated that while his son was driving at an undisclosed speed, he was involved in a collision with two other vehicles; the cause of the collision was still under investigation by the California Highway Patrol. The c",
+        "pct": 4,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (4%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While riding at normal speed, I heard a loud popping noise from the engine, followed by immediate power loss. The motorcycle shut off without warning and coolant began leaking heavily near the front wheel. There were no warning lights or symptoms beforehand. The bike had fewer th",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2019-indian-chieftain",
+  "make": "Indian",
+  "model": "Chieftain",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/INDIAN/CHIEFTAIN#complaints",
+  "generatedAt": "2026-06-23T22:36:08.970Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Reference 19V-776 recall campaign 2014-2019 Indian Motorcycle (111 c.I.) gear position switch. This switch was replaced under this recall in June 2020 at 250 miles. The same issue now is happening one year later at 15k miles. This fix from Indian was not effective.",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE TIME AFTER HAVING RECALL FOR 10A CIRCUIT BREAKER DONE BIKE HAS DIED ON THE FREEWAY AT SPEED AS IF OUT OF GAS ONCE I PULL OVER AND TURN IT OFF AND BACK ON BIKE ACTS FINE AS THOUGH NOTHING HAPPENED I HAVE TAKEN IT TO NORTH COUNT INDIAN WHER I BOUGHT IT AND SINCE THEY COULD",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 INDIAN CHIEFTAIN. WHILE RIDING 40 MPH, THE KICKSTAND FAILED TO RETRACT WHEN THE MOTORCYCLE WAS STARTED AND PLACED INTO GEAR. THE CONTACT WAS UNAWARE OF THE FAILURE. WHILE ATTEMPTING TO MAKE A SLIGHT LEFT TURN, THE KICKSTAND DUG INTO THE ROADWAY. AS A R",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Indian Chieftain owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Reference 19V-776 recall campaign 2014-2019 Indian Motorcycle (111 c.I.) gear position switch. This switch was replaced under this recall in June 2020 at 250 miles. The same issue now is happening one year later at 15k miles. This fix from Indian was not effective.",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE TIME AFTER HAVING RECALL FOR 10A CIRCUIT BREAKER DONE BIKE HAS DIED ON THE FREEWAY AT SPEED AS IF OUT OF GAS ONCE I PULL OVER AND TURN IT OFF AND BACK ON BIKE ACTS FINE AS THOUGH NOTHING HAPPENED I HAVE TAKEN IT TO NORTH COUNT INDIAN WHER I BOUGHT IT AND SINCE THEY COULD",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 INDIAN CHIEFTAIN. WHILE RIDING 40 MPH, THE KICKSTAND FAILED TO RETRACT WHEN THE MOTORCYCLE WAS STARTED AND PLACED INTO GEAR. THE CONTACT WAS UNAWARE OF THE FAILURE. WHILE ATTEMPTING TO MAKE A SLIGHT LEFT TURN, THE KICKSTAND DUG INTO THE ROADWAY. AS A R",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2025-indian-scout",
+  "make": "Indian",
+  "model": "Scout",
+  "year": 2025,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2025/INDIAN/SCOUT#complaints",
+  "generatedAt": "2026-06-23T22:35:59.754Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The gauge cluster display is inaccurate and very slow to display information such as speed/rpm/fuel lever/neutral selection etc. this causes a very dangerous situation where critical vehicle information is inaccurate and not being displayed to the operator in real time which coul",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I currently have 5K miles on the bike. All 5K miles I have had stalling issues. These issues mostly happen when lightly feathering the throttle while pulling out. This issue is not in my clutch work. It seems to be in the throttle sensor. The bike has began to randomly shut down ",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I currently have 5K miles on the bike. All 5K miles I have had stalling issues. These issues mostly happen when lightly feathering the throttle while pulling out. This issue is not in my clutch work. It seems to be in the throttle sensor. The bike has began to randomly shut down ",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2025 Indian Scout owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The gauge cluster display is inaccurate and very slow to display information such as speed/rpm/fuel lever/neutral selection etc. this causes a very dangerous situation where critical vehicle information is inaccurate and not being displayed to the operator in real time which coul",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I currently have 5K miles on the bike. All 5K miles I have had stalling issues. These issues mostly happen when lightly feathering the throttle while pulling out. This issue is not in my clutch work. It seems to be in the throttle sensor. The bike has began to randomly shut down ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I currently have 5K miles on the bike. All 5K miles I have had stalling issues. These issues mostly happen when lightly feathering the throttle while pulling out. This issue is not in my clutch work. It seems to be in the throttle sensor. The bike has began to randomly shut down ",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

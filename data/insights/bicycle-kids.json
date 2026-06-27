@@ -1,0 +1,28 @@
+{
+  "slug": "bicycle-kids",
+  "make": "Bicycle",
+  "model": "Kids",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Brake Adjustment", "pct": 24, "blurb": "Coaster and hand brakes drift out of adjustment, and a child needs brakes that are easy to reach and reliably stop the bike." },
+    { "component": "Tire Pressure / Flats", "pct": 22, "blurb": "Small tires lose pressure quickly and pick up flats, and underinflated tires make pedaling harder and riding less stable for a child." },
+    { "component": "Loose Bolts (Bars / Seat / Training Wheels)", "pct": 22, "blurb": "Handlebar, seat, and training-wheel bolts work loose from use and rough handling, which can shift parts mid-ride if not checked." },
+    { "component": "Chain Tension / Rust", "pct": 18, "blurb": "Chains loosen, slip, or rust when bikes are left outside, leading to skipping pedals and a chain that can drop off." },
+    { "component": "Sizing / Fit", "pct": 14, "blurb": "Children outgrow their bikes fast, and a frame or saddle set too small or too large makes the bike awkward and harder to control." }
+  ],
+  "narrative": {
+    "headline": "What kids' bike owners report most",
+    "summary": "These are issues commonly reported by parents of kids' bikes as a general reference, not expert-verified data and possibly outdated. Brake adjustment, tire pressure, and loose bolts tend to come up most.",
+    "issues": [
+      { "component": "Brake Adjustment", "title": "Brake Adjustment", "pct": 24, "blurb": "Commonly reported (~24%) — coaster and hand brakes drift out of adjustment and need to be easy for a child to use." },
+      { "component": "Tire Pressure / Flats", "title": "Tire Pressure & Flats", "pct": 22, "blurb": "Commonly reported (~22%) — small tires lose pressure fast and pick up flats, making riding harder and less stable." },
+      { "component": "Loose Bolts (Bars / Seat / Training Wheels)", "title": "Loose Bolts (Bars, Seat & Training Wheels)", "pct": 22, "blurb": "Commonly reported (~22%) — handlebar, seat, and training-wheel bolts work loose and can shift mid-ride." },
+      { "component": "Chain Tension / Rust", "title": "Chain Tension & Rust", "pct": 18, "blurb": "Often reported (~18%) — chains loosen, slip, or rust when left outside, causing skipping and drops." },
+      { "component": "Sizing / Fit", "title": "Sizing & Fit", "pct": 14, "blurb": "Reported (~14%) — kids outgrow bikes fast, and a poor fit makes the bike awkward and harder to control." }
+    ]
+  }
+}

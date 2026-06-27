@@ -1,0 +1,128 @@
+{
+  "slug": "2022-can-am-ryker",
+  "make": "Can-Am",
+  "model": "Ryker",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CAN-AM/RYKER#complaints",
+  "generatedAt": "2026-06-23T22:36:39.005Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 17,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "VSS FAULT WITH LIMP HOME MODE CAME ON WHEN ATTEMPTING TO GET ON A HIGHWAY WITH SPEEDS GREATER THAN 55 MPH, THIS WAS THE FIRST ATTEMPT. BROUGHT IT BACK TO THE DEALER AND THEY SPENT A COUPLE DAYS FIGURING IT IN THE SERVICE DEPT. THEY SAID BAD YAW SENSOR. SO A DAY LATER GETTING ONTO",
+      "pct": 52
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I got a VSS fault code (C0063) that sent my Ryker into a limp home mode which greatly reduced the speed at which I could travel. This code indicates a problem reported from the yaw sensor. Had I been on an Interstate highway, this could have possibly been a serious situation. I w",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving ryker down road at speeds of 55 mph and motorcycle shuts down. All power lost instrument panel off. Was able to pull over to side of road fortunately. Computer says VSS fault will not start. A Facebook member of a group suggested I check number 7 fuse. I did and it was bl",
+      "pct": 18
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This motorcycle continues to go into \"Limp Mode\".  This has happened now two times with no explanation from the manufacture as to why.  The bike will lose engine power and immediately drop to speeds no higher than 55mph. This was advised to dealer and they were very familiar with",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello On Saturday August 27th 2022 I was driving west on Route 30 in Mattson IL,   when I observe smoke coming from the front of my bike.  After driving pass a traffic light, I pull over to the right the road and tried to stop my bike applied the brakes and the paddle went straig",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Can-Am Ryker owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Steering (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 17,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "VSS FAULT WITH LIMP HOME MODE CAME ON WHEN ATTEMPTING TO GET ON A HIGHWAY WITH SPEEDS GREATER THAN 55 MPH, THIS WAS THE FIRST ATTEMPT. BROUGHT IT BACK TO THE DEALER AND THEY SPENT A COUPLE DAYS FIGURING IT IN THE SERVICE DEPT. THEY SAID BAD YAW SENSOR. SO A DAY LATER GETTING ONTO",
+        "pct": 52,
+        "title": "Steering",
+        "blurb": "17 reports (52%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I got a VSS fault code (C0063) that sent my Ryker into a limp home mode which greatly reduced the speed at which I could travel. This code indicates a problem reported from the yaw sensor. Had I been on an Interstate highway, this could have possibly been a serious situation. I w",
+        "pct": 18,
+        "title": "Suspension",
+        "blurb": "6 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving ryker down road at speeds of 55 mph and motorcycle shuts down. All power lost instrument panel off. Was able to pull over to side of road fortunately. Computer says VSS fault will not start. A Facebook member of a group suggested I check number 7 fuse. I did and it was bl",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This motorcycle continues to go into \"Limp Mode\".  This has happened now two times with no explanation from the manufacture as to why.  The bike will lose engine power and immediately drop to speeds no higher than 55mph. This was advised to dealer and they were very familiar with",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello On Saturday August 27th 2022 I was driving west on Route 30 in Mattson IL,   when I observe smoke coming from the front of my bike.  After driving pass a traffic light, I pull over to the right the road and tried to stop my bike applied the brakes and the paddle went straig",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "5 reports (15%) · 2 crash"
+      }
+    ]
+  }
+}

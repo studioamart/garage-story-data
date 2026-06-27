@@ -1,0 +1,128 @@
+{
+  "slug": "2023-can-am-spyder-f3",
+  "make": "Can-Am",
+  "model": "Spyder F3",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CAN-AM/SPYDER%20F3#complaints",
+  "generatedAt": "2026-06-23T22:36:37.154Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On April 8, 2026, while riding on a busy 8 Lane (4 each direction) interstate during evening rush hour, I experienced immediate loss of propulsion when I attempted to engage the throttle. There was absolutely no power, just a grinding noise. I immediately put on my hazard lights ",
+      "pct": 33
+    },
+    {
+      "component": "EQUIPMENT",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a Biltwell Bonanza helmet. The contact stated that while driving a 2023 Can-Am Spyder F3 at 60 MPH in windy weather, the helmet visor unexpectedly detached. The contact emailed the helmet retailer to make them aware of the failure. The helmet was not repaired. Th",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VSS fault  Hill hold control not working  Loud knock from shifting gear Warranty company refused to provide towing , vehicle is under warranty till 2027. Escalated complaint unaddressed. Not notified of recall since December 2023. Purchased October 2023.",
+      "pct": 33
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VSS fault  Hill hold control not working  Loud knock from shifting gear Warranty company refused to provide towing , vehicle is under warranty till 2027. Escalated complaint unaddressed. Not notified of recall since December 2023. Purchased October 2023.",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VSS fault  Hill hold control not working  Loud knock from shifting gear Warranty company refused to provide towing , vehicle is under warranty till 2027. Escalated complaint unaddressed. Not notified of recall since December 2023. Purchased October 2023.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Can-Am Spyder F3 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (33% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On April 8, 2026, while riding on a busy 8 Lane (4 each direction) interstate during evening rush hour, I experienced immediate loss of propulsion when I attempted to engage the throttle. There was absolutely no power, just a grinding noise. I immediately put on my hazard lights ",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "EQUIPMENT",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a Biltwell Bonanza helmet. The contact stated that while driving a 2023 Can-Am Spyder F3 at 60 MPH in windy weather, the helmet visor unexpectedly detached. The contact emailed the helmet retailer to make them aware of the failure. The helmet was not repaired. Th",
+        "pct": 33,
+        "title": "Equipment",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VSS fault  Hill hold control not working  Loud knock from shifting gear Warranty company refused to provide towing , vehicle is under warranty till 2027. Escalated complaint unaddressed. Not notified of recall since December 2023. Purchased October 2023.",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VSS fault  Hill hold control not working  Loud knock from shifting gear Warranty company refused to provide towing , vehicle is under warranty till 2027. Escalated complaint unaddressed. Not notified of recall since December 2023. Purchased October 2023.",
+        "pct": 33,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VSS fault  Hill hold control not working  Loud knock from shifting gear Warranty company refused to provide towing , vehicle is under warranty till 2027. Escalated complaint unaddressed. Not notified of recall since December 2023. Purchased October 2023.",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

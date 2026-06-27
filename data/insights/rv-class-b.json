@@ -1,0 +1,30 @@
+{
+  "slug": "rv-class-b",
+  "make": "RV",
+  "model": "Class B",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "House Battery / Electrical & Solar", "pct": 26, "blurb": "Camper-van builds lean hard on the house battery, solar, and DC-DC charging, and these systems are a frequent source of dead-battery and charging faults." },
+    { "component": "Water System / Pump", "pct": 22, "blurb": "Compact fresh, gray, and water-pump plumbing leaks, loses prime, or freezes in cold weather because there is little room to insulate it." },
+    { "component": "Ventilation / Condensation", "pct": 20, "blurb": "The small sealed cabin traps moisture from cooking and breathing, leading to condensation, window fogging, and mildew without active ventilation." },
+    { "component": "Conversion Fit & Finish Rattles", "pct": 16, "blurb": "Cabinetry, panels, and bolted-in conversion components work loose over rough roads and produce persistent rattles and squeaks." },
+    { "component": "Heater", "pct": 10, "blurb": "Furnace or diesel/propane cabin heaters fail to ignite or cycle improperly, a real problem in a van relied on for cold-weather camping." },
+    { "component": "Limited Tankage", "pct": 6, "blurb": "Small fresh, gray, and black tanks fill or empty quickly, so owners report frequent dumping and short off-grid range as a recurring limitation." }
+  ],
+  "narrative": {
+    "headline": "What Class B camper van owners report most",
+    "summary": "These are issues commonly reported by Class B owners as a general reference, not expert-verified data and possibly outdated. Because these vans are small, the house electrical, water system, and condensation tend to dominate what owners mention.",
+    "issues": [
+      { "component": "House Battery / Electrical & Solar", "title": "House Battery, Electrical & Solar", "pct": 26, "blurb": "Commonly reported (~26%) — van builds lean on house battery, solar, and DC-DC charging, a frequent fault source." },
+      { "component": "Water System / Pump", "title": "Water System & Pump", "pct": 22, "blurb": "Commonly reported (~22%) — compact plumbing leaks, loses prime, or freezes with little room to insulate." },
+      { "component": "Ventilation / Condensation", "title": "Ventilation & Condensation", "pct": 20, "blurb": "Often reported (~20%) — the small sealed cabin traps moisture, causing fogging and mildew without airflow." },
+      { "component": "Conversion Fit & Finish Rattles", "title": "Conversion Fit & Finish Rattles", "pct": 16, "blurb": "Reported (~16%) — cabinetry and bolted-in components loosen on rough roads and rattle." },
+      { "component": "Heater", "title": "Heater", "pct": 10, "blurb": "Reported (~10%) — cabin heaters fail to ignite or cycle properly, a problem for cold-weather camping." },
+      { "component": "Limited Tankage", "title": "Limited Tankage", "pct": 6, "blurb": "Reported (~6%) — small tanks fill or empty fast, so owners note frequent dumping and short off-grid range." }
+    ]
+  }
+}

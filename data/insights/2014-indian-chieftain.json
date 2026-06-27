@@ -1,0 +1,128 @@
+{
+  "slug": "2014-indian-chieftain",
+  "make": "Indian",
+  "model": "Chieftain",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/INDIAN/CHIEFTAIN#complaints",
+  "generatedAt": "2026-06-23T22:36:08.423Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 INDIAN CHIEFTAIN MOTORCYCLE. WHILE DRIVING 30 MPH, THE GEAR LEVER FAILED TO SHIFT PAST FIRST GEAR UNTIL THE SPEED DECREASED TO 5 MPH. THE CONTACT MENTIONED THAT THE FAILURE ONLY OCCURRED IN COLD TEMPERATURES. THE VEHICLE WAS TAKEN TO A DEALER. THE TECH",
+      "pct": 50
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 INDIAN CHIEFTAIN. THE CONTACT STATED THAT THE DAYTIME RUNNING LAMPS AND HEADLIGHTS STARTED TO FAIL INTERMITTENTLY. EVENTUALLY, THE LIGHTS COMPLETELY FAILED TO OPERATE. THE CONTACT DROVE TO INDIAN MOTORCYCLE BOISE (2374 E CINEMA DR, #106, MERIDIAN, ID 8",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While operating the motorcycle, it will randomly go into limp mode no matter what speed you’re at the motorcycle will rapidly decelerate extremely quickly and without warning. No brake light to illuminate when this happens. I have contacted INDIAN motorcycles as well as dealershi",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While operating the motorcycle, it will randomly go into limp mode no matter what speed you’re at the motorcycle will rapidly decelerate extremely quickly and without warning. No brake light to illuminate when this happens. I have contacted INDIAN motorcycles as well as dealershi",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While operating the motorcycle, it will randomly go into limp mode no matter what speed you’re at the motorcycle will rapidly decelerate extremely quickly and without warning. No brake light to illuminate when this happens. I have contacted INDIAN motorcycles as well as dealershi",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Indian Chieftain owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 INDIAN CHIEFTAIN MOTORCYCLE. WHILE DRIVING 30 MPH, THE GEAR LEVER FAILED TO SHIFT PAST FIRST GEAR UNTIL THE SPEED DECREASED TO 5 MPH. THE CONTACT MENTIONED THAT THE FAILURE ONLY OCCURRED IN COLD TEMPERATURES. THE VEHICLE WAS TAKEN TO A DEALER. THE TECH",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 INDIAN CHIEFTAIN. THE CONTACT STATED THAT THE DAYTIME RUNNING LAMPS AND HEADLIGHTS STARTED TO FAIL INTERMITTENTLY. EVENTUALLY, THE LIGHTS COMPLETELY FAILED TO OPERATE. THE CONTACT DROVE TO INDIAN MOTORCYCLE BOISE (2374 E CINEMA DR, #106, MERIDIAN, ID 8",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While operating the motorcycle, it will randomly go into limp mode no matter what speed you’re at the motorcycle will rapidly decelerate extremely quickly and without warning. No brake light to illuminate when this happens. I have contacted INDIAN motorcycles as well as dealershi",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While operating the motorcycle, it will randomly go into limp mode no matter what speed you’re at the motorcycle will rapidly decelerate extremely quickly and without warning. No brake light to illuminate when this happens. I have contacted INDIAN motorcycles as well as dealershi",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While operating the motorcycle, it will randomly go into limp mode no matter what speed you’re at the motorcycle will rapidly decelerate extremely quickly and without warning. No brake light to illuminate when this happens. I have contacted INDIAN motorcycles as well as dealershi",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

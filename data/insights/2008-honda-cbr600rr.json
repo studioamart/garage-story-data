@@ -1,0 +1,84 @@
+{
+  "slug": "2008-honda-cbr600rr",
+  "make": "Honda",
+  "model": "CBR600RR",
+  "year": 2008,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2008/HONDA/CBR600RR#complaints",
+  "generatedAt": "2026-06-23T22:33:41.457Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING SLOWLY IN THE PARKING GARAGE THAT I HAVE USED FOR 24 YEARS.  I TURNED THE WHEEL GENTLY TO MAKE WHAT I ESTIMATE TO BE A 60 DEGREE TURN.  THE NEXT THING I KNEW, THE CAR HAD SMASHED INTO A LOAD-BEARING PILLAR.  THE CAR WAS DRIVEABLE BUT LATER WAS LABELED TOTALED.  THE ",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON PURCHASING MY MOTORCYCLE, THE FIRST TIME AFTER GETTING IT HOME IT REFUSED TO START.  IN TROUBLESHOOTING THE ISSUE, I FOUND THE KILL SWITCH WAS NOT WORKING PROPERLY.  I WIGGLED THE SWITCH AND IT EVENTUALLY STARTED.  THIS HAPPENED SEVERAL TIMES SINCE THAT DAY, AND I WAS THINKI",
+      "pct": 50
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON PURCHASING MY MOTORCYCLE, THE FIRST TIME AFTER GETTING IT HOME IT REFUSED TO START.  IN TROUBLESHOOTING THE ISSUE, I FOUND THE KILL SWITCH WAS NOT WORKING PROPERLY.  I WIGGLED THE SWITCH AND IT EVENTUALLY STARTED.  THIS HAPPENED SEVERAL TIMES SINCE THAT DAY, AND I WAS THINKI",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2008 Honda Cbr600rr owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Steering (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING SLOWLY IN THE PARKING GARAGE THAT I HAVE USED FOR 24 YEARS.  I TURNED THE WHEEL GENTLY TO MAKE WHAT I ESTIMATE TO BE A 60 DEGREE TURN.  THE NEXT THING I KNEW, THE CAR HAD SMASHED INTO A LOAD-BEARING PILLAR.  THE CAR WAS DRIVEABLE BUT LATER WAS LABELED TOTALED.  THE ",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON PURCHASING MY MOTORCYCLE, THE FIRST TIME AFTER GETTING IT HOME IT REFUSED TO START.  IN TROUBLESHOOTING THE ISSUE, I FOUND THE KILL SWITCH WAS NOT WORKING PROPERLY.  I WIGGLED THE SWITCH AND IT EVENTUALLY STARTED.  THIS HAPPENED SEVERAL TIMES SINCE THAT DAY, AND I WAS THINKI",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON PURCHASING MY MOTORCYCLE, THE FIRST TIME AFTER GETTING IT HOME IT REFUSED TO START.  IN TROUBLESHOOTING THE ISSUE, I FOUND THE KILL SWITCH WAS NOT WORKING PROPERLY.  I WIGGLED THE SWITCH AND IT EVENTUALLY STARTED.  THIS HAPPENED SEVERAL TIMES SINCE THAT DAY, AND I WAS THINKI",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2010-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:49.566Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On model years 2008-2010 of the CBR1000RR there is a acknowledged issue by Honda regarding the crankshaft and primary driven gear in the engine. These crankshafts were not properly produced causing deformity and emitting a whining noise. My motorcycle is one of the bikes that emi",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS THE BIKE HEATS UP IN STOP AND GO TRAFFIC, THE FRONT BRAKE GOES FROM STRONG AND SOLID, TO SQUISHY AND WEAK. ALL OF THE SUDDEN, THE FRONT BRAKE HAS NO PRESSURE AND THE LEVER COMES BACK TO THE HANDLEBAR LEAVING ME SPEEDING FORWARD WHEN I SHOULD BE STOPPED. LUCKILY, I BRAKE SO FAR",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Cbr1000rr owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On model years 2008-2010 of the CBR1000RR there is a acknowledged issue by Honda regarding the crankshaft and primary driven gear in the engine. These crankshafts were not properly produced causing deformity and emitting a whining noise. My motorcycle is one of the bikes that emi",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS THE BIKE HEATS UP IN STOP AND GO TRAFFIC, THE FRONT BRAKE GOES FROM STRONG AND SOLID, TO SQUISHY AND WEAK. ALL OF THE SUDDEN, THE FRONT BRAKE HAS NO PRESSURE AND THE LEVER COMES BACK TO THE HANDLEBAR LEAVING ME SPEEDING FORWARD WHEN I SHOULD BE STOPPED. LUCKILY, I BRAKE SO FAR",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

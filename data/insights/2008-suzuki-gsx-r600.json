@@ -1,0 +1,106 @@
+{
+  "slug": "2008-suzuki-gsx-r600",
+  "make": "Suzuki",
+  "model": "GSX-R600",
+  "year": 2008,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2008/SUZUKI/GSX-R600#complaints",
+  "generatedAt": "2026-06-23T22:34:54.541Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I OWN A 2008 SUZUKI GSXR 600. I HAVE DONE A FEW RECALLS ON THIS BIKE INCLUDING THE RECTIFIER AND MASTER CYLINDER. HOWEVER, THERE IS ALSO AN ISSUE WITH THE STATOR WHICH IS NOT UNDER RECALL YET. I HAVE REPLACED THIS PART AT LEAST TWICE, AND NOW I HAVE TO REPLACE IT AGAIN AS IT JUST",
+      "pct": 60
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I OWN A 2008 SUZUKI GSXR 600. I HAVE DONE A FEW RECALLS ON THIS BIKE INCLUDING THE RECTIFIER AND MASTER CYLINDER. HOWEVER, THERE IS ALSO AN ISSUE WITH THE STATOR WHICH IS NOT UNDER RECALL YET. I HAVE REPLACED THIS PART AT LEAST TWICE, AND NOW I HAVE TO REPLACE IT AGAIN AS IT JUST",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2008 SUZUKI GSX-R600. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 30 MPH THE VEHICLE STALLED. AS A RESULT, THE VEHICLE TIPPED OVER AND WAS INVOLVED IN A SINGLE VEHICLE CRASH. A POLICE REPORT WAS NOT FILED. THE CONTACT WENT TO THE HOSPITAL TO TREAT ",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RIDING MY '08 SUZUKI GSXR-600 PER NORMAL OPERATION, I NOTICE THAT IT STARTS TO LOSE POWER. THIS IS A VEHICLE THAT HAS JUST OVER 1000 MILES (BARELY PAST BREAK-IN) AND IS LESS THAN 6 MOS OLD. WHEN I TRY TO ROLL ON MORE THROTTLE, THERE IS 0 RESPONSE FROM THE MACHINE. IT THEN ARBITRA",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2008 Suzuki Gsx-R600 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I OWN A 2008 SUZUKI GSXR 600. I HAVE DONE A FEW RECALLS ON THIS BIKE INCLUDING THE RECTIFIER AND MASTER CYLINDER. HOWEVER, THERE IS ALSO AN ISSUE WITH THE STATOR WHICH IS NOT UNDER RECALL YET. I HAVE REPLACED THIS PART AT LEAST TWICE, AND NOW I HAVE TO REPLACE IT AGAIN AS IT JUST",
+        "pct": 60,
+        "title": "Electrical System",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I OWN A 2008 SUZUKI GSXR 600. I HAVE DONE A FEW RECALLS ON THIS BIKE INCLUDING THE RECTIFIER AND MASTER CYLINDER. HOWEVER, THERE IS ALSO AN ISSUE WITH THE STATOR WHICH IS NOT UNDER RECALL YET. I HAVE REPLACED THIS PART AT LEAST TWICE, AND NOW I HAVE TO REPLACE IT AGAIN AS IT JUST",
+        "pct": 20,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2008 SUZUKI GSX-R600. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 30 MPH THE VEHICLE STALLED. AS A RESULT, THE VEHICLE TIPPED OVER AND WAS INVOLVED IN A SINGLE VEHICLE CRASH. A POLICE REPORT WAS NOT FILED. THE CONTACT WENT TO THE HOSPITAL TO TREAT ",
+        "pct": 20,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RIDING MY '08 SUZUKI GSXR-600 PER NORMAL OPERATION, I NOTICE THAT IT STARTS TO LOSE POWER. THIS IS A VEHICLE THAT HAS JUST OVER 1000 MILES (BARELY PAST BREAK-IN) AND IS LESS THAN 6 MOS OLD. WHEN I TRY TO ROLL ON MORE THROTTLE, THERE IS 0 RESPONSE FROM THE MACHINE. IT THEN ARBITRA",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

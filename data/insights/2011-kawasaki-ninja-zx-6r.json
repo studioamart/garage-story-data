@@ -1,0 +1,84 @@
+{
+  "slug": "2011-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:20.397Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this bike and have not been able to ride it, due to the severity of the safety and mechanical issues the dealer failed to disclose to me. Once I got the bike home and had it inspected by a reputable mechanic, he informed me the dealer couldn’t have inspected this bike",
+      "pct": 100
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this bike and have not been able to ride it, due to the severity of the safety and mechanical issues the dealer failed to disclose to me. Once I got the bike home and had it inspected by a reputable mechanic, he informed me the dealer couldn’t have inspected this bike",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this bike and have not been able to ride it, due to the severity of the safety and mechanical issues the dealer failed to disclose to me. Once I got the bike home and had it inspected by a reputable mechanic, he informed me the dealer couldn’t have inspected this bike",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this bike and have not been able to ride it, due to the severity of the safety and mechanical issues the dealer failed to disclose to me. Once I got the bike home and had it inspected by a reputable mechanic, he informed me the dealer couldn’t have inspected this bike",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this bike and have not been able to ride it, due to the severity of the safety and mechanical issues the dealer failed to disclose to me. Once I got the bike home and had it inspected by a reputable mechanic, he informed me the dealer couldn’t have inspected this bike",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this bike and have not been able to ride it, due to the severity of the safety and mechanical issues the dealer failed to disclose to me. Once I got the bike home and had it inspected by a reputable mechanic, he informed me the dealer couldn’t have inspected this bike",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

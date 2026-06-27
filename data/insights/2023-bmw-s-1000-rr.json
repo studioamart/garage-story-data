@@ -1,0 +1,62 @@
+{
+  "slug": "2023-bmw-s-1000-rr",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/S%201000%20RR#complaints",
+  "generatedAt": "2026-06-23T22:35:30.777Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In a sunny Sunday , S1000RR BlackStorm, 3207 miles. Riding I stop a in a awesome spot for pictures but when I turn off the key, the starter activates, I turned on the key and bike turned on automatically, I press the kill switch , the starter activates again. I press the starter ",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW S 1000 RR. The contact stated that on four separate occasions while riding approximately 80 MPH, the contact attempted to accelerate; however, the motorcycle stalled. There was no warning light illuminated. The contact veered to the side of the roadway",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw S 1000 Rr owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In a sunny Sunday , S1000RR BlackStorm, 3207 miles. Riding I stop a in a awesome spot for pictures but when I turn off the key, the starter activates, I turned on the key and bike turned on automatically, I press the kill switch , the starter activates again. I press the starter ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW S 1000 RR. The contact stated that on four separate occasions while riding approximately 80 MPH, the contact attempted to accelerate; however, the motorcycle stalled. There was no warning light illuminated. The contact veered to the side of the roadway",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

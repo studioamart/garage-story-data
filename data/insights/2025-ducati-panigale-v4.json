@@ -1,0 +1,106 @@
+{
+  "slug": "2025-ducati-panigale-v4",
+  "make": "Ducati",
+  "model": "Panigale V4",
+  "year": 2025,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2025/DUCATI/PANIGALE%20V4#complaints",
+  "generatedAt": "2026-06-23T22:35:40.339Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2025 Ducati Panigale V4. The contact stated that there was an abnormal air sound coming from the brake pedal while depressed. There was no warning light illuminated. The contact received notification of NHTSA Campaign Number: 26V050000 (Service Brakes, Hydrauli",
+      "pct": 50
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2025 Ducati Panigale V4. The contact stated that there was an abnormal air sound coming from the brake pedal while depressed. There was no warning light illuminated. The contact received notification of NHTSA Campaign Number: 26V050000 (Service Brakes, Hydrauli",
+      "pct": 50
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2025 Ducati Panigale V4 Motorcycle. The contact stated that after parking and turning off the motorcycle, there was an abnormal odor coming from the motorcycle, and a boiling liquid sound was coming from the fuel tank. The contact removed the fuel tank cap and ",
+      "pct": 50
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2025 Ducati Panigale V4 Motorcycle. The contact stated that after parking and turning off the motorcycle, there was an abnormal odor coming from the motorcycle, and a boiling liquid sound was coming from the fuel tank. The contact removed the fuel tank cap and ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2025 Ducati Panigale V4 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Service Brakes (50% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2025 Ducati Panigale V4. The contact stated that there was an abnormal air sound coming from the brake pedal while depressed. There was no warning light illuminated. The contact received notification of NHTSA Campaign Number: 26V050000 (Service Brakes, Hydrauli",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2025 Ducati Panigale V4. The contact stated that there was an abnormal air sound coming from the brake pedal while depressed. There was no warning light illuminated. The contact received notification of NHTSA Campaign Number: 26V050000 (Service Brakes, Hydrauli",
+        "pct": 50,
+        "title": "Hydraulic",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2025 Ducati Panigale V4 Motorcycle. The contact stated that after parking and turning off the motorcycle, there was an abnormal odor coming from the motorcycle, and a boiling liquid sound was coming from the fuel tank. The contact removed the fuel tank cap and ",
+        "pct": 50,
+        "title": "Fuel System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2025 Ducati Panigale V4 Motorcycle. The contact stated that after parking and turning off the motorcycle, there was an abnormal odor coming from the motorcycle, and a boiling liquid sound was coming from the fuel tank. The contact removed the fuel tank cap and ",
+        "pct": 50,
+        "title": "Gasoline",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

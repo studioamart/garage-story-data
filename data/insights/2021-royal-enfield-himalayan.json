@@ -1,0 +1,84 @@
+{
+  "slug": "2021-royal-enfield-himalayan",
+  "make": "Royal Enfield",
+  "model": "Himalayan",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/ROYAL%20ENFIELD/HIMALAYAN#complaints",
+  "generatedAt": "2026-06-23T22:36:15.315Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufact",
+      "pct": 67
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufact",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Royal Enfield Himalayan Motorcycle. The contact stated that while coasting at 40 MPH, with the engine disengaged while holding the clutch lever, the contact then released the clutch lever and the motorcycle stalled while the rear wheel seized. The contact ",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Royal Enfield Himalayan owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Service Brakes (67% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufact",
+        "pct": 67,
+        "title": "Service Brakes",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Royal Enfield Himalayan. The contact received notification of NHTSA Campaign Number: 23V129000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufact",
+        "pct": 67,
+        "title": "Hydraulic",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Royal Enfield Himalayan Motorcycle. The contact stated that while coasting at 40 MPH, with the engine disengaged while holding the clutch lever, the contact then released the clutch lever and the motorcycle stalled while the rear wheel seized. The contact ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

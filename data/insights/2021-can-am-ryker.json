@@ -1,0 +1,128 @@
+{
+  "slug": "2021-can-am-ryker",
+  "make": "Can-Am",
+  "model": "Ryker",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CAN-AM/RYKER#complaints",
+  "generatedAt": "2026-06-23T22:36:39.367Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When taking left turns either at slow or highway speeds, the left front brake grabs as though the abs is kicking on, making it hard to steer and potentially losing control. The dealer says they were not able to duplicate the problem. My wife's 2020 Ryker Rally does the same thing",
+      "pct": 37
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Can-Am Ryker Rally Motorcycle. The contact stated that while driving at 35 MPH, the brakes inadvertently engaged, causing the rear-end of the motorcycle to wobble. The vehicle was taken to the dealer. The dealer tightened the front brakes; however, the fai",
+      "pct": 34
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On sweeping left turns the rear tire shudders and skips across the road.  Dealership reset YAW rate sensor and adjusted front steering rack. This corrected the issue for a day. The online forums for Can Am Rykers show numerous complaints about this specific issue but dealerships ",
+      "pct": 29
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN MAKING LEFT TURNS THE REAR WHEEL FEELS LIKE IT WOBBLES THEN THE OTHER DAY WHEN MAKING A LEFT TURN FROM A STOP THE RIGHT FRONT WHEEL FELT LIKE THE BRAKES WHERE ENGAGING THEN A LITTLE FARTHER DOWN THE ROAD MAKING ANOTHER LEFT TURN AND THE RIGHT FRONT BRAKE ENGAUGED AGAIN AND A",
+      "pct": 23
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Can-Am Ryker Rally Motorcycle. The contact stated that while driving at 35 MPH, the brakes inadvertently engaged, causing the rear-end of the motorcycle to wobble. The vehicle was taken to the dealer. The dealer tightened the front brakes; however, the fai",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Can-Am Ryker owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Steering (37% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When taking left turns either at slow or highway speeds, the left front brake grabs as though the abs is kicking on, making it hard to steer and potentially losing control. The dealer says they were not able to duplicate the problem. My wife's 2020 Ryker Rally does the same thing",
+        "pct": 37,
+        "title": "Steering",
+        "blurb": "13 reports (37%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Can-Am Ryker Rally Motorcycle. The contact stated that while driving at 35 MPH, the brakes inadvertently engaged, causing the rear-end of the motorcycle to wobble. The vehicle was taken to the dealer. The dealer tightened the front brakes; however, the fai",
+        "pct": 34,
+        "title": "Service Brakes",
+        "blurb": "12 reports (34%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On sweeping left turns the rear tire shudders and skips across the road.  Dealership reset YAW rate sensor and adjusted front steering rack. This corrected the issue for a day. The online forums for Can Am Rykers show numerous complaints about this specific issue but dealerships ",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "10 reports (29%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN MAKING LEFT TURNS THE REAR WHEEL FEELS LIKE IT WOBBLES THEN THE OTHER DAY WHEN MAKING A LEFT TURN FROM A STOP THE RIGHT FRONT WHEEL FELT LIKE THE BRAKES WHERE ENGAGING THEN A LITTLE FARTHER DOWN THE ROAD MAKING ANOTHER LEFT TURN AND THE RIGHT FRONT BRAKE ENGAUGED AGAIN AND A",
+        "pct": 23,
+        "title": "Suspension",
+        "blurb": "8 reports (23%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Can-Am Ryker Rally Motorcycle. The contact stated that while driving at 35 MPH, the brakes inadvertently engaged, causing the rear-end of the motorcycle to wobble. The vehicle was taken to the dealer. The dealer tightened the front brakes; however, the fai",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (14%)"
+      }
+    ]
+  }
+}

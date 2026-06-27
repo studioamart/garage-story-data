@@ -1,0 +1,128 @@
+{
+  "slug": "2008-honda-cbr1000rr",
+  "make": "Honda",
+  "model": "CBR1000RR",
+  "year": 2008,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2008/HONDA/CBR1000RR#complaints",
+  "generatedAt": "2026-06-23T22:33:50.139Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "JUST CHANGED  OIL ON MY 2008 CBR1000RR AGAIN TO FIND MY OIL LOW AFTER 2000 MILES. ITS BURNING 1.2QT EVERY 2000 MILES AND SEEMS TO BE BURNING MORE AS I PUT MORE MILES ON THE BIKE. I HAVE OWNED MANY OF HONDA CBR1000 AND THIS IS THE 1ST TO EVER BURN OIL AND THE AMOUNT IS FAR TOO MUC",
+      "pct": 59
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2008 HONDA CBR1000RR. THE CONTACT STATED THAT THE RINGS AROUND THE ENGINE WERE NOT SEALED PROPERLY, CAUSING OIL TO SPILL FROM THE REAR OF THE VEHICLE AND THE VEHICLE TO SHAKE WHEN IT REACHED A SPEED OF 50 MPH. THE ENGINE NEEDED TO BE REPLACED AND THE MANUFA",
+      "pct": 29
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2008 HONDA CBR1000RR. THE CONTACT STATED THAT WHILE RIDING AT APPROXIMATELY 65 MPH, THERE WAS A LOUD BANG AS THE REAR WHEEL SEIZED AND NEARLY CAUSED THE CONTACT TO FALL OFF THE MOTORCYCLE. THE CONTACT HAD THE MOTORCYCLE TOWED TO THE RESIDENCE.  THE MOTORCYC",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON JANUARY 18TH 2015 I WAS RIDING MY MOTORCYCLE HONDA 2008 CBR1000RR ON MULHOLLAND HWY IN AGUORA HILLS AT SPEED ABOUT 45MPH ON A STRAIGHT ROAD. A HEAD WAS MILD TURN TO THE RIGHT.  JUST BEFORE THE TURN MY ENGINE SEIZED, BLOCKED REAR WHEEL AND MOTORCYCLE WITH ME CONTINUE STRAIGHT O",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)    THE PURPOSE OF THIS LETTER IS TO INFORM YOU OF A SERVICE FAILURE I EXPERIENCED WITH HONDA MOTORCYCLES; ACCORDING TO SEVERAL HONDA DEALERS THAT I'VE CONTACTED MY MOTORCYCLE HAD A RECALL P",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2008 Honda Cbr1000rr owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Engine (59% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "JUST CHANGED  OIL ON MY 2008 CBR1000RR AGAIN TO FIND MY OIL LOW AFTER 2000 MILES. ITS BURNING 1.2QT EVERY 2000 MILES AND SEEMS TO BE BURNING MORE AS I PUT MORE MILES ON THE BIKE. I HAVE OWNED MANY OF HONDA CBR1000 AND THIS IS THE 1ST TO EVER BURN OIL AND THE AMOUNT IS FAR TOO MUC",
+        "pct": 59,
+        "title": "Engine",
+        "blurb": "10 reports (59%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2008 HONDA CBR1000RR. THE CONTACT STATED THAT THE RINGS AROUND THE ENGINE WERE NOT SEALED PROPERLY, CAUSING OIL TO SPILL FROM THE REAR OF THE VEHICLE AND THE VEHICLE TO SHAKE WHEN IT REACHED A SPEED OF 50 MPH. THE ENGINE NEEDED TO BE REPLACED AND THE MANUFA",
+        "pct": 29,
+        "title": "Engine And Engine Cooling",
+        "blurb": "5 reports (29%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2008 HONDA CBR1000RR. THE CONTACT STATED THAT WHILE RIDING AT APPROXIMATELY 65 MPH, THERE WAS A LOUD BANG AS THE REAR WHEEL SEIZED AND NEARLY CAUSED THE CONTACT TO FALL OFF THE MOTORCYCLE. THE CONTACT HAD THE MOTORCYCLE TOWED TO THE RESIDENCE.  THE MOTORCYC",
+        "pct": 6,
+        "title": "Wheels",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON JANUARY 18TH 2015 I WAS RIDING MY MOTORCYCLE HONDA 2008 CBR1000RR ON MULHOLLAND HWY IN AGUORA HILLS AT SPEED ABOUT 45MPH ON A STRAIGHT ROAD. A HEAD WAS MILD TURN TO THE RIGHT.  JUST BEFORE THE TURN MY ENGINE SEIZED, BLOCKED REAR WHEEL AND MOTORCYCLE WITH ME CONTINUE STRAIGHT O",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "1 report (6%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)    THE PURPOSE OF THIS LETTER IS TO INFORM YOU OF A SERVICE FAILURE I EXPERIENCED WITH HONDA MOTORCYCLES; ACCORDING TO SEVERAL HONDA DEALERS THAT I'VE CONTACTED MY MOTORCYCLE HAD A RECALL P",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

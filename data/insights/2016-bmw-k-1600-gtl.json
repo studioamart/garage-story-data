@@ -1,0 +1,106 @@
+{
+  "slug": "2016-bmw-k-1600-gtl",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/K%201600%20GTL#complaints",
+  "generatedAt": "2026-06-23T22:35:34.054Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IWHILE OPERATING AT HIGHWAY SPEED, IT WILL PULL TO THE LEFT IF YOU DON'T INPUT EFFORT TO KEEP IT GOING STRAIGHT",
+      "pct": 33
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IWHILE OPERATING AT HIGHWAY SPEED, IT WILL PULL TO THE LEFT IF YOU DON'T INPUT EFFORT TO KEEP IT GOING STRAIGHT",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2018 BMW K1600GTL. CONSUMER WRITES IN REGARDS TO IGNITION COIL FAILURE. *LD    THE CONSUMER STATED THE VEHICLE REQUIRED 4 COIL SPRINGS TO BE REPLACED UNDER WARRANTY DURING A 14,000 MILE SPAN. *JS",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 BMW K 1600 GTL MOTORCYCLE. WHILE DRIVING 35 MPH, THE CONTACT HEARD A LOUD KNOCKING SOUND. THE VEHICLE WAS TAKEN TO EUROTEK-OKC BMW, DUCATI, & TRIUMPH MOTORCYCLES (417 HUDIBURG CIR C, OKLAHOMA CITY, OK 73108) WHERE THE DEALER STATED THAT THE NOISE WAS N",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw K 1600 Gtl owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Steering (33% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IWHILE OPERATING AT HIGHWAY SPEED, IT WILL PULL TO THE LEFT IF YOU DON'T INPUT EFFORT TO KEEP IT GOING STRAIGHT",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IWHILE OPERATING AT HIGHWAY SPEED, IT WILL PULL TO THE LEFT IF YOU DON'T INPUT EFFORT TO KEEP IT GOING STRAIGHT",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2018 BMW K1600GTL. CONSUMER WRITES IN REGARDS TO IGNITION COIL FAILURE. *LD    THE CONSUMER STATED THE VEHICLE REQUIRED 4 COIL SPRINGS TO BE REPLACED UNDER WARRANTY DURING A 14,000 MILE SPAN. *JS",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 BMW K 1600 GTL MOTORCYCLE. WHILE DRIVING 35 MPH, THE CONTACT HEARD A LOUD KNOCKING SOUND. THE VEHICLE WAS TAKEN TO EUROTEK-OKC BMW, DUCATI, & TRIUMPH MOTORCYCLES (417 HUDIBURG CIR C, OKLAHOMA CITY, OK 73108) WHERE THE DEALER STATED THAT THE NOISE WAS N",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

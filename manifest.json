@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "version": 1,
+  "app": "vehicle-story",
+  "updated": "2026-06-23",
+  "vehicleTypes": [
+    {
+      "type": "car",
+      "label": "Car",
+      "dataModel": "vehicleDB",
+      "url": "https://support-teamam.github.io/vehiclestory-data/data/car.json",
+      "vehicleCount": 1004
+    },
+    {
+      "type": "motorcycle",
+      "label": "Motorcycle",
+      "dataModel": "vehicleDB",
+      "url": "https://support-teamam.github.io/vehiclestory-data/data/motorcycle.json",
+      "vehicleCount": 111
+    },
+    {
+      "type": "rv",
+      "label": "RV",
+      "dataModel": "taskTemplate",
+      "url": "https://support-teamam.github.io/vehiclestory-data/data/rv.json",
+      "taskCount": 40
+    },
+    {
+      "type": "bicycle",
+      "label": "Bicycle",
+      "dataModel": "taskTemplate",
+      "url": "https://support-teamam.github.io/vehiclestory-data/data/bicycle.json",
+      "taskCount": 30
+    }
+  ]
+}

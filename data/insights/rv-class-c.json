@@ -1,0 +1,30 @@
+{
+  "slug": "rv-class-c",
+  "make": "RV",
+  "model": "Class C",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Cab-Over Bunk Water Leaks", "pct": 26, "blurb": "The cab-over bunk seams and front cap take road spray and weather, and failing sealant there is a classic source of leaks and soft floors." },
+    { "component": "Chassis", "pct": 22, "blurb": "The cutaway chassis (often Ford E-series/Transit or Chevy) sees brake, suspension, and drivetrain wear from carrying the heavy house structure." },
+    { "component": "Slide-Outs", "pct": 20, "blurb": "Slide-out rooms develop motor, gear, and seal problems that cause sticking, water intrusion, or uneven travel." },
+    { "component": "House Systems", "pct": 16, "blurb": "The water pump, converter, fridge, and propane appliances fail or act up, disrupting onboard living systems." },
+    { "component": "Tire Age", "pct": 10, "blurb": "Rear chassis tires often age out before the tread wears, and aged sidewalls risk blowouts on the highway." },
+    { "component": "Roof Sealant", "pct": 6, "blurb": "Roof and vent sealant cracks with sun and age, allowing water past the membrane and into the ceiling if not maintained." }
+  ],
+  "narrative": {
+    "headline": "What Class C motorhome owners report most",
+    "summary": "These are issues commonly reported by Class C owners as a general reference, not expert-verified data and possibly outdated. The cab-over bunk leaks, cutaway chassis wear, and slide-outs are what owners tend to mention most.",
+    "issues": [
+      { "component": "Cab-Over Bunk Water Leaks", "title": "Cab-Over Bunk Water Leaks", "pct": 26, "blurb": "Commonly reported (~26%) — cab-over seams and front cap leak as sealant fails, causing soft floors." },
+      { "component": "Chassis", "title": "Chassis", "pct": 22, "blurb": "Commonly reported (~22%) — the cutaway chassis (Ford E-series/Transit or Chevy) sees brake, suspension, and drivetrain wear under the heavy house." },
+      { "component": "Slide-Outs", "title": "Slide-Outs", "pct": 20, "blurb": "Often reported (~20%) — slide rooms develop motor, gear, and seal problems that stick or leak." },
+      { "component": "House Systems", "title": "House Systems", "pct": 16, "blurb": "Reported (~16%) — water pump, converter, fridge, and propane appliances act up." },
+      { "component": "Tire Age", "title": "Tire Age", "pct": 10, "blurb": "Reported (~10%) — rear tires age out before the tread wears and risk blowouts." },
+      { "component": "Roof Sealant", "title": "Roof Sealant", "pct": 6, "blurb": "Reported (~6%) — roof and vent sealant cracks with age and lets water into the ceiling." }
+    ]
+  }
+}

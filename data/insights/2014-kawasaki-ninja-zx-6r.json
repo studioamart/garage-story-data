@@ -1,0 +1,40 @@
+{
+  "slug": "2014-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:21.670Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS RIDING AT ABOUT 25-30 MPH WHEN I CAME TO A STOP SIGN. AS I SLOWED DOWN AND SQUEEZED THE CLUTCH LEVER IN TO DOWNSHIFT THE ENGINE INSTANTLY CUT OFF AND THE IDLE NEEDLE DROPPED FROM ABOUT 3000 RPM TO ZERO INSTANTLY. THE BIKE THEN FELT REALLY LIGHT BECAUSE THE ENGINE WAS CUT OF",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS RIDING AT ABOUT 25-30 MPH WHEN I CAME TO A STOP SIGN. AS I SLOWED DOWN AND SQUEEZED THE CLUTCH LEVER IN TO DOWNSHIFT THE ENGINE INSTANTLY CUT OFF AND THE IDLE NEEDLE DROPPED FROM ABOUT 3000 RPM TO ZERO INSTANTLY. THE BIKE THEN FELT REALLY LIGHT BECAUSE THE ENGINE WAS CUT OF",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

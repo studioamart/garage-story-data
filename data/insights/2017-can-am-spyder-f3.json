@@ -1,0 +1,40 @@
+{
+  "slug": "2017-can-am-spyder-f3",
+  "make": "Can-Am",
+  "model": "Spyder F3",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CAN-AM/SPYDER%20F3#complaints",
+  "generatedAt": "2026-06-23T22:36:35.566Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "How sad it is that in a recall of a deficient product, that the manufacturer gets to not fix the vehicle if it has more miles on it than they like (see attached, my vehicle is a 2017 with 60K). If a product is deficient, it is deficient, isn't it? Just because I like the vehicle ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Can-Am Spyder F3 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "How sad it is that in a recall of a deficient product, that the manufacturer gets to not fix the vehicle if it has more miles on it than they like (see attached, my vehicle is a 2017 with 60K). If a product is deficient, it is deficient, isn't it? Just because I like the vehicle ",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

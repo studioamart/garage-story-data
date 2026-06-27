@@ -1,0 +1,84 @@
+{
+  "slug": "2013-kawasaki-ninja-zx-6r",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-6R",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/KAWASAKI/NINJA%20ZX-6R#complaints",
+  "generatedAt": "2026-06-23T22:34:21.605Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE MOTOR REQUIRES MULTIPLE ATTEMPTS TO START WHEN COLD. WHEN THE MOTOR IS AT OPERATING TEMPERATURE THE ENGINE WILL NOT START UNLESS THE THROTTLE IS HELD OPEN. WHEN DRIVING AT LOW RPMS INTERMITTENTLY THE ENGINE WILL DIE WHEN THE CLUTCH IS ENGAGED, SPEED IS NOT A FACTOR CONSIDERIN",
+      "pct": 75
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 KAWASAKI NINJA ZX-6R. WHILE DRIVING AT APPROXIMATELY 15 MPH, THE ENGINE STALLED WITHOUT WARNING. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MIL",
+      "pct": 63
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS MOTORCYCLE SUFFERS FROM A ROUGH START IDLE THAT CAN RESULT IN THE VEHICLE STALLING AT LOW SPEEDS OR AT TIMES, OR WILL STALL WHEN THE VEHICLE COMES TO A STOP.",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Kawasaki Ninja Zx-6r owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Electrical System (75% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE MOTOR REQUIRES MULTIPLE ATTEMPTS TO START WHEN COLD. WHEN THE MOTOR IS AT OPERATING TEMPERATURE THE ENGINE WILL NOT START UNLESS THE THROTTLE IS HELD OPEN. WHEN DRIVING AT LOW RPMS INTERMITTENTLY THE ENGINE WILL DIE WHEN THE CLUTCH IS ENGAGED, SPEED IS NOT A FACTOR CONSIDERIN",
+        "pct": 75,
+        "title": "Electrical System",
+        "blurb": "6 reports (75%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 KAWASAKI NINJA ZX-6R. WHILE DRIVING AT APPROXIMATELY 15 MPH, THE ENGINE STALLED WITHOUT WARNING. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MIL",
+        "pct": 63,
+        "title": "Engine",
+        "blurb": "5 reports (63%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS MOTORCYCLE SUFFERS FROM A ROUGH START IDLE THAT CAN RESULT IN THE VEHICLE STALLING AT LOW SPEEDS OR AT TIMES, OR WILL STALL WHEN THE VEHICLE COMES TO A STOP.",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2015-suzuki-gsx-r1000",
+  "make": "Suzuki",
+  "model": "GSX-R1000",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/SUZUKI/GSX-R1000#complaints",
+  "generatedAt": "2026-06-23T22:35:07.311Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS INVOLVED IN ACCIDENT WHICH I FEEL WAS CAUSED BY MOTORCYCLE DESIGN NOT MEETING THE STANDARD FOR LOCATION AND SIZE OF STOP LIGHT AS WELL AS PROPER ILLUMINATION",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Suzuki Gsx-R1000 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Exterior Lighting (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS INVOLVED IN ACCIDENT WHICH I FEEL WAS CAUSED BY MOTORCYCLE DESIGN NOT MEETING THE STANDARD FOR LOCATION AND SIZE OF STOP LIGHT AS WELL AS PROPER ILLUMINATION",
+        "pct": 100,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (100%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

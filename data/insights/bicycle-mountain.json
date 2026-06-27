@@ -1,0 +1,30 @@
+{
+  "slug": "bicycle-mountain",
+  "make": "Bicycle",
+  "model": "Mountain",
+  "source": "Owner-reported reference",
+  "sourceUrl": null,
+  "reference": true,
+  "total": null,
+  "generatedAt": "2026-06-23",
+  "issues": [
+    { "component": "Suspension Service (Fork / Shock)", "pct": 26, "blurb": "Forks and rear shocks need periodic seal and oil service, and skipped intervals lead to leaking seals, lost damping, and stiction." },
+    { "component": "Dropper Post", "pct": 20, "blurb": "Dropper seatposts develop sag, slow return, or stuck actuation as internals and cable routing wear and contaminate with dirt." },
+    { "component": "Brake Pads / Rotors", "pct": 18, "blurb": "Disc pads and rotors wear quickly on steep descents and in grit, and worn or glazed pads sharply reduce braking control." },
+    { "component": "Drivetrain Wear (Mud)", "pct": 16, "blurb": "Mud and grit accelerate chain, cassette, and chainring wear far faster than on pavement, so drivetrains need frequent attention." },
+    { "component": "Bearing Wear (Pivots / Headset)", "pct": 14, "blurb": "Suspension pivot and headset bearings take repeated impacts and water, developing play and creaks that need fresh bearings." },
+    { "component": "Tubeless", "pct": 6, "blurb": "Tubeless sealant dries out and tire setups burp or lose air on hard hits, needing regular topping up and pressure checks." }
+  ],
+  "narrative": {
+    "headline": "What mountain bike owners report most",
+    "summary": "These are issues commonly reported by mountain bikers as a general reference, not expert-verified data and possibly outdated. Suspension service, the dropper post, and brakes tend to come up most given the rough terrain.",
+    "issues": [
+      { "component": "Suspension Service (Fork / Shock)", "title": "Suspension Service (Fork & Shock)", "pct": 26, "blurb": "Commonly reported (~26%) — forks and shocks need seal and oil service; skipped intervals cause leaks and stiction." },
+      { "component": "Dropper Post", "title": "Dropper Post", "pct": 20, "blurb": "Often reported (~20%) — droppers sag, return slowly, or stick as internals wear and contaminate." },
+      { "component": "Brake Pads / Rotors", "title": "Brake Pads & Rotors", "pct": 18, "blurb": "Often reported (~18%) — pads and rotors wear fast on steep, gritty descents." },
+      { "component": "Drivetrain Wear (Mud)", "title": "Drivetrain Wear (Mud)", "pct": 16, "blurb": "Reported (~16%) — mud and grit wear chains and cassettes far faster than pavement." },
+      { "component": "Bearing Wear (Pivots / Headset)", "title": "Bearing Wear (Pivots & Headset)", "pct": 14, "blurb": "Reported (~14%) — pivot and headset bearings take impacts and water, developing play and creaks." },
+      { "component": "Tubeless", "title": "Tubeless", "pct": 6, "blurb": "Reported (~6%) — sealant dries out and setups burp air on hard hits." }
+    ]
+  }
+}
