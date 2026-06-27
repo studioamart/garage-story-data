@@ -9,8 +9,9 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const dir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../data/insights');
-const out = [];
-let skipped = 0;
+const byKey = new Map(); // dedup: one row per model (slug, falling back to make+model+year)
+let skipped = 0,
+  deduped = 0;
 for (const f of fs.readdirSync(dir)) {
   if (f === 'all.json' || !f.endsWith('.json')) continue;
   let m;
@@ -21,12 +22,21 @@ for (const f of fs.readdirSync(dir)) {
     continue;
   }
   // only valid ModelInsight rows (must be sortable/renderable by the site)
-  if (m && typeof m.make === 'string' && typeof m.model === 'string' && typeof m.year === 'number') {
-    out.push(m);
-  } else {
+  if (!(m && typeof m.make === 'string' && typeof m.model === 'string' && typeof m.year === 'number')) {
     skipped++;
+    continue;
   }
+  const key = m.slug || `${m.make}-${m.model}-${m.year}`.toLowerCase();
+  const prev = byKey.get(key);
+  if (prev) {
+    deduped++;
+    // keep the richer record (more complaints/issues)
+    if ((m.total || 0) <= (prev.total || 0)) continue;
+  }
+  byKey.set(key, m);
 }
-out.sort((a, b) => a.make.localeCompare(b.make) || b.year - a.year || a.model.localeCompare(b.model));
+const out = [...byKey.values()].sort(
+  (a, b) => a.make.localeCompare(b.make) || b.year - a.year || a.model.localeCompare(b.model)
+);
 fs.writeFileSync(path.join(dir, 'all.json'), JSON.stringify(out));
-console.log(`wrote data/insights/all.json (${out.length} models, skipped ${skipped})`);
+console.log(`wrote data/insights/all.json (${out.length} models, skipped ${skipped}, deduped ${deduped})`);
