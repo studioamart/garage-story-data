@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "version": 6,
-  "url": "https://support-teamam.github.io/vehiclestory-data/data/all-vehicles.json",
+  "url": "https://studioamart.github.io/garage-story-data/data/all-vehicles.json",
   "vehicleCount": 1424,
   "rvTasksUrl": "https://studioamart.github.io/garage-story-data/data/rv-tasks.json",
   "rvTaskCount": 40
