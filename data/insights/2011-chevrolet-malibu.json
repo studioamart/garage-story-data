@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-07-19T23:54:59.025Z",
+  "total": 976,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 234,
+      "crash": 3,
+      "fire": 14,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FROM MY WIFE:  AFTER TWO PRIOR TRIPS IN THE SAME DAY (36 MILES AND 16 MILES ROUND TRIP RESPECTIVELY), MY 3RD OCCASION TO START THE CAR WAS MET WITH A GLARING WARNING MESSAGE ON THE DIGITAL DISPLAY THAT SAID \"ENGINE POWER REDUCED\".  IT WAS FOLLOWED BY \"SERVICE ESC/TRACTION CONTROL",
+      "pct": 24
+    },
+    {
+      "component": "STEERING",
+      "count": 212,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING ABOUT 30MPH ON A SUBURBAN RD. THE MALIBU JERKED A COUPLE OF TIMES THEN THE (SERVICE ESC) LIGHT CAME ON ALONG WITH OTHER LIGHTS AND THE CAR STOPPED MOVING. IT ALSO HAD A (CAR LOCKED) SYMBOL LIT ON THE DASH. THERE HAVE BEEN OTHER SIMILAR COMPLAINTS AND THERE IS NO ",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 174,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "I PURCHASED A 2011 MALIBU FROM CHAMPION CHEVROLET IN AUSTIN, TX IN NOVEMBER 2010. THE CAR WAS DELIVERED TO ME WITH A KNOWN DEFECTIVE EBCM (ELECTRONIC BRAKE CONTROL MODULE). THEY HAD THE PART ON ORDER AND DIDN'T TELL ME. I FOUND OUT A COUPLE OF DAYS LATER WHEN I HAD A TRACTION CON",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 160,
+      "crash": 4,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET MALIBU. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 20 MPH, THE VEHICLE BECAME RESISTANT TO ACCELERATION ATTEMPTS. THE ESP AND LOW ENGINE POWER WARNING LIGHTS THEN ILLUMINATED. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE TH",
+      "pct": 16
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 130,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT RANDOM WHEN DRIVING DOWN THE ROAD THE RADIO WILL SWITCH TO AUX. YOU CAN TOUCH THE DASH ON THE SIDE OR AROUND THE RADIO AND IT WILL GO BACK TO RADIO. IT WILL ALSO SWITCH SOMETIMES WHEN YOU PUT THE CAR IN DRIVE, OR TURN ON WINDSHIELD WIPERS. YOU HAVE TO BUMP THE SIDE OF THE DASH",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Malibu owners report most",
+    "summary": "Across 976 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 234,
+        "crash": 3,
+        "fire": 14,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FROM MY WIFE:  AFTER TWO PRIOR TRIPS IN THE SAME DAY (36 MILES AND 16 MILES ROUND TRIP RESPECTIVELY), MY 3RD OCCASION TO START THE CAR WAS MET WITH A GLARING WARNING MESSAGE ON THE DIGITAL DISPLAY THAT SAID \"ENGINE POWER REDUCED\".  IT WAS FOLLOWED BY \"SERVICE ESC/TRACTION CONTROL",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "234 reports (24%) · 14 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 212,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING ABOUT 30MPH ON A SUBURBAN RD. THE MALIBU JERKED A COUPLE OF TIMES THEN THE (SERVICE ESC) LIGHT CAME ON ALONG WITH OTHER LIGHTS AND THE CAR STOPPED MOVING. IT ALSO HAD A (CAR LOCKED) SYMBOL LIT ON THE DASH. THERE HAVE BEEN OTHER SIMILAR COMPLAINTS AND THERE IS NO ",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "212 reports (22%) · 8 crash · 12 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 174,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "I PURCHASED A 2011 MALIBU FROM CHAMPION CHEVROLET IN AUSTIN, TX IN NOVEMBER 2010. THE CAR WAS DELIVERED TO ME WITH A KNOWN DEFECTIVE EBCM (ELECTRONIC BRAKE CONTROL MODULE). THEY HAD THE PART ON ORDER AND DIDN'T TELL ME. I FOUND OUT A COUPLE OF DAYS LATER WHEN I HAD A TRACTION CON",
+        "pct": 18,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "174 reports (18%) · 3 crash · 6 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 160,
+        "crash": 4,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET MALIBU. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 20 MPH, THE VEHICLE BECAME RESISTANT TO ACCELERATION ATTEMPTS. THE ESP AND LOW ENGINE POWER WARNING LIGHTS THEN ILLUMINATED. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE TH",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "160 reports (16%) · 2 fire · 4 crash · 3 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 130,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT RANDOM WHEN DRIVING DOWN THE ROAD THE RADIO WILL SWITCH TO AUX. YOU CAN TOUCH THE DASH ON THE SIDE OR AROUND THE RADIO AND IT WILL GO BACK TO RADIO. IT WILL ALSO SWITCH SOMETIMES WHEN YOU PUT THE CAR IN DRIVE, OR TURN ON WINDSHIELD WIPERS. YOU HAVE TO BUMP THE SIDE OF THE DASH",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "130 reports (13%) · 4 fire"
+      }
+    ]
+  }
+}

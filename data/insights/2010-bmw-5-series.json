@@ -1,0 +1,128 @@
+{
+  "slug": "2010-bmw-5-series",
+  "make": "BMW",
+  "model": "5 Series",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/5%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:42.702Z",
+  "total": 180,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 41,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JANUARY 12, 2013, WHILE DRIVING WITH MY FAMILY ON A SOUTHERN CALIFORNIA HIGHWAY AT SPEEDS OF ROUGHLY 70 MPH, OUR 2010 BMW 535I SEDAN, SUDDENLY LOST POWER, STALLED, COULD NOT ACCELERATE, AND BECAME DIFFICULT TO CONTROL AS I CROSSED 3 LANES OF TRAFFIC; SURPRISINGLY GUIDED THE VE",
+      "pct": 23
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 37,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 BMW 535I. THE CONTACT STATED THAT WHILE TRAVELING 20 MPH, THE VEHICLE BEGAN TO SHAKE VIOLENTLY THEN THE CHECK ENGINE WARNING LIGHT ILLUMINATED.  THE VEHICLE WAS DRIVEN TO THE CONTACT'S DESTINATION AND WAS LATER TAKEN TO THE DEALER WHERE IT WAS CONFIRME",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 3,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I EXPERIENCED A FAILURE OF MY PDC(PARKING DISTANCE CONTROL) SYSTEM. THE SYSTEM FAILED TO OPERATE AND I SCRAPED A WOODEN POLE AS A RESULT OF THIS FAILURE. I WAS LOOKING BEHIND ME, AS I WAS BACKING UP, THE SYSTEM IS DESIGNED TO GO ON WHEN REVERSE GEAR IS ON, BUT IT FAILED TO EMPLOY",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 23,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 BMW 535I. THE CONTACT STATED THAT SINCE PURCHASING THE VEHICLE, IT HAD TO BE TAKEN TO THE DEALERSHIP AT LEAST ONCE A MONTH. THE VEHICLE LOST POWER INTERMITTENTLY. THE DEALER REBOOTED THE COMPUTER AND REPROGRAMMED FAULTY CODES AT LEAST SIX TIMES. THE VEH",
+      "pct": 13
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECURRENT SUDDEN STALLING OF VEHICLE MULTIPLE TIMES,  LEADING TO LOSS OF STEERING CONTROL, ON A BRAND NEW BMW 535 XDRIVE WITH 3000 MILES.  THE PROBLEM WAS FIXED BY CHANGING THE HIGH PRESSURE FUEL PUMP, BY THE BMW DEALERSHIP.  I AM NOT SURE IF THIS IS WIDESPREAD PROBLEM WITH BMW V",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw 5 Series owners report most",
+    "summary": "Across 180 owner complaints to NHTSA, the most reported area is Engine (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 41,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JANUARY 12, 2013, WHILE DRIVING WITH MY FAMILY ON A SOUTHERN CALIFORNIA HIGHWAY AT SPEEDS OF ROUGHLY 70 MPH, OUR 2010 BMW 535I SEDAN, SUDDENLY LOST POWER, STALLED, COULD NOT ACCELERATE, AND BECAME DIFFICULT TO CONTROL AS I CROSSED 3 LANES OF TRAFFIC; SURPRISINGLY GUIDED THE VE",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "41 reports (23%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 37,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 BMW 535I. THE CONTACT STATED THAT WHILE TRAVELING 20 MPH, THE VEHICLE BEGAN TO SHAKE VIOLENTLY THEN THE CHECK ENGINE WARNING LIGHT ILLUMINATED.  THE VEHICLE WAS DRIVEN TO THE CONTACT'S DESTINATION AND WAS LATER TAKEN TO THE DEALER WHERE IT WAS CONFIRME",
+        "pct": 21,
+        "title": "Fuel/Propulsion System",
+        "blurb": "37 reports (21%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 3,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I EXPERIENCED A FAILURE OF MY PDC(PARKING DISTANCE CONTROL) SYSTEM. THE SYSTEM FAILED TO OPERATE AND I SCRAPED A WOODEN POLE AS A RESULT OF THIS FAILURE. I WAS LOOKING BEHIND ME, AS I WAS BACKING UP, THE SYSTEM IS DESIGNED TO GO ON WHEN REVERSE GEAR IS ON, BUT IT FAILED TO EMPLOY",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "33 reports (18%) · 4 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 23,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 BMW 535I. THE CONTACT STATED THAT SINCE PURCHASING THE VEHICLE, IT HAD TO BE TAKEN TO THE DEALERSHIP AT LEAST ONCE A MONTH. THE VEHICLE LOST POWER INTERMITTENTLY. THE DEALER REBOOTED THE COMPUTER AND REPROGRAMMED FAULTY CODES AT LEAST SIX TIMES. THE VEH",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "23 reports (13%) · 3 fire"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECURRENT SUDDEN STALLING OF VEHICLE MULTIPLE TIMES,  LEADING TO LOSS OF STEERING CONTROL, ON A BRAND NEW BMW 535 XDRIVE WITH 3000 MILES.  THE PROBLEM WAS FIXED BY CHANGING THE HIGH PRESSURE FUEL PUMP, BY THE BMW DEALERSHIP.  I AM NOT SURE IF THIS IS WIDESPREAD PROBLEM WITH BMW V",
+        "pct": 13,
+        "title": "Fuel System",
+        "blurb": "23 reports (13%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-07-19T23:57:33.978Z",
+  "total": 82,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 46,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STRONG FUEL SMELL COMING FROM LEFT SIDE OF CAR.  FUEL LEAKS FROM FITTING AT TOP OF FUEL PUMP ASSEMBLY IN LEFT SIDE TANK.   MANY OF US CORVETTE FORUM OWNERS HAVE HAD THIS HAPPEN.  THERE'S EVEN A YOU-TUBE VIDEO SHOWING WHERE THE \"CRACK\" OCCURS.  NOT ACCEPTABLE TO HAVE TO REPAIR THI",
+      "pct": 56
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SINCE OWNERSHIP STARTING 09/28/12 I HAVE HAD MULTIPLE INCIDENTS OF THE AIR BAG LIGHT FOR THE PASSENGER SIDE ILLUMINATE.  IT IS INTERMITTENT AND COMES AND GOES RANDOMLY.  I JUST GOT IT BACK FROM THE DEALER AFTER COMPLAINING ABOUT IT AND THEY SAID THEY COULDN'T DO ANYTHING SINCE TH",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE HAVE BEEN SEVERAL SITUATIONS WITH THE CORVETTE LS7 ENGINE THAT RESULTED IN DROPPED VALVES AND BLOWN ENGINES. MY SOURCE IS THE CORVETTE FORUM WHERE SEVERAL OWNERS HAVE HAD THE PROBLEM. THE FAULTY VALVE GUIDES HAVE BEEN TRACED BACK TO THE ENGINE HEAD SUPPLIER . WHEN THE VALVE",
+      "pct": 10
+    },
+    {
+      "component": "WHEELS",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET CORVETTE. WHILE THE VEHICLE'S OIL WAS BEING CHANGED AT SUBURBAN CHEVROLET (36936 US-26, SANDY, OR 97055), THE DEALER NOTICED THAT THE THREADS ON THE STUD BOLTS ON THE REAR PASSENGER SIDE WHEEL HAD STRETCHED, FAILED, AND NEEDED TO BE REPLACED.",
+      "pct": 6
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MANY STRANGE THINGS STARTED HAPPENING -- SOME INTERMITTENTLY.  THE OPTIONS BUTTON SOMETIMES SHOWS \"UNAVAILABLE\"; AT OTHER TIMES, IT WORKS!  THE PASSENGER WINDOW SUDDENLY STOPPED ROLLING UP COMPLETELY WHEN THE DOOR IS SHUT, AND MUST NOW BE CLOSED MANUALLY.  THE \"HEADS UP\" SPEED PR",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Corvette owners report most",
+    "summary": "Across 82 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (56% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 46,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STRONG FUEL SMELL COMING FROM LEFT SIDE OF CAR.  FUEL LEAKS FROM FITTING AT TOP OF FUEL PUMP ASSEMBLY IN LEFT SIDE TANK.   MANY OF US CORVETTE FORUM OWNERS HAVE HAD THIS HAPPEN.  THERE'S EVEN A YOU-TUBE VIDEO SHOWING WHERE THE \"CRACK\" OCCURS.  NOT ACCEPTABLE TO HAVE TO REPAIR THI",
+        "pct": 56,
+        "title": "Fuel/Propulsion System",
+        "blurb": "46 reports (56%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SINCE OWNERSHIP STARTING 09/28/12 I HAVE HAD MULTIPLE INCIDENTS OF THE AIR BAG LIGHT FOR THE PASSENGER SIDE ILLUMINATE.  IT IS INTERMITTENT AND COMES AND GOES RANDOMLY.  I JUST GOT IT BACK FROM THE DEALER AFTER COMPLAINING ABOUT IT AND THEY SAID THEY COULDN'T DO ANYTHING SINCE TH",
+        "pct": 12,
+        "title": "Air Bags",
+        "blurb": "10 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE HAVE BEEN SEVERAL SITUATIONS WITH THE CORVETTE LS7 ENGINE THAT RESULTED IN DROPPED VALVES AND BLOWN ENGINES. MY SOURCE IS THE CORVETTE FORUM WHERE SEVERAL OWNERS HAVE HAD THE PROBLEM. THE FAULTY VALVE GUIDES HAVE BEEN TRACED BACK TO THE ENGINE HEAD SUPPLIER . WHEN THE VALVE",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "8 reports (10%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET CORVETTE. WHILE THE VEHICLE'S OIL WAS BEING CHANGED AT SUBURBAN CHEVROLET (36936 US-26, SANDY, OR 97055), THE DEALER NOTICED THAT THE THREADS ON THE STUD BOLTS ON THE REAR PASSENGER SIDE WHEEL HAD STRETCHED, FAILED, AND NEEDED TO BE REPLACED.",
+        "pct": 6,
+        "title": "Wheels",
+        "blurb": "5 reports (6%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MANY STRANGE THINGS STARTED HAPPENING -- SOME INTERMITTENTLY.  THE OPTIONS BUTTON SOMETIMES SHOWS \"UNAVAILABLE\"; AT OTHER TIMES, IT WORKS!  THE PASSENGER WINDOW SUDDENLY STOPPED ROLLING UP COMPLETELY WHEN THE DOOR IS SHUT, AND MUST NOW BE CLOSED MANUALLY.  THE \"HEADS UP\" SPEED PR",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "4 reports (5%)"
+      }
+    ]
+  }
+}

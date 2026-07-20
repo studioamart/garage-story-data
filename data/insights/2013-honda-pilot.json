@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/PILOT#complaints",
+  "generatedAt": "2026-07-19T23:49:21.765Z",
+  "total": 270,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 78,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE SLOWLY BACKING OUT OF PARKING PLACE INTO THE STREET, THE ENGINE SUDDENLY AND UNEXPECTEDLY ACCELERATED OUT-OF-CONTROL TO VERY HIGH RATE. CAUGHT OFF GUARD, THE ENGINE RPM WAS NOT NOTED, BUT DRIVER QUICKLY DECIDED THAT THE ONLY SOLUTION WAS TO TURN OFF IGNITION. THERE WAS NO M",
+      "pct": 29
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 54,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA PILOT. THE CONTACT STATED THAT THE BRAKE FAILED TO ENGAGE AT NORMAL STOPPING DISTANCE AND THE BRAKE PEDAL FELT SOFT. WHEN DEPRESSED, THE BRAKE PEDAL WOULD TRAVEL PARTIALLY TO THE FLOORBOARD ACCOMPANIED BY AN ABNORMAL VIBRATION OCCURRED WHEN DRIVI",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 47,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS SOON AS THE VEHICLE WAS DRIVEN OUT OF THE LOT, 17 MILES ON THE ODOMETER, AFTER THE VEHICLE WAS PURCHASED, A VIBRATION WAS FELT COMING THROUGH THE SEATS AT 75 MPH. AND MULTIPLE RESONANCE FREQUENCIES CAN BE FELT THROUGH THE CHASSIS INTO THE INTERIOR OF THE VEHICLE. THIS VIBRATIO",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 42,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA PILOT. THE CONTACT STATED THAT THE BRAKE FAILED TO ENGAGE AT NORMAL STOPPING DISTANCE AND THE BRAKE PEDAL FELT SOFT. WHEN DEPRESSED, THE BRAKE PEDAL WOULD TRAVEL PARTIALLY TO THE FLOORBOARD ACCOMPANIED BY AN ABNORMAL VIBRATION OCCURRED WHEN DRIVI",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 18,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "ON 06/28/2014 THE FRONT PASSENGER AIRBAG SENSOR INDICATED THAT THE AIRBAG IS OFF WHEN A PASSENGER IS SEATED IN THE SEAT.  MY 12 YR OLD SON (114 LBS.) WAS THE PASSENGER AT THE TIME OF FAILURE.WE HAVE DOCUMENTED/PHOTOGRAPHED THE AIRBAG LIGHT INITIATING A SENSOR AS BEING OFF WHILE T",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Pilot owners report most",
+    "summary": "Across 270 owner complaints to NHTSA, the most reported area is Engine (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 78,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE SLOWLY BACKING OUT OF PARKING PLACE INTO THE STREET, THE ENGINE SUDDENLY AND UNEXPECTEDLY ACCELERATED OUT-OF-CONTROL TO VERY HIGH RATE. CAUGHT OFF GUARD, THE ENGINE RPM WAS NOT NOTED, BUT DRIVER QUICKLY DECIDED THAT THE ONLY SOLUTION WAS TO TURN OFF IGNITION. THERE WAS NO M",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "78 reports (29%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 54,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA PILOT. THE CONTACT STATED THAT THE BRAKE FAILED TO ENGAGE AT NORMAL STOPPING DISTANCE AND THE BRAKE PEDAL FELT SOFT. WHEN DEPRESSED, THE BRAKE PEDAL WOULD TRAVEL PARTIALLY TO THE FLOORBOARD ACCOMPANIED BY AN ABNORMAL VIBRATION OCCURRED WHEN DRIVI",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "54 reports (20%) · 3 crash · 7 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 47,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS SOON AS THE VEHICLE WAS DRIVEN OUT OF THE LOT, 17 MILES ON THE ODOMETER, AFTER THE VEHICLE WAS PURCHASED, A VIBRATION WAS FELT COMING THROUGH THE SEATS AT 75 MPH. AND MULTIPLE RESONANCE FREQUENCIES CAN BE FELT THROUGH THE CHASSIS INTO THE INTERIOR OF THE VEHICLE. THIS VIBRATIO",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "47 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 42,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA PILOT. THE CONTACT STATED THAT THE BRAKE FAILED TO ENGAGE AT NORMAL STOPPING DISTANCE AND THE BRAKE PEDAL FELT SOFT. WHEN DEPRESSED, THE BRAKE PEDAL WOULD TRAVEL PARTIALLY TO THE FLOORBOARD ACCOMPANIED BY AN ABNORMAL VIBRATION OCCURRED WHEN DRIVI",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "42 reports (16%) · 1 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 18,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "ON 06/28/2014 THE FRONT PASSENGER AIRBAG SENSOR INDICATED THAT THE AIRBAG IS OFF WHEN A PASSENGER IS SEATED IN THE SEAT.  MY 12 YR OLD SON (114 LBS.) WAS THE PASSENGER AT THE TIME OF FAILURE.WE HAVE DOCUMENTED/PHOTOGRAPHED THE AIRBAG LIGHT INITIATING A SENSOR AS BEING OFF WHILE T",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "18 reports (7%) · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

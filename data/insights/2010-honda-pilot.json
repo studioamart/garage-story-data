@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/PILOT#complaints",
+  "generatedAt": "2026-07-19T23:48:43.076Z",
+  "total": 111,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 32,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA PILOT. THE CONTACT STATED THAT WHILE MAKING A RIGHT TURN, ANOTHER VEHICLE CRASHED INTO THE DRIVER'S SIDE OF THE VEHICLE. UPON IMPACT, ALL OF THE AIR BAGS DEPLOYED EXCEPT THE DRIVER'S SIDE. THE CONTACT ALSO STATED THAT THE VEHICLE WAS PREVIOUSLY R",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 28,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA PILOT. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE BOLT ON THE ENGINE WELD TANKER CAME APART, CAUSING THE ENGINE TO STALL. THE VEHICLE WAS MERGED TO THE SHOULDER AND THEN TOWED TO THE DEALER. THE VEHICLE WAS NOT DRIVABLE. THE DEALER INSPECT",
+      "pct": 25
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OUR 2010 HONDA PILOT HAS HAD TO HAVE THE FRONT PASSENGER SIDE WHEEL BEARING REPLACED AT ONLY 15746 MILES. HAD WE NOT TAKEN IT TO THE DEALER IN A TIMELY MANNER WHEN WE NOTICED THE PROBLEM. WE MAY HAVE BEEN INVOLVED IN A CRASH. THE WHEEL BEARING KEEPS THE WHEEL TURNING AND HAD IT \"",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED A NEW 2010 HONDA PILOT EX IN 3/13/2010. IN THE EVENING OF 4/16/2010, MY WIFE DROVE IT TO PICK UP MY DAUGHTER AND MY NEIGHBOR'S DAUGHTER FROM GYM CLASS.  WHEN THE CAR APPROACHING THE GIRL'S HOUSE IN A CUL-DE-SAC AND MY WIFE REDUCED THE SPEED BY APPLYING THE BRAKE ENTER",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS IS IN REFERENCE TO THE 2009 AND 2010 HONDA PILOT, ALL TRIM LEVELS. THE SPEEDOMETER ONLY HAS NUMERICAL MARKINGS FOR EVERY 20 MPH, SUCH AS 40, 60, ETC. BETWEEN THESE ARE ENGRAVED LINES ONLY AT INCREMENTS OF EVERY 5 MPH. HOWEVER THE ENGRAVINGS ARE SO CLOSE IN COLOR TO THE BACKG",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Pilot owners report most",
+    "summary": "Across 111 owner complaints to NHTSA, the most reported area is Air Bags (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 32,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA PILOT. THE CONTACT STATED THAT WHILE MAKING A RIGHT TURN, ANOTHER VEHICLE CRASHED INTO THE DRIVER'S SIDE OF THE VEHICLE. UPON IMPACT, ALL OF THE AIR BAGS DEPLOYED EXCEPT THE DRIVER'S SIDE. THE CONTACT ALSO STATED THAT THE VEHICLE WAS PREVIOUSLY R",
+        "pct": 29,
+        "title": "Air Bags",
+        "blurb": "32 reports (29%) · 5 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 28,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA PILOT. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE BOLT ON THE ENGINE WELD TANKER CAME APART, CAUSING THE ENGINE TO STALL. THE VEHICLE WAS MERGED TO THE SHOULDER AND THEN TOWED TO THE DEALER. THE VEHICLE WAS NOT DRIVABLE. THE DEALER INSPECT",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "28 reports (25%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OUR 2010 HONDA PILOT HAS HAD TO HAVE THE FRONT PASSENGER SIDE WHEEL BEARING REPLACED AT ONLY 15746 MILES. HAD WE NOT TAKEN IT TO THE DEALER IN A TIMELY MANNER WHEN WE NOTICED THE PROBLEM. WE MAY HAVE BEEN INVOLVED IN A CRASH. THE WHEEL BEARING KEEPS THE WHEEL TURNING AND HAD IT \"",
+        "pct": 15,
+        "title": "Suspension",
+        "blurb": "17 reports (15%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED A NEW 2010 HONDA PILOT EX IN 3/13/2010. IN THE EVENING OF 4/16/2010, MY WIFE DROVE IT TO PICK UP MY DAUGHTER AND MY NEIGHBOR'S DAUGHTER FROM GYM CLASS.  WHEN THE CAR APPROACHING THE GIRL'S HOUSE IN A CUL-DE-SAC AND MY WIFE REDUCED THE SPEED BY APPLYING THE BRAKE ENTER",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "9 reports (8%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS IS IN REFERENCE TO THE 2009 AND 2010 HONDA PILOT, ALL TRIM LEVELS. THE SPEEDOMETER ONLY HAS NUMERICAL MARKINGS FOR EVERY 20 MPH, SUCH AS 40, 60, ETC. BETWEEN THESE ARE ENGRAVED LINES ONLY AT INCREMENTS OF EVERY 5 MPH. HOWEVER THE ENGRAVINGS ARE SO CLOSE IN COLOR TO THE BACKG",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "9 reports (8%) · 1 fire · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

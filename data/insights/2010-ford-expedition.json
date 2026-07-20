@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-07-19T23:54:06.339Z",
+  "total": 58,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 FORD EXPEDITION. WHEN THE VEHICLE STOPPED ON AN INCLINE, THE GEAR SHIFT WAS IN REVERSE; HOWEVER, IT RESPONDED AS IF IT WERE IN PARK.  THE VEHICLE CRASHED INTO A BANK OF ROCKS. THERE WERE FRONT END DAMAGES TO THE BUMPER. THERE WERE NO INJURIES MENTIONED.",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 FORD EXPEDITION. THE CONTACT STATED THAT THE INSTRUMENT PANEL LIGHTS WERE NOT BRIGHT ENOUGH, AS A RESULT HE COULD NOT READ ANY OF THE INSTRUMENTS. THE VEHICLE WAS TAKEN TO THE DEALER WHO STATED THAT IT WAS NORMAL AND THEY COULD NOT ALTER THE DESIGN OF ",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 10,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHEN DRIVING THE 2010 FORD EXPEDITION THROUGH VIRTUALLY ANY PUDDLE, AS THE WATER HITS THE FRONT WHEELS IT IS THROWN DIRECTLY UP ONTO THE WINDSHIELD OF THE SUV.  I HAVE OWNED MANY VEHICLES AND THEY ALWAYS ARE DESIGNED TO PUSH THE WATER AWAY/UNDER THE VEHICLE.  THIS IS A VERY SERIO",
+      "pct": 17
+    },
+    {
+      "component": "SEATS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 FORD EXPEDITION. THE CONTACT STATED THAT THE FRONT DRIVER AND PASSENGER HEAD RESTS ARE AT AN ACUTE ANGLE. THIS ANGLE DISABLED THE OCCUPANTS FROM BEING PROPERLY POSITIONED IN THE SEATS. HE NOTIFIED THE MANUFACTURER; HOWEVER, HE WAS ADVISED BY A REPRESEN",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS ATTEMPTING TO ACCELERATE FROM AN IDLE POSITION TO ENTER A HIGHWAY.  IN THE PROCESS OF ACCELERATION, MY ENGINE BEGAN TO KICK AND STUTTER LIKE IT WAS NOT TAKING IN ENOUGH GAS.  I HAVE REPORTED THIS MATTER TO MY FORD DEALERSHIP WITHOUT A SATISFACTORY ANSWER.  A COLLEAGUE OF MI",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Expedition owners report most",
+    "summary": "Across 58 owner complaints to NHTSA, the most reported area is Power Train (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 FORD EXPEDITION. WHEN THE VEHICLE STOPPED ON AN INCLINE, THE GEAR SHIFT WAS IN REVERSE; HOWEVER, IT RESPONDED AS IF IT WERE IN PARK.  THE VEHICLE CRASHED INTO A BANK OF ROCKS. THERE WERE FRONT END DAMAGES TO THE BUMPER. THERE WERE NO INJURIES MENTIONED.",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "10 reports (17%) · 5 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 FORD EXPEDITION. THE CONTACT STATED THAT THE INSTRUMENT PANEL LIGHTS WERE NOT BRIGHT ENOUGH, AS A RESULT HE COULD NOT READ ANY OF THE INSTRUMENTS. THE VEHICLE WAS TAKEN TO THE DEALER WHO STATED THAT IT WAS NORMAL AND THEY COULD NOT ALTER THE DESIGN OF ",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "10 reports (17%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 10,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHEN DRIVING THE 2010 FORD EXPEDITION THROUGH VIRTUALLY ANY PUDDLE, AS THE WATER HITS THE FRONT WHEELS IT IS THROWN DIRECTLY UP ONTO THE WINDSHIELD OF THE SUV.  I HAVE OWNED MANY VEHICLES AND THEY ALWAYS ARE DESIGNED TO PUSH THE WATER AWAY/UNDER THE VEHICLE.  THIS IS A VERY SERIO",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "10 reports (17%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 FORD EXPEDITION. THE CONTACT STATED THAT THE FRONT DRIVER AND PASSENGER HEAD RESTS ARE AT AN ACUTE ANGLE. THIS ANGLE DISABLED THE OCCUPANTS FROM BEING PROPERLY POSITIONED IN THE SEATS. HE NOTIFIED THE MANUFACTURER; HOWEVER, HE WAS ADVISED BY A REPRESEN",
+        "pct": 10,
+        "title": "Seats",
+        "blurb": "6 reports (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS ATTEMPTING TO ACCELERATE FROM AN IDLE POSITION TO ENTER A HIGHWAY.  IN THE PROCESS OF ACCELERATION, MY ENGINE BEGAN TO KICK AND STUTTER LIKE IT WAS NOT TAKING IN ENOUGH GAS.  I HAVE REPORTED THIS MATTER TO MY FORD DEALERSHIP WITHOUT A SATISFACTORY ANSWER.  A COLLEAGUE OF MI",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "4 reports (7%)"
+      }
+    ]
+  }
+}

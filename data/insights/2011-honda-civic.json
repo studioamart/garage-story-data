@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-07-19T23:48:47.693Z",
+  "total": 168,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 51,
+      "crash": 17,
+      "fire": 0,
+      "injuries": 19,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 HONDA CIVIC DX VP (NA). THE CONTACT STATED THAT WHILE AT A STANDSTILL, THE DRIVER WAS HIT ON THE DRIVER SIDE REAR. UPON IMPACT, THE REAR DOOR SIDE CURTAIN AIR BAG DEPLOYED AS WELL AS THE DRIVER FRONT AND DOOR AIR BAGS DEPLOYED  FRACTURING HER RIBS. HE S",
+      "pct": 30
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 33,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "MY DAUGHTER DROVE ON FREEWAY 60 AND NEEDED TO CHANGE LANE TO FREEWAY 57. WHILE SHE CHANGED LANES, SHE FOUND THE TRAFFIC ON FREEWAY 57 STARTED TO SLOW DOWN. SO, SHE STARTED TO BRAKE, BUT FOR SOME ODD REASON THE BRAKE DID NOT WORK PROPERLY. THE CAR DID NOT SLOW DOWN WELL ENOUGH, SO",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED A BRAND NEW 2011 HONDA CIVIC 4D LXS MODEL CAR IN MARCH. WITHIN A MONTH THE CAR HEAD COMPUTER ISSUE THAT CAUSED ALL OF THE ELECTRONIC DISPLAY CONTROL TO BREAK, SPEEDOMETER, ENGINE TEMPERATURE, GAS INDICATOR, ODOMETER, ETC. ALL WENT DEAD. THE CAR WAS TAKEN IN FOR SERVICE,",
+      "pct": 9
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY SUN VISORS HAVE SPLIT OPEN AT THE SEAM AND DO NOT STAY UP.  THEY OBSTRUCT MY VISION, ESPECIALLY DRIVING AT NIGHT.  BOTH DRIVER SIDE AND PASSENGER SIDE VISORS BROKE WITHIN ONE DAY OF EACH OTHER AT 37,700 MILES.  HONDA REFUSES TO EXTEND WARRANTY AND SAYS THAT I MUST HAVE DAMAGED",
+      "pct": 8
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA CIVIC. THE CONTACT STATED THAT WHEN DRIVING APPROXIMATELY 60 MPH OR ABOVE WITH THE REAR WINDOWS OPEN, THERE WAS A VIBRATION IN THE REAR OF THE VEHICLE. THE VEHICLE WAS NOT INSPECTED BY A DEALER NOR REPAIRED. THE MANUFACTURER WAS NOT CONTACTED. TH",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Civic owners report most",
+    "summary": "Across 168 owner complaints to NHTSA, the most reported area is Air Bags (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 51,
+        "crash": 17,
+        "fire": 0,
+        "injuries": 19,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 HONDA CIVIC DX VP (NA). THE CONTACT STATED THAT WHILE AT A STANDSTILL, THE DRIVER WAS HIT ON THE DRIVER SIDE REAR. UPON IMPACT, THE REAR DOOR SIDE CURTAIN AIR BAG DEPLOYED AS WELL AS THE DRIVER FRONT AND DOOR AIR BAGS DEPLOYED  FRACTURING HER RIBS. HE S",
+        "pct": 30,
+        "title": "Air Bags",
+        "blurb": "51 reports (30%) · 17 crash · 19 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 33,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "MY DAUGHTER DROVE ON FREEWAY 60 AND NEEDED TO CHANGE LANE TO FREEWAY 57. WHILE SHE CHANGED LANES, SHE FOUND THE TRAFFIC ON FREEWAY 57 STARTED TO SLOW DOWN. SO, SHE STARTED TO BRAKE, BUT FOR SOME ODD REASON THE BRAKE DID NOT WORK PROPERLY. THE CAR DID NOT SLOW DOWN WELL ENOUGH, SO",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "33 reports (20%) · 7 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED A BRAND NEW 2011 HONDA CIVIC 4D LXS MODEL CAR IN MARCH. WITHIN A MONTH THE CAR HEAD COMPUTER ISSUE THAT CAUSED ALL OF THE ELECTRONIC DISPLAY CONTROL TO BREAK, SPEEDOMETER, ENGINE TEMPERATURE, GAS INDICATOR, ODOMETER, ETC. ALL WENT DEAD. THE CAR WAS TAKEN IN FOR SERVICE,",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "15 reports (9%) · 3 fire · 2 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY SUN VISORS HAVE SPLIT OPEN AT THE SEAM AND DO NOT STAY UP.  THEY OBSTRUCT MY VISION, ESPECIALLY DRIVING AT NIGHT.  BOTH DRIVER SIDE AND PASSENGER SIDE VISORS BROKE WITHIN ONE DAY OF EACH OTHER AT 37,700 MILES.  HONDA REFUSES TO EXTEND WARRANTY AND SAYS THAT I MUST HAVE DAMAGED",
+        "pct": 8,
+        "title": "Visibility/Wiper",
+        "blurb": "13 reports (8%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA CIVIC. THE CONTACT STATED THAT WHEN DRIVING APPROXIMATELY 60 MPH OR ABOVE WITH THE REAR WINDOWS OPEN, THERE WAS A VIBRATION IN THE REAR OF THE VEHICLE. THE VEHICLE WAS NOT INSPECTED BY A DEALER NOR REPAIRED. THE MANUFACTURER WAS NOT CONTACTED. TH",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "10 reports (6%)"
+      }
+    ]
+  }
+}

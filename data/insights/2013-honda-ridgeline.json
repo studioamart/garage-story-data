@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-07-19T23:49:22.495Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 35,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TAKATA RECALL  I HAVE CONTACTED THE DEALER WHERE I PURCHASED MY NEW RIDGELINE, MOHAWK HONDA 175 FREEMANS BRIDGE RD. SCOTIA, NY REGARDING MY RECALL.  THEY WANT ME TO SURRENDER MY TRUCK AND USE A SEDAN LOANER UNTIL THEY CAN MAKE REPAIRS.  I HAVE EXPLAINED TO THEM THAT I USE MY TRUC",
+      "pct": 78
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 7,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA RIDGELINE. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED THAT THE ANTENNA COVER WAS NOT ATTACHED TO THE VEHICLE. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THERE WAS A HEATING FAILURE THAT HEATED UP THE METAL",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STARTING IN MOTION AFTER A STOP FOR A TRAFFIC SIGNAL, OR MAKING A SLOW TURN THE POWER FROM THE ENGINE STOPS.  I AM A LEFT FOOT BRAKE, TOUCHING THE BRAKE PEDAL TO CONTROL SPEED IN TRAFFIC TO AVOID A STOP AND GO REAR END COLLISION SITUATION FOLLOWING OTHER CARS, THE ENGINE POW",
+      "pct": 4
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STARTING IN MOTION AFTER A STOP FOR A TRAFFIC SIGNAL, OR MAKING A SLOW TURN THE POWER FROM THE ENGINE STOPS.  I AM A LEFT FOOT BRAKE, TOUCHING THE BRAKE PEDAL TO CONTROL SPEED IN TRAFFIC TO AVOID A STOP AND GO REAR END COLLISION SITUATION FOLLOWING OTHER CARS, THE ENGINE POW",
+      "pct": 4
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear crossmember of the Honda Ridgeline 2013 RTL where the trailer hitch is attached is rusted through which could break when towing or driving causing an accident.  I think Honda should weld a plate onto the crossmember beam and undercoat it.  Thank you",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Ridgeline owners report most",
+    "summary": "Across 45 owner complaints to NHTSA, the most reported area is Air Bags (78% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 35,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TAKATA RECALL  I HAVE CONTACTED THE DEALER WHERE I PURCHASED MY NEW RIDGELINE, MOHAWK HONDA 175 FREEMANS BRIDGE RD. SCOTIA, NY REGARDING MY RECALL.  THEY WANT ME TO SURRENDER MY TRUCK AND USE A SEDAN LOANER UNTIL THEY CAN MAKE REPAIRS.  I HAVE EXPLAINED TO THEM THAT I USE MY TRUC",
+        "pct": 78,
+        "title": "Air Bags",
+        "blurb": "35 reports (78%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 7,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA RIDGELINE. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED THAT THE ANTENNA COVER WAS NOT ATTACHED TO THE VEHICLE. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THERE WAS A HEATING FAILURE THAT HEATED UP THE METAL",
+        "pct": 16,
+        "title": "Structure",
+        "blurb": "7 reports (16%) · 1 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STARTING IN MOTION AFTER A STOP FOR A TRAFFIC SIGNAL, OR MAKING A SLOW TURN THE POWER FROM THE ENGINE STOPS.  I AM A LEFT FOOT BRAKE, TOUCHING THE BRAKE PEDAL TO CONTROL SPEED IN TRAFFIC TO AVOID A STOP AND GO REAR END COLLISION SITUATION FOLLOWING OTHER CARS, THE ENGINE POW",
+        "pct": 4,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (4%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STARTING IN MOTION AFTER A STOP FOR A TRAFFIC SIGNAL, OR MAKING A SLOW TURN THE POWER FROM THE ENGINE STOPS.  I AM A LEFT FOOT BRAKE, TOUCHING THE BRAKE PEDAL TO CONTROL SPEED IN TRAFFIC TO AVOID A STOP AND GO REAR END COLLISION SITUATION FOLLOWING OTHER CARS, THE ENGINE POW",
+        "pct": 4,
+        "title": "Engine",
+        "blurb": "2 reports (4%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear crossmember of the Honda Ridgeline 2013 RTL where the trailer hitch is attached is rusted through which could break when towing or driving causing an accident.  I think Honda should weld a plate onto the crossmember beam and undercoat it.  Thank you",
+        "pct": 2,
+        "title": "Suspension",
+        "blurb": "1 report (2%)"
+      }
+    ]
+  }
+}

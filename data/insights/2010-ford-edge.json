@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/EDGE#complaints",
+  "generatedAt": "2026-07-19T23:53:57.934Z",
+  "total": 672,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 287,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 1,
+      "sample": "I WAS DRIVING MY 2 WEEK OLD 2010 EDGE LIMITED, ON A HIGHWAY IN STOP AND GO TRAFFIC,WHEN I WAS HIT FROM BEHIND BY A TRACTOR TRAILER LOADED WITH ASPHALT SHINGLES. I WAS PUSHED INTO A CAR IN FRONT OF ME AND BOTH CARS WERE TOTALED.  DURING THE CRASH, THE COMPONENTS OF THE DASH WERE E",
+      "pct": 43
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 181,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I HAVE A NEW 2010 FORD EDGE.  I HAD IT A WEEK WHEN I PULLED UP TO A STOP SIGN ON A HILL.  I HAD THE CAR IN DRIVE WITH MY FOOT ON THE BRAKE. THERE WERE CARS IN FRONT OF & BEHIND ME.  WHEN IT WAS TIME TO MOVE FORWARD, I TOOK MY FOOT OFF THE BRAKE AND STARTED MOVING IT TO THE GAS PE",
+      "pct": 27
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 52,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED A 2010 FORD EDGE SEL AWD ON JULY 27, 2009.  ON AUGUST 12, 2009, VEHICLE BEGAN BELLOWING SMOKE FROM THE WHEEL WELLS.  BROUGHT THE VEHICLE IN FOR SERVICE TO BE TOLD THAT THE PTU SEAL WAS BLOWN.  THEY REPLACED THE SEAL AND INSTALLED A DEFLECTOR SO AS TO NOT BE ABLE TO SMEL",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 40,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TODAY, MY WIFE BROUGHT HER 2010 FORD EDGE IN FOR THE 3RD TIME IN A MATTER OF 3 WEEKS, TO THE LOCAL DEALERSHIP.  THE PROBLEM IS WHILE SHE IS DRIVING, THE CHECK ENGINE LIGHT WILL COME ON AND THE ENGINE WILL STALL LEAVING HER STRANDED IN THE MIDDLE OF TRAFFIC, AFTER A MINUTE SHE CAN",
+      "pct": 6
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 FORD EDGE.  WHILE DRIVING APPROXIMATELY 25 MPH HE WAS UNABLE TO VIEW THE SPEED ODOMETER. DUE TO THE DESIGN OF THE VEHICLE, THE DRIVER IS ONLY ABLE TO READ THE SPEEDOMETER AT NIGHT. THE DEALER AND THE MANUFACTURER STATED THAT THEY WERE UNABLE TO ASSIST T",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Edge owners report most",
+    "summary": "Across 672 owner complaints to NHTSA, the most reported area is Air Bags (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 287,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 1,
+        "sample": "I WAS DRIVING MY 2 WEEK OLD 2010 EDGE LIMITED, ON A HIGHWAY IN STOP AND GO TRAFFIC,WHEN I WAS HIT FROM BEHIND BY A TRACTOR TRAILER LOADED WITH ASPHALT SHINGLES. I WAS PUSHED INTO A CAR IN FRONT OF ME AND BOTH CARS WERE TOTALED.  DURING THE CRASH, THE COMPONENTS OF THE DASH WERE E",
+        "pct": 43,
+        "title": "Air Bags",
+        "blurb": "287 reports (43%) · 9 crash · 10 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 181,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I HAVE A NEW 2010 FORD EDGE.  I HAD IT A WEEK WHEN I PULLED UP TO A STOP SIGN ON A HILL.  I HAD THE CAR IN DRIVE WITH MY FOOT ON THE BRAKE. THERE WERE CARS IN FRONT OF & BEHIND ME.  WHEN IT WAS TIME TO MOVE FORWARD, I TOOK MY FOOT OFF THE BRAKE AND STARTED MOVING IT TO THE GAS PE",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "181 reports (27%) · 9 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 52,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED A 2010 FORD EDGE SEL AWD ON JULY 27, 2009.  ON AUGUST 12, 2009, VEHICLE BEGAN BELLOWING SMOKE FROM THE WHEEL WELLS.  BROUGHT THE VEHICLE IN FOR SERVICE TO BE TOLD THAT THE PTU SEAL WAS BLOWN.  THEY REPLACED THE SEAL AND INSTALLED A DEFLECTOR SO AS TO NOT BE ABLE TO SMEL",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "52 reports (8%) · 4 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 40,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TODAY, MY WIFE BROUGHT HER 2010 FORD EDGE IN FOR THE 3RD TIME IN A MATTER OF 3 WEEKS, TO THE LOCAL DEALERSHIP.  THE PROBLEM IS WHILE SHE IS DRIVING, THE CHECK ENGINE LIGHT WILL COME ON AND THE ENGINE WILL STALL LEAVING HER STRANDED IN THE MIDDLE OF TRAFFIC, AFTER A MINUTE SHE CAN",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "40 reports (6%) · 2 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 FORD EDGE.  WHILE DRIVING APPROXIMATELY 25 MPH HE WAS UNABLE TO VIEW THE SPEED ODOMETER. DUE TO THE DESIGN OF THE VEHICLE, THE DRIVER IS ONLY ABLE TO READ THE SPEEDOMETER AT NIGHT. THE DEALER AND THE MANUFACTURER STATED THAT THEY WERE UNABLE TO ASSIST T",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "28 reports (4%) · 1 fire"
+      }
+    ]
+  }
+}

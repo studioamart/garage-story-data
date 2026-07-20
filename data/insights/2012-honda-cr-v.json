@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/CR-V#complaints",
+  "generatedAt": "2026-07-19T23:49:03.092Z",
+  "total": 399,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 89,
+      "crash": 4,
+      "fire": 2,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "IN STOP AND GO TRAFFIC, WITH AND WITHOUT THE ECON BUTTON ON, THE CAR HESITATES TO ACCELERATE TO THE POINT THAT IT HAS NEARLY CAUSED ACCIDENTS. TOOK IT TO HONDA AND ASKED THEM TO DRIVE TO WITNESS THE PROBLEM. I DON'T THINK THEY DROVE IT. THE PROBLEM IS SOMEWHAT INTERMITTENT, SO YO",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 67,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING INTO MY DRIVEWAY AND PUT INTO PARK.  THE KEY WOULD NOT COME OUT OF IGNITION. VERY FRUSTRATED IT WAS LATE AT NIGHT AND I TRIED WIGGLING THE KEY.  I COULD TURN CAR OFF BUT SO IT WASN'T RUNNING BUT IT WAS ON ENOUGH FOR AUDIO TO STAY ON.  I DROVE AROUND HOPING I COULD R",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 48,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "WHENEVER I PLACED MY CAR ON PARKING AN THE E-BRAKE IF IT WAS ON A SLOPE THE CAR WOULD KEEP GOING AS IF IT WAS ON DRIVE OR REVERSE. IT HAPPENED A COUPLE OF TIMES. I TOOK IT TO THE DEALER AND THEY SAID NOTHING WAS WRONG. WHEN I TOOK IT TO ANOTHER SHOP THEY SAW THAT THE BRAKE PADS W",
+      "pct": 12
+    },
+    {
+      "component": "STEERING",
+      "count": 35,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS 2012 HONDA CR-V. THE CONTACT STATED THAT WHILE DRIVING 15 MPH, THE STEERING WHEEL BECAME STIFF AND COULD NOT BE TURNED LEFT OR RIGHT. THERE WERE NO WARNING LIGHTS ILLUMINATED. THE VEHICLE WAS NOT TAKEN TO A DEALER OR REPAIR SHOP FOR INSPECTION OR REPAIR. THE ",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 30,
+      "crash": 15,
+      "fire": 0,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "MY WIFE WHO WAS DRIVING OUR HONDA CRV 2012 HAD AN ACCIDENT ON THE FREEWAY OFF RAMP.  WHEN THE CAR IN FRONT OF HER RAN OVER SOME WIRE THAT WAS LEFT ON THE ROAD, THE DRIVER MADE A SUDDEN STOP. MY WIFE WAS UNABLE TO STOP IN TIME AND HIT THE VEHICLE WITH OUR HONDA.  THERE WAS CONSIDE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Cr-V owners report most",
+    "summary": "Across 399 owner complaints to NHTSA, the most reported area is Engine (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 89,
+        "crash": 4,
+        "fire": 2,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "IN STOP AND GO TRAFFIC, WITH AND WITHOUT THE ECON BUTTON ON, THE CAR HESITATES TO ACCELERATE TO THE POINT THAT IT HAS NEARLY CAUSED ACCIDENTS. TOOK IT TO HONDA AND ASKED THEM TO DRIVE TO WITNESS THE PROBLEM. I DON'T THINK THEY DROVE IT. THE PROBLEM IS SOMEWHAT INTERMITTENT, SO YO",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "89 reports (22%) · 2 fire · 4 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 67,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING INTO MY DRIVEWAY AND PUT INTO PARK.  THE KEY WOULD NOT COME OUT OF IGNITION. VERY FRUSTRATED IT WAS LATE AT NIGHT AND I TRIED WIGGLING THE KEY.  I COULD TURN CAR OFF BUT SO IT WASN'T RUNNING BUT IT WAS ON ENOUGH FOR AUDIO TO STAY ON.  I DROVE AROUND HOPING I COULD R",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "67 reports (17%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 48,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "WHENEVER I PLACED MY CAR ON PARKING AN THE E-BRAKE IF IT WAS ON A SLOPE THE CAR WOULD KEEP GOING AS IF IT WAS ON DRIVE OR REVERSE. IT HAPPENED A COUPLE OF TIMES. I TOOK IT TO THE DEALER AND THEY SAID NOTHING WAS WRONG. WHEN I TOOK IT TO ANOTHER SHOP THEY SAW THAT THE BRAKE PADS W",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "48 reports (12%) · 1 fire · 1 crash · 6 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 35,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS 2012 HONDA CR-V. THE CONTACT STATED THAT WHILE DRIVING 15 MPH, THE STEERING WHEEL BECAME STIFF AND COULD NOT BE TURNED LEFT OR RIGHT. THERE WERE NO WARNING LIGHTS ILLUMINATED. THE VEHICLE WAS NOT TAKEN TO A DEALER OR REPAIR SHOP FOR INSPECTION OR REPAIR. THE ",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "35 reports (9%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 30,
+        "crash": 15,
+        "fire": 0,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "MY WIFE WHO WAS DRIVING OUR HONDA CRV 2012 HAD AN ACCIDENT ON THE FREEWAY OFF RAMP.  WHEN THE CAR IN FRONT OF HER RAN OVER SOME WIRE THAT WAS LEFT ON THE ROAD, THE DRIVER MADE A SUDDEN STOP. MY WIFE WAS UNABLE TO STOP IN TIME AND HIT THE VEHICLE WITH OUR HONDA.  THERE WAS CONSIDE",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "30 reports (8%) · 15 crash · 11 injured"
+      }
+    ]
+  }
+}

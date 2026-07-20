@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-07-19T23:49:02.742Z",
+  "total": 454,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 149,
+      "crash": 34,
+      "fire": 0,
+      "injuries": 26,
+      "deaths": 0,
+      "sample": "HI,    I WOULD LIKE TO BRING TO YOUR NOTICE IN REGARDS TO MY 2012 HONDA CIVIC CPE.  THE ISSUE IS WITH PASSENGER SIDE AIRBAGS. IN JANUARY WHEN ONE OF MY FRIENDS 9 YR OLD SON SAT IN FRONT PASSENGER SEAT FOR 2 MILE RIDE, THE PASSENGER SIDE AIR BAG SIGN SHOWED THE AIRBAGS ARE OFF. I ",
+      "pct": 33
+    },
+    {
+      "component": "STEERING",
+      "count": 74,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS 2012 HONDA CIVIC. THE CONTACT STATED THAT THERE WAS A FUEL LEAK AND THE VEHICLE PULLED TOWARD THE RIGHT WHILE DRIVING. THE DEALER ATTEMPTED ON TWO OCCASIONS TO REPAIR THE ALIGNMENT FAILURE, BUT WAS UNSUCCESSFUL. THE MANUFACTURER INFORMED THE CONTACT THAT THER",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 59,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HONDA CIVIC HYBRID 2012 BOUGHT JUST AFTER SIX DAYS FAILED AFTER DOING A LEFT TURN.  ALL WARNING LIGHTS LIT FROM THE DASHBOARD.  RESTARTED AND WAS ABLE TO DRIVE HOME BUT FAILED TO START NEXT DAY.  TOWED TO THE NEAREST HONDA DEALER.  SERVICE GUY AFTER CALLING HONDA HEADQUARTERS DET",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 49,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA CIVIC. THE CONTACT STATED THAT WHILE REVERSING INTO A RESIDENTIAL GARAGE, THE VEHICLE ACCELERATED FORWARD AS THE BRAKE WAS DISENGAGED. ON A DIFFERENT OCCASION, WHILE DRIVING UPHILL AND RELEASING THE BRAKES, THE VEHICLE SURGED BACKWARD. IN ORDER T",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 38,
+      "crash": 13,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "HONDA CIVIC HYBRID 2012 BOUGHT JUST AFTER SIX DAYS FAILED AFTER DOING A LEFT TURN.  ALL WARNING LIGHTS LIT FROM THE DASHBOARD.  RESTARTED AND WAS ABLE TO DRIVE HOME BUT FAILED TO START NEXT DAY.  TOWED TO THE NEAREST HONDA DEALER.  SERVICE GUY AFTER CALLING HONDA HEADQUARTERS DET",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Civic owners report most",
+    "summary": "Across 454 owner complaints to NHTSA, the most reported area is Air Bags (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 149,
+        "crash": 34,
+        "fire": 0,
+        "injuries": 26,
+        "deaths": 0,
+        "sample": "HI,    I WOULD LIKE TO BRING TO YOUR NOTICE IN REGARDS TO MY 2012 HONDA CIVIC CPE.  THE ISSUE IS WITH PASSENGER SIDE AIRBAGS. IN JANUARY WHEN ONE OF MY FRIENDS 9 YR OLD SON SAT IN FRONT PASSENGER SEAT FOR 2 MILE RIDE, THE PASSENGER SIDE AIR BAG SIGN SHOWED THE AIRBAGS ARE OFF. I ",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "149 reports (33%) · 34 crash · 26 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 74,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS 2012 HONDA CIVIC. THE CONTACT STATED THAT THERE WAS A FUEL LEAK AND THE VEHICLE PULLED TOWARD THE RIGHT WHILE DRIVING. THE DEALER ATTEMPTED ON TWO OCCASIONS TO REPAIR THE ALIGNMENT FAILURE, BUT WAS UNSUCCESSFUL. THE MANUFACTURER INFORMED THE CONTACT THAT THER",
+        "pct": 16,
+        "title": "Steering",
+        "blurb": "74 reports (16%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 59,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HONDA CIVIC HYBRID 2012 BOUGHT JUST AFTER SIX DAYS FAILED AFTER DOING A LEFT TURN.  ALL WARNING LIGHTS LIT FROM THE DASHBOARD.  RESTARTED AND WAS ABLE TO DRIVE HOME BUT FAILED TO START NEXT DAY.  TOWED TO THE NEAREST HONDA DEALER.  SERVICE GUY AFTER CALLING HONDA HEADQUARTERS DET",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "59 reports (13%) · 2 fire · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 49,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA CIVIC. THE CONTACT STATED THAT WHILE REVERSING INTO A RESIDENTIAL GARAGE, THE VEHICLE ACCELERATED FORWARD AS THE BRAKE WAS DISENGAGED. ON A DIFFERENT OCCASION, WHILE DRIVING UPHILL AND RELEASING THE BRAKES, THE VEHICLE SURGED BACKWARD. IN ORDER T",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "49 reports (11%) · 4 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 38,
+        "crash": 13,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "HONDA CIVIC HYBRID 2012 BOUGHT JUST AFTER SIX DAYS FAILED AFTER DOING A LEFT TURN.  ALL WARNING LIGHTS LIT FROM THE DASHBOARD.  RESTARTED AND WAS ABLE TO DRIVE HOME BUT FAILED TO START NEXT DAY.  TOWED TO THE NEAREST HONDA DEALER.  SERVICE GUY AFTER CALLING HONDA HEADQUARTERS DET",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "38 reports (8%) · 13 crash · 7 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/TAURUS#complaints",
+  "generatedAt": "2026-07-19T23:57:29.827Z",
+  "total": 78,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON I279 AROUND 6:15AM ON JULY1, 2014.  MY SPEED WAS APPROXIMATELY 60MPH.  ALL OF A SUDDEN A MESSAGE APPEARED ON THE SCREEN SAYING THERE WAS A POWER STEERING SYSTEM FAILURE.  AT THAT POINT I IMMEDIATELY LOST ALL POWER TO THE STEERING WHEEL.  IT WAS VERY DIFFICULT TO ",
+      "pct": 21
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER ABOUT 6,000 MILES WE BEGAN TO NOTICE THAT THE RIGHT HAND SIDE BLIS SENSOR AND SIGNAL LIGHT INDICATING A VEHICLE IS IN THE BLIND SPOT WHEN NO VEHICLE OR OTHER OBJECT ARE WITHIN THE AREA. OFTEN THE LIGHT WILL REMAIN ON FOR SEVERAL MINUTES.    ADDITIONALLY, OCCASIONALLY STARTE",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "03/24/2012. 1ST FAILURE MILEAGE APPROX.1,450: DRIVING ON I-95S AT APPROX. 70 MPH, RAINING CONDITION, WIPERS IN USE, HEADLIGHTS ON. SUDDENLY THE INSTRUMENT PANEL LIGHTS WENT DARK, WIPERS STOPPED IN THE MIDDLE OF WINDSHIELD, ENGINE CUT OFF.  WAS ABLE TO STEER CAR FROM MIDDLE LANE T",
+      "pct": 19
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2012 TAURUS  THE HEADLIGHTS ON THE 2012 TAURUS HAVE A VERY SHARP SHORT CUTOFF THAT LIMITS VISIBILITY GREATLY. THIS CAN ONLY BE EXPERIENCED ON A HIGHWAY OR BACK ROAD WHERE THERE IS NO BACK LIGHTS OR OTHER VEHICLES PRESENT. THE CUTOFF PROJECTS A BLACK LINE THAT FLOATS UP AND DOWN O",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD TAURUS. WHILE DRIVING APPROXIMATELY 70 MPH, THE ENGINE STALLED WITHOUT WARNING. THE VEHICLE WAS COASTED TO THE SIDE OF THE ROAD AND THEN TOWED TO AN AUTHORIZED DEALER. A  DIAGNOSTIC TEST WAS PERFORMED WHICH DETECTED NO TROUBLE CODES. THE FAILURE R",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Taurus owners report most",
+    "summary": "Across 78 owner complaints to NHTSA, the most reported area is Steering (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON I279 AROUND 6:15AM ON JULY1, 2014.  MY SPEED WAS APPROXIMATELY 60MPH.  ALL OF A SUDDEN A MESSAGE APPEARED ON THE SCREEN SAYING THERE WAS A POWER STEERING SYSTEM FAILURE.  AT THAT POINT I IMMEDIATELY LOST ALL POWER TO THE STEERING WHEEL.  IT WAS VERY DIFFICULT TO ",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "16 reports (21%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER ABOUT 6,000 MILES WE BEGAN TO NOTICE THAT THE RIGHT HAND SIDE BLIS SENSOR AND SIGNAL LIGHT INDICATING A VEHICLE IS IN THE BLIND SPOT WHEN NO VEHICLE OR OTHER OBJECT ARE WITHIN THE AREA. OFTEN THE LIGHT WILL REMAIN ON FOR SEVERAL MINUTES.    ADDITIONALLY, OCCASIONALLY STARTE",
+        "pct": 21,
+        "title": "Structure",
+        "blurb": "16 reports (21%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "03/24/2012. 1ST FAILURE MILEAGE APPROX.1,450: DRIVING ON I-95S AT APPROX. 70 MPH, RAINING CONDITION, WIPERS IN USE, HEADLIGHTS ON. SUDDENLY THE INSTRUMENT PANEL LIGHTS WENT DARK, WIPERS STOPPED IN THE MIDDLE OF WINDSHIELD, ENGINE CUT OFF.  WAS ABLE TO STEER CAR FROM MIDDLE LANE T",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "15 reports (19%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2012 TAURUS  THE HEADLIGHTS ON THE 2012 TAURUS HAVE A VERY SHARP SHORT CUTOFF THAT LIMITS VISIBILITY GREATLY. THIS CAN ONLY BE EXPERIENCED ON A HIGHWAY OR BACK ROAD WHERE THERE IS NO BACK LIGHTS OR OTHER VEHICLES PRESENT. THE CUTOFF PROJECTS A BLACK LINE THAT FLOATS UP AND DOWN O",
+        "pct": 15,
+        "title": "Exterior Lighting",
+        "blurb": "12 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD TAURUS. WHILE DRIVING APPROXIMATELY 70 MPH, THE ENGINE STALLED WITHOUT WARNING. THE VEHICLE WAS COASTED TO THE SIDE OF THE ROAD AND THEN TOWED TO AN AUTHORIZED DEALER. A  DIAGNOSTIC TEST WAS PERFORMED WHICH DETECTED NO TROUBLE CODES. THE FAILURE R",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "11 reports (14%) · 1 fire"
+      }
+    ]
+  }
+}

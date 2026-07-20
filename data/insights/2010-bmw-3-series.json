@@ -1,0 +1,128 @@
+{
+  "slug": "2010-bmw-3-series",
+  "make": "BMW",
+  "model": "3 Series",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/3%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:41.324Z",
+  "total": 272,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 78,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "REAR RIGHT TURN SIGNAL MULFUNCTION TURNED ON FOR A FEW MIN. SIGNAL ALSO STARTED BLINKING EXTREAMLY FAST. HEAD LIGHT MALFUNCTION ALARM TURNED ON FOR A FEW MIN.HEAD LIGHTS WOULDN'T TURN WITH STEARING WHEEL. PASANGER RESTRAINT MALFUNCTION ALARM TURNED ON WHEN CAR WAS STARTED. AFTER ",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 70,
+      "crash": 0,
+      "fire": 6,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS 335D HAD A HISTORY OF ENGINE LIGHT-ON EVENTS PRIOR TO POTENTIAL CATASTROPHIC UNCOMMENTED ENGINE RUNAWAY.  ON JAN 13, 2013 CUSTOMER WAS DRIVING VEHICLE AT CRUISE CONTROL AT SPEED SETTING 83 MPH ON TURNPIKE AT 11PM.  SUDDENLY ENGINE LIGHT CAME ON, FOLLOWED BY A SIGNIFICANT RED",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 65,
+      "crash": 1,
+      "fire": 8,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECALL NOTICE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION - CAMPAIGN # 13V044000 - VEHICLE SERVICE HISTORY BY OWNER #1 4/12/10 TO 2/11/2013; 08/02/11 SERVICED FOR FUEL FILLER CAP/FUEL TANK LEAKING; 2/8/12 SERVICED FOR AIRBAG CONTROL MODULE/SAFETY ELECTRONICS SOFTWARE ERROR/INT",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 47,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE INTERSTATE AT 70MPH, THE ENGINE MALFUNCTION INDICATOR CAME ON. POWER WAS SUDDENLY REDUCED TO LESS THAN 35MPH. THIS WARRANTED AN IMMEDIATE MOVE TO THE SLOW LANE OF TRAFFIC AND HAD TO GO SEVERAL MILES UNTIL IT WAS SAFE TO PULL OFF THE ROAD TO ATTEMPT A RESTART.",
+      "pct": 17
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON TUESDAY FEBRUARY 2ND 2010 MY BRAND NEW (ONLY 3859 MILES ON IT) BMW 335I COUPE STARTED EXPERIENCING DIFFICULTY STARTING UP (THEN ENGINE WOULD JUST TURN AND TURN). UPON STARTING UP, THE ENGINE IDLED VERY ROUGHLY, AS IF ONLY FIRING ON PARTIAL CYLINDERS. NO ENGINE WARNING LIGHTS W",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw 3 Series owners report most",
+    "summary": "Across 272 owner complaints to NHTSA, the most reported area is Air Bags (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 78,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "REAR RIGHT TURN SIGNAL MULFUNCTION TURNED ON FOR A FEW MIN. SIGNAL ALSO STARTED BLINKING EXTREAMLY FAST. HEAD LIGHT MALFUNCTION ALARM TURNED ON FOR A FEW MIN.HEAD LIGHTS WOULDN'T TURN WITH STEARING WHEEL. PASANGER RESTRAINT MALFUNCTION ALARM TURNED ON WHEN CAR WAS STARTED. AFTER ",
+        "pct": 29,
+        "title": "Air Bags",
+        "blurb": "78 reports (29%) · 4 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 70,
+        "crash": 0,
+        "fire": 6,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS 335D HAD A HISTORY OF ENGINE LIGHT-ON EVENTS PRIOR TO POTENTIAL CATASTROPHIC UNCOMMENTED ENGINE RUNAWAY.  ON JAN 13, 2013 CUSTOMER WAS DRIVING VEHICLE AT CRUISE CONTROL AT SPEED SETTING 83 MPH ON TURNPIKE AT 11PM.  SUDDENLY ENGINE LIGHT CAME ON, FOLLOWED BY A SIGNIFICANT RED",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "70 reports (26%) · 6 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 65,
+        "crash": 1,
+        "fire": 8,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECALL NOTICE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION - CAMPAIGN # 13V044000 - VEHICLE SERVICE HISTORY BY OWNER #1 4/12/10 TO 2/11/2013; 08/02/11 SERVICED FOR FUEL FILLER CAP/FUEL TANK LEAKING; 2/8/12 SERVICED FOR AIRBAG CONTROL MODULE/SAFETY ELECTRONICS SOFTWARE ERROR/INT",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "65 reports (24%) · 8 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 47,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE INTERSTATE AT 70MPH, THE ENGINE MALFUNCTION INDICATOR CAME ON. POWER WAS SUDDENLY REDUCED TO LESS THAN 35MPH. THIS WARRANTED AN IMMEDIATE MOVE TO THE SLOW LANE OF TRAFFIC AND HAD TO GO SEVERAL MILES UNTIL IT WAS SAFE TO PULL OFF THE ROAD TO ATTEMPT A RESTART.",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "47 reports (17%) · 2 fire"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON TUESDAY FEBRUARY 2ND 2010 MY BRAND NEW (ONLY 3859 MILES ON IT) BMW 335I COUPE STARTED EXPERIENCING DIFFICULTY STARTING UP (THEN ENGINE WOULD JUST TURN AND TURN). UPON STARTING UP, THE ENGINE IDLED VERY ROUGHLY, AS IF ONLY FIRING ON PARTIAL CYLINDERS. NO ENGINE WARNING LIGHTS W",
+        "pct": 6,
+        "title": "Fuel System",
+        "blurb": "17 reports (6%)"
+      }
+    ]
+  }
+}

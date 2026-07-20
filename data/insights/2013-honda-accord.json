@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-07-19T23:49:11.302Z",
+  "total": 1418,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 497,
+      "crash": 21,
+      "fire": 1,
+      "injuries": 16,
+      "deaths": 1,
+      "sample": "I WAS DRIVING DOWN THE HIGHWAY AND A CAR WAS VEERING INTO MY LANE. AS I WENT TO THE LEFT MY STEERING WHEEL JUST KEPT SPINNING AND THE TIRES WERE GOING ALL OVER THE PLACE. I COULDN'T CONTROL THE CAR BECAUSE THE STEERING WHEEL WAS NOT CORRESPONDING WITH THE TIRES. WE JERKED ACROSS ",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 413,
+      "crash": 9,
+      "fire": 6,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "MY NEW 2013 ACCORD HAS A SERIOUS SAFETY ISSUE WITH THE USER INTERFACE TO THE PHONE AND MUSIC. THE PHONE BOOK, XM, AND USB MUSIC ARE DISPLAYED IN LONG LISTS. MY 32 GB DRIVE HAS 300 ALBUMS. MY FULL COLLECTION HAS MANY MORE. THE PROBLEM IS THAT THERE IS NO FAST WAY TO SCROLL THESE L",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 179,
+      "crash": 5,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "2013 HONDA ACCORD SEDAN, V6, TOURING MODEL      I STOPPED AT THE SIGNAL LIGHT AT ROUTE 50 AND CHAIN BRIDGE ROAD; WHEN THE LIGHT CHANGED I PRESSED THE ACCELERATOR TO LEAVE, BUT NOTHING HAPPENED - THE CAR WAS NOT MOVING OR ACCELERATING. CARS BEHIND ME HONKED AND I PRESSED THE ACCEL",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 115,
+      "crash": 15,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "CAME TO STOP AT STOP SIGN.  NEW HONDA ACCORD 2013 4 DOOR SUDDENLY TRIED TO ACCELERATE.  I PUSHED DOWN AS HARD AS I COULD ON THE BRAKE TO STOP THE MOTION FORWARD.  IT ONLY MOVED A FOOT OR TWO AND WITH MY WIFE YELLING I WAS ABLE TO GET IT INTO NEUTRAL.  SCARED THE LIFE OUT OF US.  ",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 109,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "CAME TO STOP AT STOP SIGN.  NEW HONDA ACCORD 2013 4 DOOR SUDDENLY TRIED TO ACCELERATE.  I PUSHED DOWN AS HARD AS I COULD ON THE BRAKE TO STOP THE MOTION FORWARD.  IT ONLY MOVED A FOOT OR TWO AND WITH MY WIFE YELLING I WAS ABLE TO GET IT INTO NEUTRAL.  SCARED THE LIFE OUT OF US.  ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Accord owners report most",
+    "summary": "Across 1,418 owner complaints to NHTSA, the most reported area is Steering (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 497,
+        "crash": 21,
+        "fire": 1,
+        "injuries": 16,
+        "deaths": 1,
+        "sample": "I WAS DRIVING DOWN THE HIGHWAY AND A CAR WAS VEERING INTO MY LANE. AS I WENT TO THE LEFT MY STEERING WHEEL JUST KEPT SPINNING AND THE TIRES WERE GOING ALL OVER THE PLACE. I COULDN'T CONTROL THE CAR BECAUSE THE STEERING WHEEL WAS NOT CORRESPONDING WITH THE TIRES. WE JERKED ACROSS ",
+        "pct": 35,
+        "title": "Steering",
+        "blurb": "497 reports (35%) · 1 fire · 21 crash · 16 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 413,
+        "crash": 9,
+        "fire": 6,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "MY NEW 2013 ACCORD HAS A SERIOUS SAFETY ISSUE WITH THE USER INTERFACE TO THE PHONE AND MUSIC. THE PHONE BOOK, XM, AND USB MUSIC ARE DISPLAYED IN LONG LISTS. MY 32 GB DRIVE HAS 300 ALBUMS. MY FULL COLLECTION HAS MANY MORE. THE PROBLEM IS THAT THERE IS NO FAST WAY TO SCROLL THESE L",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "413 reports (29%) · 6 fire · 9 crash · 7 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 179,
+        "crash": 5,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "2013 HONDA ACCORD SEDAN, V6, TOURING MODEL      I STOPPED AT THE SIGNAL LIGHT AT ROUTE 50 AND CHAIN BRIDGE ROAD; WHEN THE LIGHT CHANGED I PRESSED THE ACCELERATOR TO LEAVE, BUT NOTHING HAPPENED - THE CAR WAS NOT MOVING OR ACCELERATING. CARS BEHIND ME HONKED AND I PRESSED THE ACCEL",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "179 reports (13%) · 2 fire · 5 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 115,
+        "crash": 15,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "CAME TO STOP AT STOP SIGN.  NEW HONDA ACCORD 2013 4 DOOR SUDDENLY TRIED TO ACCELERATE.  I PUSHED DOWN AS HARD AS I COULD ON THE BRAKE TO STOP THE MOTION FORWARD.  IT ONLY MOVED A FOOT OR TWO AND WITH MY WIFE YELLING I WAS ABLE TO GET IT INTO NEUTRAL.  SCARED THE LIFE OUT OF US.  ",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "115 reports (8%) · 15 crash · 10 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 109,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "CAME TO STOP AT STOP SIGN.  NEW HONDA ACCORD 2013 4 DOOR SUDDENLY TRIED TO ACCELERATE.  I PUSHED DOWN AS HARD AS I COULD ON THE BRAKE TO STOP THE MOTION FORWARD.  IT ONLY MOVED A FOOT OR TWO AND WITH MY WIFE YELLING I WAS ABLE TO GET IT INTO NEUTRAL.  SCARED THE LIFE OUT OF US.  ",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "109 reports (8%) · 3 crash · 1 injured"
+      }
+    ]
+  }
+}

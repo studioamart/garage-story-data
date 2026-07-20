@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-07-19T23:57:54.265Z",
+  "total": 232,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 56,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS 2013 CHEVROLET TAHOE WAS PURCHASED IN AUGUST 2013. THE CHROME DOOR HANDLE ON THE PASSENGER FRONT DOOR JUST CAME OFF IN MY HAND AND HAD TO BE REPLACED IN AUGUST 2015. IN FEBRUARY 2016 THE DRIVERS SIDE FRONT DOOR HANDLE BROKE OFF AND ALSO HAD TO BE REPLACED. THE VEHICLE WAS PA",
+      "pct": 24
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 51,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET TAHOE. THE CONTACT STATED THAT WHILE DRIVING AT AN UNKNOWN SPEED, ANOTHER VEHICLE CRASHED INTO THE FRONT PASSENGER SIDE OF THE CONTACT'S VEHICLE. THE AIR BAGS FAILED TO DEPLOY. THE DRIVER AND THE FOUR PASSENGERS IN THE VEHICLE SUSTAINED WHIPL",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING UP A GRADE DURING A SNOW STORM AND WHEN I TRIED TO SELECT 4WD I HAD TO TAKE MY EYES OFF THE ROAD TO FIND THE 4WD CONTROL KNOB,WHICH IS HIDDEN BEHIND THE STEERING WHEEL. I CONSIDER THIS A SERIOUS PROBLEM BECAUSE I NEARLY WRECKED WHILE TRYING TO LOCATE THE 4WD CONTROL",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2013 CHEVROLET TAHOE POLICE PACKAGE (65 TOTAL) CONSUMER WRITES IN REGARDS TO ENGINES HESITATE ON ACCELERATION, IDLE SPEED FLUCTUATES AND THE ENGINE WOULD STALL.  *SMD  GENERAL MOTORS ACKNOWLEDGED THE CONCERN AND STATED THEY WERE WORKING ON A RESOLUTION. GENERAL MOTORS RELEASED A ",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING UP A GRADE DURING A SNOW STORM AND WHEN I TRIED TO SELECT 4WD I HAD TO TAKE MY EYES OFF THE ROAD TO FIND THE 4WD CONTROL KNOB,WHICH IS HIDDEN BEHIND THE STEERING WHEEL. I CONSIDER THIS A SERIOUS PROBLEM BECAUSE I NEARLY WRECKED WHILE TRYING TO LOCATE THE 4WD CONTROL",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Tahoe owners report most",
+    "summary": "Across 232 owner complaints to NHTSA, the most reported area is Structure (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 56,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS 2013 CHEVROLET TAHOE WAS PURCHASED IN AUGUST 2013. THE CHROME DOOR HANDLE ON THE PASSENGER FRONT DOOR JUST CAME OFF IN MY HAND AND HAD TO BE REPLACED IN AUGUST 2015. IN FEBRUARY 2016 THE DRIVERS SIDE FRONT DOOR HANDLE BROKE OFF AND ALSO HAD TO BE REPLACED. THE VEHICLE WAS PA",
+        "pct": 24,
+        "title": "Structure",
+        "blurb": "56 reports (24%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 51,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET TAHOE. THE CONTACT STATED THAT WHILE DRIVING AT AN UNKNOWN SPEED, ANOTHER VEHICLE CRASHED INTO THE FRONT PASSENGER SIDE OF THE CONTACT'S VEHICLE. THE AIR BAGS FAILED TO DEPLOY. THE DRIVER AND THE FOUR PASSENGERS IN THE VEHICLE SUSTAINED WHIPL",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "51 reports (22%) · 1 crash · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING UP A GRADE DURING A SNOW STORM AND WHEN I TRIED TO SELECT 4WD I HAD TO TAKE MY EYES OFF THE ROAD TO FIND THE 4WD CONTROL KNOB,WHICH IS HIDDEN BEHIND THE STEERING WHEEL. I CONSIDER THIS A SERIOUS PROBLEM BECAUSE I NEARLY WRECKED WHILE TRYING TO LOCATE THE 4WD CONTROL",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "16 reports (7%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2013 CHEVROLET TAHOE POLICE PACKAGE (65 TOTAL) CONSUMER WRITES IN REGARDS TO ENGINES HESITATE ON ACCELERATION, IDLE SPEED FLUCTUATES AND THE ENGINE WOULD STALL.  *SMD  GENERAL MOTORS ACKNOWLEDGED THE CONCERN AND STATED THEY WERE WORKING ON A RESOLUTION. GENERAL MOTORS RELEASED A ",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "13 reports (6%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING UP A GRADE DURING A SNOW STORM AND WHEN I TRIED TO SELECT 4WD I HAD TO TAKE MY EYES OFF THE ROAD TO FIND THE 4WD CONTROL KNOB,WHICH IS HIDDEN BEHIND THE STEERING WHEEL. I CONSIDER THIS A SERIOUS PROBLEM BECAUSE I NEARLY WRECKED WHILE TRYING TO LOCATE THE 4WD CONTROL",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "9 reports (4%) · 1 crash"
+      }
+    ]
+  }
+}

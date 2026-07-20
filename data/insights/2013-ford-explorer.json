@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-07-19T23:58:27.819Z",
+  "total": 2223,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 831,
+      "crash": 12,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "AS I WAS TURNING LEFT AT A LIGHT, MY POWER STEERING WENT OUT COMPLETELY IN THE CAR. I LOOKED DOWN AT THE INSTRUMENT PANEL AND IT WAS BRIGHT YELLOW AND SAID ADVANCE TRAC FAILURE. IT WAS VERY DIFFICULT FOR ME TO CONTROL THE SUV AND IT TOOK EVERY OUNCE OF UPPER BODY STRENGTH IN ME T",
+      "pct": 37
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 436,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD ESCAPE. THE CONTACT STATED BOTH THE FRONT DRIVER AND PASSENGER LOWER DOOR SEALS WERE NOT EQUIPPED WITH A SLIP RESISTANT SAFETY TREAD. THE PASSENGER SLIPPED AND FELL WHEN ENTERING THE DOOR AS HER FOOT WAS PLACED ON THE DOOR SEAL. THE PASSENGER SLIG",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 224,
+      "crash": 1,
+      "fire": 5,
+      "injuries": 14,
+      "deaths": 0,
+      "sample": "WHEN ACCELERATING THE VEHICLE QUICKLY WITH THE AIR CONDITIONER ON (DOES NOT MATTER IF IT'S ON FRESH AIR INTAKE OR RECIRCULATING), THERE IS A DEFINITE ODOR OF GASOLINE EXHAUST IN THE CABIN OF THE VEHICLE. THE PROBLEM CAN BE DUPLICATED AT ANY SPEED, FROM A DEAD STOP OR ACCELERATING",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 160,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "AS I WAS TURNING LEFT AT A LIGHT, MY POWER STEERING WENT OUT COMPLETELY IN THE CAR. I LOOKED DOWN AT THE INSTRUMENT PANEL AND IT WAS BRIGHT YELLOW AND SAID ADVANCE TRAC FAILURE. IT WAS VERY DIFFICULT FOR ME TO CONTROL THE SUV AND IT TOOK EVERY OUNCE OF UPPER BODY STRENGTH IN ME T",
+      "pct": 7
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 120,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I AM REPORTING AN EMISSION ISSUE WITH THIS VEHICLE AND THE PREVIOUS ONE I HAD WITH SAME ISSUE. SOMETHING NEEDS TO BE DONE TO MAKE THIS NOT HAPPEN TO ANYONE ELSE. I AM BREATHING EXHAUST FUMES IN THE CABIN AT HARD ACCELERATION THROUGH THE AC SYSTEM ALL THE TIME EVEN AFTER THEY SO C",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Explorer owners report most",
+    "summary": "Across 2,223 owner complaints to NHTSA, the most reported area is Steering (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 831,
+        "crash": 12,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "AS I WAS TURNING LEFT AT A LIGHT, MY POWER STEERING WENT OUT COMPLETELY IN THE CAR. I LOOKED DOWN AT THE INSTRUMENT PANEL AND IT WAS BRIGHT YELLOW AND SAID ADVANCE TRAC FAILURE. IT WAS VERY DIFFICULT FOR ME TO CONTROL THE SUV AND IT TOOK EVERY OUNCE OF UPPER BODY STRENGTH IN ME T",
+        "pct": 37,
+        "title": "Steering",
+        "blurb": "831 reports (37%) · 1 fire · 12 crash · 5 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 436,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD ESCAPE. THE CONTACT STATED BOTH THE FRONT DRIVER AND PASSENGER LOWER DOOR SEALS WERE NOT EQUIPPED WITH A SLIP RESISTANT SAFETY TREAD. THE PASSENGER SLIPPED AND FELL WHEN ENTERING THE DOOR AS HER FOOT WAS PLACED ON THE DOOR SEAL. THE PASSENGER SLIG",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "436 reports (20%) · 1 fire · 4 crash · 9 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 224,
+        "crash": 1,
+        "fire": 5,
+        "injuries": 14,
+        "deaths": 0,
+        "sample": "WHEN ACCELERATING THE VEHICLE QUICKLY WITH THE AIR CONDITIONER ON (DOES NOT MATTER IF IT'S ON FRESH AIR INTAKE OR RECIRCULATING), THERE IS A DEFINITE ODOR OF GASOLINE EXHAUST IN THE CABIN OF THE VEHICLE. THE PROBLEM CAN BE DUPLICATED AT ANY SPEED, FROM A DEAD STOP OR ACCELERATING",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "224 reports (10%) · 5 fire · 1 crash · 14 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 160,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "AS I WAS TURNING LEFT AT A LIGHT, MY POWER STEERING WENT OUT COMPLETELY IN THE CAR. I LOOKED DOWN AT THE INSTRUMENT PANEL AND IT WAS BRIGHT YELLOW AND SAID ADVANCE TRAC FAILURE. IT WAS VERY DIFFICULT FOR ME TO CONTROL THE SUV AND IT TOOK EVERY OUNCE OF UPPER BODY STRENGTH IN ME T",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "160 reports (7%) · 2 fire · 3 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 120,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I AM REPORTING AN EMISSION ISSUE WITH THIS VEHICLE AND THE PREVIOUS ONE I HAD WITH SAME ISSUE. SOMETHING NEEDS TO BE DONE TO MAKE THIS NOT HAPPEN TO ANYONE ELSE. I AM BREATHING EXHAUST FUMES IN THE CABIN AT HARD ACCELERATION THROUGH THE AC SYSTEM ALL THE TIME EVEN AFTER THEY SO C",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "120 reports (5%) · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

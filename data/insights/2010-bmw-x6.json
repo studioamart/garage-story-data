@@ -1,0 +1,128 @@
+{
+  "slug": "2010-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/X6#complaints",
+  "generatedAt": "2026-07-19T23:49:52.629Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I STARTED MY STATIONARY VEHICLE IN MY DRIVEWAY AND I SAW WHITE SMOKE COMING FROM UNDER THE HOOD. AFTER FURTHER INSPECTION, I SAW A SMALL FIRE ON THE CONNECTOR TO THE AUXILIARY WATER PUMP. USING WATER I PUT OUT THE FIRE. I TOOK OUT THE PUMP AND HARNESS AND TOOK PICTURES. I CONTACT",
+      "pct": 42
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY BMW X6 IS EXPERIENCING ELECTRICAL ISSUES. THE PASSENGER REAR VIEW MIRROR NO LONGER FOLDS IN AND I CAN'T ADJUST IT TO A PERFECT POSITION. ALSO MY WIPER SPEED WILL NOT ADJUST. WHEN IN REVERSE THE CAMERA FLICKERS BADLY. SOMETIMES IT WORKS, OTHER TIMES IT DOES NOT. VERY INCONSISTE",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY BMW X6 IS EXPERIENCING ELECTRICAL ISSUES. THE PASSENGER REAR VIEW MIRROR NO LONGER FOLDS IN AND I CAN'T ADJUST IT TO A PERFECT POSITION. ALSO MY WIPER SPEED WILL NOT ADJUST. WHEN IN REVERSE THE CAMERA FLICKERS BADLY. SOMETIMES IT WORKS, OTHER TIMES IT DOES NOT. VERY INCONSISTE",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR WILL TURN OFF AND SHOW A POWERTRAIN FAILURE. I HAVE TO WAIT 10 MIN TO RESTART THE CAR. IT HAPPENED SEVERAL TIME AND KEEP ON TAKING IT TO THE DEALER AND THEY CANT FIX IT. THEY PROMISE WHEN THEY WERE GOING TO REPLACE THE COMPONENT FOR THE FUEL PUMP (LAST RECALL) I WONT HAVE ",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL - I HAVE BEEN CONTACTING THE DEALER SINCE FEBRUARY AND THEY CONTINUE TO SAY THEY DON'T HAVE THE PARTS TO REPAIR BOTH DRIVER AND PASSENGER AIRBAGS. MY VEHICLE QUALIFIES FOR THE PRIORITY LISTING SINCE IT IS A 2010 MODEL AND I LIVE IN GEORGIA.",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw X6 owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Engine (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I STARTED MY STATIONARY VEHICLE IN MY DRIVEWAY AND I SAW WHITE SMOKE COMING FROM UNDER THE HOOD. AFTER FURTHER INSPECTION, I SAW A SMALL FIRE ON THE CONNECTOR TO THE AUXILIARY WATER PUMP. USING WATER I PUT OUT THE FIRE. I TOOK OUT THE PUMP AND HARNESS AND TOOK PICTURES. I CONTACT",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "8 reports (42%) · 3 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY BMW X6 IS EXPERIENCING ELECTRICAL ISSUES. THE PASSENGER REAR VIEW MIRROR NO LONGER FOLDS IN AND I CAN'T ADJUST IT TO A PERFECT POSITION. ALSO MY WIPER SPEED WILL NOT ADJUST. WHEN IN REVERSE THE CAMERA FLICKERS BADLY. SOMETIMES IT WORKS, OTHER TIMES IT DOES NOT. VERY INCONSISTE",
+        "pct": 26,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (26%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY BMW X6 IS EXPERIENCING ELECTRICAL ISSUES. THE PASSENGER REAR VIEW MIRROR NO LONGER FOLDS IN AND I CAN'T ADJUST IT TO A PERFECT POSITION. ALSO MY WIPER SPEED WILL NOT ADJUST. WHEN IN REVERSE THE CAMERA FLICKERS BADLY. SOMETIMES IT WORKS, OTHER TIMES IT DOES NOT. VERY INCONSISTE",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "3 reports (16%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR WILL TURN OFF AND SHOW A POWERTRAIN FAILURE. I HAVE TO WAIT 10 MIN TO RESTART THE CAR. IT HAPPENED SEVERAL TIME AND KEEP ON TAKING IT TO THE DEALER AND THEY CANT FIX IT. THEY PROMISE WHEN THEY WERE GOING TO REPLACE THE COMPONENT FOR THE FUEL PUMP (LAST RECALL) I WONT HAVE ",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL - I HAVE BEEN CONTACTING THE DEALER SINCE FEBRUARY AND THEY CONTINUE TO SAY THEY DON'T HAVE THE PARTS TO REPAIR BOTH DRIVER AND PASSENGER AIRBAGS. MY VEHICLE QUALIFIES FOR THE PRIORITY LISTING SINCE IT IS A 2010 MODEL AND I LIVE IN GEORGIA.",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "3 reports (16%)"
+      }
+    ]
+  }
+}

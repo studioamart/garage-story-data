@@ -1,0 +1,106 @@
+{
+  "slug": "2010-bmw-6-series",
+  "make": "BMW",
+  "model": "6 Series",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/6%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:50.918Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SUFFERED SUDDEN ENGINE STALL IN AN EXPRESSWAY WITH NO APPARENT EXPLANATION OR REASON LAST MONTH. THIS WAS THE SECOND TIME THIS OCCURRED. THE FIRST TIME WAS APPROXIMATELY SEVERAL MONTHS EARLIER AND AFTER LIMPING TO A SAFE PLACE AND TURNING THE MOTOR OFF, RESTING FOR A WHILE, IT RE",
+      "pct": 60
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2010 BMW 650I. The contact stated while driving 30 MPH, the vehicle went into LIMP Mode and then lost motive power, with the engine malfunction message displayed. The vehicle was towed to an independent mechanic, where it was diagnosed and determined that the V",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WARNING LIGHT \"PASSENGER RESTRAINING SYSTEM MALFUNCTION\".  VERY SERIOUS FAILURE AND DIRECT IMPACT TO PASSENGER SAFETY.  SANTA MONICA BMW REFUSED TO EVEN LOOK AT IT WITHOUT CHARGING $330 DIAGNOSTIC FEE.  REFUSED TO REPAIR.  REFUSED TO WORK WITH 3RD PARTY EXTENDED WARRANTY INSURER.",
+      "pct": 20
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WARNING LIGHT \"PASSENGER RESTRAINING SYSTEM MALFUNCTION\".  VERY SERIOUS FAILURE AND DIRECT IMPACT TO PASSENGER SAFETY.  SANTA MONICA BMW REFUSED TO EVEN LOOK AT IT WITHOUT CHARGING $330 DIAGNOSTIC FEE.  REFUSED TO REPAIR.  REFUSED TO WORK WITH 3RD PARTY EXTENDED WARRANTY INSURER.",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw 6 Series owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (60% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SUFFERED SUDDEN ENGINE STALL IN AN EXPRESSWAY WITH NO APPARENT EXPLANATION OR REASON LAST MONTH. THIS WAS THE SECOND TIME THIS OCCURRED. THE FIRST TIME WAS APPROXIMATELY SEVERAL MONTHS EARLIER AND AFTER LIMPING TO A SAFE PLACE AND TURNING THE MOTOR OFF, RESTING FOR A WHILE, IT RE",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2010 BMW 650I. The contact stated while driving 30 MPH, the vehicle went into LIMP Mode and then lost motive power, with the engine malfunction message displayed. The vehicle was towed to an independent mechanic, where it was diagnosed and determined that the V",
+        "pct": 20,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WARNING LIGHT \"PASSENGER RESTRAINING SYSTEM MALFUNCTION\".  VERY SERIOUS FAILURE AND DIRECT IMPACT TO PASSENGER SAFETY.  SANTA MONICA BMW REFUSED TO EVEN LOOK AT IT WITHOUT CHARGING $330 DIAGNOSTIC FEE.  REFUSED TO REPAIR.  REFUSED TO WORK WITH 3RD PARTY EXTENDED WARRANTY INSURER.",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WARNING LIGHT \"PASSENGER RESTRAINING SYSTEM MALFUNCTION\".  VERY SERIOUS FAILURE AND DIRECT IMPACT TO PASSENGER SAFETY.  SANTA MONICA BMW REFUSED TO EVEN LOOK AT IT WITHOUT CHARGING $330 DIAGNOSTIC FEE.  REFUSED TO REPAIR.  REFUSED TO WORK WITH 3RD PARTY EXTENDED WARRANTY INSURER.",
+        "pct": 20,
+        "title": "Seat Belts",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

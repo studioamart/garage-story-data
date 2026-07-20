@@ -1,0 +1,40 @@
+{
+  "slug": "2010-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/M5#complaints",
+  "generatedAt": "2026-07-19T23:49:44.831Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 BMW M5. THE CONTACT STATED THAT THE \"AIR BAG OFF\" INDICATOR WAS FLASHING FOR THE FRONT PASSENGER SIDE AIR BAG. AN INDEPENDENT MECHANIC DIAGNOSED THAT THE FRONT PASSENGER OCCUPANT CLASSIFICATION SENSOR NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw M5 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Air Bags (100% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 BMW M5. THE CONTACT STATED THAT THE \"AIR BAG OFF\" INDICATOR WAS FLASHING FOR THE FRONT PASSENGER SIDE AIR BAG. AN INDEPENDENT MECHANIC DIAGNOSED THAT THE FRONT PASSENGER OCCUPANT CLASSIFICATION SENSOR NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED",
+        "pct": 100,
+        "title": "Air Bags",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

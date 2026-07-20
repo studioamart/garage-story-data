@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-07-19T23:56:22.331Z",
+  "total": 258,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 58,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "PURCHASED A GM CERTIFIED VEHICLE.  VEHICLE STALLED SEVERAL TIMES WHENEVER MAKING A LEFT HAND TURN.  WHEN I WOULD MAKE A LEFT HAND TURN, THE VEHICLE WOULD DIE COMPLETELY IN THE MIDDLE OF THE TURN.  I WOULD HAVE TO RESTART THE CAR.  ONE INSTANCE WHEN TRYING TO RESTART THE CAR, THE ",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 54,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "IM GOING DOWN THE ROAD MASH ON THE GAS DOING 38 AND THE VEHICLE IS OUT OF CONTROL. I LITERALLY HAD NO CONTROL OVER THE CAR. IM DOING 45 TO 50 AND THE VEHICLE IS DRIVING ME RIGHT INTO THE SHOULDER OR INTO OTHER TRAFFIC I HAD TO LAY OFF THE GAS TO GAIN CONTROL OF CAR DOING SUCH LOW",
+      "pct": 21
+    },
+    {
+      "component": "STEERING",
+      "count": 49,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I WAS ROTATING THE TIRES AT HOME. WHEN REPLACING THE WHEELS I STARTED AND SNAGGED THE LUG NUTS BY HAND. I WENT TO TORQUE THE LUG NUTS TO SPECIFICATIONS (100 FOOT POUNDS) USING A TORQUE WRENCH. ONE OF THE RIGHT FRONT LUG NUTS WOULD NOT STOP TURNING WAY BEFORE REACHING THE SPECIFIE",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 40,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ENGINE MAKES A KNOCKING NOISE WHILE ACCELERATING. I DROVE ANOTHER ONE AND THE NOISE WAS EVEN WORSE, THAT ONE HAD 15000 MILES ON IT. THIS SEEMS TO BE A COMMON PROBLEM WITH THEM ALL. I AM VERY UNHAPPY WITH THIS CAR. I DON'T ENJOY HEARING ALL THIS NOISE FROM A NEW CAR. (NOW HAS 6000",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 34,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHEN STOPPED AT A RED LIGHT THE PEDDLE WOULD SLOWLY DRIFT TOWARDS FLOOR.  THE CAR BEGAN TO ROLL AS IF THE BRAKES WERE RELEASING.  I APPLIED MORE PRESSURE TO THE PEDAL HALTING THE VEHICLE.  I TOOK THE CAR TO A DEALERSHIP AND WAS TOLD IT WAS DUE TO THE LOCATION OF THE MASTER CYLIND",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Impala owners report most",
+    "summary": "Across 258 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 58,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "PURCHASED A GM CERTIFIED VEHICLE.  VEHICLE STALLED SEVERAL TIMES WHENEVER MAKING A LEFT HAND TURN.  WHEN I WOULD MAKE A LEFT HAND TURN, THE VEHICLE WOULD DIE COMPLETELY IN THE MIDDLE OF THE TURN.  I WOULD HAVE TO RESTART THE CAR.  ONE INSTANCE WHEN TRYING TO RESTART THE CAR, THE ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "58 reports (22%) · 2 fire · 3 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 54,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "IM GOING DOWN THE ROAD MASH ON THE GAS DOING 38 AND THE VEHICLE IS OUT OF CONTROL. I LITERALLY HAD NO CONTROL OVER THE CAR. IM DOING 45 TO 50 AND THE VEHICLE IS DRIVING ME RIGHT INTO THE SHOULDER OR INTO OTHER TRAFFIC I HAD TO LAY OFF THE GAS TO GAIN CONTROL OF CAR DOING SUCH LOW",
+        "pct": 21,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "54 reports (21%) · 1 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 49,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I WAS ROTATING THE TIRES AT HOME. WHEN REPLACING THE WHEELS I STARTED AND SNAGGED THE LUG NUTS BY HAND. I WENT TO TORQUE THE LUG NUTS TO SPECIFICATIONS (100 FOOT POUNDS) USING A TORQUE WRENCH. ONE OF THE RIGHT FRONT LUG NUTS WOULD NOT STOP TURNING WAY BEFORE REACHING THE SPECIFIE",
+        "pct": 19,
+        "title": "Steering",
+        "blurb": "49 reports (19%) · 1 fire · 7 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 40,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ENGINE MAKES A KNOCKING NOISE WHILE ACCELERATING. I DROVE ANOTHER ONE AND THE NOISE WAS EVEN WORSE, THAT ONE HAD 15000 MILES ON IT. THIS SEEMS TO BE A COMMON PROBLEM WITH THEM ALL. I AM VERY UNHAPPY WITH THIS CAR. I DON'T ENJOY HEARING ALL THIS NOISE FROM A NEW CAR. (NOW HAS 6000",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "40 reports (16%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 34,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHEN STOPPED AT A RED LIGHT THE PEDDLE WOULD SLOWLY DRIFT TOWARDS FLOOR.  THE CAR BEGAN TO ROLL AS IF THE BRAKES WERE RELEASING.  I APPLIED MORE PRESSURE TO THE PEDAL HALTING THE VEHICLE.  I TOOK THE CAR TO A DEALERSHIP AND WAS TOLD IT WAS DUE TO THE LOCATION OF THE MASTER CYLIND",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "34 reports (13%) · 5 crash · 2 injured"
+      }
+    ]
+  }
+}

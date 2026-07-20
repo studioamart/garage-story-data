@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-07-19T23:58:18.855Z",
+  "total": 92,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 43,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD EXPEDITION. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 10 MPH, A LOUD BANGING NOISE WAS HEARD FROM THE FRONT END OF THE VEHICLE AS THE WHEELS SEIZED. THE CONTACT WAS ABLE TO TRAVEL AT LOW SPEED IN 2-WHEEL DRIVE.  THE VEHICLE WAS LATER TOWED TO",
+      "pct": 47
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE THROTTLE IS ERRATIC. SOMETIMES ACCELERATION FROM A STOP IS SMOOTH AND SOMETIMES ITS AS IF THE THROTTLE IS BINDING AGAINST SOMETHING. OTHER TIMES THE THROTTLE IS DEPRESSED AND NOTHING HAPPENS UNTIL THE VEHICLE SUDDENLY LURCHES FORWARD. THE LAST EPISODE WAS PULLING INTO A PARKI",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE GPS HAS NOT WORKED PROPERLY FROM DAY ONE.  I HAVE HAD IT TO THE DEALER ON FOUR (4) TRIPS AND THE PROBLEM WITH THE GPS HAS NOT BEEN CORRECTED.  THE SOFTWARE IS CURRENT BUT IT DIRECT ONE TO TURN WHERE THERE IS NO ROAD AND CANCELS BEFORE YOU REACH THE SITE PROGRAMMED INTO THE GP",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING (SPEEDS RANGING FROM 25MPH- 70MPH) THE CRUISE CONTROL ON OUR 2013 FORD EXPEDITION LIMITED EL WILL SELF ENGAGE. TAPPING THE BREAKS AND HITTING THE CRUISE CONTROL \"OFF\" SWITCH WILL TEMPORARILY DEACTIVATE CRUISE CONTROL BUT IT WILL REENGAGE WITHOUT DRIVER ENGAGING CRUI",
+      "pct": 8
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LEFT FRONT STRUT FAILED LOSING CHARGE AND CAUSING UNSAFE STEERING AND SUSPENSION MOVEMENT WITH LESS THAN 31K MILES.  RIGHT REAR STRUT FAILED SHORTLY AFTER.  FORD STATES THIS IS A KNOWN SAFETY ISSUE BUT NO RECALL.",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Expedition owners report most",
+    "summary": "Across 92 owner complaints to NHTSA, the most reported area is Power Train (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 43,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD EXPEDITION. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 10 MPH, A LOUD BANGING NOISE WAS HEARD FROM THE FRONT END OF THE VEHICLE AS THE WHEELS SEIZED. THE CONTACT WAS ABLE TO TRAVEL AT LOW SPEED IN 2-WHEEL DRIVE.  THE VEHICLE WAS LATER TOWED TO",
+        "pct": 47,
+        "title": "Power Train",
+        "blurb": "43 reports (47%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE THROTTLE IS ERRATIC. SOMETIMES ACCELERATION FROM A STOP IS SMOOTH AND SOMETIMES ITS AS IF THE THROTTLE IS BINDING AGAINST SOMETHING. OTHER TIMES THE THROTTLE IS DEPRESSED AND NOTHING HAPPENS UNTIL THE VEHICLE SUDDENLY LURCHES FORWARD. THE LAST EPISODE WAS PULLING INTO A PARKI",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "10 reports (11%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE GPS HAS NOT WORKED PROPERLY FROM DAY ONE.  I HAVE HAD IT TO THE DEALER ON FOUR (4) TRIPS AND THE PROBLEM WITH THE GPS HAS NOT BEEN CORRECTED.  THE SOFTWARE IS CURRENT BUT IT DIRECT ONE TO TURN WHERE THERE IS NO ROAD AND CANCELS BEFORE YOU REACH THE SITE PROGRAMMED INTO THE GP",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "10 reports (11%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING (SPEEDS RANGING FROM 25MPH- 70MPH) THE CRUISE CONTROL ON OUR 2013 FORD EXPEDITION LIMITED EL WILL SELF ENGAGE. TAPPING THE BREAKS AND HITTING THE CRUISE CONTROL \"OFF\" SWITCH WILL TEMPORARILY DEACTIVATE CRUISE CONTROL BUT IT WILL REENGAGE WITHOUT DRIVER ENGAGING CRUI",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "7 reports (8%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LEFT FRONT STRUT FAILED LOSING CHARGE AND CAUSING UNSAFE STEERING AND SUSPENSION MOVEMENT WITH LESS THAN 31K MILES.  RIGHT REAR STRUT FAILED SHORTLY AFTER.  FORD STATES THIS IS A KNOWN SAFETY ISSUE BUT NO RECALL.",
+        "pct": 5,
+        "title": "Suspension",
+        "blurb": "5 reports (5%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/TAURUS#complaints",
+  "generatedAt": "2026-07-19T23:56:05.094Z",
+  "total": 187,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 47,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "THIS CAR AFTER SIX MONTHS OF AGE IT STARTED TO SHUT ITSELF OFF FOR NO APPARENT REASON. DRIVING ALONG, IGNITION JUST TURNS OFF, A LIGHT SAYS SHIFT TO PARK. THE DEALER CAN NOT FIGURE OUT WHAT IS WRONG WITH IT. THE CAR HAS DID THIS FIVE TIMES AND DEALER PUT A DEVICE ON IT TO RECORD ",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 40,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE THE TAURUS SHO WITH THE ECOBOOST ENGINE.    THE VEHICLE OCCASIONALLY SHUTTERS WHEN ACCELERATING FROM A STOP OR LOW SPEEDS.  IT WILL \"MISS\" AND THEN \"CATCH\" AND ACCELERATE WHEN PRESSING THE GAS PEDAL. THIS OCCURS RANDOMLY AND IN NO PATTERN AT ALL.  I TOOK THE VEHICLE TO THE",
+      "pct": 21
+    },
+    {
+      "component": "STEERING",
+      "count": 25,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CLEARWATER FLORIDA 2013  VEHICLE TRAVELING ON THE INTERSTATE AT 65 MPH.I WATCHED AS THE KEY TO THE VEHICLE TURNED INTO THE OFF POSITION.   THE BRAKES DID NOT WORK THE STEERING COLUMN WOULD NOT STEER THE WHOLE ELECTRICAL SYSTEM IN THE VEHICLE SHUTDOWN.   OCTOBER 8, 2014 AT APPROXI",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE N.J. TPKE. AT HIGHWAY SPEED. I ACCIDENTALLY HIT THE PUSH BUTTON START BUTTON. THE ENGINE SHUT OFF AND THE DASH SAID SHIFT INTO PARK. I COULD NOT RESTART THE CAR UNTIL I CAME TO A STOP, SHIFTED INTO PARK, BUT MY FOOT ON THE BRAKE AND PUSHED THE BUTTON. YOU CAN",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 14,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD TAURUS. THE CONTACT STATED THAT WHILE DRIVING 15 MPH, THE HEADLIGHTS FAILED. THE CONTACT HAD TO TURN ON THE HIGH BEAM HEADLIGHTS IN ORDER TO REGAIN VISIBILITY. THE FAILURE RECURRED ON AN INTERMITTENT BASIS. THE VEHICLE WAS TAKEN TO AN AUTHORIZED D",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Taurus owners report most",
+    "summary": "Across 187 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 47,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "THIS CAR AFTER SIX MONTHS OF AGE IT STARTED TO SHUT ITSELF OFF FOR NO APPARENT REASON. DRIVING ALONG, IGNITION JUST TURNS OFF, A LIGHT SAYS SHIFT TO PARK. THE DEALER CAN NOT FIGURE OUT WHAT IS WRONG WITH IT. THE CAR HAS DID THIS FIVE TIMES AND DEALER PUT A DEVICE ON IT TO RECORD ",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "47 reports (25%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 40,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE THE TAURUS SHO WITH THE ECOBOOST ENGINE.    THE VEHICLE OCCASIONALLY SHUTTERS WHEN ACCELERATING FROM A STOP OR LOW SPEEDS.  IT WILL \"MISS\" AND THEN \"CATCH\" AND ACCELERATE WHEN PRESSING THE GAS PEDAL. THIS OCCURS RANDOMLY AND IN NO PATTERN AT ALL.  I TOOK THE VEHICLE TO THE",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "40 reports (21%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 25,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CLEARWATER FLORIDA 2013  VEHICLE TRAVELING ON THE INTERSTATE AT 65 MPH.I WATCHED AS THE KEY TO THE VEHICLE TURNED INTO THE OFF POSITION.   THE BRAKES DID NOT WORK THE STEERING COLUMN WOULD NOT STEER THE WHOLE ELECTRICAL SYSTEM IN THE VEHICLE SHUTDOWN.   OCTOBER 8, 2014 AT APPROXI",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "25 reports (13%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE N.J. TPKE. AT HIGHWAY SPEED. I ACCIDENTALLY HIT THE PUSH BUTTON START BUTTON. THE ENGINE SHUT OFF AND THE DASH SAID SHIFT INTO PARK. I COULD NOT RESTART THE CAR UNTIL I CAME TO A STOP, SHIFTED INTO PARK, BUT MY FOOT ON THE BRAKE AND PUSHED THE BUTTON. YOU CAN",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "18 reports (10%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 14,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD TAURUS. THE CONTACT STATED THAT WHILE DRIVING 15 MPH, THE HEADLIGHTS FAILED. THE CONTACT HAD TO TURN ON THE HIGH BEAM HEADLIGHTS IN ORDER TO REGAIN VISIBILITY. THE FAILURE RECURRED ON AN INTERMITTENT BASIS. THE VEHICLE WAS TAKEN TO AN AUTHORIZED D",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "14 reports (7%) · 3 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/FOCUS#complaints",
+  "generatedAt": "2026-07-19T23:54:17.341Z",
+  "total": 287,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 50,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE BRAKING WHEN COMING TO A COMPLETE STOP, THE ENGINE STARTS REVVING VERY HIGH. DEPENDING ON WHETHER OR NOT THE CAR IS IN GEAR, THE CAR WILL MOVE EVEN WHEN APPLYING THE BRAKE AS HARD AS POSSIBLE. THIS IS AN INTERMITTENT PROBLEM, IN FACT A VERY INFREQUENT ONE. CAR HAS BEEN BROU",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 45,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "OUR 2010 AUTOMATIC FORD FOCUS DEMONSTRATED PROBLEMS WITH SHIFTING GEARS AT ABOUT 7,000 MILES. ONCE THE CAR IS WARMED UP IT WILL NOT SMOOTHLY SHIFT. THIS OCCURS WHILE DRIVING BETWEEN 10-60 MPH, AND DEMONSTRATES MAJOR JERKING WHEN IT FINALLY DOES SHIFT, WITH REVVING/INCREASED RPMS.",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 43,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR ENGINE KILLS WHILE DRIVING AT ALL SPEEDS WITHOUT WARNING.  THIS HAS HAPPENED 7 TIMES IN THE LAST 23 DAYS, THE LAST TIME ON INTERSTATE IN THE LEFT AT 60 MPH.  CAR WILL NOT START FOR SOME TIME AFTER BUT WILL START BUT STALL AGAIN.   THE LAST TIME IT STALLED WHILE TURNING ACROSS",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 42,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "FOCUS WOULD LOSE RPM'S WHEN IDLING, WOULD ALMOST STALL. TOOK TO DEALERSHIP AND THEY FIRST SAID IT WAS DUE TO TANK BEING TOPPED OFF AND SAID IT WAS CORRECTED. PROBLEMS STILL EXISTED SO TOOK BACK 2 MORE TIMES AND FINALLY SAID IT WAS A SENSOR. REPLACED AND WORKED FINE FOR COUPLE OF ",
+      "pct": 15
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 FORD FOCUS. THE CONTACT STATED THAT ALL FOUR DOORS ON THE VEHICLE WERE DEFECTIVE. WHEN THE CONTACT PUSHED THE UNLOCK BUTTON IT WOULD NOT RESPOND OR THE DOOR WOULD CONTINUE TO STAY LOCKED.  THE DEALER REPLACED THE DOOR LOCKS NUMEROUS TIMES, BUT THE FAIL",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Focus owners report most",
+    "summary": "Across 287 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 50,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE BRAKING WHEN COMING TO A COMPLETE STOP, THE ENGINE STARTS REVVING VERY HIGH. DEPENDING ON WHETHER OR NOT THE CAR IS IN GEAR, THE CAR WILL MOVE EVEN WHEN APPLYING THE BRAKE AS HARD AS POSSIBLE. THIS IS AN INTERMITTENT PROBLEM, IN FACT A VERY INFREQUENT ONE. CAR HAS BEEN BROU",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "50 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 45,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "OUR 2010 AUTOMATIC FORD FOCUS DEMONSTRATED PROBLEMS WITH SHIFTING GEARS AT ABOUT 7,000 MILES. ONCE THE CAR IS WARMED UP IT WILL NOT SMOOTHLY SHIFT. THIS OCCURS WHILE DRIVING BETWEEN 10-60 MPH, AND DEMONSTRATES MAJOR JERKING WHEN IT FINALLY DOES SHIFT, WITH REVVING/INCREASED RPMS.",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "45 reports (16%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 43,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR ENGINE KILLS WHILE DRIVING AT ALL SPEEDS WITHOUT WARNING.  THIS HAS HAPPENED 7 TIMES IN THE LAST 23 DAYS, THE LAST TIME ON INTERSTATE IN THE LEFT AT 60 MPH.  CAR WILL NOT START FOR SOME TIME AFTER BUT WILL START BUT STALL AGAIN.   THE LAST TIME IT STALLED WHILE TURNING ACROSS",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "43 reports (15%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 42,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "FOCUS WOULD LOSE RPM'S WHEN IDLING, WOULD ALMOST STALL. TOOK TO DEALERSHIP AND THEY FIRST SAID IT WAS DUE TO TANK BEING TOPPED OFF AND SAID IT WAS CORRECTED. PROBLEMS STILL EXISTED SO TOOK BACK 2 MORE TIMES AND FINALLY SAID IT WAS A SENSOR. REPLACED AND WORKED FINE FOR COUPLE OF ",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "42 reports (15%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 FORD FOCUS. THE CONTACT STATED THAT ALL FOUR DOORS ON THE VEHICLE WERE DEFECTIVE. WHEN THE CONTACT PUSHED THE UNLOCK BUTTON IT WOULD NOT RESPOND OR THE DOOR WOULD CONTINUE TO STAY LOCKED.  THE DEALER REPLACED THE DOOR LOCKS NUMEROUS TIMES, BUT THE FAIL",
+        "pct": 11,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "31 reports (11%)"
+      }
+    ]
+  }
+}

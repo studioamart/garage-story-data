@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-07-19T23:48:16.005Z",
+  "total": 395,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 95,
+      "crash": 25,
+      "fire": 2,
+      "injuries": 27,
+      "deaths": 1,
+      "sample": "I WAS THE DRIVER OF A 2009 HONDA CIVIC EX COUPE. I WAS AT A RED LIGHT AND I HAD CAME TO A COMPLETE STOP AND I GOT REAR ENDED AND PUSHED INTO THE VEHICLE IN FRONT OF ME VERY HARD TO THE POINT WHERE MY INSURANCE COMPANY EVEN DECLARED MY VEHICLE A TOTAL LOSS. I HAVE NECK INJURIES AN",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 51,
+      "crash": 8,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA ACCORD.  DURING BRAKE APPLICATION BETWEEN 25-40 MPH SHE EXPERIENCES PULSATION.   THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION. THE TECHNICIAN RESURFACED THE FRONT AND REAR BRAKE ROTORS BECAUSE THEY WERE OUT OF ROUND.  THE  FAILURE MILEAGE W",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 45,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2009 HONDA CIVIC HYBRID. CONSUMER STATES AIR CONDITION FAILURE AND PROBLEM WITH INDICATOR LIGHTS *TGW  THE DEALER INFORMED THE CONSUMER THAT RODENTS EATING ACORNS HAD DROPPED THE SHELLS INTO THE AIR CONDITIONER INTAKE. THE CONSUMER ALSO STATED THE PARK AND DRIVE LIGHT ILLUMINATED",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY 2009 HONDA CIVIC WILL OFTEN NOT START ON DAYS WHERE THE VEHICLE HAS BEEN SITTING FOR SEVERAL HOURS IN TEMPERATURES BELOW 55 DEGREES FAHRENHEIT. EVEN WHEN THE VEHICLE DOES START, IT STRUGGLES TO FIRE UP, AND THE IDLE IS ROUGH FOR A FEW SECONDS. THE HONDA DEALERSHIP TESTED THE B",
+      "pct": 9
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FRONT WHEEL AREAS MAKING CREEKING SOUND AS IF THERE IS A BAD BALL JOINT OR BUSHING.  THE CAR IS ONLY 4000 MILES ON IT.  IT'S A 2009 CIVIC COUPE LX.  SOUND IS GETTING WORSE.  I AM STARTING IT HEAR IT FROM THE BACK SIDE AS WELL TIME TO TIME.  IT'S BEEN GOING ON FOR ALMOST A MONTH N",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Civic owners report most",
+    "summary": "Across 395 owner complaints to NHTSA, the most reported area is Air Bags (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 95,
+        "crash": 25,
+        "fire": 2,
+        "injuries": 27,
+        "deaths": 1,
+        "sample": "I WAS THE DRIVER OF A 2009 HONDA CIVIC EX COUPE. I WAS AT A RED LIGHT AND I HAD CAME TO A COMPLETE STOP AND I GOT REAR ENDED AND PUSHED INTO THE VEHICLE IN FRONT OF ME VERY HARD TO THE POINT WHERE MY INSURANCE COMPANY EVEN DECLARED MY VEHICLE A TOTAL LOSS. I HAVE NECK INJURIES AN",
+        "pct": 24,
+        "title": "Air Bags",
+        "blurb": "95 reports (24%) · 2 fire · 25 crash · 27 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 51,
+        "crash": 8,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA ACCORD.  DURING BRAKE APPLICATION BETWEEN 25-40 MPH SHE EXPERIENCES PULSATION.   THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION. THE TECHNICIAN RESURFACED THE FRONT AND REAR BRAKE ROTORS BECAUSE THEY WERE OUT OF ROUND.  THE  FAILURE MILEAGE W",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "51 reports (13%) · 1 fire · 8 crash · 8 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 45,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2009 HONDA CIVIC HYBRID. CONSUMER STATES AIR CONDITION FAILURE AND PROBLEM WITH INDICATOR LIGHTS *TGW  THE DEALER INFORMED THE CONSUMER THAT RODENTS EATING ACORNS HAD DROPPED THE SHELLS INTO THE AIR CONDITIONER INTAKE. THE CONSUMER ALSO STATED THE PARK AND DRIVE LIGHT ILLUMINATED",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "45 reports (11%) · 4 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY 2009 HONDA CIVIC WILL OFTEN NOT START ON DAYS WHERE THE VEHICLE HAS BEEN SITTING FOR SEVERAL HOURS IN TEMPERATURES BELOW 55 DEGREES FAHRENHEIT. EVEN WHEN THE VEHICLE DOES START, IT STRUGGLES TO FIRE UP, AND THE IDLE IS ROUGH FOR A FEW SECONDS. THE HONDA DEALERSHIP TESTED THE B",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "35 reports (9%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FRONT WHEEL AREAS MAKING CREEKING SOUND AS IF THERE IS A BAD BALL JOINT OR BUSHING.  THE CAR IS ONLY 4000 MILES ON IT.  IT'S A 2009 CIVIC COUPE LX.  SOUND IS GETTING WORSE.  I AM STARTING IT HEAR IT FROM THE BACK SIDE AS WELL TIME TO TIME.  IT'S BEEN GOING ON FOR ALMOST A MONTH N",
+        "pct": 8,
+        "title": "Suspension",
+        "blurb": "31 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

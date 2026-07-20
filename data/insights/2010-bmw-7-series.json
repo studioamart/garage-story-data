@@ -1,0 +1,128 @@
+{
+  "slug": "2010-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:43.438Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 27,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE PARKING LOT THE VEHICLE SUDDENLY JERKING AROUND AND ENGINE STOPPED. WHEN TRIED TO RUN THE ENGINE IT WAS SHAKING TREMENDOUSLY AND ENGINE WAS NOT RUNNING. SO I TOWED IT TO THE DEALER NEXT MORNING FOR REPAIR. AFTER REPAIR WAS DONE WHICH TOOK A WEEK I DROVE IT FO",
+      "pct": 56
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE PARKING LOT THE VEHICLE SUDDENLY JERKING AROUND AND ENGINE STOPPED. WHEN TRIED TO RUN THE ENGINE IT WAS SHAKING TREMENDOUSLY AND ENGINE WAS NOT RUNNING. SO I TOWED IT TO THE DEALER NEXT MORNING FOR REPAIR. AFTER REPAIR WAS DONE WHICH TOOK A WEEK I DROVE IT FO",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I WAS DRIVING A BMW 750LI 2010 ON THE FREEWAY 70MPH. WITHOUT WARNING, THE ENGINE STOPPED AND THE ENTIRE ELECTRICAL SYSTEM WENT OFF. I STEERED THE CAR QUICKLY TO THE SHOULDER.  I ONLY HAD ENOUGH MOMENTUM TO PULL MY CAR TO THE SIDE OF THE ROAD. ALL SYSTEMS WERE NON RESPONSIVE . I W",
+      "pct": 21
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "AT 57,000 MILES, MY 2010 BMW 750LI NEEDED 6 OUT OF 8 FUEL INJECTORS REPLACED. THE FUEL INJECTORS FOR THE N63 ENGINE PLATFORM HAVE BEEN REDESIGNED MULTIPLE TIMES DUE TO A HIGH RATE OF PART FAILURE. THE PARTS WERE POORLY DESIGNED, AND ARE FAILING PREMATURELY ON VEHICLES.     BMW RE",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 BMW 750. THE CONTACT STATED THAT WHILE DRIVING 20 MPH, AFTER MAKING A RIGHT THE SHE LOST CONTROL OF THE VEHICLE AND WAS UNABLE TO STOP IT. THE VEHICLE CAN TO A COMPLETE STOP INDEPENDENTLY. THE VEHICLE WAS TOWED TO THE DEALER WHO WAS UNABLE TO DIAGNOSE ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw 7 Series owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Engine (56% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 27,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE PARKING LOT THE VEHICLE SUDDENLY JERKING AROUND AND ENGINE STOPPED. WHEN TRIED TO RUN THE ENGINE IT WAS SHAKING TREMENDOUSLY AND ENGINE WAS NOT RUNNING. SO I TOWED IT TO THE DEALER NEXT MORNING FOR REPAIR. AFTER REPAIR WAS DONE WHICH TOOK A WEEK I DROVE IT FO",
+        "pct": 56,
+        "title": "Engine",
+        "blurb": "27 reports (56%) · 3 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE PARKING LOT THE VEHICLE SUDDENLY JERKING AROUND AND ENGINE STOPPED. WHEN TRIED TO RUN THE ENGINE IT WAS SHAKING TREMENDOUSLY AND ENGINE WAS NOT RUNNING. SO I TOWED IT TO THE DEALER NEXT MORNING FOR REPAIR. AFTER REPAIR WAS DONE WHICH TOOK A WEEK I DROVE IT FO",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "12 reports (25%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I WAS DRIVING A BMW 750LI 2010 ON THE FREEWAY 70MPH. WITHOUT WARNING, THE ENGINE STOPPED AND THE ENTIRE ELECTRICAL SYSTEM WENT OFF. I STEERED THE CAR QUICKLY TO THE SHOULDER.  I ONLY HAD ENOUGH MOMENTUM TO PULL MY CAR TO THE SIDE OF THE ROAD. ALL SYSTEMS WERE NON RESPONSIVE . I W",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "10 reports (21%) · 1 fire · 1 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "AT 57,000 MILES, MY 2010 BMW 750LI NEEDED 6 OUT OF 8 FUEL INJECTORS REPLACED. THE FUEL INJECTORS FOR THE N63 ENGINE PLATFORM HAVE BEEN REDESIGNED MULTIPLE TIMES DUE TO A HIGH RATE OF PART FAILURE. THE PARTS WERE POORLY DESIGNED, AND ARE FAILING PREMATURELY ON VEHICLES.     BMW RE",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (19%) · 1 fire · 1 crash · 4 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 BMW 750. THE CONTACT STATED THAT WHILE DRIVING 20 MPH, AFTER MAKING A RIGHT THE SHE LOST CONTROL OF THE VEHICLE AND WAS UNABLE TO STOP IT. THE VEHICLE CAN TO A COMPLETE STOP INDEPENDENTLY. THE VEHICLE WAS TOWED TO THE DEALER WHO WAS UNABLE TO DIAGNOSE ",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (6%)"
+      }
+    ]
+  }
+}

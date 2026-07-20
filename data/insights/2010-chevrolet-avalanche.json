@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-avalanche",
+  "make": "Chevrolet",
+  "model": "Avalanche",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/AVALANCHE#complaints",
+  "generatedAt": "2026-07-19T23:53:40.917Z",
+  "total": 117,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 57,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECENTLY THE DASHBOARD OF MY TRUCK KEEPS CRACKING AND EVERYDAY MORE CRACKS APPEAR OR THE ONES THAT ARE ALREADY VISIBLE, JUST KEEP GETTING WORSE. I AM CONCERNED FOR MY PASSENGERS AS WELL AS MY OWN SAFETY BECAUSE THE CRACKS OF THE DASHBOARD ARE RIGHT NEXT TO WHERE THE AIRBAG WOULD ",
+      "pct": 49
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE DASH IS CRACKED AROUND THE PASSENGER SIDE AIRBAG.   UPON CHECKING THE INTERNET I FOUND THIS IS A COMMON PROBLEM ON CHEVROLET TRUCKS. I AM CONCERNED THAT THE STRUCTURAL INTEGRITY OF THE AIR BAG MAY BE COMPROMISED IN THE EVENT OF THE AIR BAG DEPLOYMENT.  IT MAY BE POSSIBLE THAT",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET AVALANCHE. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 80 TO 85 MPH, HE NOTICED THAT THE DOOR LOCKS BEGAN TO OPEN AND CLOSE, THE RPM'S REACHED 1,000, AND THE VEHICLE SUDDENLY SHIFTED INTO FIRST GEAR UNTIL IT DECREASED TO A NORMAL SPEED. TH",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER I PURCHASE THE CAR BRAND NEW IN 2010 UNDER MY BROTHER IN LAW'S NAME, I HAVE PROBABLY FIX THE CAR 5 TIMES FOR ENGINE POWER REDUCE,  STABILITRAK AND ALL EVERY SERVICE LIGHTS AT THE DEALER BUT IT HAD HAPPEN AGAIN ON HIGHWAY AGAIN YESTERDAY, SAW THAT GM RECALL CAR ON FEB 13 FOR",
+      "pct": 5
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN TURNING THE REAR DIFFERENTIAL  MOMENTARILY LOCKS UP SOUNDING LIKE LITTLE SKIDS. DURING NORMAL SLOW ACCELERATIONS  THE ISSUE CAUSES THE TRUCK TO LUNGE OR  BUMP FEELING LIKE IT IS COMING FROM THE DIFFERENTIAL. SINCE I FISRT PURCHASED THE THRUCK NEW FROM THE DEALER THERE HAS AL",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Avalanche owners report most",
+    "summary": "Across 117 owner complaints to NHTSA, the most reported area is Air Bags (49% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 57,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECENTLY THE DASHBOARD OF MY TRUCK KEEPS CRACKING AND EVERYDAY MORE CRACKS APPEAR OR THE ONES THAT ARE ALREADY VISIBLE, JUST KEEP GETTING WORSE. I AM CONCERNED FOR MY PASSENGERS AS WELL AS MY OWN SAFETY BECAUSE THE CRACKS OF THE DASHBOARD ARE RIGHT NEXT TO WHERE THE AIRBAG WOULD ",
+        "pct": 49,
+        "title": "Air Bags",
+        "blurb": "57 reports (49%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE DASH IS CRACKED AROUND THE PASSENGER SIDE AIRBAG.   UPON CHECKING THE INTERNET I FOUND THIS IS A COMMON PROBLEM ON CHEVROLET TRUCKS. I AM CONCERNED THAT THE STRUCTURAL INTEGRITY OF THE AIR BAG MAY BE COMPROMISED IN THE EVENT OF THE AIR BAG DEPLOYMENT.  IT MAY BE POSSIBLE THAT",
+        "pct": 15,
+        "title": "Structure",
+        "blurb": "17 reports (15%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET AVALANCHE. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 80 TO 85 MPH, HE NOTICED THAT THE DOOR LOCKS BEGAN TO OPEN AND CLOSE, THE RPM'S REACHED 1,000, AND THE VEHICLE SUDDENLY SHIFTED INTO FIRST GEAR UNTIL IT DECREASED TO A NORMAL SPEED. TH",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "9 reports (8%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER I PURCHASE THE CAR BRAND NEW IN 2010 UNDER MY BROTHER IN LAW'S NAME, I HAVE PROBABLY FIX THE CAR 5 TIMES FOR ENGINE POWER REDUCE,  STABILITRAK AND ALL EVERY SERVICE LIGHTS AT THE DEALER BUT IT HAD HAPPEN AGAIN ON HIGHWAY AGAIN YESTERDAY, SAW THAT GM RECALL CAR ON FEB 13 FOR",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "6 reports (5%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN TURNING THE REAR DIFFERENTIAL  MOMENTARILY LOCKS UP SOUNDING LIKE LITTLE SKIDS. DURING NORMAL SLOW ACCELERATIONS  THE ISSUE CAUSES THE TRUCK TO LUNGE OR  BUMP FEELING LIKE IT IS COMING FROM THE DIFFERENTIAL. SINCE I FISRT PURCHASED THE THRUCK NEW FROM THE DEALER THERE HAS AL",
+        "pct": 3,
+        "title": "Power Train",
+        "blurb": "3 reports (3%)"
+      }
+    ]
+  }
+}

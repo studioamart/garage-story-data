@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/FLEX#complaints",
+  "generatedAt": "2026-07-19T23:53:12.962Z",
+  "total": 180,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 36,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD FLEX. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 20 MPH, THE ENGINE STALLED WITHOUT THE ILLUMINATION OF WARNING INDICATORS ON THE INSTRUMENT PANEL. THE ENGINE RESTARTED AND THE VEHICLE RESUMED AS NORMAL. THE FAILURE OCCURRED FOUR TIMES WH",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 32,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS A 2009 FLEX DEALER DEMO WITH 1450 MILES.  IT HAS DIED TWICE WHILE DRIVING DURING A TEST DRIVE. THE FIRST OCCURRENCE WAS WHILE IN DRIVE, IN A PARKING LOT AT ABOUT 5 MPH.  THE ENGINE, A/C, RADIO/ACCESSORY POWER, AND ALL LIGHTS SUDDENLY DIED.  IT WAS AS IF THE KEY HAD BEEN T",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 32,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE ENTERING A 4 LANE DIVIDED HIGHWAY FROM THE DRIVEWAY OF A DRUGSTORE THE ELECTRONIC STABILITY CONTROL (ESC) INDICATOR LIGHT ON THE DASH OF MY 2009 FORD FLEX BEGAN FLASHING AND I COULD HEAR THE BUZZING OF THE ANTILOCK BRAKE SYSTEM (ABS). THE VEHICLE WAS TRAVELING LESS THAN 15 ",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 23,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT MY 2009 FORD FLEX IN JUNE 2009. THE FIRST TIME I NOTICED A PROBLEM WAS IN JULY 10, 2009. I WAS TRAVELING DOWN A RESIDENTIAL STREET AND WAS APPROACHING A STOP SIGN AND DOING APPX 28MPH WHEN THEY CAR ENGINE DIED. THE STEERING WHEEL TIGHTENED UP AND THE POWER BRAKES WENT OU",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 FORD FLEX. WHILE DRIVING 15 MPH AND MAKING A LEFT TURN SOMETHING BROKE OFF OF THE VEHICLE UNDER THE RIGHT REAR WHEEL. THE VEHICLE WAS TOWED TO THE DEALER WHO STATED THE REAR SUB FRAME WAS BROKEN AND WILL BE REPLACED UNDER WARRANTY. THE MANUFACTURER WAS ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Flex owners report most",
+    "summary": "Across 180 owner complaints to NHTSA, the most reported area is Engine (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 36,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD FLEX. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 20 MPH, THE ENGINE STALLED WITHOUT THE ILLUMINATION OF WARNING INDICATORS ON THE INSTRUMENT PANEL. THE ENGINE RESTARTED AND THE VEHICLE RESUMED AS NORMAL. THE FAILURE OCCURRED FOUR TIMES WH",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "36 reports (20%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 32,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS A 2009 FLEX DEALER DEMO WITH 1450 MILES.  IT HAS DIED TWICE WHILE DRIVING DURING A TEST DRIVE. THE FIRST OCCURRENCE WAS WHILE IN DRIVE, IN A PARKING LOT AT ABOUT 5 MPH.  THE ENGINE, A/C, RADIO/ACCESSORY POWER, AND ALL LIGHTS SUDDENLY DIED.  IT WAS AS IF THE KEY HAD BEEN T",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "32 reports (18%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 32,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE ENTERING A 4 LANE DIVIDED HIGHWAY FROM THE DRIVEWAY OF A DRUGSTORE THE ELECTRONIC STABILITY CONTROL (ESC) INDICATOR LIGHT ON THE DASH OF MY 2009 FORD FLEX BEGAN FLASHING AND I COULD HEAR THE BUZZING OF THE ANTILOCK BRAKE SYSTEM (ABS). THE VEHICLE WAS TRAVELING LESS THAN 15 ",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "32 reports (18%) · 4 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 23,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT MY 2009 FORD FLEX IN JUNE 2009. THE FIRST TIME I NOTICED A PROBLEM WAS IN JULY 10, 2009. I WAS TRAVELING DOWN A RESIDENTIAL STREET AND WAS APPROACHING A STOP SIGN AND DOING APPX 28MPH WHEN THEY CAR ENGINE DIED. THE STEERING WHEEL TIGHTENED UP AND THE POWER BRAKES WENT OU",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "23 reports (13%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 FORD FLEX. WHILE DRIVING 15 MPH AND MAKING A LEFT TURN SOMETHING BROKE OFF OF THE VEHICLE UNDER THE RIGHT REAR WHEEL. THE VEHICLE WAS TOWED TO THE DEALER WHO STATED THE REAR SUB FRAME WAS BROKEN AND WILL BE REPLACED UNDER WARRANTY. THE MANUFACTURER WAS ",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "18 reports (10%) · 1 crash"
+      }
+    ]
+  }
+}

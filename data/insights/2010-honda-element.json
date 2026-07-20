@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-element",
+  "make": "Honda",
+  "model": "Element",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/ELEMENT#complaints",
+  "generatedAt": "2026-07-19T23:48:36.560Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "AT THIS TIME MY CAR HAS A RECALL ON ITS AIRBAG.  RECENTLY I RECEIVED A LETTER TO CALL MY LOCAL HONDA DEALER.  IN CALLING I WAS TOLD THAT THE CAR COULD NOT BE FIXED TILL DECEMBER 10TH AND TO CALL THE DAY BEFORE TO MAKE SURE THE PART WAS EVEN AVAILABLE.  THIS IS UNACCEPTABLE AS IT ",
+      "pct": 23
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drivers side rear trailing arm separated from chassis. This occurred while backing out of a parking spot causing the left rear wheel to turn outward. When this happened I had to turn the steering wheel left to keep vehicle going straight forward and this was at an idling speed.  ",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASE A HONDA ELEMENT 2010 FROM RAY HONDA ON STRASBOURG ON APRIL, TEST DRIVE IT AND THE BRAKE WENT DOWN  TO FLOOR I WAS  TOLD THAT THEY WILL MAKE THE NECESSARY REPAIR I DROVE AWAY AND THE SAME PROBLEM PERSIST I BROUGHT IT BACK THEY SAID TO ME THAT I HAVE TO LEAVE WE IT, I TO",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT 118,000 MILES THE ENGINE IN MY 2010 HONDA ELEMENT SUFFERED A CATASTROPHIC ENGINE FAILURE. AFTER THE ENGINE WAS REMOVED, IT SHOWED THAT A PISTON HAD STOPPED CREATING HEAT SIGNIFICANT ENOUGH TO FUSE IT TO THE CYLINDER. PRIOR TO STOPPING THE ONLY SIGN OF AN ISSUE WAS ODD REVVING ",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "i have had real trouble recently getting my key out of the ignition switch - one time it took me 10 minutes, even tho i had the wheels totally straight & i kept turning engine off & back on many times. (this has happened many times over the past half year or so & occasionally bef",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Element owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Air Bags (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "AT THIS TIME MY CAR HAS A RECALL ON ITS AIRBAG.  RECENTLY I RECEIVED A LETTER TO CALL MY LOCAL HONDA DEALER.  IN CALLING I WAS TOLD THAT THE CAR COULD NOT BE FIXED TILL DECEMBER 10TH AND TO CALL THE DAY BEFORE TO MAKE SURE THE PART WAS EVEN AVAILABLE.  THIS IS UNACCEPTABLE AS IT ",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "7 reports (23%) · 2 crash · 5 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drivers side rear trailing arm separated from chassis. This occurred while backing out of a parking spot causing the left rear wheel to turn outward. When this happened I had to turn the steering wheel left to keep vehicle going straight forward and this was at an idling speed.  ",
+        "pct": 20,
+        "title": "Suspension",
+        "blurb": "6 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASE A HONDA ELEMENT 2010 FROM RAY HONDA ON STRASBOURG ON APRIL, TEST DRIVE IT AND THE BRAKE WENT DOWN  TO FLOOR I WAS  TOLD THAT THEY WILL MAKE THE NECESSARY REPAIR I DROVE AWAY AND THE SAME PROBLEM PERSIST I BROUGHT IT BACK THEY SAID TO ME THAT I HAVE TO LEAVE WE IT, I TO",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT 118,000 MILES THE ENGINE IN MY 2010 HONDA ELEMENT SUFFERED A CATASTROPHIC ENGINE FAILURE. AFTER THE ENGINE WAS REMOVED, IT SHOWED THAT A PISTON HAD STOPPED CREATING HEAT SIGNIFICANT ENOUGH TO FUSE IT TO THE CYLINDER. PRIOR TO STOPPING THE ONLY SIGN OF AN ISSUE WAS ODD REVVING ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "3 reports (10%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "i have had real trouble recently getting my key out of the ignition switch - one time it took me 10 minutes, even tho i had the wheels totally straight & i kept turning engine off & back on many times. (this has happened many times over the past half year or so & occasionally bef",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

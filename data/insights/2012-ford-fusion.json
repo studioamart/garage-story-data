@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-fusion",
+  "make": "Ford",
+  "model": "Fusion",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/FUSION#complaints",
+  "generatedAt": "2026-07-19T23:57:27.054Z",
+  "total": 2604,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1503,
+      "crash": 47,
+      "fire": 2,
+      "injuries": 13,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD FUSION. THE CONTACT STATED THE VEHICLE WOULD EXPERIENCE AN INTERMITTENT LOSS OF POWER STEERING. THE CONTACT STATED THE SERVICE POWER STEERING LIGHT ILLUMINATES ON THE INSTRUMENT PANEL WHEN THE FAILURE OCCURS. THE CONTACT TOOK THE VEHICLE TO THE DE",
+      "pct": 58
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 436,
+      "crash": 38,
+      "fire": 0,
+      "injuries": 37,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD FUSION. THE CONTACT WAS DRIVING 3 MPH AND CROSSING AN INTERSECTION WHEN ANOTHER VEHICLE CRASHED INTO THE FRONT DRIVER SIDE OF THE CONTACT'S VEHICLE. THE AIR BAGS FAILED TO DEPLOY. THE VEHICLE WAS DESTROYED. A POLICE REPORT WAS FILED. THE DRIVER SU",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 174,
+      "crash": 8,
+      "fire": 4,
+      "injuries": 7,
+      "deaths": 2,
+      "sample": "DRIVING ON THE FREEWAY IN TORRANCE CA AT 65 MPH WHEN THE CAR BEGAN TO BUCK AND JERK AND SLOWED TO ABOUT 30 MPH. IT WOULD NOT TAKE ANY MORE POWER OR ACCELERATION. I WAS IN THE RIGHT LANE AND WAS ABLE TO EXIT AND PARK AND I THEN NOTED THE TEMP GAUGE SHOWED HOT ALTHOUGH THE ENGINE D",
+      "pct": 7
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 162,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JANUARY 2ND, 2012 ON 2-SEPARATE OCCASIONS THE ENGINE ACCELERATED TO ALMOST 6000 RPM WHILE I WAS STOPPED OR NEARLY STOPPED WHILE PARKING THE CAR. THE CAR WAS IN DRIVE AND I HAD MY RIGHT FOOT ON THE BRAKE BUT THE ENGINE ACCELERATION HAPPENED VERY QUICKLY AND ON THE SECOND INCIDE",
+      "pct": 6
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 129,
+      "crash": 17,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD FUSION. THE CONTACT STATED THAT WHENEVER IT RAINED AND THE VEHICLE SAT OVERNIGHT, THE NEXT MORNING THE BRAKES WOULD GRIND FOR A MILE OR WOULD SEIZE. THE CONTACT STATED THAT AFTER GOING A MILE, THE BRAKES FUNCTIONED PROPERLY. THE VEHICLE WAS TAKEN ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Fusion owners report most",
+    "summary": "Across 2,604 owner complaints to NHTSA, the most reported area is Steering (58% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1503,
+        "crash": 47,
+        "fire": 2,
+        "injuries": 13,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD FUSION. THE CONTACT STATED THE VEHICLE WOULD EXPERIENCE AN INTERMITTENT LOSS OF POWER STEERING. THE CONTACT STATED THE SERVICE POWER STEERING LIGHT ILLUMINATES ON THE INSTRUMENT PANEL WHEN THE FAILURE OCCURS. THE CONTACT TOOK THE VEHICLE TO THE DE",
+        "pct": 58,
+        "title": "Steering",
+        "blurb": "1,503 reports (58%) · 2 fire · 47 crash · 13 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 436,
+        "crash": 38,
+        "fire": 0,
+        "injuries": 37,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD FUSION. THE CONTACT WAS DRIVING 3 MPH AND CROSSING AN INTERSECTION WHEN ANOTHER VEHICLE CRASHED INTO THE FRONT DRIVER SIDE OF THE CONTACT'S VEHICLE. THE AIR BAGS FAILED TO DEPLOY. THE VEHICLE WAS DESTROYED. A POLICE REPORT WAS FILED. THE DRIVER SU",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "436 reports (17%) · 38 crash · 37 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 174,
+        "crash": 8,
+        "fire": 4,
+        "injuries": 7,
+        "deaths": 2,
+        "sample": "DRIVING ON THE FREEWAY IN TORRANCE CA AT 65 MPH WHEN THE CAR BEGAN TO BUCK AND JERK AND SLOWED TO ABOUT 30 MPH. IT WOULD NOT TAKE ANY MORE POWER OR ACCELERATION. I WAS IN THE RIGHT LANE AND WAS ABLE TO EXIT AND PARK AND I THEN NOTED THE TEMP GAUGE SHOWED HOT ALTHOUGH THE ENGINE D",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "174 reports (7%) · 4 fire · 8 crash · 7 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 162,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JANUARY 2ND, 2012 ON 2-SEPARATE OCCASIONS THE ENGINE ACCELERATED TO ALMOST 6000 RPM WHILE I WAS STOPPED OR NEARLY STOPPED WHILE PARKING THE CAR. THE CAR WAS IN DRIVE AND I HAD MY RIGHT FOOT ON THE BRAKE BUT THE ENGINE ACCELERATION HAPPENED VERY QUICKLY AND ON THE SECOND INCIDE",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "162 reports (6%) · 4 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 129,
+        "crash": 17,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD FUSION. THE CONTACT STATED THAT WHENEVER IT RAINED AND THE VEHICLE SAT OVERNIGHT, THE NEXT MORNING THE BRAKES WOULD GRIND FOR A MILE OR WOULD SEIZE. THE CONTACT STATED THAT AFTER GOING A MILE, THE BRAKES FUNCTIONED PROPERLY. THE VEHICLE WAS TAKEN ",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "129 reports (5%) · 17 crash · 8 injured"
+      }
+    ]
+  }
+}

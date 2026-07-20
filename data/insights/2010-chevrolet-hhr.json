@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-hhr",
+  "make": "Chevrolet",
+  "model": "HHR",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/HHR#complaints",
+  "generatedAt": "2026-07-19T23:53:49.403Z",
+  "total": 515,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 231,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I  WAS DRIVING DOWN A BUSY STREET WHEN MY CAR STARTING BEEPING(WARNING CHIME) AND THE POWER STEERING LIGHT CAME ON. I WENT TO PULL MY CAR OVER TO THE NEXT SIDE STREET AND FOUND IT VERY DIFFICULT TO DO SO. I FOUND I COULD TURN MY CAR OFF AND WAIT 30 SEC AND THE STEERING  WOULD COM",
+      "pct": 45
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 119,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET HHR. WHILE DRIVING AT LOW SPEEDS, THE LIGHTS SUDDENLY ILLUMINATE ON THE INSTRUMENT PANEL. THE VEHICLE WAS TOWED TO AN AUTHORIZED DEALERSHIP WHERE THE CONTACT WAS INFORMED THAT AN ELECTRONIC PROBLEM CAUSED THE FAILURE. THE VEHICLE HAD NOT BEEN ",
+      "pct": 23
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 49,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET HHR. WHILE THE DRIVER WAS TRAVELING APPROXIMATELY 40-45 MPH, ANOTHER VEHICLE CRASHED INTO THE CONTACT'S VEHICLE ON THE SIDE AND FRONT. NO AIR BAGS DEPLOYED. A POLICE REPORT WAS FILED. ONE PASSENGER SUFFERED INJURIES. THE VEHICLE WAS TOWED TO A",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 46,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET HHR. THE CONTACT STATED THAT FUEL FUMES WERE EMITTED INTO THE VEHICLE. ALSO, THE CONTACT MENTIONED THAT SHE NOTICED FUEL HAD LEAKED ON THE FLOOR AND THE VEHICLE  HESITATED WHEN STARTED. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE MANUFACTURE",
+      "pct": 9
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 44,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I DRIVE A 2010 CHEVY HHR. I NOTICED NOT TO LONG AFTER I PURCHASED IT NEW THE DOOR(DRIVERS SIDE PASSENGER) WOULD NOT OPEN FROM OUTSIDE OR EVEN INSIDE WHEN I WOULD CRAWL INSIDE AND TRY TO GET IT OPEN. IT WOULD ONLY DO IT ON OCCASION. NOW IT HAS CEASED TO HAPPEN AT ALL IN THE PAST 6",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Hhr owners report most",
+    "summary": "Across 515 owner complaints to NHTSA, the most reported area is Steering (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 231,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I  WAS DRIVING DOWN A BUSY STREET WHEN MY CAR STARTING BEEPING(WARNING CHIME) AND THE POWER STEERING LIGHT CAME ON. I WENT TO PULL MY CAR OVER TO THE NEXT SIDE STREET AND FOUND IT VERY DIFFICULT TO DO SO. I FOUND I COULD TURN MY CAR OFF AND WAIT 30 SEC AND THE STEERING  WOULD COM",
+        "pct": 45,
+        "title": "Steering",
+        "blurb": "231 reports (45%) · 8 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 119,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET HHR. WHILE DRIVING AT LOW SPEEDS, THE LIGHTS SUDDENLY ILLUMINATE ON THE INSTRUMENT PANEL. THE VEHICLE WAS TOWED TO AN AUTHORIZED DEALERSHIP WHERE THE CONTACT WAS INFORMED THAT AN ELECTRONIC PROBLEM CAUSED THE FAILURE. THE VEHICLE HAD NOT BEEN ",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "119 reports (23%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 49,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET HHR. WHILE THE DRIVER WAS TRAVELING APPROXIMATELY 40-45 MPH, ANOTHER VEHICLE CRASHED INTO THE CONTACT'S VEHICLE ON THE SIDE AND FRONT. NO AIR BAGS DEPLOYED. A POLICE REPORT WAS FILED. ONE PASSENGER SUFFERED INJURIES. THE VEHICLE WAS TOWED TO A",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "49 reports (10%) · 6 crash · 6 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 46,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET HHR. THE CONTACT STATED THAT FUEL FUMES WERE EMITTED INTO THE VEHICLE. ALSO, THE CONTACT MENTIONED THAT SHE NOTICED FUEL HAD LEAKED ON THE FLOOR AND THE VEHICLE  HESITATED WHEN STARTED. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE MANUFACTURE",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "46 reports (9%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 44,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I DRIVE A 2010 CHEVY HHR. I NOTICED NOT TO LONG AFTER I PURCHASED IT NEW THE DOOR(DRIVERS SIDE PASSENGER) WOULD NOT OPEN FROM OUTSIDE OR EVEN INSIDE WHEN I WOULD CRAWL INSIDE AND TRY TO GET IT OPEN. IT WOULD ONLY DO IT ON OCCASION. NOW IT HAS CEASED TO HAPPEN AT ALL IN THE PAST 6",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "44 reports (9%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

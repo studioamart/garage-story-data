@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-f-250",
+  "make": "Ford",
+  "model": "F-250",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/F-250#complaints",
+  "generatedAt": "2026-07-19T23:53:00.050Z",
+  "total": 77,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 39,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD F-250. THE CONTACT STATED THAT WHILE DRIVING 60 MPH, THE STEERING FAILED AND BECAME INOPERABLE. THE CONTACT WAS ABLE TO CONTROL THE VEHICLE AND EXITED ONTO THE SHOULDER. THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THAT THE FAILURE WAS AT THE",
+      "pct": 51
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 35,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING HIGHWAY SPEED, AFTER HITTING ROUGH AREA, FRONT END STARTS TO SHAKE VIOLENTLY CAUSING ALMOST LOSS OF CONTROL. TOOK TO FORD DEALER IN LAREDO, TX AND WAS REPAIRED. THIS LASTED ABOUT 8 MONTHS AND PROBLEM AROSE AGAIN AS I WAS DRIVING THE INTERSTATE IN MS. TOOK TO LOCAL REPAIR ",
+      "pct": 45
+    },
+    {
+      "component": "WHEELS",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING HIGHWAY SPEED, AFTER HITTING ROUGH AREA, FRONT END STARTS TO SHAKE VIOLENTLY CAUSING ALMOST LOSS OF CONTROL. TOOK TO FORD DEALER IN LAREDO, TX AND WAS REPAIRED. THIS LASTED ABOUT 8 MONTHS AND PROBLEM AROSE AGAIN AS I WAS DRIVING THE INTERSTATE IN MS. TOOK TO LOCAL REPAIR ",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE WILL SPEW WHITE SMOKE AND LOSE ENGINE POWER WHEN UNDER ACCELERATION AFTER EXTENDED PERIODS OF DRIVING TIME AT HIGHWAY SPEEDS ON RAINY OR HUMID DAYS.  I HAVE HAD THIS PROBLEM SINCE IT WAS NEW, VEHICLE CURRENTLY HAS 120,000 MILES ON IT.  I HAVE HAD THIS VEHICLE IN TO SE",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*  THE CONTACT OWNS A 2009 FORD F-250. WHILE DRIVING 65 MPH THE CLEANING EXHAUST AND STOP ENGINE, WARNING LIGHT ILLUMINATED ON THE INSTRUMENT CONTROL PANEL.  THE VEHICLE WAS TAKEN TO THE DEALER AND THE TECHNICIAN REPLACED THE HEAT SENSOR.  THE FAILURE AND CURRENT MILEAGES WERE ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford F-250 owners report most",
+    "summary": "Across 77 owner complaints to NHTSA, the most reported area is Steering (51% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 39,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD F-250. THE CONTACT STATED THAT WHILE DRIVING 60 MPH, THE STEERING FAILED AND BECAME INOPERABLE. THE CONTACT WAS ABLE TO CONTROL THE VEHICLE AND EXITED ONTO THE SHOULDER. THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THAT THE FAILURE WAS AT THE",
+        "pct": 51,
+        "title": "Steering",
+        "blurb": "39 reports (51%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 35,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING HIGHWAY SPEED, AFTER HITTING ROUGH AREA, FRONT END STARTS TO SHAKE VIOLENTLY CAUSING ALMOST LOSS OF CONTROL. TOOK TO FORD DEALER IN LAREDO, TX AND WAS REPAIRED. THIS LASTED ABOUT 8 MONTHS AND PROBLEM AROSE AGAIN AS I WAS DRIVING THE INTERSTATE IN MS. TOOK TO LOCAL REPAIR ",
+        "pct": 45,
+        "title": "Suspension",
+        "blurb": "35 reports (45%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING HIGHWAY SPEED, AFTER HITTING ROUGH AREA, FRONT END STARTS TO SHAKE VIOLENTLY CAUSING ALMOST LOSS OF CONTROL. TOOK TO FORD DEALER IN LAREDO, TX AND WAS REPAIRED. THIS LASTED ABOUT 8 MONTHS AND PROBLEM AROSE AGAIN AS I WAS DRIVING THE INTERSTATE IN MS. TOOK TO LOCAL REPAIR ",
+        "pct": 12,
+        "title": "Wheels",
+        "blurb": "9 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE WILL SPEW WHITE SMOKE AND LOSE ENGINE POWER WHEN UNDER ACCELERATION AFTER EXTENDED PERIODS OF DRIVING TIME AT HIGHWAY SPEEDS ON RAINY OR HUMID DAYS.  I HAVE HAD THIS PROBLEM SINCE IT WAS NEW, VEHICLE CURRENTLY HAS 120,000 MILES ON IT.  I HAVE HAD THIS VEHICLE IN TO SE",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "7 reports (9%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*  THE CONTACT OWNS A 2009 FORD F-250. WHILE DRIVING 65 MPH THE CLEANING EXHAUST AND STOP ENGINE, WARNING LIGHT ILLUMINATED ON THE INSTRUMENT CONTROL PANEL.  THE VEHICLE WAS TAKEN TO THE DEALER AND THE TECHNICIAN REPLACED THE HEAT SENSOR.  THE FAILURE AND CURRENT MILEAGES WERE ",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "7 reports (9%) · 1 fire"
+      }
+    ]
+  }
+}

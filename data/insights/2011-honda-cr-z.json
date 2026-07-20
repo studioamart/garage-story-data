@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-cr-z",
+  "make": "Honda",
+  "model": "CR-Z",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/CR-Z#complaints",
+  "generatedAt": "2026-07-19T23:48:52.930Z",
+  "total": 38,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 16,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "****REVISION TO PREVIOUS COMPLAINT****     I WAS RECENTLY INVOLVED IN A FRONTAL COLLISION IN THIS VEHICLE. I AM FINE, HOWEVER, THE SEAT BELT DID NOT HOLD ME TO THE SEAT PROPERLY. AS THE IMPACT HAPPENED THE SEAT BELT LOCKED AND HELD ME MIDWAY, FROM THE BACK OF THE SEAT TO THE STEE",
+      "pct": 42
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DOOR LOCKS ON DRIVER AND PASSENGER SIDE WILL NOT LOCK OR UNLOCK WHILE USING INTERIOR DOOR LOCK BUTTON OR KEY FOB.  PARKING LIGHTS WILL FLASH WHEN KEY FOB BUTTON IS PRESSED.  PROBLEM STARTED WITH PASSENGER DOOR FIRST THEN 2 WEEKS LATER DRIVER DOOR STOPPED. DEALERSHIP DIAGNOSED THE",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA CR-Z. WHILE DRIVING APPROXIMATELY 35 MPH, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL AND THE VEHICLE JERKED FORWARD ABNORMALLY. ALSO, THE CONTACT STATED THAT THE VEHICLE WOULD EXHIBIT AN UNUSUAL CLUNKING NOISE WHEN ACCELERATING AND WAS A CONSTAN",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I HAD JUST BOUGHT THIS CAR IN SEPTEMBER, AND ON THE MORNING OF WEDNESDAY NOVEMBER 26, 2014 IT CRASHED.  I WAS DRIVING ON THE HIGHWAY, I495-SOUTH.  IT WAS RAINING AND I THINK THE CAR HIT A WATER PUDDLE OR SLEET, AND STARTED FISH TAILING.  I TRIED TO GET IT BACK UNDER CONTROL, AND ",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CHECK ENGINE LIGHT CAME ON WHEN DRIVING VEHICLE THE MOTOR STARTED TO SPUTTER.  WHEN I TOOK THE CAR TO THE DEALERSHIP THEY SERVICE MANAGER STATED THAT A RODENT HAD EATEN THE WIRE THAT GOES TO THE AMBIENT TEMP. SENSOR.  PER DEALERSHIP THIS SENSOR CONTROL THE ABILITY FOR THE MOTOR T",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Cr-Z owners report most",
+    "summary": "Across 38 owner complaints to NHTSA, the most reported area is Air Bags (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 16,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "****REVISION TO PREVIOUS COMPLAINT****     I WAS RECENTLY INVOLVED IN A FRONTAL COLLISION IN THIS VEHICLE. I AM FINE, HOWEVER, THE SEAT BELT DID NOT HOLD ME TO THE SEAT PROPERLY. AS THE IMPACT HAPPENED THE SEAT BELT LOCKED AND HELD ME MIDWAY, FROM THE BACK OF THE SEAT TO THE STEE",
+        "pct": 42,
+        "title": "Air Bags",
+        "blurb": "16 reports (42%) · 3 crash · 4 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DOOR LOCKS ON DRIVER AND PASSENGER SIDE WILL NOT LOCK OR UNLOCK WHILE USING INTERIOR DOOR LOCK BUTTON OR KEY FOB.  PARKING LIGHTS WILL FLASH WHEN KEY FOB BUTTON IS PRESSED.  PROBLEM STARTED WITH PASSENGER DOOR FIRST THEN 2 WEEKS LATER DRIVER DOOR STOPPED. DEALERSHIP DIAGNOSED THE",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "5 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA CR-Z. WHILE DRIVING APPROXIMATELY 35 MPH, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL AND THE VEHICLE JERKED FORWARD ABNORMALLY. ALSO, THE CONTACT STATED THAT THE VEHICLE WOULD EXHIBIT AN UNUSUAL CLUNKING NOISE WHEN ACCELERATING AND WAS A CONSTAN",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I HAD JUST BOUGHT THIS CAR IN SEPTEMBER, AND ON THE MORNING OF WEDNESDAY NOVEMBER 26, 2014 IT CRASHED.  I WAS DRIVING ON THE HIGHWAY, I495-SOUTH.  IT WAS RAINING AND I THINK THE CAR HIT A WATER PUDDLE OR SLEET, AND STARTED FISH TAILING.  I TRIED TO GET IT BACK UNDER CONTROL, AND ",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "4 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CHECK ENGINE LIGHT CAME ON WHEN DRIVING VEHICLE THE MOTOR STARTED TO SPUTTER.  WHEN I TOOK THE CAR TO THE DEALERSHIP THEY SERVICE MANAGER STATED THAT A RODENT HAD EATEN THE WIRE THAT GOES TO THE AMBIENT TEMP. SENSOR.  PER DEALERSHIP THIS SENSOR CONTROL THE ABILITY FOR THE MOTOR T",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "4 reports (11%)"
+      }
+    ]
+  }
+}

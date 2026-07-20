@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-07-19T23:53:14.682Z",
+  "total": 295,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 83,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CAMARO 2SS. WHILE DRIVING 55 MPH THE AIR BAG WARNING LIGHT ILLUMINATED. THE DEALER INSPECTED THE VEHICLE AND ADVISED HER THAT THE VEHICLE WAS SAFE TO DRIVE OUT OF TOWN.  THE DEALER WAS UNABLE TO CONFIRM IF THE AIR BAGS WOULD DEPLOY IF THE VEH",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 74,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CAMARO. THE CONTACT STATED THAT WHILE DRIVING 5 MPH AND MAKING A TURN, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT WAS ABLE TO RESTART THE VEHICLE BUT THE FAILURE RECURRED. THE VEHICLE WAS TAKEN TO A DEALER WHO PERFORMED A DIAGNOSTIC AND",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 47,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING TO THE DEALERSHIP IN BROOKDALE, MN. ON FREEWAY APPROX 70MPH WHEN CAR COMPLETELY GOES DEAD.  QUICKLY I PUT IT IN NEUTRAL AND TURNED IT BACK ON AND COMPLAINED TO DEALER.   DRIVING IN ST CLOUD,MN AT INTOWN SPEEDS WHEN THE CAR SHUTS DOWN AGAIN.  THEN IT ALSO SHUT DOWN T",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 42,
+      "crash": 4,
+      "fire": 2,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TRAVELING WESTBOUND ON INTERSTATE 80 FROM RENO TO SAN FRANCISCO 55-65 MPH, WITHOUT WARNING MY 2010 CAMARO HAD 100 % LOSS OF ALL POWER AND OPERATING FUNCTIONS; OUT OF CONTROL DOWN THE MOUNTAIN DURING HEAVY TRAFFIC I WAS ABLE TO STOP THE VEHICLE BY JAMMING INTO THE GUARDRAIL, TRAPP",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CAMARO. THE CONTACT STATED  WHILE ATTEMPTING A TURN, THE FRONT DRIVERS SIDE CONTROL ARM FAILED. THE MANUFACTURER STATED THE FAILURE WAS NOT A DEFECT AND WAS DUE TO DRIVER ERROR THEREFORE; THE WARRANTY WOULD NOT COVER ANY REPAIRS. THE VEHICLE ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Camaro owners report most",
+    "summary": "Across 295 owner complaints to NHTSA, the most reported area is Air Bags (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 83,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CAMARO 2SS. WHILE DRIVING 55 MPH THE AIR BAG WARNING LIGHT ILLUMINATED. THE DEALER INSPECTED THE VEHICLE AND ADVISED HER THAT THE VEHICLE WAS SAFE TO DRIVE OUT OF TOWN.  THE DEALER WAS UNABLE TO CONFIRM IF THE AIR BAGS WOULD DEPLOY IF THE VEH",
+        "pct": 28,
+        "title": "Air Bags",
+        "blurb": "83 reports (28%) · 10 crash · 12 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 74,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CAMARO. THE CONTACT STATED THAT WHILE DRIVING 5 MPH AND MAKING A TURN, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT WAS ABLE TO RESTART THE VEHICLE BUT THE FAILURE RECURRED. THE VEHICLE WAS TAKEN TO A DEALER WHO PERFORMED A DIAGNOSTIC AND",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "74 reports (25%) · 1 fire · 2 crash · 4 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 47,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING TO THE DEALERSHIP IN BROOKDALE, MN. ON FREEWAY APPROX 70MPH WHEN CAR COMPLETELY GOES DEAD.  QUICKLY I PUT IT IN NEUTRAL AND TURNED IT BACK ON AND COMPLAINED TO DEALER.   DRIVING IN ST CLOUD,MN AT INTOWN SPEEDS WHEN THE CAR SHUTS DOWN AGAIN.  THEN IT ALSO SHUT DOWN T",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "47 reports (16%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 42,
+        "crash": 4,
+        "fire": 2,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TRAVELING WESTBOUND ON INTERSTATE 80 FROM RENO TO SAN FRANCISCO 55-65 MPH, WITHOUT WARNING MY 2010 CAMARO HAD 100 % LOSS OF ALL POWER AND OPERATING FUNCTIONS; OUT OF CONTROL DOWN THE MOUNTAIN DURING HEAVY TRAFFIC I WAS ABLE TO STOP THE VEHICLE BY JAMMING INTO THE GUARDRAIL, TRAPP",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "42 reports (14%) · 2 fire · 4 crash · 6 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CAMARO. THE CONTACT STATED  WHILE ATTEMPTING A TURN, THE FRONT DRIVERS SIDE CONTROL ARM FAILED. THE MANUFACTURER STATED THE FAILURE WAS NOT A DEFECT AND WAS DUE TO DRIVER ERROR THEREFORE; THE WARRANTY WOULD NOT COVER ANY REPAIRS. THE VEHICLE ",
+        "pct": 5,
+        "title": "Suspension",
+        "blurb": "15 reports (5%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/PILOT#complaints",
+  "generatedAt": "2026-07-19T23:48:26.059Z",
+  "total": 134,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PULLED 2009 PILOT INTO MY SLOPPING DRIVEWAY I PUT THE CAR INTO PARK AND ENGINE RUNNING. NOTING REAR CAMERA WAS DISENGAGED. MY HUSBAD AND INFANT IN HIS ARMS WERE 5 FEET AWAY FROM THE REAR SUV. ONCE THE REVERSE LIGHT CAME OFF HE WENT WALKED BEHIND THE TO FRONT OF PASSENGER DOOR. I ",
+      "pct": 26
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 29,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED WHILE DRIVING AT SPEEDS BETWEEN 40-60 MPH, THE VEHICLE CRASHED INTO ANOTHER VEHICLE AND THE FRONTAL AIR BAGS DID NOT DEPLOY UPON IMPACT. ONE INJURY WAS REPORTED BY ONE OF THE VEHICLE OCCUPANTS. THE VEHICLE WAS TOWED TO A",
+      "pct": 22
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED THAT THE WHEELS ON THE VEHICLE WOULD EXHIBIT AN ABNORMAL HUMMING SOUND AND A VIBRATION. THE CONTACT STATED THAT THE FAILURE WOULD OCCUR WHEN THE VEHICLE HAD BEEN RUNNING FOR EXTENDED PERIODS. THE VEHICLE WAS TAKEN TO THE",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED THAT WHILE DRIVING 50 MPH, THE VEHICLE WOULD SHAKE VIOLENTLY WHEN THE BRAKE PEDAL WAS DEPRESSED. AN AUTHORIZED DEALER DIAGNOSED THAT THE BRAKES NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED, BUT THE FAILURE RECURRED. T",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED THERE WAS AN ABNORMAL WINDING COMING FROM THE STEERING WHEEL. THE DEALER MADE REPAIRS TO THE STEERING COLUMN YET THE FAILURE PERSISTED. ON A LATER DATE WHILE DRIVING AT 70 MPH, THE CONTACT HEARD AN ABNORMAL NOISE. THE VE",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Pilot owners report most",
+    "summary": "Across 134 owner complaints to NHTSA, the most reported area is Engine (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PULLED 2009 PILOT INTO MY SLOPPING DRIVEWAY I PUT THE CAR INTO PARK AND ENGINE RUNNING. NOTING REAR CAMERA WAS DISENGAGED. MY HUSBAD AND INFANT IN HIS ARMS WERE 5 FEET AWAY FROM THE REAR SUV. ONCE THE REVERSE LIGHT CAME OFF HE WENT WALKED BEHIND THE TO FRONT OF PASSENGER DOOR. I ",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "35 reports (26%) · 4 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 29,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED WHILE DRIVING AT SPEEDS BETWEEN 40-60 MPH, THE VEHICLE CRASHED INTO ANOTHER VEHICLE AND THE FRONTAL AIR BAGS DID NOT DEPLOY UPON IMPACT. ONE INJURY WAS REPORTED BY ONE OF THE VEHICLE OCCUPANTS. THE VEHICLE WAS TOWED TO A",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "29 reports (22%) · 4 crash · 7 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED THAT THE WHEELS ON THE VEHICLE WOULD EXHIBIT AN ABNORMAL HUMMING SOUND AND A VIBRATION. THE CONTACT STATED THAT THE FAILURE WOULD OCCUR WHEN THE VEHICLE HAD BEEN RUNNING FOR EXTENDED PERIODS. THE VEHICLE WAS TAKEN TO THE",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "19 reports (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED THAT WHILE DRIVING 50 MPH, THE VEHICLE WOULD SHAKE VIOLENTLY WHEN THE BRAKE PEDAL WAS DEPRESSED. AN AUTHORIZED DEALER DIAGNOSED THAT THE BRAKES NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED, BUT THE FAILURE RECURRED. T",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "15 reports (11%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA PILOT. THE CONTACT STATED THERE WAS AN ABNORMAL WINDING COMING FROM THE STEERING WHEEL. THE DEALER MADE REPAIRS TO THE STEERING COLUMN YET THE FAILURE PERSISTED. ON A LATER DATE WHILE DRIVING AT 70 MPH, THE CONTACT HEARD AN ABNORMAL NOISE. THE VE",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "13 reports (10%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

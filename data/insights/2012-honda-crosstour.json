@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-crosstour",
+  "make": "Honda",
+  "model": "Crosstour",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/CROSSTOUR#complaints",
+  "generatedAt": "2026-07-19T23:49:10.893Z",
+  "total": 32,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON 11/23/15 I BOUGHT MY 2012 HONDA CROSSTOUR TO MY MECHANIC AFTER FEELING A SHIMMY IN THE FRONT END. WANTED TO MAKE SURE CAR WAS NOT OUT OF ALIGNMENT. AFTER CHECKING ALL THE NORMAL CHECK POINTS (IE.. TIRES, WHEEL BALANCE, MOTOR AND TRANSMISSION MOUNT), DID A CHECK ON BOTH RIGHT A",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA CROSSTOUR. THE CONTACT STATED THAT WHILE PARKED, HE NOTICED A FIRE HAD ERUPTED FROM THE DASHBOARD AREA. THE FIRE DEPARTMENT WAS NOT CALLED BECAUSE THE FAILURE HAD OCCURRED OVERNIGHT WHILE THE VEHICLE WAS PARKED AND SEEMINGLY, HAD EXTINGUISHED IND",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE FOULING SPARK PLUGS ABOUT EVERY 3-6 MONTH DUE TO OIL GETTING INTO THE CYLINDER(S) CAUSING SHUTTERING, LOSS OF POWER AND STALLING. IN MY CASE IT'S MY 3 BACK CYLINDERS. HAVE NOT BROUGHT TO HONDA DUE TO BEING A ASE MECHANIC MYSELF. STARTED HAPPENING AT ABOUT 80'000 MILES IN ",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY VEHICLE WAS HIT ON THE PASSENGER SIDE, THEN PUSHED HEAD ON INTO A UTILITY POLE. THE VEHICLE'S SIDE AIR BAGS DEPLOYED, BUT THE FRONT AIR BAG DID NOT.  UPDATED 10/15/12 *BF",
+      "pct": 9
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STEERING WHEEL AND CHASSIS VIBRATION ON ACCELERATION ABOVE 65 MPH. VIBRATION STOPPED ONLY AFTER LETTING OFF GAS PEDDLE. AXLE VIBRATES UNDER ACCELERATION LOAD AT HIGH SPEED. ALL ROAD CONDITIONS",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Crosstour owners report most",
+    "summary": "Across 32 owner complaints to NHTSA, the most reported area is Power Train (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON 11/23/15 I BOUGHT MY 2012 HONDA CROSSTOUR TO MY MECHANIC AFTER FEELING A SHIMMY IN THE FRONT END. WANTED TO MAKE SURE CAR WAS NOT OUT OF ALIGNMENT. AFTER CHECKING ALL THE NORMAL CHECK POINTS (IE.. TIRES, WHEEL BALANCE, MOTOR AND TRANSMISSION MOUNT), DID A CHECK ON BOTH RIGHT A",
+        "pct": 28,
+        "title": "Power Train",
+        "blurb": "9 reports (28%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA CROSSTOUR. THE CONTACT STATED THAT WHILE PARKED, HE NOTICED A FIRE HAD ERUPTED FROM THE DASHBOARD AREA. THE FIRE DEPARTMENT WAS NOT CALLED BECAUSE THE FAILURE HAD OCCURRED OVERNIGHT WHILE THE VEHICLE WAS PARKED AND SEEMINGLY, HAD EXTINGUISHED IND",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "3 reports (9%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE FOULING SPARK PLUGS ABOUT EVERY 3-6 MONTH DUE TO OIL GETTING INTO THE CYLINDER(S) CAUSING SHUTTERING, LOSS OF POWER AND STALLING. IN MY CASE IT'S MY 3 BACK CYLINDERS. HAVE NOT BROUGHT TO HONDA DUE TO BEING A ASE MECHANIC MYSELF. STARTED HAPPENING AT ABOUT 80'000 MILES IN ",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "3 reports (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY VEHICLE WAS HIT ON THE PASSENGER SIDE, THEN PUSHED HEAD ON INTO A UTILITY POLE. THE VEHICLE'S SIDE AIR BAGS DEPLOYED, BUT THE FRONT AIR BAG DID NOT.  UPDATED 10/15/12 *BF",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "3 reports (9%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STEERING WHEEL AND CHASSIS VIBRATION ON ACCELERATION ABOVE 65 MPH. VIBRATION STOPPED ONLY AFTER LETTING OFF GAS PEDDLE. AXLE VIBRATES UNDER ACCELERATION LOAD AT HIGH SPEED. ALL ROAD CONDITIONS",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

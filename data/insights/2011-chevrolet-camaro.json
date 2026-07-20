@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-07-19T23:54:42.737Z",
+  "total": 194,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 69,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET CAMARO. WHEN THE CONTACT STARTED THE IGNITION, THE FRONT PASSENGER AIR BAG OFF INDICATOR LIGHT ILLUMINATED WHEN THE PASSENGERS SEAT WAS OCCUPIED WITH AN ADULT WHO WEIGHED 116 POUNDS. THE FAILURE OCCURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN ",
+      "pct": 36
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 29,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "CHEVY CAMARO CONVERTIBLE TOP DOES NOT WORK WHEN THE BUTTON IS PUSHED. SOMETHING IN THE COMPUTER DISABLES THE TOP AND DOES NOT ALLOW IT TO CLOSE FROM AN OPEN POSTITION, THERE IS A ELETRICAL SWITCHING SOUND THAT COMES FROM THE REAR OF THE CAR AND SOMETIMES SMELLS LIKE AN ELECTRICAL",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 28,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET CAMARO. THE CONTACT STATED THAT WHILE DRIVING AT LOW SPEEDS, THE ENGINE EMITTED A KNOCKING NOISE AND WOULD NOT ACCELERATE OVER 35 MPH.  THE VEHICLE WAS TAKEN TO THE DEALER FOR A DIAGNOSTIC TEST, WHICH LOCATED THE FAILURE AT THE MOTOR. THE VEH",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SECOND GEAR GRIND .  2011 CAMARO LS. SIX SPEED TRANSMISSION. SECOND GEAR GRIND OCCURS WITH EVERY UP SHIFT OR DOWN SHIFT .  THIS OCCURS DURING ACCELERATION AND DECELERATION. AT TIMES CAR WILL NOT GO INTO SECOND GEAR AT ALL CAUSING CONCERN FOR SAFETY .  I HAVE CONTACTED GM WHO HAS ",
+      "pct": 9
+    },
+    {
+      "component": "SEATS",
+      "count": 15,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET CAMARO. THE CONTACT STATED THAT WHILE THE VEHICLE WAS PARKED AND UNOCCUPIED, HE NOTICED SMOKE EMITTING FROM THE FRONT DRIVER'S SIDE SEAT. THE VEHICLE DID NOT RESULT IN VISIBLE FLAMES. THE VEHICLE WAS NEITHER DIAGNOSED NOR REPAIRED. THE MANUFA",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Camaro owners report most",
+    "summary": "Across 194 owner complaints to NHTSA, the most reported area is Air Bags (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 69,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET CAMARO. WHEN THE CONTACT STARTED THE IGNITION, THE FRONT PASSENGER AIR BAG OFF INDICATOR LIGHT ILLUMINATED WHEN THE PASSENGERS SEAT WAS OCCUPIED WITH AN ADULT WHO WEIGHED 116 POUNDS. THE FAILURE OCCURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN ",
+        "pct": 36,
+        "title": "Air Bags",
+        "blurb": "69 reports (36%) · 8 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 29,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "CHEVY CAMARO CONVERTIBLE TOP DOES NOT WORK WHEN THE BUTTON IS PUSHED. SOMETHING IN THE COMPUTER DISABLES THE TOP AND DOES NOT ALLOW IT TO CLOSE FROM AN OPEN POSTITION, THERE IS A ELETRICAL SWITCHING SOUND THAT COMES FROM THE REAR OF THE CAR AND SOMETIMES SMELLS LIKE AN ELECTRICAL",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "29 reports (15%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 28,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET CAMARO. THE CONTACT STATED THAT WHILE DRIVING AT LOW SPEEDS, THE ENGINE EMITTED A KNOCKING NOISE AND WOULD NOT ACCELERATE OVER 35 MPH.  THE VEHICLE WAS TAKEN TO THE DEALER FOR A DIAGNOSTIC TEST, WHICH LOCATED THE FAILURE AT THE MOTOR. THE VEH",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "28 reports (14%) · 1 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SECOND GEAR GRIND .  2011 CAMARO LS. SIX SPEED TRANSMISSION. SECOND GEAR GRIND OCCURS WITH EVERY UP SHIFT OR DOWN SHIFT .  THIS OCCURS DURING ACCELERATION AND DECELERATION. AT TIMES CAR WILL NOT GO INTO SECOND GEAR AT ALL CAUSING CONCERN FOR SAFETY .  I HAVE CONTACTED GM WHO HAS ",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "18 reports (9%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 15,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET CAMARO. THE CONTACT STATED THAT WHILE THE VEHICLE WAS PARKED AND UNOCCUPIED, HE NOTICED SMOKE EMITTING FROM THE FRONT DRIVER'S SIDE SEAT. THE VEHICLE DID NOT RESULT IN VISIBLE FLAMES. THE VEHICLE WAS NEITHER DIAGNOSED NOR REPAIRED. THE MANUFA",
+        "pct": 8,
+        "title": "Seats",
+        "blurb": "15 reports (8%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

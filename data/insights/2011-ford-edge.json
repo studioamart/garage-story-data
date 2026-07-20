@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/EDGE#complaints",
+  "generatedAt": "2026-07-19T23:55:27.990Z",
+  "total": 1801,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 686,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD EDGE. WHILE DRIVING APPROXIMATELY 55 MPH, THE ENTIRE DASHBOARD SCREEN AND GPS DISPLAY SCREEN FAILED. DURING THE FAILURE, THE BOTH SCREENS DISPLAYED A MESSAGE STATING THAT THE SYSTEM WAS REBOOTING. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHER",
+      "pct": 38
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 309,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I PULLED INTO A PARKING SPACE. FELT THE CAR MOVE FORWARD. IMMEDIATELY TURNED THE STEERING WHEEL TO AVOID THE CAR DIRECTLY PARKED IN FRONT OF ME. ACCELERATING TO 25-30 MILES PER HOUR AND NOT KNOWING WHAT WAS HAPPENING, STEERED THE CAR UP THE PARKING LANE INTO A SNOW-COVERED FIELD,",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 274,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON JULY 19TH, 2011 WHILE DRIVING SOUTH BOUND ON FOLLY ROAD IN CHARLESTON, SC I WAS SLOWING DOWN TOWARDS THE INTERSECTION W/ FORT JOHNSON ROAD.  I WAS TRAVELING APPROXIMATELY 30MPH WHEN I HEARD A VERY LARGE POP OR EXPLOSION LIKE SOUND.  AFTER A SECOND OR TWO, I NOTICED SHARDS OF G",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 187,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD EDGE. THE CONTACT STATED THAT THE HEADLIGHTS FAILED. THE HEADLIGHT ASSEMBLY HAD A BLACK LENS THAT CAUSED THE LOW BEAM HEADLIGHT NOT TO PROVIDE ADEQUATE LIGHTING WHEN DRIVING IN RURAL AREAS. THE DEALER ADJUSTED THE LOW BEAM HEADLIGHT TO ILLUMINATE ",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 179,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WAS DRIVING IN MORNING RUSH HOUR TRAFFIC GOING ABOUT 50MPH ON A HIGHWAY.  CAR LOST ALL ACCELERATION AND WENT \"LIMP\" WITHOUT ANY NOTICE. WRENCH LIGHT CAME ON. WAS ABLE TO GET CAR TO SIDE OF ROAD BEFORE IT COMPLETELY STOPPED. IT WAS VERY FRIGHTENING AS CARS WERE CLOSE BEHIND ME AND",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Edge owners report most",
+    "summary": "Across 1,801 owner complaints to NHTSA, the most reported area is Electrical System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 686,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD EDGE. WHILE DRIVING APPROXIMATELY 55 MPH, THE ENTIRE DASHBOARD SCREEN AND GPS DISPLAY SCREEN FAILED. DURING THE FAILURE, THE BOTH SCREENS DISPLAYED A MESSAGE STATING THAT THE SYSTEM WAS REBOOTING. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHER",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "686 reports (38%) · 4 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 309,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I PULLED INTO A PARKING SPACE. FELT THE CAR MOVE FORWARD. IMMEDIATELY TURNED THE STEERING WHEEL TO AVOID THE CAR DIRECTLY PARKED IN FRONT OF ME. ACCELERATING TO 25-30 MILES PER HOUR AND NOT KNOWING WHAT WAS HAPPENING, STEERED THE CAR UP THE PARKING LANE INTO A SNOW-COVERED FIELD,",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "309 reports (17%) · 10 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 274,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON JULY 19TH, 2011 WHILE DRIVING SOUTH BOUND ON FOLLY ROAD IN CHARLESTON, SC I WAS SLOWING DOWN TOWARDS THE INTERSECTION W/ FORT JOHNSON ROAD.  I WAS TRAVELING APPROXIMATELY 30MPH WHEN I HEARD A VERY LARGE POP OR EXPLOSION LIKE SOUND.  AFTER A SECOND OR TWO, I NOTICED SHARDS OF G",
+        "pct": 15,
+        "title": "Structure",
+        "blurb": "274 reports (15%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 187,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD EDGE. THE CONTACT STATED THAT THE HEADLIGHTS FAILED. THE HEADLIGHT ASSEMBLY HAD A BLACK LENS THAT CAUSED THE LOW BEAM HEADLIGHT NOT TO PROVIDE ADEQUATE LIGHTING WHEN DRIVING IN RURAL AREAS. THE DEALER ADJUSTED THE LOW BEAM HEADLIGHT TO ILLUMINATE ",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "187 reports (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 179,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WAS DRIVING IN MORNING RUSH HOUR TRAFFIC GOING ABOUT 50MPH ON A HIGHWAY.  CAR LOST ALL ACCELERATION AND WENT \"LIMP\" WITHOUT ANY NOTICE. WRENCH LIGHT CAME ON. WAS ABLE TO GET CAR TO SIDE OF ROAD BEFORE IT COMPLETELY STOPPED. IT WAS VERY FRIGHTENING AS CARS WERE CLOSE BEHIND ME AND",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "179 reports (10%) · 1 fire · 3 crash · 1 injured"
+      }
+    ]
+  }
+}

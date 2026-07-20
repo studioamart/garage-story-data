@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-avalanche",
+  "make": "Chevrolet",
+  "model": "Avalanche",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/AVALANCHE#complaints",
+  "generatedAt": "2026-07-19T23:55:09.854Z",
+  "total": 155,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 66,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THERE A DEEP GASH/CRACK IN THE DASHBOARD ON THE PASSENGER SIDE THAT STARTS AT THE UPPER LEFT CORNER OF PASSENGER AIRBAG!  VERY CONCERNED AFTER I GOOGLED THIS PROBLEM AND CAN SEE THAT THERE ARE INSTANCES OF THIS ON GM VEHICLES 'ALL OVER THE INTERNET AND THE COMPLAINTS DATE BACK TO",
+      "pct": 43
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE DRIVING VARIOUS SPEEDS, HE NOTICED THAT THE ENTIRE DASHBOARD WAS CONSTANTLY VIBRATING. IN ADDITION, A CRACK WAS VISIBLE ON THE PASSENGER'S SIDE DASHBOARD NEAR THE AIR BAG HOUSING AREA. THE VEHICLE WAS N",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I AM SLOWING DOWN TO A STOP THE TRANSMISSION WILL SUDDENLY MAKE THE VEHICLE SURGE FORWARD QUICKLY. IF I NOT JUST AS QUICK TO APPLY A FIRM BRAKE I RISK HITTING THE CAR OR PEDESTRIANS NEAR ME WHICH HAS HAPPEN ON SEVERAL OCCASION.  ON ONE OCCASION, AS I WAS TURNING INTO A PARKI",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE BEGAN TO NOTICE WHEN SLOWING DOWN (FOOT OFF THE GAS AND COASTING WITH FOOT ON BRAKE, OR BRAKE APPLIED) AT ANY AREA WHERE MY SPEED DECREASES TO LESS THAN 15 MPH THAT MY AVALANCHE WILL SEEM TO SORT OF LUNGE FORWARD.  THE FIRST TIME I EXPERIENCED THIS I BELIEVED IT WAS RELATE",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "REDUCED ENGINE POWER , ENGINE DIES NO POWER STEERING OR POWER BRAKES ALMOST REAR ENDED ON I-25. TROUBLE CODE SAYS P2135 THROTTLE BODY HAS HAPPENED 20 TIMES OR MORE IN 8 MONTHS. DEALER WHERE PURCHASED SAY THEY NEVER HEARD OF THIS PROBLEM THEN SAID NEW WIRING HARNESS MIGHT FIX IT,K",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Avalanche owners report most",
+    "summary": "Across 155 owner complaints to NHTSA, the most reported area is Air Bags (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 66,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THERE A DEEP GASH/CRACK IN THE DASHBOARD ON THE PASSENGER SIDE THAT STARTS AT THE UPPER LEFT CORNER OF PASSENGER AIRBAG!  VERY CONCERNED AFTER I GOOGLED THIS PROBLEM AND CAN SEE THAT THERE ARE INSTANCES OF THIS ON GM VEHICLES 'ALL OVER THE INTERNET AND THE COMPLAINTS DATE BACK TO",
+        "pct": 43,
+        "title": "Air Bags",
+        "blurb": "66 reports (43%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE DRIVING VARIOUS SPEEDS, HE NOTICED THAT THE ENTIRE DASHBOARD WAS CONSTANTLY VIBRATING. IN ADDITION, A CRACK WAS VISIBLE ON THE PASSENGER'S SIDE DASHBOARD NEAR THE AIR BAG HOUSING AREA. THE VEHICLE WAS N",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "27 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I AM SLOWING DOWN TO A STOP THE TRANSMISSION WILL SUDDENLY MAKE THE VEHICLE SURGE FORWARD QUICKLY. IF I NOT JUST AS QUICK TO APPLY A FIRM BRAKE I RISK HITTING THE CAR OR PEDESTRIANS NEAR ME WHICH HAS HAPPEN ON SEVERAL OCCASION.  ON ONE OCCASION, AS I WAS TURNING INTO A PARKI",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "12 reports (8%) · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE BEGAN TO NOTICE WHEN SLOWING DOWN (FOOT OFF THE GAS AND COASTING WITH FOOT ON BRAKE, OR BRAKE APPLIED) AT ANY AREA WHERE MY SPEED DECREASES TO LESS THAN 15 MPH THAT MY AVALANCHE WILL SEEM TO SORT OF LUNGE FORWARD.  THE FIRST TIME I EXPERIENCED THIS I BELIEVED IT WAS RELATE",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "12 reports (8%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "REDUCED ENGINE POWER , ENGINE DIES NO POWER STEERING OR POWER BRAKES ALMOST REAR ENDED ON I-25. TROUBLE CODE SAYS P2135 THROTTLE BODY HAS HAPPENED 20 TIMES OR MORE IN 8 MONTHS. DEALER WHERE PURCHASED SAY THEY NEVER HEARD OF THIS PROBLEM THEN SAID NEW WIRING HARNESS MIGHT FIX IT,K",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "8 reports (5%)"
+      }
+    ]
+  }
+}

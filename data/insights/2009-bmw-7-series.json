@@ -1,0 +1,128 @@
+{
+  "slug": "2009-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:29.656Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 BMW 750I. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO THE DEALER FOR A SERVICE CAMPAIGN (B001314 - N63), BUT THERE WAS NO PERMANENT REMEDY FOR THE CONDITION. THE VEHICLE WAS ALSO TAKEN TO AN INDEPENDENT MECHANIC FOR FURTHER INSPECTION AND DIAGNOST",
+      "pct": 62
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 BMW 750I. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO THE DEALER FOR A SERVICE CAMPAIGN (B001314 - N63), BUT THERE WAS NO PERMANENT REMEDY FOR THE CONDITION. THE VEHICLE WAS ALSO TAKEN TO AN INDEPENDENT MECHANIC FOR FURTHER INSPECTION AND DIAGNOST",
+      "pct": 35
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE FUEL INJECTORS WERE DEFECTIVE AND NEEDED TO BE REPLACED. BMW WOULD NOT SELL THE EXACT INJECTORS BECAUSE THE UNIT WAS REDESIGNED BECAUSE THE VERSION THAT CAME WITH THE CAR HAD EXCESSIVE FAILURES. AFTER I HAD THE CAR REPAIRED BMW WOULD NOT REIMBURSE ME FOR REPAIRS SEEING THAT I",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 BMW 750I. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS AND COMING TO A STOP, THE BRAKES PULSATED. THE VEHICLE WAS TAKEN TO THE DEALER. AFTER DIAGNOSIS THEY ADVISED HIM THAT THEY WERE UNABLE TO DUPLICATE THE FAILURE. THE VEHICLE WAS NOT REPAI",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "09 BMW 750LI SUDDENLY SLOWED DOWN ON THE HIGHWAY AFTER A DSC MALFUNCTION/ TRANSMITION MALFUNCTION LIGHT CAME ON. VEHICLE JUST RECEIVED THE N63 RECALL SERVICE.  THIS IS VARY DANGEROUS.  THE VEHICLE WOULD NOT ACCELERATE AT ALL. VEHICLE WAS TRAVELING AROUND 70 MILES PER HOUR BEFORE ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Bmw 7 Series owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Engine (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 BMW 750I. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO THE DEALER FOR A SERVICE CAMPAIGN (B001314 - N63), BUT THERE WAS NO PERMANENT REMEDY FOR THE CONDITION. THE VEHICLE WAS ALSO TAKEN TO AN INDEPENDENT MECHANIC FOR FURTHER INSPECTION AND DIAGNOST",
+        "pct": 62,
+        "title": "Engine",
+        "blurb": "16 reports (62%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 BMW 750I. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO THE DEALER FOR A SERVICE CAMPAIGN (B001314 - N63), BUT THERE WAS NO PERMANENT REMEDY FOR THE CONDITION. THE VEHICLE WAS ALSO TAKEN TO AN INDEPENDENT MECHANIC FOR FURTHER INSPECTION AND DIAGNOST",
+        "pct": 35,
+        "title": "Power Train",
+        "blurb": "9 reports (35%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE FUEL INJECTORS WERE DEFECTIVE AND NEEDED TO BE REPLACED. BMW WOULD NOT SELL THE EXACT INJECTORS BECAUSE THE UNIT WAS REDESIGNED BECAUSE THE VERSION THAT CAME WITH THE CAR HAD EXCESSIVE FAILURES. AFTER I HAD THE CAR REPAIRED BMW WOULD NOT REIMBURSE ME FOR REPAIRS SEEING THAT I",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 BMW 750I. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS AND COMING TO A STOP, THE BRAKES PULSATED. THE VEHICLE WAS TAKEN TO THE DEALER. AFTER DIAGNOSIS THEY ADVISED HIM THAT THEY WERE UNABLE TO DUPLICATE THE FAILURE. THE VEHICLE WAS NOT REPAI",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "09 BMW 750LI SUDDENLY SLOWED DOWN ON THE HIGHWAY AFTER A DSC MALFUNCTION/ TRANSMITION MALFUNCTION LIGHT CAME ON. VEHICLE JUST RECEIVED THE N63 RECALL SERVICE.  THIS IS VARY DANGEROUS.  THE VEHICLE WOULD NOT ACCELERATE AT ALL. VEHICLE WAS TRAVELING AROUND 70 MILES PER HOUR BEFORE ",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-07-19T23:57:38.767Z",
+  "total": 747,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 411,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "WHEN I TAKE OFF AND BEGIN TO ACCELERATE, CAR HESITATES.  GETTING WORSE.  AS I WAS APPROACHING THE TOP OF AN OVERPASS, HAD TO SPEED UP BECAUSE IT SEEMED TO HESITATED.  TOOK IT IN ONCE, SERVICE MANAGER AND ASSISTANT BOTH SAID THEY DROVE IT AND NOTHING HAPPENED.  I LEFT THERE AND IT",
+      "pct": 55
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 144,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE EXTREME SLOPE OF THE WINDSHIELD AND EXTENSIVE DASHBOARD SURFACE TOP, COMBINED WITH MY SLOPED DRIVEWAY PRODUCES A SEVERE GLARE THAT REDUCES VISIBILITY TO THE POINT WHERE I AM FORCED TO INCH INTO MY GARAGE.  THE GREY DASHBOARD BECOMES THE DOMINATE VISIBLE ELEMENT, REFLECTED ONT",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 80,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "CPSC#I1360158A. 2013 CHEVROLET EQUINOX. CONSUMER STATED WHEN SHE PRESSED THE ACCELERATOR HER CAR REVERSED WHILE IT WAS STILL IN DRIVE. *LN   THE CONSUMER STATED SHE IMMEDIATELY APPLIED THE BRAKE, ONCE THE VEHICLE WENT INTO REVERSE. THE CONSUMER STATED IT FELT AS THOUGH,THE VEHICL",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 69,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE SITTING STOPPED AT A TRAFFIC LIGHT YESTERDAY, MY BRAND NEW EQUINOX JUST TURNED OFF.  A CO-WORKER WITH THE SAME CAR (DIFFERENT MODEL YEAR) MENTIONED THIS HAPPENED TO HER TWO WEEKS PRIOR TO IT HAPPENING TO ME.  WHEN I WENT ONLINE TO RESEARCH THE ISSUE, I WAS ALARMED AFTER LOC",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 43,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I TAKE OFF AND BEGIN TO ACCELERATE, CAR HESITATES.  GETTING WORSE.  AS I WAS APPROACHING THE TOP OF AN OVERPASS, HAD TO SPEED UP BECAUSE IT SEEMED TO HESITATED.  TOOK IT IN ONCE, SERVICE MANAGER AND ASSISTANT BOTH SAID THEY DROVE IT AND NOTHING HAPPENED.  I LEFT THERE AND IT",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Equinox owners report most",
+    "summary": "Across 747 owner complaints to NHTSA, the most reported area is Engine (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 411,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "WHEN I TAKE OFF AND BEGIN TO ACCELERATE, CAR HESITATES.  GETTING WORSE.  AS I WAS APPROACHING THE TOP OF AN OVERPASS, HAD TO SPEED UP BECAUSE IT SEEMED TO HESITATED.  TOOK IT IN ONCE, SERVICE MANAGER AND ASSISTANT BOTH SAID THEY DROVE IT AND NOTHING HAPPENED.  I LEFT THERE AND IT",
+        "pct": 55,
+        "title": "Engine",
+        "blurb": "411 reports (55%) · 4 fire · 1 crash · 8 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 144,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE EXTREME SLOPE OF THE WINDSHIELD AND EXTENSIVE DASHBOARD SURFACE TOP, COMBINED WITH MY SLOPED DRIVEWAY PRODUCES A SEVERE GLARE THAT REDUCES VISIBILITY TO THE POINT WHERE I AM FORCED TO INCH INTO MY GARAGE.  THE GREY DASHBOARD BECOMES THE DOMINATE VISIBLE ELEMENT, REFLECTED ONT",
+        "pct": 19,
+        "title": "Visibility/Wiper",
+        "blurb": "144 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 80,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "CPSC#I1360158A. 2013 CHEVROLET EQUINOX. CONSUMER STATED WHEN SHE PRESSED THE ACCELERATOR HER CAR REVERSED WHILE IT WAS STILL IN DRIVE. *LN   THE CONSUMER STATED SHE IMMEDIATELY APPLIED THE BRAKE, ONCE THE VEHICLE WENT INTO REVERSE. THE CONSUMER STATED IT FELT AS THOUGH,THE VEHICL",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "80 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 69,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE SITTING STOPPED AT A TRAFFIC LIGHT YESTERDAY, MY BRAND NEW EQUINOX JUST TURNED OFF.  A CO-WORKER WITH THE SAME CAR (DIFFERENT MODEL YEAR) MENTIONED THIS HAPPENED TO HER TWO WEEKS PRIOR TO IT HAPPENING TO ME.  WHEN I WENT ONLINE TO RESEARCH THE ISSUE, I WAS ALARMED AFTER LOC",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "69 reports (9%) · 3 fire · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 43,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I TAKE OFF AND BEGIN TO ACCELERATE, CAR HESITATES.  GETTING WORSE.  AS I WAS APPROACHING THE TOP OF AN OVERPASS, HAD TO SPEED UP BECAUSE IT SEEMED TO HESITATED.  TOOK IT IN ONCE, SERVICE MANAGER AND ASSISTANT BOTH SAID THEY DROVE IT AND NOTHING HAPPENED.  I LEFT THERE AND IT",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "43 reports (6%)"
+      }
+    ]
+  }
+}

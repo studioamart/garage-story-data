@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/FLEX#complaints",
+  "generatedAt": "2026-07-19T23:56:07.024Z",
+  "total": 144,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 57,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR SHUT OFF COMPLETELY WHILE DRIVING. IT HAS HAPPENED TWICE ONCE ON THE HIGHWAY AND ONCE ON A RESIDENTIAL STREET WHILE MAKING A LEFT HAND TURN BOTH TIMES POWER STEERING WAS GONE. TOOK CAR TO DEALER AND THEY CANNOT FIND ANYTHING BECAUSE IT DID NOT LEAVE A SIGNATURE. THE CAR HAS B",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "OUR 2011 FORD FLEX WE BOUGHT \"NEW\" IN OCTOBER OF 2010. IT HAS ALL THE BELLS & WHISTLES & HAD A STICKER PRICE OF ALMOST $51,000 DOLLARS! THIS CAR DOESN'T LIKE TO GET WET! IT STALLS IN THE SNOW, RAIN, CAR WASH & EVEN PUDDLES! IT JUST \"SHUTS DOWN\" IN THE MIDDLE OF AN INTERSECTION...",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE WILL ACT AS IF IT IS IN NEUTRAL WHEN I PULL AWAY FROM A STOP.  THE ENGINE REVS WITH NO FORWARD MOVEMENT THEN THE TRANSMISSION \"BANGS\" INTO GEAR AND THE VEHICLE PROCEEDS.  THE HESITATION COULD CAUSE AN ACCIDENT.  THERE ARE NUMEROUS REPORTS FROM OTHER OWNERS ON THE FORDF",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "ON AUGUST 8, 2011 AND FEBRUARY 8, 2012, MY NEW FLEX SHUT DOWN WHILE I WAS DRIVING.  THE DASHBOARD LIGHTS FLASHED ON, AND THE VEHICLE TURNED OFF - TOTAL ELECTRICAL FAILURE - COULDN'T ACCELERATE OR BRAKE - HAD TO PAINFULLY PULL CAR OFF THE ROAD.  CAR WAS TOWED TO DEALER.  FORD DEAL",
+      "pct": 6
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PERSISTENT BRAKE SQUEALING EVEN THOUGH BRAKES WERE REGULARLY SERVICED. ON FURTHER INSPECTION, IT WAS DISCOVERED THAT A FRONT BRAKE CALIPER WAS CRACKED AND LEAKING. HAD TO BE REPLACED. REPLACED BOTH FRONT CALIPERS AND ASSOCIATED PARTS FOR SAFETY REASONS, PARTS AND LABOR TOTALED OV",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Flex owners report most",
+    "summary": "Across 144 owner complaints to NHTSA, the most reported area is Steering (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 57,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR SHUT OFF COMPLETELY WHILE DRIVING. IT HAS HAPPENED TWICE ONCE ON THE HIGHWAY AND ONCE ON A RESIDENTIAL STREET WHILE MAKING A LEFT HAND TURN BOTH TIMES POWER STEERING WAS GONE. TOOK CAR TO DEALER AND THEY CANNOT FIND ANYTHING BECAUSE IT DID NOT LEAVE A SIGNATURE. THE CAR HAS B",
+        "pct": 40,
+        "title": "Steering",
+        "blurb": "57 reports (40%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "OUR 2011 FORD FLEX WE BOUGHT \"NEW\" IN OCTOBER OF 2010. IT HAS ALL THE BELLS & WHISTLES & HAD A STICKER PRICE OF ALMOST $51,000 DOLLARS! THIS CAR DOESN'T LIKE TO GET WET! IT STALLS IN THE SNOW, RAIN, CAR WASH & EVEN PUDDLES! IT JUST \"SHUTS DOWN\" IN THE MIDDLE OF AN INTERSECTION...",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "25 reports (17%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE WILL ACT AS IF IT IS IN NEUTRAL WHEN I PULL AWAY FROM A STOP.  THE ENGINE REVS WITH NO FORWARD MOVEMENT THEN THE TRANSMISSION \"BANGS\" INTO GEAR AND THE VEHICLE PROCEEDS.  THE HESITATION COULD CAUSE AN ACCIDENT.  THERE ARE NUMEROUS REPORTS FROM OTHER OWNERS ON THE FORDF",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "19 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "ON AUGUST 8, 2011 AND FEBRUARY 8, 2012, MY NEW FLEX SHUT DOWN WHILE I WAS DRIVING.  THE DASHBOARD LIGHTS FLASHED ON, AND THE VEHICLE TURNED OFF - TOTAL ELECTRICAL FAILURE - COULDN'T ACCELERATE OR BRAKE - HAD TO PAINFULLY PULL CAR OFF THE ROAD.  CAR WAS TOWED TO DEALER.  FORD DEAL",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "9 reports (6%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PERSISTENT BRAKE SQUEALING EVEN THOUGH BRAKES WERE REGULARLY SERVICED. ON FURTHER INSPECTION, IT WAS DISCOVERED THAT A FRONT BRAKE CALIPER WAS CRACKED AND LEAKING. HAD TO BE REPLACED. REPLACED BOTH FRONT CALIPERS AND ASSOCIATED PARTS FOR SAFETY REASONS, PARTS AND LABOR TOTALED OV",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "8 reports (6%) · 1 crash"
+      }
+    ]
+  }
+}

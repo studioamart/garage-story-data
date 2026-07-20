@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-fusion",
+  "make": "Ford",
+  "model": "Fusion",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/FUSION#complaints",
+  "generatedAt": "2026-07-19T23:55:59.161Z",
+  "total": 2781,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1425,
+      "crash": 42,
+      "fire": 0,
+      "injuries": 22,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD FUSION. THE CONTACT WAS EXITING A PARKING SPACE WHEN THE STEERING FAILED AND BECAME ABNORMALLY TIGHT. THE POWER STEERING CAME WARNING LIGHT DID NOT ILLUMINATE UNTIL AFTER THE FAILURE.  THE CONTACT TOOK THE VEHICLE TO THE DEALER WHERE HE WAS AWAITI",
+      "pct": 51
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 330,
+      "crash": 19,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD FUSION. THE CONTACT STATED THAT THE AIR BAG DEACTIVATION WARNING LIGHT ILLUMINATED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTICS BUT THE TECHNICIAN COULD NOT DUPLICATE THE FAILURE. THE TECHNICIAN ADVISED THE CONTACT THAT THE ",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 276,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON 6/7/12 WAS DRIVING CAR AND CHECK ENGINE LIGHT AND WRENCH LIGHT CAME ON WHILE DRIVING ON THE ROAD, 30 SECONDS LATER, ENGINE SHUT OFF COMPLETELY, COULD NOT ACCELERATE AND HAD TO GET THE VEHICLE TOWED TO THE DEALERSHIP. I WAS TOLD THAT THE PURGE VALVE AND FUEL FILLER PIPE HAD TO ",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 268,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A 2011 FORD FUSION ON NOV. 26, 2010. THE DAY I BROUGHT IT HOME, THE PROBLEMS STARTED. IT BANGS SO HARD INTO REVERSE THAT IT FEELS LIKE SOMEONE RAN INTO THE CAR WITH A BULLDOZER. IT HAS DEAD SPOTS IN THE ACCELERATION, AND OFTEN GOES ABOVE 5000 RPM WHEN SHIFTING JUST GOING",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 255,
+      "crash": 13,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD FUSION. THE CONTACT WAS DRIVING APPROXIMATELY 60 MPH WHEN THE VEHICLE SUDDENLY STALLED WITHOUT WARNING. THE CONTACT WAS ABLE TO RESTART THE VEHICLE. THE VEHICLE WAS INSPECTED BY A DEALER WHO INFORMED THE CONTACT THAT HE WOULD NEED TO REPLACE THE T",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Fusion owners report most",
+    "summary": "Across 2,781 owner complaints to NHTSA, the most reported area is Steering (51% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1425,
+        "crash": 42,
+        "fire": 0,
+        "injuries": 22,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD FUSION. THE CONTACT WAS EXITING A PARKING SPACE WHEN THE STEERING FAILED AND BECAME ABNORMALLY TIGHT. THE POWER STEERING CAME WARNING LIGHT DID NOT ILLUMINATE UNTIL AFTER THE FAILURE.  THE CONTACT TOOK THE VEHICLE TO THE DEALER WHERE HE WAS AWAITI",
+        "pct": 51,
+        "title": "Steering",
+        "blurb": "1,425 reports (51%) · 42 crash · 22 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 330,
+        "crash": 19,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD FUSION. THE CONTACT STATED THAT THE AIR BAG DEACTIVATION WARNING LIGHT ILLUMINATED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTICS BUT THE TECHNICIAN COULD NOT DUPLICATE THE FAILURE. THE TECHNICIAN ADVISED THE CONTACT THAT THE ",
+        "pct": 12,
+        "title": "Air Bags",
+        "blurb": "330 reports (12%) · 19 crash · 12 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 276,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON 6/7/12 WAS DRIVING CAR AND CHECK ENGINE LIGHT AND WRENCH LIGHT CAME ON WHILE DRIVING ON THE ROAD, 30 SECONDS LATER, ENGINE SHUT OFF COMPLETELY, COULD NOT ACCELERATE AND HAD TO GET THE VEHICLE TOWED TO THE DEALERSHIP. I WAS TOLD THAT THE PURGE VALVE AND FUEL FILLER PIPE HAD TO ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "276 reports (10%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 268,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A 2011 FORD FUSION ON NOV. 26, 2010. THE DAY I BROUGHT IT HOME, THE PROBLEMS STARTED. IT BANGS SO HARD INTO REVERSE THAT IT FEELS LIKE SOMEONE RAN INTO THE CAR WITH A BULLDOZER. IT HAS DEAD SPOTS IN THE ACCELERATION, AND OFTEN GOES ABOVE 5000 RPM WHEN SHIFTING JUST GOING",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "268 reports (10%) · 1 fire · 3 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 255,
+        "crash": 13,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD FUSION. THE CONTACT WAS DRIVING APPROXIMATELY 60 MPH WHEN THE VEHICLE SUDDENLY STALLED WITHOUT WARNING. THE CONTACT WAS ABLE TO RESTART THE VEHICLE. THE VEHICLE WAS INSPECTED BY A DEALER WHO INFORMED THE CONTACT THAT HE WOULD NEED TO REPLACE THE T",
+        "pct": 9,
+        "title": "Vehicle Speed Control",
+        "blurb": "255 reports (9%) · 13 crash · 5 injured"
+      }
+    ]
+  }
+}

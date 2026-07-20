@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-07-19T23:55:06.333Z",
+  "total": 456,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 186,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING WEST ON RIO RD. IN CHARLOTTESVILLE, VA, AT ROUGHLY 35 MPH. AT APPROXIMATELY 6:00 PM, A DEER EMERGED FROM THE PASSENGER SIDE OF THE VEHICLE. IT HAPPENED INSTANTANEOUSLY AND AVOIDING THE DEER WAS NOT AN OPTION. IMMEDIATELY AFTER STRIKING THE DEER AT THE FRONT RIGHT BU",
+      "pct": 41
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 85,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED VEHICLE, AND TWO WEEKS LATER DROVE IT TO THE WASHINGTON COAST FROM BOISE, IDAHO (APPROXIMATELY 630 MILES). WHILE THERE THE BACK DRIVERSIDE REAR SEAT DOOR WORKED FINE. THEN ON THE FOURTH DAY, WE RETURNED FROM AN OUTING, AND IT WAS OKAY. WENT OUT LATER TO GET SOMETHING OU",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET TAHOE. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE VEHICLE INDEPENDENTLY DECELERATED. THE CONTACT MENTIONED THAT THE ABS, LOSS OF POWER, CHECK ENGINE AND THE TRACTION CONTROL WARNING LAMPS WERE ILLUMINATED IMMEDIATELY AFTER THE FAILURE.",
+      "pct": 4
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WAS DRIVING HIGHWAY WHEN SUDDLENLY THE ENGINE POWER WAS REDUCED AND TRACTION CONTRIOL STABILITY TRACK CAM ON AND SAID TO SERVICE WAS GOING 65 DROPPED TO 45 ALMOST GOT HIT BY RIG.WAS NEAR EXIT PULLED OFF BUT CAR ACCELERATED THROUGH LIGHT EVEN THOUGH FOOT WAS ON BRAKE, TOOK CORNER ",
+      "pct": 3
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET TAHOE. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE VEHICLE INDEPENDENTLY DECELERATED. THE CONTACT MENTIONED THAT THE ABS, LOSS OF POWER, CHECK ENGINE AND THE TRACTION CONTROL WARNING LAMPS WERE ILLUMINATED IMMEDIATELY AFTER THE FAILURE.",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Tahoe owners report most",
+    "summary": "Across 456 owner complaints to NHTSA, the most reported area is Air Bags (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 186,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING WEST ON RIO RD. IN CHARLOTTESVILLE, VA, AT ROUGHLY 35 MPH. AT APPROXIMATELY 6:00 PM, A DEER EMERGED FROM THE PASSENGER SIDE OF THE VEHICLE. IT HAPPENED INSTANTANEOUSLY AND AVOIDING THE DEER WAS NOT AN OPTION. IMMEDIATELY AFTER STRIKING THE DEER AT THE FRONT RIGHT BU",
+        "pct": 41,
+        "title": "Air Bags",
+        "blurb": "186 reports (41%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 85,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED VEHICLE, AND TWO WEEKS LATER DROVE IT TO THE WASHINGTON COAST FROM BOISE, IDAHO (APPROXIMATELY 630 MILES). WHILE THERE THE BACK DRIVERSIDE REAR SEAT DOOR WORKED FINE. THEN ON THE FOURTH DAY, WE RETURNED FROM AN OUTING, AND IT WAS OKAY. WENT OUT LATER TO GET SOMETHING OU",
+        "pct": 19,
+        "title": "Structure",
+        "blurb": "85 reports (19%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET TAHOE. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE VEHICLE INDEPENDENTLY DECELERATED. THE CONTACT MENTIONED THAT THE ABS, LOSS OF POWER, CHECK ENGINE AND THE TRACTION CONTROL WARNING LAMPS WERE ILLUMINATED IMMEDIATELY AFTER THE FAILURE.",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "18 reports (4%) · 1 fire"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WAS DRIVING HIGHWAY WHEN SUDDLENLY THE ENGINE POWER WAS REDUCED AND TRACTION CONTRIOL STABILITY TRACK CAM ON AND SAID TO SERVICE WAS GOING 65 DROPPED TO 45 ALMOST GOT HIT BY RIG.WAS NEAR EXIT PULLED OFF BUT CAR ACCELERATED THROUGH LIGHT EVEN THOUGH FOOT WAS ON BRAKE, TOOK CORNER ",
+        "pct": 3,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "15 reports (3%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET TAHOE. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE VEHICLE INDEPENDENTLY DECELERATED. THE CONTACT MENTIONED THAT THE ABS, LOSS OF POWER, CHECK ENGINE AND THE TRACTION CONTROL WARNING LAMPS WERE ILLUMINATED IMMEDIATELY AFTER THE FAILURE.",
+        "pct": 3,
+        "title": "Engine",
+        "blurb": "13 reports (3%) · 1 crash"
+      }
+    ]
+  }
+}

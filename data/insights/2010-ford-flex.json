@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/FLEX#complaints",
+  "generatedAt": "2026-07-19T23:54:39.039Z",
+  "total": 139,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 32,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING 30 MPH THE CAR SIMPLY DIES.  ALL LIGHTS COME ON AND THE CAR JUST SHUTS OFF.  LEFT WITH NO BRAKES, STEERING, OR CONTROL.  DEALER BROUGHT IN ENGINEER, AFTER A WEEK WITH THE CAR DEALER CANNOT REPLICATE PROBLEM.  FORD MOTOR COMPANY DECIDES NOTHING IS WRONG AND FORCE ME ",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 30,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A HIGHWAY DURING RUSH HOUR TRAFFIC, AS THE TRAFFIC SLOWED DOWN, AND I PRESSED THE BRAKE, THE ENGINE SHUT COMPLETELY DOWN. FIRST THE BATTERY LIGHT CAME ON AND THEN ALL LIGHTS WITHIN THE SPEEDOMETER CLUSTER CAME ON. TRAFFIC BEGAN TO PICK BACK UP AND I WAS GOING UP ",
+      "pct": 22
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASE FORD FLEX 2010 MODEL, FIRST COMPLAINT OCCUR LATE JANUARY/FEBRUARY 2010, FRONT BRAKES PADS WERE NOT WORKING AND PULLING HARD. RETURN TO DEALERSHIP AND THEY REPAIRED THE CAR, TELLING ME THIS IS AN EXISTING PROBLEM WITH THREE MANUFACTURE REPLACEMENTS ALREADY. I RETURN IN SE",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2010 FORD FLEX 2000 MILES.  WHILE DRIVING @ 35 MILES PER HOUR , CHECK ENGINE LIGHT CAME ON AND CAR STALLED. GAS ACCELERATOR WAS INOPERABLE. OPERATOR WAS ABLE TO DRIVE INTO A PARKING LOT CLOSE BY AND BRING CAR TO A COMPLETE STOP WITHOUT ANY INCIDENT. CAR TURNED ON AFTER THE 5TH AT",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER OWNING THE NEW VEHICLE FOR THREE MONTHS IT STARTED RANDOMLY SLIPPING INTO NEUTRAL.  AT FIRST, IT DID THIS WHEN ACCELERATING FROM A STOP (WHICH IS VERY DANGEROUS IN BUSY INTERSECTIONS, LEFT TURNS AND MERGING).  IT NOW DOES IT THEN AND IN ADDITION AT HIGHWAY SPEEDS - 50+.  IT",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Flex owners report most",
+    "summary": "Across 139 owner complaints to NHTSA, the most reported area is Steering (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 32,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING 30 MPH THE CAR SIMPLY DIES.  ALL LIGHTS COME ON AND THE CAR JUST SHUTS OFF.  LEFT WITH NO BRAKES, STEERING, OR CONTROL.  DEALER BROUGHT IN ENGINEER, AFTER A WEEK WITH THE CAR DEALER CANNOT REPLICATE PROBLEM.  FORD MOTOR COMPANY DECIDES NOTHING IS WRONG AND FORCE ME ",
+        "pct": 23,
+        "title": "Steering",
+        "blurb": "32 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 30,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A HIGHWAY DURING RUSH HOUR TRAFFIC, AS THE TRAFFIC SLOWED DOWN, AND I PRESSED THE BRAKE, THE ENGINE SHUT COMPLETELY DOWN. FIRST THE BATTERY LIGHT CAME ON AND THEN ALL LIGHTS WITHIN THE SPEEDOMETER CLUSTER CAME ON. TRAFFIC BEGAN TO PICK BACK UP AND I WAS GOING UP ",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "30 reports (22%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASE FORD FLEX 2010 MODEL, FIRST COMPLAINT OCCUR LATE JANUARY/FEBRUARY 2010, FRONT BRAKES PADS WERE NOT WORKING AND PULLING HARD. RETURN TO DEALERSHIP AND THEY REPAIRED THE CAR, TELLING ME THIS IS AN EXISTING PROBLEM WITH THREE MANUFACTURE REPLACEMENTS ALREADY. I RETURN IN SE",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "16 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2010 FORD FLEX 2000 MILES.  WHILE DRIVING @ 35 MILES PER HOUR , CHECK ENGINE LIGHT CAME ON AND CAR STALLED. GAS ACCELERATOR WAS INOPERABLE. OPERATOR WAS ABLE TO DRIVE INTO A PARKING LOT CLOSE BY AND BRING CAR TO A COMPLETE STOP WITHOUT ANY INCIDENT. CAR TURNED ON AFTER THE 5TH AT",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "13 reports (9%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER OWNING THE NEW VEHICLE FOR THREE MONTHS IT STARTED RANDOMLY SLIPPING INTO NEUTRAL.  AT FIRST, IT DID THIS WHEN ACCELERATING FROM A STOP (WHICH IS VERY DANGEROUS IN BUSY INTERSECTIONS, LEFT TURNS AND MERGING).  IT NOW DOES IT THEN AND IN ADDITION AT HIGHWAY SPEEDS - 50+.  IT",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "12 reports (9%) · 1 fire"
+      }
+    ]
+  }
+}

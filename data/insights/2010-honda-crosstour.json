@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-crosstour",
+  "make": "Honda",
+  "model": "Crosstour",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/CROSSTOUR#complaints",
+  "generatedAt": "2026-07-19T23:48:44.686Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT THE CAR USED WITH APPROXIMATELY 23000 MILES; IT IS STILL UNDER THE FACTORY WARRANTY.  I HAD READ ABOUT OTHER OWNERS' DESCRIPTIONS OF \"SHUTTER\" FROM THE DRIVE TRAIN BETWEEN 20-27 MPH UNDER MODERATE ACCELERATION, A SLIGHT SHAKING FELT THROUGH THE CAR BODY, AND NOTICED MINE",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE IS CONSUMING EXCESS OIL,AND CODE P3497 SHOWS UP.LOW OIL LIGHT DOESN'T COME ON,ALTHOUGH THERE IS NO OIL ON DIPSTICK.SERVICE BULLETIN SAYS SOFTWARE UPDATE NEEDED,BUT MY DEALER CLAIMS MY ENGINE NOT ON THERE.LEFT BANK STUCK IS SECOND INDICATOR OF FAILURE IN VARIABLE TIMIMI",
+      "pct": 18
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA CROSSTOUR. THE CONTACT STATED WHILE DRIVING 30 MPH THE PASSENGERS RIGHT OF THE VEHICLE COLLAPSED. THE BALL JOINTS SNAPPED AND CAUSED DAMAGE TO THE WHEELS AND TIRES. THE VEHICLE WAS TOWED TO THE DEALER AND AFTER INSPECTING IT THEY HAD TO REPLACE T",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "UPON ACCELERATION FROM A TRAFFIC STOP, THE SUNROOF SHATTERED CAUSING SHARDS OF GLASS TO FALL INTO THE VEHICLE.  THE SUNROOF WAS COMPLETELY CLOSED AT THE TIME. THIS WAS NOT A GENTLE \"BREAK AND CRACK\", BUT A VIOLENT SHATTER OF GLASS. ONE 8 YEAR OLD PASSENGER SEATED IN THE REAR MIDD",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED A USED 2010 ACCORD CROSSTOUR FROM HANOVER HONDA IN PA, IN NOVEMBER, 2018.HAVEN'T HAD IT QUITE A YEAR, IN MARCH OF 2019, THE ENGINE LIGHT CAME ON, AND THE CAR STARTED TO MISFIRE INTENSELY.CODE P0301 CAME UP.I TOOK IT TO MARTIN HONDA IN DE AND THEY TOLD ME THAT THE COMP",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Crosstour owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Power Train (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT THE CAR USED WITH APPROXIMATELY 23000 MILES; IT IS STILL UNDER THE FACTORY WARRANTY.  I HAD READ ABOUT OTHER OWNERS' DESCRIPTIONS OF \"SHUTTER\" FROM THE DRIVE TRAIN BETWEEN 20-27 MPH UNDER MODERATE ACCELERATION, A SLIGHT SHAKING FELT THROUGH THE CAR BODY, AND NOTICED MINE",
+        "pct": 27,
+        "title": "Power Train",
+        "blurb": "6 reports (27%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE IS CONSUMING EXCESS OIL,AND CODE P3497 SHOWS UP.LOW OIL LIGHT DOESN'T COME ON,ALTHOUGH THERE IS NO OIL ON DIPSTICK.SERVICE BULLETIN SAYS SOFTWARE UPDATE NEEDED,BUT MY DEALER CLAIMS MY ENGINE NOT ON THERE.LEFT BANK STUCK IS SECOND INDICATOR OF FAILURE IN VARIABLE TIMIMI",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "4 reports (18%) · 1 fire"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA CROSSTOUR. THE CONTACT STATED WHILE DRIVING 30 MPH THE PASSENGERS RIGHT OF THE VEHICLE COLLAPSED. THE BALL JOINTS SNAPPED AND CAUSED DAMAGE TO THE WHEELS AND TIRES. THE VEHICLE WAS TOWED TO THE DEALER AND AFTER INSPECTING IT THEY HAD TO REPLACE T",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "UPON ACCELERATION FROM A TRAFFIC STOP, THE SUNROOF SHATTERED CAUSING SHARDS OF GLASS TO FALL INTO THE VEHICLE.  THE SUNROOF WAS COMPLETELY CLOSED AT THE TIME. THIS WAS NOT A GENTLE \"BREAK AND CRACK\", BUT A VIOLENT SHATTER OF GLASS. ONE 8 YEAR OLD PASSENGER SEATED IN THE REAR MIDD",
+        "pct": 14,
+        "title": "Visibility",
+        "blurb": "3 reports (14%) · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED A USED 2010 ACCORD CROSSTOUR FROM HANOVER HONDA IN PA, IN NOVEMBER, 2018.HAVEN'T HAD IT QUITE A YEAR, IN MARCH OF 2019, THE ENGINE LIGHT CAME ON, AND THE CAR STARTED TO MISFIRE INTENSELY.CODE P0301 CAME UP.I TOOK IT TO MARTIN HONDA IN DE AND THEY TOLD ME THAT THE COMP",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

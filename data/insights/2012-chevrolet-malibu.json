@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-07-19T23:56:26.783Z",
+  "total": 904,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 289,
+      "crash": 5,
+      "fire": 11,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "A BRAND NEW VEHICLE WITH 64 MILES. WHILE DRIVING ON A RURAL ROAD, THE ELECTRONIC STABILITY CONTROL FAILURE LIGHT CAME ON AND THEN THE ACCELERATOR STOPPED WORKING. AFTER I TURNED THE ENGINE OFF, IT WOULD NOT COME BACK ON.  THIS CERTAINLY COULD HAVE BEEN A SAFETY ISSUE HAD I LOST C",
+      "pct": 32
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 202,
+      "crash": 4,
+      "fire": 6,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A STATE HIGHWAY, I HAD A NUMBER OF FUNCTIONS STOP WORKING.  THE PROBLEM COULD COME AND GO FOR A WEEK BEFORE IT HAPPENED ON ALL IGNITION CYCLES.  NOTE, THE PROBLEM COULD EVEN COME AND GO ON 1 IGNITION CYCLE. THE FOLLOWING STOPPED WORKING: WINDSHIELD WIPERS, HEATED",
+      "pct": 22
+    },
+    {
+      "component": "STEERING",
+      "count": 191,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET MALIBU. THE CONTACT STATED THAT THE DRIVER WAS DRIVING 10 MPH WHEN  A CLICKING SOUND EMITTED FROM UNDER THE HOOD AND THE POWER STEERING FAILED. THE VEHICLE WAS TOWED TO THE DEALER. THE MANUFACTURER WAS NOT CONTACTED. THE VEHICLE WAS NOT REPAI",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 129,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "07/2013 SERVICE ESC MSG AND SYMBOL CAME ON , DEALER UNABLE TO FIND    01/07/2014 SAME    01/15/2014 AGAIN, GM PAID HALF OF THE REPAIR, BECAUSE THE FIRST TIME IT HAPPEN AND WAS NOTICE BY DEALER, I BELIEVE GM SHOULD PAID THE WHOLE COST, AS THIS IS A SAFETY ISSUE , EFFECTS STEERING ",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 101,
+      "crash": 28,
+      "fire": 0,
+      "injuries": 25,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS 2012 CHEVROLET MALIBU. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 30 MPH, WHILE APPROACHING A TRAFFIC STOP SIGNAL ANOTHER VEHICLE UNEXPECTEDLY CRASHED INTO THE DRIVER'S SIDE. AS A RESULT, THE VEHICLE BEGAN TO TRAVEL ACROSS THE ROAD CAUSING THE FRONT ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Malibu owners report most",
+    "summary": "Across 904 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 289,
+        "crash": 5,
+        "fire": 11,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "A BRAND NEW VEHICLE WITH 64 MILES. WHILE DRIVING ON A RURAL ROAD, THE ELECTRONIC STABILITY CONTROL FAILURE LIGHT CAME ON AND THEN THE ACCELERATOR STOPPED WORKING. AFTER I TURNED THE ENGINE OFF, IT WOULD NOT COME BACK ON.  THIS CERTAINLY COULD HAVE BEEN A SAFETY ISSUE HAD I LOST C",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "289 reports (32%) · 11 fire · 5 crash · 4 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 202,
+        "crash": 4,
+        "fire": 6,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A STATE HIGHWAY, I HAD A NUMBER OF FUNCTIONS STOP WORKING.  THE PROBLEM COULD COME AND GO FOR A WEEK BEFORE IT HAPPENED ON ALL IGNITION CYCLES.  NOTE, THE PROBLEM COULD EVEN COME AND GO ON 1 IGNITION CYCLE. THE FOLLOWING STOPPED WORKING: WINDSHIELD WIPERS, HEATED",
+        "pct": 22,
+        "title": "Exterior Lighting",
+        "blurb": "202 reports (22%) · 6 fire · 4 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 191,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET MALIBU. THE CONTACT STATED THAT THE DRIVER WAS DRIVING 10 MPH WHEN  A CLICKING SOUND EMITTED FROM UNDER THE HOOD AND THE POWER STEERING FAILED. THE VEHICLE WAS TOWED TO THE DEALER. THE MANUFACTURER WAS NOT CONTACTED. THE VEHICLE WAS NOT REPAI",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "191 reports (21%) · 9 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 129,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "07/2013 SERVICE ESC MSG AND SYMBOL CAME ON , DEALER UNABLE TO FIND    01/07/2014 SAME    01/15/2014 AGAIN, GM PAID HALF OF THE REPAIR, BECAUSE THE FIRST TIME IT HAPPEN AND WAS NOTICE BY DEALER, I BELIEVE GM SHOULD PAID THE WHOLE COST, AS THIS IS A SAFETY ISSUE , EFFECTS STEERING ",
+        "pct": 14,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "129 reports (14%) · 6 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 101,
+        "crash": 28,
+        "fire": 0,
+        "injuries": 25,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS 2012 CHEVROLET MALIBU. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 30 MPH, WHILE APPROACHING A TRAFFIC STOP SIGNAL ANOTHER VEHICLE UNEXPECTEDLY CRASHED INTO THE DRIVER'S SIDE. AS A RESULT, THE VEHICLE BEGAN TO TRAVEL ACROSS THE ROAD CAUSING THE FRONT ",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "101 reports (11%) · 28 crash · 25 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2010-bmw-x3",
+  "make": "BMW",
+  "model": "X3",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/BMW/X3#complaints",
+  "generatedAt": "2026-07-19T23:49:45.820Z",
+  "total": 85,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 35,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I AM 5'2\", FAT AND WANTED EITHER AN ON/SWITCH FOR MY FRONT DRIVER'S AIRBAG, OR I WAS GOING TO APPLY UNDER YOUR GUIDELINES TO HAVE THE DRIVER'S AIRBAG DISCONNECTED.  BMW APPARENTLY CAN DO NEITHER SINCE THEIR AIRBAG IS TIED INTO ITS ELECTRICAL SYSTEM.  I HAVE GOTTEN NOTHING BUT A R",
+      "pct": 41
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 16,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 BMW X3. THE CONTACT STATED THAT WHILE DRIVING 30 MPH, THE MUFFLER DETACHED FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS BUT THEY WERE UNABLE TO DUPLICATE THE PROBLEM. THE MANUFACTURER WAS NOTIFIED. THE APPROXIMATE FAILURE MILEAGE",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 BMW 3 SERIES.  THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 20 MPH, SMOKE STARTED TO EMIT FROM THE FRONT DRIVER SIDE OF THE VEHICLE. THE VEHICLE WAS MERGED TO THE SIDE OF THE ROAD IN ORDER TO INSPECT THE VEHICLE. THE CONTACT STATED THAT ONCE THE",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NOTICED THE PASSENGER SIDE BLINKER STARTED TO BLINK QUICKLY.  THE BRAKES AND TAIL LIGHTS USE A BULB WHILE THE BLINKER HAS APPROXIMATELY 15 LEDS.  THEREFORE THE ENTIRE LIGHT ASSEMBLY HAS TO BE REPLACED.  SEVERAL OF THE LEDS DO NOT LIGHT UP AND THE ONES THAT DO ARE DIM. TWO WEEKS L",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SUDDEN LOSS OF STEERING POWER WHILE DRIVING, UNABLE TO TURN STEERING WHEEL WHILE DRIVING AND ATTEMPTING TURN IN MAJOR INTERSECTION. HEAVY ROAD TRAFFIC HERE IN FT LAUDERDALE, ALMOST CRASHED WITH MY 9 YEAR OLD ON WAY TO SCHOOL. THIS IS 3RD ATTEMPT TO FIX PROBLEM, CAR WAS RETURNED B",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Bmw X3 owners report most",
+    "summary": "Across 85 owner complaints to NHTSA, the most reported area is Air Bags (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 35,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I AM 5'2\", FAT AND WANTED EITHER AN ON/SWITCH FOR MY FRONT DRIVER'S AIRBAG, OR I WAS GOING TO APPLY UNDER YOUR GUIDELINES TO HAVE THE DRIVER'S AIRBAG DISCONNECTED.  BMW APPARENTLY CAN DO NEITHER SINCE THEIR AIRBAG IS TIED INTO ITS ELECTRICAL SYSTEM.  I HAVE GOTTEN NOTHING BUT A R",
+        "pct": 41,
+        "title": "Air Bags",
+        "blurb": "35 reports (41%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 16,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 BMW X3. THE CONTACT STATED THAT WHILE DRIVING 30 MPH, THE MUFFLER DETACHED FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS BUT THEY WERE UNABLE TO DUPLICATE THE PROBLEM. THE MANUFACTURER WAS NOTIFIED. THE APPROXIMATE FAILURE MILEAGE",
+        "pct": 19,
+        "title": "Engine And Engine Cooling",
+        "blurb": "16 reports (19%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 BMW 3 SERIES.  THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 20 MPH, SMOKE STARTED TO EMIT FROM THE FRONT DRIVER SIDE OF THE VEHICLE. THE VEHICLE WAS MERGED TO THE SIDE OF THE ROAD IN ORDER TO INSPECT THE VEHICLE. THE CONTACT STATED THAT ONCE THE",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "14 reports (16%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NOTICED THE PASSENGER SIDE BLINKER STARTED TO BLINK QUICKLY.  THE BRAKES AND TAIL LIGHTS USE A BULB WHILE THE BLINKER HAS APPROXIMATELY 15 LEDS.  THEREFORE THE ENTIRE LIGHT ASSEMBLY HAS TO BE REPLACED.  SEVERAL OF THE LEDS DO NOT LIGHT UP AND THE ONES THAT DO ARE DIM. TWO WEEKS L",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "11 reports (13%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SUDDEN LOSS OF STEERING POWER WHILE DRIVING, UNABLE TO TURN STEERING WHEEL WHILE DRIVING AND ATTEMPTING TURN IN MAJOR INTERSECTION. HEAVY ROAD TRAFFIC HERE IN FT LAUDERDALE, ALMOST CRASHED WITH MY 9 YEAR OLD ON WAY TO SCHOOL. THIS IS 3RD ATTEMPT TO FIX PROBLEM, CAR WAS RETURNED B",
+        "pct": 6,
+        "title": "Steering",
+        "blurb": "5 reports (6%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-07-19T23:52:19.182Z",
+  "total": 824,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 232,
+      "crash": 28,
+      "fire": 1,
+      "injuries": 28,
+      "deaths": 0,
+      "sample": "WE PURCHASED A 2009 CHEVY IMPALA IN APRIL .  MY WIFE HAS A TAIL BONE MEDICAL ISSUE THAT NECESSITATES THAT SHE SIT ON A SPECIAL PILLOW WHILE RIDING IN A VEHICLE.  THE SEAT DISPLACES HER WEIGHT EVENLY ACROSS THE SEAT.  THE PROBLEM IS THAT THE AIR BAG SENSOR ON THE PASSENGER COMPART",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 224,
+      "crash": 7,
+      "fire": 4,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET IMPALA.  THE CONTACT STATED THAT THE ELECTRICAL COMPONENTS IN HER VEHICLE WENT HAYWIRE.  THE LIGHTS WOULD FLASH ON AND OFF, THE AIR CONDITIONER FAILED INTERMITTENTLY, THE HEATING UNIT WAS INOPERABLE, AND THE DOORS WOULD LOCK AND UNLOCK BY THEM",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 179,
+      "crash": 8,
+      "fire": 1,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "AFTER BRAKING TO MAKE A TURN, THE FOLLOWING WARNINGS CAME ON: REDUCED ENGINE POWER, SERVICE STABILATRAK, AND TRACTION CONTROL OFF. PLUS THE ENGINE WARNING LIGHT CAME ON. FORTUNATELY NO ACCIDENT OCCURRED FROM THIS AND I DID EXPERIENCE REDUCTION IN ENGINE POWER. THESE WARNINGS REMA",
+      "pct": 22
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 130,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET IMPALA.  HE STATED THAT THE VEHICLE ACCELERATED ON ITS OWN WHILE DRIVING AT ANY SPEED.  HE EXPERIENCED THE FAILURE FIVE TIMES. THE MOST RECENT FAILURE OCCURRED WHILE DRIVING 60 MPH WHEN THE VEHICLE ACCELERATED UP TO 65 MPH ON ITS OWN. HE TOOK ",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 108,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TRAVELING AT HIGHWAY SPEED ON 2 LANE ROAD, CHECK ENGINE AND TRACTION CONTROL LIGHTS ILLUMINATED THEN VEHICLE SHUT DOWN.  LIGHTS AND RADIO WORKED BUT VEHICLE WOULD NOT TURN OVER.  AFTER APPROXIMATELY 15 MINUTES VEHICLE CRANKED AND STARTED AND WAS DRIVABLE.  TOOK TO CHEVROLET DEALE",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Impala owners report most",
+    "summary": "Across 824 owner complaints to NHTSA, the most reported area is Air Bags (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 232,
+        "crash": 28,
+        "fire": 1,
+        "injuries": 28,
+        "deaths": 0,
+        "sample": "WE PURCHASED A 2009 CHEVY IMPALA IN APRIL .  MY WIFE HAS A TAIL BONE MEDICAL ISSUE THAT NECESSITATES THAT SHE SIT ON A SPECIAL PILLOW WHILE RIDING IN A VEHICLE.  THE SEAT DISPLACES HER WEIGHT EVENLY ACROSS THE SEAT.  THE PROBLEM IS THAT THE AIR BAG SENSOR ON THE PASSENGER COMPART",
+        "pct": 28,
+        "title": "Air Bags",
+        "blurb": "232 reports (28%) · 1 fire · 28 crash · 28 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 224,
+        "crash": 7,
+        "fire": 4,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET IMPALA.  THE CONTACT STATED THAT THE ELECTRICAL COMPONENTS IN HER VEHICLE WENT HAYWIRE.  THE LIGHTS WOULD FLASH ON AND OFF, THE AIR CONDITIONER FAILED INTERMITTENTLY, THE HEATING UNIT WAS INOPERABLE, AND THE DOORS WOULD LOCK AND UNLOCK BY THEM",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "224 reports (27%) · 4 fire · 7 crash · 7 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 179,
+        "crash": 8,
+        "fire": 1,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "AFTER BRAKING TO MAKE A TURN, THE FOLLOWING WARNINGS CAME ON: REDUCED ENGINE POWER, SERVICE STABILATRAK, AND TRACTION CONTROL OFF. PLUS THE ENGINE WARNING LIGHT CAME ON. FORTUNATELY NO ACCIDENT OCCURRED FROM THIS AND I DID EXPERIENCE REDUCTION IN ENGINE POWER. THESE WARNINGS REMA",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "179 reports (22%) · 1 fire · 8 crash · 10 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 130,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET IMPALA.  HE STATED THAT THE VEHICLE ACCELERATED ON ITS OWN WHILE DRIVING AT ANY SPEED.  HE EXPERIENCED THE FAILURE FIVE TIMES. THE MOST RECENT FAILURE OCCURRED WHILE DRIVING 60 MPH WHEN THE VEHICLE ACCELERATED UP TO 65 MPH ON ITS OWN. HE TOOK ",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "130 reports (16%) · 2 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 108,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TRAVELING AT HIGHWAY SPEED ON 2 LANE ROAD, CHECK ENGINE AND TRACTION CONTROL LIGHTS ILLUMINATED THEN VEHICLE SHUT DOWN.  LIGHTS AND RADIO WORKED BUT VEHICLE WOULD NOT TURN OVER.  AFTER APPROXIMATELY 15 MINUTES VEHICLE CRANKED AND STARTED AND WAS DRIVABLE.  TOOK TO CHEVROLET DEALE",
+        "pct": 13,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "108 reports (13%) · 1 fire · 6 crash · 2 injured"
+      }
+    ]
+  }
+}

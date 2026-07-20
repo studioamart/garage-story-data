@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-cr-z",
+  "make": "Honda",
+  "model": "CR-Z",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/CR-Z#complaints",
+  "generatedAt": "2026-07-19T23:49:15.733Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TAKATA RECALL    LAST WEEK WE WERE NOTIFIED THAT OUR CAR HAS BEEN AFFECTED BY THE TAKATA AIR BAG RECALL.  UP UNTIL THAT TIME OUR VIN NUMBER WAS NOT LISTED AS HAVING BEEN AFFECTED.  AS OF THE END OF MARCH 2016, WE ARE TOLD IT NOW IS.    WE ARE NO LONGER ABLE TO DRIVE OUR VEHICLE A",
+      "pct": 82
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Front driver side axle rusted and snapped in half - in line with safety recalls #20V769 & #20V770. Currently, it is available for inspection. I am hoping to begin repairs within the next 3 days. I will save the defective parts and take photos for inspection, upon request.   This ",
+      "pct": 9
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "IN THE ACCIDENT AIRBAG FRACTURED MY FOREHEAD IN 3 PLACES BROKE MY NOSE,L WAS HOSPITALIZED 2 DAYS",
+      "pct": 9
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "IN THE ACCIDENT AIRBAG FRACTURED MY FOREHEAD IN 3 PLACES BROKE MY NOSE,L WAS HOSPITALIZED 2 DAYS",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2013 CRV DOES NOT START AFTER BEING PARKED O ERNIGHT, FOR AN HOUR, FOR A COUPLE OF HOURS, AND JUST TODAY FOR ABOUT 10 MINUTES. THIS HAS BEEN HAPPENING EVERY 2-3 WEEKS  STARTING NOVEMBER 2016. EACH TIME REQUIRES JUMPSTART AND ON TWO OCCASIONS TOOK IT TO AUTOZONE TO CHECK BATTERY L",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Cr-Z owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Air Bags (82% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TAKATA RECALL    LAST WEEK WE WERE NOTIFIED THAT OUR CAR HAS BEEN AFFECTED BY THE TAKATA AIR BAG RECALL.  UP UNTIL THAT TIME OUR VIN NUMBER WAS NOT LISTED AS HAVING BEEN AFFECTED.  AS OF THE END OF MARCH 2016, WE ARE TOLD IT NOW IS.    WE ARE NO LONGER ABLE TO DRIVE OUR VEHICLE A",
+        "pct": 82,
+        "title": "Air Bags",
+        "blurb": "9 reports (82%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Front driver side axle rusted and snapped in half - in line with safety recalls #20V769 & #20V770. Currently, it is available for inspection. I am hoping to begin repairs within the next 3 days. I will save the defective parts and take photos for inspection, upon request.   This ",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "IN THE ACCIDENT AIRBAG FRACTURED MY FOREHEAD IN 3 PLACES BROKE MY NOSE,L WAS HOSPITALIZED 2 DAYS",
+        "pct": 9,
+        "title": "Seat Belts",
+        "blurb": "1 report (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "IN THE ACCIDENT AIRBAG FRACTURED MY FOREHEAD IN 3 PLACES BROKE MY NOSE,L WAS HOSPITALIZED 2 DAYS",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "1 report (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2013 CRV DOES NOT START AFTER BEING PARKED O ERNIGHT, FOR AN HOUR, FOR A COUPLE OF HOURS, AND JUST TODAY FOR ABOUT 10 MINUTES. THIS HAS BEEN HAPPENING EVERY 2-3 WEEKS  STARTING NOVEMBER 2016. EACH TIME REQUIRES JUMPSTART AND ON TWO OCCASIONS TOOK IT TO AUTOZONE TO CHECK BATTERY L",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

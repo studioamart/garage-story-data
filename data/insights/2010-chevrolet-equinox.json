@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-07-19T23:53:20.999Z",
+  "total": 784,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 271,
+      "crash": 3,
+      "fire": 6,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "HAVE OWNED MY CAR NOW FOR 6 MONTHS AND NOTHING BUT ISSUES. IT SEES THE DEALER MORE THEN I CAN ENJOY IT. IF ONE MORE UPDATE IS DONE AND I AM TOLD THE PROBLEM IS FIX AND REALLY IT ISN'T THEN MY FRUSTRATION WILL CONTINUE.    FROM THE OIL LEAK, TRANSMISSION DECLINE ROUGH, ENGINE NOIS",
+      "pct": 35
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 182,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "ON 09/04/09 I BOUGHT A NEW 2010 EQUINOX AND WITHIN 3,000 MILES I BEGAN EXPERIENCING SIGNIFICANT SHIFTING ISSUES AND ROUGH IDLING/STALLING AT STOPS.  ON 01/08/10 I WILL BE TAKING THE VEHICLE TO THE SERVICE SHOP FOR THE 4TH TIME IN 60 DAYS FOR THESE PROBLEMS.  VERY CONCERNING IS TH",
+      "pct": 23
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 132,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HELLO ON A FEW DIFFERENT OCCASIONS MY CENTER CONSOLE AS STOPPED FUNCTIONING MAKING IT IMPOSSIBLE TO TURN ON/OFF DEFROSTER, HEAT, ETC. I HAVE CALLED CHEVROLET ABOUT THIS PROBLEM BUT THEY TOLD ME IT IS NOT INCLUDED IN RECALL 09V489000. CAN SOMEONE PLEASE EXPLAIN WHY MY VEHICLE DOES",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 81,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY 2010 CHEVY EQUINOX LS STEERING WHEEL LOCKS UP WHILE DRIVING. THE ELECTRICAL ALSO SEEMS TO HAVE AN ISSUE WHERE THE RADIO WILL START FLASHING AND THE AIR BAG WARNING KEEPS COMING ON EVEN AFTER THEY HAVE STATED ALL OF THE ISSUES HAVE BEEN FIXED AND PARTS HAVE BEEN REPLACED. THIS ",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 57,
+      "crash": 9,
+      "fire": 1,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "MY 2010 CHEVY EQUINOX LS STEERING WHEEL LOCKS UP WHILE DRIVING. THE ELECTRICAL ALSO SEEMS TO HAVE AN ISSUE WHERE THE RADIO WILL START FLASHING AND THE AIR BAG WARNING KEEPS COMING ON EVEN AFTER THEY HAVE STATED ALL OF THE ISSUES HAVE BEEN FIXED AND PARTS HAVE BEEN REPLACED. THIS ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Equinox owners report most",
+    "summary": "Across 784 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 271,
+        "crash": 3,
+        "fire": 6,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "HAVE OWNED MY CAR NOW FOR 6 MONTHS AND NOTHING BUT ISSUES. IT SEES THE DEALER MORE THEN I CAN ENJOY IT. IF ONE MORE UPDATE IS DONE AND I AM TOLD THE PROBLEM IS FIX AND REALLY IT ISN'T THEN MY FRUSTRATION WILL CONTINUE.    FROM THE OIL LEAK, TRANSMISSION DECLINE ROUGH, ENGINE NOIS",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "271 reports (35%) · 6 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 182,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "ON 09/04/09 I BOUGHT A NEW 2010 EQUINOX AND WITHIN 3,000 MILES I BEGAN EXPERIENCING SIGNIFICANT SHIFTING ISSUES AND ROUGH IDLING/STALLING AT STOPS.  ON 01/08/10 I WILL BE TAKING THE VEHICLE TO THE SERVICE SHOP FOR THE 4TH TIME IN 60 DAYS FOR THESE PROBLEMS.  VERY CONCERNING IS TH",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "182 reports (23%) · 1 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 132,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HELLO ON A FEW DIFFERENT OCCASIONS MY CENTER CONSOLE AS STOPPED FUNCTIONING MAKING IT IMPOSSIBLE TO TURN ON/OFF DEFROSTER, HEAT, ETC. I HAVE CALLED CHEVROLET ABOUT THIS PROBLEM BUT THEY TOLD ME IT IS NOT INCLUDED IN RECALL 09V489000. CAN SOMEONE PLEASE EXPLAIN WHY MY VEHICLE DOES",
+        "pct": 17,
+        "title": "Visibility/Wiper",
+        "blurb": "132 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 81,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY 2010 CHEVY EQUINOX LS STEERING WHEEL LOCKS UP WHILE DRIVING. THE ELECTRICAL ALSO SEEMS TO HAVE AN ISSUE WHERE THE RADIO WILL START FLASHING AND THE AIR BAG WARNING KEEPS COMING ON EVEN AFTER THEY HAVE STATED ALL OF THE ISSUES HAVE BEEN FIXED AND PARTS HAVE BEEN REPLACED. THIS ",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "81 reports (10%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 57,
+        "crash": 9,
+        "fire": 1,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "MY 2010 CHEVY EQUINOX LS STEERING WHEEL LOCKS UP WHILE DRIVING. THE ELECTRICAL ALSO SEEMS TO HAVE AN ISSUE WHERE THE RADIO WILL START FLASHING AND THE AIR BAG WARNING KEEPS COMING ON EVEN AFTER THEY HAVE STATED ALL OF THE ISSUES HAVE BEEN FIXED AND PARTS HAVE BEEN REPLACED. THIS ",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "57 reports (7%) · 1 fire · 9 crash · 15 injured"
+      }
+    ]
+  }
+}

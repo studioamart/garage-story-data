@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-07-19T23:55:33.071Z",
+  "total": 71,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AFTER PICKING UP THIS NEW VEHICLE DRIVING DOWN THE HWY THIS VEHICLE MADE A LOUD NOISE COMING FROM THE TRANSMISSION AREA.. SECONDS LATER THE VEHICLE LOCK UP AND  SENT ME INTO A SPIN.THE VEHICLE WOULD NOT GO INTO GEAR SO I CALLED A TOW TRUCK AND HAD THE VEHICLE TAKE TO THE DEALERSH",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER THE VEHICLE HIT 5,000 MILES, WE STARTED NOTICING A DECREASE IN OUR FUEL EFFICIENCY.  AROUND THAT SAME TIME IS WHEN WE ALSO BEGAN HAVING PROBLEMS WITH OUR TRANSMISSION. WHEN DRIVING AT LOW SPEEDS, BETWEEN 30 MPH AND 40 MPH, THE RPMS OSCILLATE UP TO +/- 250 RPMS.  BETWEEN THO",
+      "pct": 15
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD EXPEDITION. THE CONTACT STATED THAT WHEN THE  REAR DRIVER SIDE DOOR WAS AJAR, THE RETRACTABLE RUNNING BOARDS RETRACTED AND CAUSED A PASSENGER'S FOOT TO BE CUT BY THE RUNNING BOARDS. THE VEHICLE WAS NOT TAKEN TO THE DEALER, THE MANUFACTURER WAS NOT",
+      "pct": 14
+    },
+    {
+      "component": "SEATS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL -THE CONTACT OWNS A 2011 FORD EXPEDITION.  THE CONTACT STATED THAT THE ANGLE ON THE HEADREST WAS MAKING IT DIFFICULT FOR THE CONTACT TO POSITION HIMSELF COMFORTABLY WHILE DRIVING.  THE DEALER AND MANUFACTURER WERE NOTIFIED OF THE ISSUE BUT DID NOT ASSIST THE CONTACT. THE FAILU",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE WERE DRIVING ON 95 WHEN WE HEARD A THUD-TYPE NOISE. WE THOUGHT WE HAD A FLAT TIRE, BUT THEN THE VEHICLE WOULD NO LONGER ACCELERATE. WE WERE ABLE TO GET OFF AT THE EXIT THAT WAS IMMEDIATELY UPON US AND SAFELY PULL OFF ON THE SIDE OF THE ROAD. WE DID NOT HAVE ANY FLAT TIRES. THE",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Expedition owners report most",
+    "summary": "Across 71 owner complaints to NHTSA, the most reported area is Power Train (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AFTER PICKING UP THIS NEW VEHICLE DRIVING DOWN THE HWY THIS VEHICLE MADE A LOUD NOISE COMING FROM THE TRANSMISSION AREA.. SECONDS LATER THE VEHICLE LOCK UP AND  SENT ME INTO A SPIN.THE VEHICLE WOULD NOT GO INTO GEAR SO I CALLED A TOW TRUCK AND HAD THE VEHICLE TAKE TO THE DEALERSH",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "21 reports (30%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER THE VEHICLE HIT 5,000 MILES, WE STARTED NOTICING A DECREASE IN OUR FUEL EFFICIENCY.  AROUND THAT SAME TIME IS WHEN WE ALSO BEGAN HAVING PROBLEMS WITH OUR TRANSMISSION. WHEN DRIVING AT LOW SPEEDS, BETWEEN 30 MPH AND 40 MPH, THE RPMS OSCILLATE UP TO +/- 250 RPMS.  BETWEEN THO",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "11 reports (15%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD EXPEDITION. THE CONTACT STATED THAT WHEN THE  REAR DRIVER SIDE DOOR WAS AJAR, THE RETRACTABLE RUNNING BOARDS RETRACTED AND CAUSED A PASSENGER'S FOOT TO BE CUT BY THE RUNNING BOARDS. THE VEHICLE WAS NOT TAKEN TO THE DEALER, THE MANUFACTURER WAS NOT",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "10 reports (14%) · 1 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL -THE CONTACT OWNS A 2011 FORD EXPEDITION.  THE CONTACT STATED THAT THE ANGLE ON THE HEADREST WAS MAKING IT DIFFICULT FOR THE CONTACT TO POSITION HIMSELF COMFORTABLY WHILE DRIVING.  THE DEALER AND MANUFACTURER WERE NOTIFIED OF THE ISSUE BUT DID NOT ASSIST THE CONTACT. THE FAILU",
+        "pct": 11,
+        "title": "Seats",
+        "blurb": "8 reports (11%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE WERE DRIVING ON 95 WHEN WE HEARD A THUD-TYPE NOISE. WE THOUGHT WE HAD A FLAT TIRE, BUT THEN THE VEHICLE WOULD NO LONGER ACCELERATE. WE WERE ABLE TO GET OFF AT THE EXIT THAT WAS IMMEDIATELY UPON US AND SAFELY PULL OFF ON THE SIDE OF THE ROAD. WE DID NOT HAVE ANY FLAT TIRES. THE",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "7 reports (10%) · 1 fire"
+      }
+    ]
+  }
+}

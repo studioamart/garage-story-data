@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-aveo",
+  "make": "Chevrolet",
+  "model": "Aveo",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/AVEO#complaints",
+  "generatedAt": "2026-07-19T23:53:41.788Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2010 CHEVROLET AVEO. CONSUMER STATES PROBLEM WITH VEHICLE NOT HAVING POWER *TGW  SEVERAL MONTHS AFTER THE VEHICLE WAS PURCHASED, THE CONSUMER BEGAN EXPERIENCING SITUATIONS WHERE THERE WAS ABSOLUTELY NO POWER. SHE WOULD BE DRIVING DOWN THE ROAD, HIGHWAY OR INTERSTATE AND ALL OF A ",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE HIGHWAY WHEN THE ENGINE LIGHT CAME ON. THE VEHICLE RAN FOR A FEW MINUTES BEFORE IT STARTED LOSING POWER AND CHUGGING ALONG ON THE HIGHWAY.  WHEN I PULLED OFF, I HAD TO FLUTTER ON THE GAS TO KEEP THE CAR FROM STALLING AT THE STOP SIGN. TO MAKE IT HOME ON THE B",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010  CHEVROLET AVEO 5LT. THE CONTACT WAS DRIVING APPROXIMATELY 60 MPH WHEN THE VEHICLE INDEPENDENTLY DECELERATED TO 30 MPH. THE VEHICLE WAS INSPECTED BY A DEALER WHO INFORMED THE CONTACT THAT THE TRANSMISSION HAD LOST COMMUNICATION WITH THE VEHICLE, CAUSIN",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET AVEO. THE CONTACT STATED THAT WHILE DRIVING VARIOUS SPEEDS SHE FELL ASLEEP BEHIND THE WHEEL AND SWERVED OFF THE ROAD. AFTER REOPENING HER EYES AND TRYING TO GAIN CONTROL OF THE VEHICLE SHE CRASHED INTO A TREE ON THE ADJACENT SIDE OF THE ROAD. ",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET AVEO. WHILE DRIVING 66 MPH, THE CONTACT STATED THE CRUISE CONTROL WAS ACTIVATED. WHILE GOING UPHILL, THE GEAR MOVED TO SECOND GEAR AND THE VEHICLE SUDDENLY ACCELERATED. THE CONTACT HAD TO APPLY PRESSURE TO THE BRAKE PEDAL TO LOWER THE SPEED. ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Aveo owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2010 CHEVROLET AVEO. CONSUMER STATES PROBLEM WITH VEHICLE NOT HAVING POWER *TGW  SEVERAL MONTHS AFTER THE VEHICLE WAS PURCHASED, THE CONSUMER BEGAN EXPERIENCING SITUATIONS WHERE THERE WAS ABSOLUTELY NO POWER. SHE WOULD BE DRIVING DOWN THE ROAD, HIGHWAY OR INTERSTATE AND ALL OF A ",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "23 reports (35%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE HIGHWAY WHEN THE ENGINE LIGHT CAME ON. THE VEHICLE RAN FOR A FEW MINUTES BEFORE IT STARTED LOSING POWER AND CHUGGING ALONG ON THE HIGHWAY.  WHEN I PULLED OFF, I HAD TO FLUTTER ON THE GAS TO KEEP THE CAR FROM STALLING AT THE STOP SIGN. TO MAKE IT HOME ON THE B",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "16 reports (24%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010  CHEVROLET AVEO 5LT. THE CONTACT WAS DRIVING APPROXIMATELY 60 MPH WHEN THE VEHICLE INDEPENDENTLY DECELERATED TO 30 MPH. THE VEHICLE WAS INSPECTED BY A DEALER WHO INFORMED THE CONTACT THAT THE TRANSMISSION HAD LOST COMMUNICATION WITH THE VEHICLE, CAUSIN",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "9 reports (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET AVEO. THE CONTACT STATED THAT WHILE DRIVING VARIOUS SPEEDS SHE FELL ASLEEP BEHIND THE WHEEL AND SWERVED OFF THE ROAD. AFTER REOPENING HER EYES AND TRYING TO GAIN CONTROL OF THE VEHICLE SHE CRASHED INTO A TREE ON THE ADJACENT SIDE OF THE ROAD. ",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "9 reports (14%) · 8 crash · 8 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET AVEO. WHILE DRIVING 66 MPH, THE CONTACT STATED THE CRUISE CONTROL WAS ACTIVATED. WHILE GOING UPHILL, THE GEAR MOVED TO SECOND GEAR AND THE VEHICLE SUDDENLY ACCELERATED. THE CONTACT HAD TO APPLY PRESSURE TO THE BRAKE PEDAL TO LOWER THE SPEED. ",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "7 reports (11%)"
+      }
+    ]
+  }
+}

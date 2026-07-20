@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-07-19T23:52:23.257Z",
+  "total": 1509,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 768,
+      "crash": 13,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "2009 CHEVY MALIBU WITH 6 CYLINDER ENGINE. HAS A SEVERE AND SIGNIFICANT TORQUE STEER ON ACCELERATION (MOST NOTICEABLE FROM A STOP) CAUSING CAR TO DRAMATICALLY  AND DANGEROUSLY  PULL TO LEFT. HAS ALMOST CAUSED ACCIDENTS MORE THAN ONCE. .   IN ADDITION IT REQUIRES A LOT OF PRESSURE ",
+      "pct": 51
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 368,
+      "crash": 5,
+      "fire": 5,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "MY MALIBU 2009 HAS LOCKS OPENING AND CLOSING OFTEN WHEN DRIVING. REMAINING OPEN IS A BIG SAFETY CONCERN. MY DEALER AND GM PRETEND NOT TO HELP UNLESS THEY ARE IN CAR WHEN THEY SEE AND HEAR IT HAPPENING. MY SON ALSO HAS THE SAME PROBLEM ON HIS NEW MALIBU 2009. DESPERATE FOR HELP. W",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 255,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "HAVE TOLD THE DEALERSHIP OF THESE PROBLEMS WITH THE SERVICE AIRBAG AND SERVICE TRACTION.  ALSO I SENT AN EMAIL TO THE CHEVROLET HEADQUARTERS AND RECEIVED A CALL FROM THEM TELLING ME THAT IT WAS MY REPAIR NOT THEIR FAULT.  THIS PAST FRIDAY THE 20TH I TOOK THE CAR AGAIN TO THE DEAL",
+      "pct": 17
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 172,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ALTHOUGH THERE HAS NOT BEEN AN ACCIDENT YET, DUE TO THE DESIGN OF THE CARS HEADLIGHTS, AND TAIL LIGHTS, (AND THE REMOVAL OF THE SIDE REPEATER LAMP FOR TURN SIGNAL INDICATION ON THE 2009 MODEL YEAR MALIBU), THERE IS NO VISIBLE TURN INDICATOR FOR OTHER DRIVERS TO SEE INDICATION OF ",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 152,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 2,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET MALIBU. WHILE DRIVING APPROXIMATELY 35 MPH HE TRIED TO ACTIVATE THE ABS BUT THE VEHICLE DID NOT STOP AND PROCEEDED THROUGH A TRAFFIC LIGHT.  HE TOOK THE VEHICLE TO THE DEALER WHO STATED THAT HE NEEDED A NEW MASTER CYLINDER FOR THE BRAKING SYST",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Malibu owners report most",
+    "summary": "Across 1,509 owner complaints to NHTSA, the most reported area is Steering (51% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 768,
+        "crash": 13,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "2009 CHEVY MALIBU WITH 6 CYLINDER ENGINE. HAS A SEVERE AND SIGNIFICANT TORQUE STEER ON ACCELERATION (MOST NOTICEABLE FROM A STOP) CAUSING CAR TO DRAMATICALLY  AND DANGEROUSLY  PULL TO LEFT. HAS ALMOST CAUSED ACCIDENTS MORE THAN ONCE. .   IN ADDITION IT REQUIRES A LOT OF PRESSURE ",
+        "pct": 51,
+        "title": "Steering",
+        "blurb": "768 reports (51%) · 1 fire · 13 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 368,
+        "crash": 5,
+        "fire": 5,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "MY MALIBU 2009 HAS LOCKS OPENING AND CLOSING OFTEN WHEN DRIVING. REMAINING OPEN IS A BIG SAFETY CONCERN. MY DEALER AND GM PRETEND NOT TO HELP UNLESS THEY ARE IN CAR WHEN THEY SEE AND HEAR IT HAPPENING. MY SON ALSO HAS THE SAME PROBLEM ON HIS NEW MALIBU 2009. DESPERATE FOR HELP. W",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "368 reports (24%) · 5 fire · 5 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 255,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "HAVE TOLD THE DEALERSHIP OF THESE PROBLEMS WITH THE SERVICE AIRBAG AND SERVICE TRACTION.  ALSO I SENT AN EMAIL TO THE CHEVROLET HEADQUARTERS AND RECEIVED A CALL FROM THEM TELLING ME THAT IT WAS MY REPAIR NOT THEIR FAULT.  THIS PAST FRIDAY THE 20TH I TOOK THE CAR AGAIN TO THE DEAL",
+        "pct": 17,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "255 reports (17%) · 1 fire · 5 crash · 3 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 172,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ALTHOUGH THERE HAS NOT BEEN AN ACCIDENT YET, DUE TO THE DESIGN OF THE CARS HEADLIGHTS, AND TAIL LIGHTS, (AND THE REMOVAL OF THE SIDE REPEATER LAMP FOR TURN SIGNAL INDICATION ON THE 2009 MODEL YEAR MALIBU), THERE IS NO VISIBLE TURN INDICATOR FOR OTHER DRIVERS TO SEE INDICATION OF ",
+        "pct": 11,
+        "title": "Exterior Lighting",
+        "blurb": "172 reports (11%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 152,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 2,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET MALIBU. WHILE DRIVING APPROXIMATELY 35 MPH HE TRIED TO ACTIVATE THE ABS BUT THE VEHICLE DID NOT STOP AND PROCEEDED THROUGH A TRAFFIC LIGHT.  HE TOOK THE VEHICLE TO THE DEALER WHO STATED THAT HE NEEDED A NEW MASTER CYLINDER FOR THE BRAKING SYST",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "152 reports (10%) · 3 crash · 5 injured"
+      }
+    ]
+  }
+}

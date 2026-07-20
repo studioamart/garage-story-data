@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-07-19T23:58:17.983Z",
+  "total": 2743,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1264,
+      "crash": 8,
+      "fire": 66,
+      "injuries": 14,
+      "deaths": 0,
+      "sample": "MY 2013 FORD ESCAPE, 1.6 LITER ENGINE, HAD  3 RECALLS, (TWO WERE ENGINE FIRE RELATED). ALL 3 RECALL REPAIRS WERE DONE BY THE LOCAL FORD DEALER, SALEM, VA. WE PICKED VEHICLE UP AFTER THIRD RECALL WORK HAD BEEN DONE ON 9/17/12. WE ASSUMED THE RECALL WORK WAS DONE CORRECTLY, AND THA",
+      "pct": 46
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 400,
+      "crash": 10,
+      "fire": 7,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "THERE IS AN ACCELERATION LAG ON PARTIAL THROTTLE.  THIS MAINLY OCCURS WHEN STARTING THE VEHICLE OR WHEN ACCELERATING AFTER A TURN.  WHEN NO ACCELERATION IS FELT, THE THROTTLE PEDAL IS DEPRESSED FURTHER AND, AFTER A DELAY, THE VEHICLE TAKES OFF LIKE A ROCKET.  WHEN DRIVING THE VEH",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 340,
+      "crash": 3,
+      "fire": 15,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "NUMEROUS FAULTS WITH RADIO AND NAVIGATION SYSTEM PART OF MYFORDTOUCH SYSTEM.  THE RADIO WILL COME ON BY ITSELF AND WILL NOT SHUT OFF. THIS USUALLY OCCURS WHEN A CELL PHONE IS IN USE AND CONNECTS OR DISCONNECTS VIA BLUETOOTH WHEN THE CAR IS STARTED OR TURNED OFF. WHEN THIS FAULT O",
+      "pct": 12
+    },
+    {
+      "component": "STEERING",
+      "count": 302,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD ESCAPE. THE CONTACT STATE THAT WHILE DRIVING 15 MPH, THE POWER STEERING ASSIST FAILED, CAUSING THE CONTACT TO CRASH INTO AN UNDISCLOSED OBJECT. THE CONTACT WAS NOT INJURED. A POLICE REPORT WAS NOT FILED. THE VEHICLE WAS TOWED TO THE DEALER WHERE T",
+      "pct": 11
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 247,
+      "crash": 1,
+      "fire": 13,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "MY 2013 FORD ESCAPE, 1.6 LITER ENGINE, HAD  3 RECALLS, (TWO WERE ENGINE FIRE RELATED). ALL 3 RECALL REPAIRS WERE DONE BY THE LOCAL FORD DEALER, SALEM, VA. WE PICKED VEHICLE UP AFTER THIRD RECALL WORK HAD BEEN DONE ON 9/17/12. WE ASSUMED THE RECALL WORK WAS DONE CORRECTLY, AND THA",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Escape owners report most",
+    "summary": "Across 2,743 owner complaints to NHTSA, the most reported area is Engine (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1264,
+        "crash": 8,
+        "fire": 66,
+        "injuries": 14,
+        "deaths": 0,
+        "sample": "MY 2013 FORD ESCAPE, 1.6 LITER ENGINE, HAD  3 RECALLS, (TWO WERE ENGINE FIRE RELATED). ALL 3 RECALL REPAIRS WERE DONE BY THE LOCAL FORD DEALER, SALEM, VA. WE PICKED VEHICLE UP AFTER THIRD RECALL WORK HAD BEEN DONE ON 9/17/12. WE ASSUMED THE RECALL WORK WAS DONE CORRECTLY, AND THA",
+        "pct": 46,
+        "title": "Engine",
+        "blurb": "1,264 reports (46%) · 66 fire · 8 crash · 14 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 400,
+        "crash": 10,
+        "fire": 7,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "THERE IS AN ACCELERATION LAG ON PARTIAL THROTTLE.  THIS MAINLY OCCURS WHEN STARTING THE VEHICLE OR WHEN ACCELERATING AFTER A TURN.  WHEN NO ACCELERATION IS FELT, THE THROTTLE PEDAL IS DEPRESSED FURTHER AND, AFTER A DELAY, THE VEHICLE TAKES OFF LIKE A ROCKET.  WHEN DRIVING THE VEH",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "400 reports (15%) · 7 fire · 10 crash · 12 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 340,
+        "crash": 3,
+        "fire": 15,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "NUMEROUS FAULTS WITH RADIO AND NAVIGATION SYSTEM PART OF MYFORDTOUCH SYSTEM.  THE RADIO WILL COME ON BY ITSELF AND WILL NOT SHUT OFF. THIS USUALLY OCCURS WHEN A CELL PHONE IS IN USE AND CONNECTS OR DISCONNECTS VIA BLUETOOTH WHEN THE CAR IS STARTED OR TURNED OFF. WHEN THIS FAULT O",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "340 reports (12%) · 15 fire · 3 crash · 7 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 302,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD ESCAPE. THE CONTACT STATE THAT WHILE DRIVING 15 MPH, THE POWER STEERING ASSIST FAILED, CAUSING THE CONTACT TO CRASH INTO AN UNDISCLOSED OBJECT. THE CONTACT WAS NOT INJURED. A POLICE REPORT WAS NOT FILED. THE VEHICLE WAS TOWED TO THE DEALER WHERE T",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "302 reports (11%) · 5 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 247,
+        "crash": 1,
+        "fire": 13,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "MY 2013 FORD ESCAPE, 1.6 LITER ENGINE, HAD  3 RECALLS, (TWO WERE ENGINE FIRE RELATED). ALL 3 RECALL REPAIRS WERE DONE BY THE LOCAL FORD DEALER, SALEM, VA. WE PICKED VEHICLE UP AFTER THIRD RECALL WORK HAD BEEN DONE ON 9/17/12. WE ASSUMED THE RECALL WORK WAS DONE CORRECTLY, AND THA",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "247 reports (9%) · 13 fire · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

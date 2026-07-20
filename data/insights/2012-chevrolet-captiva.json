@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-captiva",
+  "make": "Chevrolet",
+  "model": "Captiva",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/CAPTIVA#complaints",
+  "generatedAt": "2026-07-19T23:56:40.435Z",
+  "total": 145,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 89,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I BOUGHT THE SUV IN DEC. 2013.  SINCE THIS TIME THE CAR HAS FAILED TO START TWICE.  EACH TIME I HAD THE BATTERY BOOST AND THE CAR STARTED. I HAVE TAKEN THE TRUCK INTO MUNDAY CHEVERLOT. CHEVY AUTO MECHANICS AND OTHERS HAVE SAID MY BATTERY IS GOOD AND THEY DO NOT KNOW WHY THIS IS H",
+      "pct": 61
+    },
+    {
+      "component": "ENGINE",
+      "count": 38,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAPTIVA. THE CONTACT STATED THAT WHILE PULLING INTO A PARKING SPACE, THE KEY FAILED TO DISENGAGE FROM THE IGNITION SWITCH AFTER THE VEHICLE WAS TURNED OFF. THE CONTACT STATED THAT THE RADIO WOULD SHUT OFF AND THE PARKING BREAK WARNING INDICAT",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAPTIVA SPORT. WHILE DRIVING VARIOUS SPEEDS, THE TRACTION CONTROL AND SERVICE STABILITY TRACK INDICATORS ILLUMINATED. THE DEALER COULD NOT DIAGNOSE THE CAUSE OF THE FAILURE. THE MANUFACTURER WAS NOT NOTIFIED. THE VIN WAS UNAVAILABLE. THE APPR",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAPTIVA. THE CONTACT STATED THAT WHILE OPERATING THE VEHICLE, THE EMERGENCY PARKING SIGNAL LIGHT WOULD SUDDENLY ILLUMINATE BEFORE THE VEHICLE SLOWED DOWN AND STALLED. THE VEHICLE WAS TAKEN TO THE DEALER JIM LUPIENT CHEVROLET LOCATED IN BLOOMI",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR WAS DRIVING FINE WENT INTO A STORE CAME OUT KEYLESS ENTRY WOULD NOT WORK, OPENED DOOR WITH KEY AND CAR WOULD NOT START.  CALLED FOR A JUMP BUT BEFORE THE PERSON CAME THE CAR STARTED OUT OF THE BLUE. I NEVER ATTEMPTED TO START THE CAR AGAIN BUT HAD INADVERTENTLY LEFT THE SWITC",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Captiva owners report most",
+    "summary": "Across 145 owner complaints to NHTSA, the most reported area is Electrical System (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 89,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I BOUGHT THE SUV IN DEC. 2013.  SINCE THIS TIME THE CAR HAS FAILED TO START TWICE.  EACH TIME I HAD THE BATTERY BOOST AND THE CAR STARTED. I HAVE TAKEN THE TRUCK INTO MUNDAY CHEVERLOT. CHEVY AUTO MECHANICS AND OTHERS HAVE SAID MY BATTERY IS GOOD AND THEY DO NOT KNOW WHY THIS IS H",
+        "pct": 61,
+        "title": "Electrical System",
+        "blurb": "89 reports (61%) · 1 fire · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 38,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAPTIVA. THE CONTACT STATED THAT WHILE PULLING INTO A PARKING SPACE, THE KEY FAILED TO DISENGAGE FROM THE IGNITION SWITCH AFTER THE VEHICLE WAS TURNED OFF. THE CONTACT STATED THAT THE RADIO WOULD SHUT OFF AND THE PARKING BREAK WARNING INDICAT",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "38 reports (26%) · 1 fire · 3 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAPTIVA SPORT. WHILE DRIVING VARIOUS SPEEDS, THE TRACTION CONTROL AND SERVICE STABILITY TRACK INDICATORS ILLUMINATED. THE DEALER COULD NOT DIAGNOSE THE CAUSE OF THE FAILURE. THE MANUFACTURER WAS NOT NOTIFIED. THE VIN WAS UNAVAILABLE. THE APPR",
+        "pct": 14,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "20 reports (14%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAPTIVA. THE CONTACT STATED THAT WHILE OPERATING THE VEHICLE, THE EMERGENCY PARKING SIGNAL LIGHT WOULD SUDDENLY ILLUMINATE BEFORE THE VEHICLE SLOWED DOWN AND STALLED. THE VEHICLE WAS TAKEN TO THE DEALER JIM LUPIENT CHEVROLET LOCATED IN BLOOMI",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "12 reports (8%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR WAS DRIVING FINE WENT INTO A STORE CAME OUT KEYLESS ENTRY WOULD NOT WORK, OPENED DOOR WITH KEY AND CAR WOULD NOT START.  CALLED FOR A JUMP BUT BEFORE THE PERSON CAME THE CAR STARTED OUT OF THE BLUE. I NEVER ATTEMPTED TO START THE CAR AGAIN BUT HAD INADVERTENTLY LEFT THE SWITC",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "9 reports (6%)"
+      }
+    ]
+  }
+}

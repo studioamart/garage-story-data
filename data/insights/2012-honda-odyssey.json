@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-07-19T23:49:07.797Z",
+  "total": 241,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 60,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I BOUGHT A BRAND NEW '12 ODYSSEY EXL-NAV (5-SPEED AUTOMATIC TRANSMISSION) AND FROM THE DAY I PICKED IT UP, I NOTICED A SHUDDERING WHEN THE TRANSMISSION WAS AT A SHIFT POINT, ESPECIALLY FROM 2ND TO 3RD AND 3RD TO 4TH.  I AM SUBMITTING THIS COMPLAINT BECAUSE I SEE A REGISTERED COMP",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 39,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "WE BOUGHT THIS VEHICLE WITH MY AUNT[XXX] FOR OUR FAMILY,   WE WERE BREAKING IT IN AROUND 400 PLUS MILES AND WE NOTICE THERE IS A VIBRATION WHEN THE VCM OR VARIABLE CYLINDER MANAGEMENT TURNS ON. SO WE TOOK IT A THE DEALERSHIP WE BOUGHT IT FROM WHICH IS NORM REEVES HONDA IN WEST CO",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "PULLING ONTO FREEWAY AND DASH LIGHTS FLASHED THEN MOTOR QUIT COMPLETELY. COASTED TO STOP ON SHOULDER WITH VERY LITTLE BRAKE POWER LEFT. VEHICLE WOULD NOT EVEN TURN ON - COMPLETE VEHICLE FAILURE. HAD IT TOWED ONCE AGAIN TO DEALER SAID A FAULTY OR SHORTED GROUND WIRE. HAVE NOT PICK",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 25,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "WIND NOISE ACROSS THE WINDSHIELD IS SIGNIFICANT AND ALSO AIR LEAK ON DRIVER SIDE WINDOW; DEALER PUT IN NEW DOOR SEAL, BUT THIS DID NOT HELP. THEY SAID THEY KNOW OF THE COMPLAINTS AND HAD NO FIX FOR IT. IN DEC OF  2012, ONE YEAR AFTER I FIRST STARTED TO COMPLAIN, THEN CONTACTED CO",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA ODYSSEY. THE CONTACT STATED THAT THE TRANSMISSION WOULD EMIT A SHUTTERING SOUND WHILE DRIVING APPROXIMATELY 20 MPH. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER AND THE CONTACT WAS INFORMED THAT THE VEHICLE WAS PERFORMING TO SPECIFICATIONS. THE ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Odyssey owners report most",
+    "summary": "Across 241 owner complaints to NHTSA, the most reported area is Service Brakes (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 60,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I BOUGHT A BRAND NEW '12 ODYSSEY EXL-NAV (5-SPEED AUTOMATIC TRANSMISSION) AND FROM THE DAY I PICKED IT UP, I NOTICED A SHUDDERING WHEN THE TRANSMISSION WAS AT A SHIFT POINT, ESPECIALLY FROM 2ND TO 3RD AND 3RD TO 4TH.  I AM SUBMITTING THIS COMPLAINT BECAUSE I SEE A REGISTERED COMP",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "60 reports (25%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 39,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "WE BOUGHT THIS VEHICLE WITH MY AUNT[XXX] FOR OUR FAMILY,   WE WERE BREAKING IT IN AROUND 400 PLUS MILES AND WE NOTICE THERE IS A VIBRATION WHEN THE VCM OR VARIABLE CYLINDER MANAGEMENT TURNS ON. SO WE TOOK IT A THE DEALERSHIP WE BOUGHT IT FROM WHICH IS NORM REEVES HONDA IN WEST CO",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "39 reports (16%) · 3 fire · 1 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "PULLING ONTO FREEWAY AND DASH LIGHTS FLASHED THEN MOTOR QUIT COMPLETELY. COASTED TO STOP ON SHOULDER WITH VERY LITTLE BRAKE POWER LEFT. VEHICLE WOULD NOT EVEN TURN ON - COMPLETE VEHICLE FAILURE. HAD IT TOWED ONCE AGAIN TO DEALER SAID A FAULTY OR SHORTED GROUND WIRE. HAVE NOT PICK",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "33 reports (14%) · 4 fire · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 25,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "WIND NOISE ACROSS THE WINDSHIELD IS SIGNIFICANT AND ALSO AIR LEAK ON DRIVER SIDE WINDOW; DEALER PUT IN NEW DOOR SEAL, BUT THIS DID NOT HELP. THEY SAID THEY KNOW OF THE COMPLAINTS AND HAD NO FIX FOR IT. IN DEC OF  2012, ONE YEAR AFTER I FIRST STARTED TO COMPLAIN, THEN CONTACTED CO",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "25 reports (10%) · 2 crash · 6 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA ODYSSEY. THE CONTACT STATED THAT THE TRANSMISSION WOULD EMIT A SHUTTERING SOUND WHILE DRIVING APPROXIMATELY 20 MPH. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER AND THE CONTACT WAS INFORMED THAT THE VEHICLE WAS PERFORMING TO SPECIFICATIONS. THE ",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "24 reports (10%)"
+      }
+    ]
+  }
+}

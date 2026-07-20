@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-fusion",
+  "make": "Ford",
+  "model": "Fusion",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/FUSION#complaints",
+  "generatedAt": "2026-07-19T23:54:32.221Z",
+  "total": 5124,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1657,
+      "crash": 32,
+      "fire": 1,
+      "injuries": 19,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 FORD FUSION. THE CONTACT STATED WHEN APPLYING THE BRAKES FROM ANY SPEED, THE STEERING WHEEL WOULD SLIGHTLY TURN TO THE RIGHT. THE VEHICLE WAS NOT DIAGNOSED AND THE CONTACT STATED HE NOTICED THAT FAILURE SINCE PURCHASING THE VEHICLE. THE CURRENT AND FAI",
+      "pct": 32
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 894,
+      "crash": 8,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 FORD FUSION. WHEN ACCELERATING UPHILL, THE VEHICLE ROLLED BACKWARDS. AS A CONSEQUENCE, HIS RISK FOR A VEHICLE CRASH WAS INCREASED. THE VEHICLE HAS NOT BEEN INSPECTED TO DETERMINE THE CAUSE OF THE FAILURE; HOWEVER, HE IS CONCERNED THAT THE TRANSMISSION H",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 793,
+      "crash": 21,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "FORD FUSION 2010 S - WHEN THE BRAKE WAS DEPRESSED THE CAR ACCELERATED UNTIL I DEPRESSED A SECOND TIME MUCH HARDER.  THE CONSUMER FIRST BEGAN TO NOTICE THE VEHICLE WOULD INTERMITTENTLY NOT START IN AUGUST. HE TOOK THE VEHICLE TO THE DEALER, BUT THEY WERE UNABLE TO DUPLICATE THE PR",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 700,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON 5/12/12 COMING HOME FROM A SOFTBALL TOURNAMENT WITH THE CRUISE ON AT AROUND 65 MPH THE YELLOW WRENCH LIGHT CAME ON.  ENGINE WAS STILL RUNNING BUT COULD NOT ACCELERATE.  COASTED INTO A CHURCH PARKING LOT.  PUT THE CAR IN PARK AND RESTARTED.  WHEN RESTARTING SEEMED HARD TO START",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 590,
+      "crash": 27,
+      "fire": 1,
+      "injuries": 27,
+      "deaths": 0,
+      "sample": "I BOUGHT A FORD FUSION 2010, JAN 6, SERVICETRACK LIGHT STAYS ON, DID NOT DRIVE.   JAN 8 , SEND TO DEALER, DEALER SAID RCM(MODULE CONTROLS AIRBAG,ETC) IS NOT WORKING,ORDER RCM FROM FORD. THEY REPLACED THE RCM FOR THE NEW CAR, AND I NOTICED THAT \"SERVICEADVANSETRAC \"  PROMPT USER A",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Fusion owners report most",
+    "summary": "Across 5,124 owner complaints to NHTSA, the most reported area is Steering (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1657,
+        "crash": 32,
+        "fire": 1,
+        "injuries": 19,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 FORD FUSION. THE CONTACT STATED WHEN APPLYING THE BRAKES FROM ANY SPEED, THE STEERING WHEEL WOULD SLIGHTLY TURN TO THE RIGHT. THE VEHICLE WAS NOT DIAGNOSED AND THE CONTACT STATED HE NOTICED THAT FAILURE SINCE PURCHASING THE VEHICLE. THE CURRENT AND FAI",
+        "pct": 32,
+        "title": "Steering",
+        "blurb": "1,657 reports (32%) · 1 fire · 32 crash · 19 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 894,
+        "crash": 8,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 FORD FUSION. WHEN ACCELERATING UPHILL, THE VEHICLE ROLLED BACKWARDS. AS A CONSEQUENCE, HIS RISK FOR A VEHICLE CRASH WAS INCREASED. THE VEHICLE HAS NOT BEEN INSPECTED TO DETERMINE THE CAUSE OF THE FAILURE; HOWEVER, HE IS CONCERNED THAT THE TRANSMISSION H",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "894 reports (17%) · 1 fire · 8 crash · 4 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 793,
+        "crash": 21,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "FORD FUSION 2010 S - WHEN THE BRAKE WAS DEPRESSED THE CAR ACCELERATED UNTIL I DEPRESSED A SECOND TIME MUCH HARDER.  THE CONSUMER FIRST BEGAN TO NOTICE THE VEHICLE WOULD INTERMITTENTLY NOT START IN AUGUST. HE TOOK THE VEHICLE TO THE DEALER, BUT THEY WERE UNABLE TO DUPLICATE THE PR",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "793 reports (15%) · 1 fire · 21 crash · 8 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 700,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON 5/12/12 COMING HOME FROM A SOFTBALL TOURNAMENT WITH THE CRUISE ON AT AROUND 65 MPH THE YELLOW WRENCH LIGHT CAME ON.  ENGINE WAS STILL RUNNING BUT COULD NOT ACCELERATE.  COASTED INTO A CHURCH PARKING LOT.  PUT THE CAR IN PARK AND RESTARTED.  WHEN RESTARTING SEEMED HARD TO START",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "700 reports (14%) · 1 fire · 6 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 590,
+        "crash": 27,
+        "fire": 1,
+        "injuries": 27,
+        "deaths": 0,
+        "sample": "I BOUGHT A FORD FUSION 2010, JAN 6, SERVICETRACK LIGHT STAYS ON, DID NOT DRIVE.   JAN 8 , SEND TO DEALER, DEALER SAID RCM(MODULE CONTROLS AIRBAG,ETC) IS NOT WORKING,ORDER RCM FROM FORD. THEY REPLACED THE RCM FOR THE NEW CAR, AND I NOTICED THAT \"SERVICEADVANSETRAC \"  PROMPT USER A",
+        "pct": 12,
+        "title": "Air Bags",
+        "blurb": "590 reports (12%) · 1 fire · 27 crash · 27 injured"
+      }
+    ]
+  }
+}

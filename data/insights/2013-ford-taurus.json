@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/TAURUS#complaints",
+  "generatedAt": "2026-07-19T23:58:57.816Z",
+  "total": 587,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 294,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "ENTERING STREET FROM PARKING AREA, POWER STEERING ASSIST FAILED. WARNING ON DASH STATED ELECTRONIC STEERING FAILED. WITH DIFFICULTY, STEERED CAR TO SIDE OF ROAD. TURNED CAR OFF. WHEN CAR RESTARTED, FAILURE SELF CORRECTED. APPEARS TO BE FAILURE OF COMPUTER CONTROL OF ELECTRONIC ST",
+      "pct": 50
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 98,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD TAURUS. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 13V227000 (FUEL SYSTEM, GASOLINE) AND THE VEHICLE WAS TAKEN THE DEALER FOR RECALL SERVICE HOWEVER, THE CONTACT WAS DENIED THE RECALL REPAIR. THE DEALER STATED THAT THEY WOULD ONLY",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 70,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I DROVE MY 2013 FORD TAURUS APPROXIMATELY 4 MILES TO MY HOME. AFTER CUTTING THE CAR OFF I NOTICED SMOKE BILLOWING FROM UNDER THE HOOD. I RESTARTED THE CAR TO BACK OUT FROM UNDER MY CARPORT. I CUT THE CAR OFF AND WITHIN SECONDS THE CAR WAS ENGULFED IN FLAMES CAUSING A TOTAL LOSS. ",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 57,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON SEPTEMBER 14, 2012 WE PURCHASED THE ABOVE DESCRIBED VEHICLE FROM LUMBERTON FORD LINCOLN, LUMBERTON, NC 28360. AMONG SEVERAL THINGS WRONG WE DISCOVERED THE REVERSE SENSOR SYSTEM IS INADEQUATE. THE ALARM IS NOT AUDIBLE IN THE CABIN OF THE VEHICLE IS THERE IS NORMAL CONVERSATION/",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 44,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "ON SATURDAY, AUG 17TH, OUR 2013 FORD TAURUS POLICE INTERCEPTOR (SEDAN) VIN:[XXX] WAS STOPPED AT A PLACE OF BUSINESS AND TURNED OFF.  INITIALLY, THE VEHICLE WOULD NOT RESTART.  AFTER A FEW MINUTES THE VEHICLE STARTED BUT WOULD NOT MOVE.  THE VEHICLE WAS REMOVED FROM THE PREMISES B",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Taurus owners report most",
+    "summary": "Across 587 owner complaints to NHTSA, the most reported area is Steering (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 294,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "ENTERING STREET FROM PARKING AREA, POWER STEERING ASSIST FAILED. WARNING ON DASH STATED ELECTRONIC STEERING FAILED. WITH DIFFICULTY, STEERED CAR TO SIDE OF ROAD. TURNED CAR OFF. WHEN CAR RESTARTED, FAILURE SELF CORRECTED. APPEARS TO BE FAILURE OF COMPUTER CONTROL OF ELECTRONIC ST",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "294 reports (50%) · 1 fire · 7 crash · 9 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 98,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD TAURUS. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 13V227000 (FUEL SYSTEM, GASOLINE) AND THE VEHICLE WAS TAKEN THE DEALER FOR RECALL SERVICE HOWEVER, THE CONTACT WAS DENIED THE RECALL REPAIR. THE DEALER STATED THAT THEY WOULD ONLY",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "98 reports (17%) · 2 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 70,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I DROVE MY 2013 FORD TAURUS APPROXIMATELY 4 MILES TO MY HOME. AFTER CUTTING THE CAR OFF I NOTICED SMOKE BILLOWING FROM UNDER THE HOOD. I RESTARTED THE CAR TO BACK OUT FROM UNDER MY CARPORT. I CUT THE CAR OFF AND WITHIN SECONDS THE CAR WAS ENGULFED IN FLAMES CAUSING A TOTAL LOSS. ",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "70 reports (12%) · 2 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 57,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON SEPTEMBER 14, 2012 WE PURCHASED THE ABOVE DESCRIBED VEHICLE FROM LUMBERTON FORD LINCOLN, LUMBERTON, NC 28360. AMONG SEVERAL THINGS WRONG WE DISCOVERED THE REVERSE SENSOR SYSTEM IS INADEQUATE. THE ALARM IS NOT AUDIBLE IN THE CABIN OF THE VEHICLE IS THERE IS NORMAL CONVERSATION/",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "57 reports (10%) · 3 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 44,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "ON SATURDAY, AUG 17TH, OUR 2013 FORD TAURUS POLICE INTERCEPTOR (SEDAN) VIN:[XXX] WAS STOPPED AT A PLACE OF BUSINESS AND TURNED OFF.  INITIALLY, THE VEHICLE WOULD NOT RESTART.  AFTER A FEW MINUTES THE VEHICLE STARTED BUT WOULD NOT MOVE.  THE VEHICLE WAS REMOVED FROM THE PREMISES B",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "44 reports (7%) · 1 crash · 4 injured"
+      }
+    ]
+  }
+}

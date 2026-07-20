@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-volt",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/VOLT#complaints",
+  "generatedAt": "2026-07-19T23:55:18.840Z",
+  "total": 49,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 23,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "OUR VOLT WAS LEFT OVERNIGHT TO CHARGE USING THE SUPPLIED 120V LEVEL ONE CHARGE CORD THAT COMES WITH THE VEHICLE (THEREFORE I CONSIDER IT PART OF THE VEHICLE.) IN THE MORNING THE VEHICLE WAS NOT CHARGED -- AT SOME POINT DURING THE NIGHT THE CHARGE FAILED AFTER THE BATTERY ACCUMULA",
+      "pct": 47
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CAR HAS PROCEEDED TO HAVE MULTIPLE ISSUES, WITH THE MOST PREDOMINANT AND LIFE THREATENING ISSUE BEING AN AIRBAG FAILURE...TWICE.  OTHER ISSUES: RADIO, DOOR LOCKS, AND PARK ASSIST ENGAGE/DISENGAGE ON THEIR OWN. BRAKES NOT CATCHING CAUSING CAR TO ROLL.  POWER FAILURE AND WON'T ",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY FIRST PROBLEMS I EXPERIENCE WITH THE 2011 CHEVY VOLT WAS AROUND OCTOBER, 2014. WHEN DRIVING ON THE HIGHWAY AT HIGHWAY SPEED, I RECEIVED A \"PROPULSION POWER REDUCED\" INDICATION ON MY DASHBOARD AND I WAS NOT ABLE TO KEEP UP WITH HIGHWAY TRAFFIC WHICH RESULTED IN A HAZARD FOR MYS",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2011 VOLT FREQUENTLY SHOWS \"PROPULSION POWER REDUCED\" AFTER THE BATTERY HAS BEEN DEPLETED AND ON RESTART.  THIS AFFECTS PERFORMANCE, ACCELERATION AND THUS SAFETY FOR SEVERAL MINUTES UNTIL THE SYSTEM REBALANCES ITSELF. THIS CONDITION BEGAN BACK IN 2015 SEVERAL YEARS AGO BUT IS ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CAR HAS PROCEEDED TO HAVE MULTIPLE ISSUES, WITH THE MOST PREDOMINANT AND LIFE THREATENING ISSUE BEING AN AIRBAG FAILURE...TWICE.  OTHER ISSUES: RADIO, DOOR LOCKS, AND PARK ASSIST ENGAGE/DISENGAGE ON THEIR OWN. BRAKES NOT CATCHING CAUSING CAR TO ROLL.  POWER FAILURE AND WON'T ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Volt owners report most",
+    "summary": "Across 49 owner complaints to NHTSA, the most reported area is Electrical System (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 23,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "OUR VOLT WAS LEFT OVERNIGHT TO CHARGE USING THE SUPPLIED 120V LEVEL ONE CHARGE CORD THAT COMES WITH THE VEHICLE (THEREFORE I CONSIDER IT PART OF THE VEHICLE.) IN THE MORNING THE VEHICLE WAS NOT CHARGED -- AT SOME POINT DURING THE NIGHT THE CHARGE FAILED AFTER THE BATTERY ACCUMULA",
+        "pct": 47,
+        "title": "Electrical System",
+        "blurb": "23 reports (47%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CAR HAS PROCEEDED TO HAVE MULTIPLE ISSUES, WITH THE MOST PREDOMINANT AND LIFE THREATENING ISSUE BEING AN AIRBAG FAILURE...TWICE.  OTHER ISSUES: RADIO, DOOR LOCKS, AND PARK ASSIST ENGAGE/DISENGAGE ON THEIR OWN. BRAKES NOT CATCHING CAUSING CAR TO ROLL.  POWER FAILURE AND WON'T ",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "8 reports (16%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY FIRST PROBLEMS I EXPERIENCE WITH THE 2011 CHEVY VOLT WAS AROUND OCTOBER, 2014. WHEN DRIVING ON THE HIGHWAY AT HIGHWAY SPEED, I RECEIVED A \"PROPULSION POWER REDUCED\" INDICATION ON MY DASHBOARD AND I WAS NOT ABLE TO KEEP UP WITH HIGHWAY TRAFFIC WHICH RESULTED IN A HAZARD FOR MYS",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2011 VOLT FREQUENTLY SHOWS \"PROPULSION POWER REDUCED\" AFTER THE BATTERY HAS BEEN DEPLETED AND ON RESTART.  THIS AFFECTS PERFORMANCE, ACCELERATION AND THUS SAFETY FOR SEVERAL MINUTES UNTIL THE SYSTEM REBALANCES ITSELF. THIS CONDITION BEGAN BACK IN 2015 SEVERAL YEARS AGO BUT IS ",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "4 reports (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CAR HAS PROCEEDED TO HAVE MULTIPLE ISSUES, WITH THE MOST PREDOMINANT AND LIFE THREATENING ISSUE BEING AN AIRBAG FAILURE...TWICE.  OTHER ISSUES: RADIO, DOOR LOCKS, AND PARK ASSIST ENGAGE/DISENGAGE ON THEIR OWN. BRAKES NOT CATCHING CAUSING CAR TO ROLL.  POWER FAILURE AND WON'T ",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "3 reports (6%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

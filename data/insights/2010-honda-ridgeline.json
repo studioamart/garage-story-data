@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-07-19T23:48:43.912Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I AM REPORTING UNWANTED, EXCESSIVE ACCELERATION FOR MY 2010 HONDA RIDGELINE. AFTER TURNING INTO A PARKING LOT, I WAS EASING INTO MY DESIRED PARKING SPACE AND, SINCE THERE WAS A SLIGHT INCLINE, I LIGHTLY PRESSED THE ACCELERATOR TO INCH FURTHER INTO THE SPACE. ALL OF A SUDDEN, TO M",
+      "pct": 43
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON MARCH 30, 2013. WHILE DRIVING OUT OF TOWN DURING A HEAVY RAIN STORM. WE STARTED TO HEAR  A LOUD THUMPING SOUND COMING FROM THE REAR OF THE TRUCK AT SPEEDS AROUND 60MPH, OF WHICH MY PASSENGER STARTED TO VIDEO THE SOUND. BEFORE I COULD  PULL OFF THE HIGHWAY , THERE WAS SILENCE A",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA RIDGELINE. WHILE TRAVELING AT SPEEDS OF 5 MPH, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL BUT THE VEHICLE WOULD NOT RESPOND. THE FAILURE CORRECTED ITSELF WITHIN MINUTES. THE VEHICLE WAS TAKEN TO THE DEALER BUT THE DEALER WAS UNABLE TO DUPLICATE ",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON TWO SEPARATE OCCASIONS (ABOUT THREE WEEKS APART AND NO MORE THAN 500 MILES) THE BRAKE PEDAL WENT TO THE FLOOR WITHOUT STOPPING THE VEHICLE. BOTH TIMES THE CONDITIONS WERE DRY AND DEBRIS FREE. THE FIRST OCCASION OCCURRED GOING UP A HILL TO A STOP SIGN AND WAS NOT AS NOTICEABLE.",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING DOWNTOWN AT 4:30PM I WAS SLOWING TO A STOP LIGHT.  THE ENGINE ALL OF A SUDDEN SPED UP THROWING THE VEHICLE FORWARD. I CONTINUED TO KEEP THE BRAKE ON, BUT THE VEHICLE KEPT PUSHING FORWARD. I GOT TO THE STOP LIGHT, JUST MISSING THE PEDESTRIAN, PUT THE VEHICLE IN PARK,",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Ridgeline owners report most",
+    "summary": "Across 42 owner complaints to NHTSA, the most reported area is Air Bags (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I AM REPORTING UNWANTED, EXCESSIVE ACCELERATION FOR MY 2010 HONDA RIDGELINE. AFTER TURNING INTO A PARKING LOT, I WAS EASING INTO MY DESIRED PARKING SPACE AND, SINCE THERE WAS A SLIGHT INCLINE, I LIGHTLY PRESSED THE ACCELERATOR TO INCH FURTHER INTO THE SPACE. ALL OF A SUDDEN, TO M",
+        "pct": 43,
+        "title": "Air Bags",
+        "blurb": "18 reports (43%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON MARCH 30, 2013. WHILE DRIVING OUT OF TOWN DURING A HEAVY RAIN STORM. WE STARTED TO HEAR  A LOUD THUMPING SOUND COMING FROM THE REAR OF THE TRUCK AT SPEEDS AROUND 60MPH, OF WHICH MY PASSENGER STARTED TO VIDEO THE SOUND. BEFORE I COULD  PULL OFF THE HIGHWAY , THERE WAS SILENCE A",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA RIDGELINE. WHILE TRAVELING AT SPEEDS OF 5 MPH, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL BUT THE VEHICLE WOULD NOT RESPOND. THE FAILURE CORRECTED ITSELF WITHIN MINUTES. THE VEHICLE WAS TAKEN TO THE DEALER BUT THE DEALER WAS UNABLE TO DUPLICATE ",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (10%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON TWO SEPARATE OCCASIONS (ABOUT THREE WEEKS APART AND NO MORE THAN 500 MILES) THE BRAKE PEDAL WENT TO THE FLOOR WITHOUT STOPPING THE VEHICLE. BOTH TIMES THE CONDITIONS WERE DRY AND DEBRIS FREE. THE FIRST OCCASION OCCURRED GOING UP A HILL TO A STOP SIGN AND WAS NOT AS NOTICEABLE.",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "4 reports (10%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING DOWNTOWN AT 4:30PM I WAS SLOWING TO A STOP LIGHT.  THE ENGINE ALL OF A SUDDEN SPED UP THROWING THE VEHICLE FORWARD. I CONTINUED TO KEEP THE BRAKE ON, BUT THE VEHICLE KEPT PUSHING FORWARD. I GOT TO THE STOP LIGHT, JUST MISSING THE PEDESTRIAN, PUT THE VEHICLE IN PARK,",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "2 reports (5%)"
+      }
+    ]
+  }
+}

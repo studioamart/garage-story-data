@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-volt",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/VOLT#complaints",
+  "generatedAt": "2026-07-19T23:58:03.323Z",
+  "total": 308,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 161,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WAS ENTERING HIGHWAY IN THE DARK AND WENT TO PUT THE CAR INTO \"HOLD\" MODE TO RUN THE GAS ENGINE AND SAVE BATTERY CHARGE. THIS REQUIRES PUSHING A BUTTON 3 TIMES. I REACHED OVER AND PUSHED THE BUTTON. ACCIDENTLY WAS PUSHING THE \"POWER\" BUTTON WHICH IS RIGHT BELOW THE \"MODE\" BUTTON ",
+      "pct": 52
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 63,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I WAS ON MY WAY HOME, IT WAS VERY DARK OUTSIDE ON A TWO LANE HIGHWAY GOING 60-60MPH AND WANTED TO SWITCH OVER TO ELECTRIC \"HOLD\" MODE SO I COULD SAVE THE ELECTRIC BATTERY FOR CITY DRIVING. I GLANCED OVER AND HIT THE \"DRIVE MODE\" BUTTON THREE TIMES THINKING I WAS GOING TO SEND THE",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 53,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I LEASED A NEW 2013 VOLT ON FRIDAY AND DROVE IT TO WORK AND HOME ON MONDAY.  THE BATTERY DISPLAY SHOWED IT WAS AT MINIMUM, ZERO MILES REMAINING.  THE VOLT WAS RUNNING WITH THE INTERNAL COMBUSTION ENGINE.     AS I PULLED OUT OF A PARKING LOT, \"'PROPULSION POWER IS REDUCED\"', \"'ENG",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 37,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I WAS ON MY WAY HOME, IT WAS VERY DARK OUTSIDE ON A TWO LANE HIGHWAY GOING 60-60MPH AND WANTED TO SWITCH OVER TO ELECTRIC \"HOLD\" MODE SO I COULD SAVE THE ELECTRIC BATTERY FOR CITY DRIVING. I GLANCED OVER AND HIT THE \"DRIVE MODE\" BUTTON THREE TIMES THINKING I WAS GOING TO SEND THE",
+      "pct": 12
+    },
+    {
+      "component": "SEATS",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE COMING TO A STOP AT A MODERATE RATE OF DECELERATION, I NOTICED THAT MY DRIVERS SEAT HAD FORWARD/BACKWARD PLAY IN IT. THE ISSUE WAS IDENTIFIED WHEN COMING TO A STOP AND NOTICING THAT MY SEAT BACK SHIFTED FORWARD (~1/2\" OF PLAY). I WAS ABLE TO REPLICATE THE ISSUE AT A STOP BY",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Volt owners report most",
+    "summary": "Across 308 owner complaints to NHTSA, the most reported area is Air Bags (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 161,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WAS ENTERING HIGHWAY IN THE DARK AND WENT TO PUT THE CAR INTO \"HOLD\" MODE TO RUN THE GAS ENGINE AND SAVE BATTERY CHARGE. THIS REQUIRES PUSHING A BUTTON 3 TIMES. I REACHED OVER AND PUSHED THE BUTTON. ACCIDENTLY WAS PUSHING THE \"POWER\" BUTTON WHICH IS RIGHT BELOW THE \"MODE\" BUTTON ",
+        "pct": 52,
+        "title": "Air Bags",
+        "blurb": "161 reports (52%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 63,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I WAS ON MY WAY HOME, IT WAS VERY DARK OUTSIDE ON A TWO LANE HIGHWAY GOING 60-60MPH AND WANTED TO SWITCH OVER TO ELECTRIC \"HOLD\" MODE SO I COULD SAVE THE ELECTRIC BATTERY FOR CITY DRIVING. I GLANCED OVER AND HIT THE \"DRIVE MODE\" BUTTON THREE TIMES THINKING I WAS GOING TO SEND THE",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "63 reports (20%) · 1 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 53,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I LEASED A NEW 2013 VOLT ON FRIDAY AND DROVE IT TO WORK AND HOME ON MONDAY.  THE BATTERY DISPLAY SHOWED IT WAS AT MINIMUM, ZERO MILES REMAINING.  THE VOLT WAS RUNNING WITH THE INTERNAL COMBUSTION ENGINE.     AS I PULLED OUT OF A PARKING LOT, \"'PROPULSION POWER IS REDUCED\"', \"'ENG",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "53 reports (17%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 37,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I WAS ON MY WAY HOME, IT WAS VERY DARK OUTSIDE ON A TWO LANE HIGHWAY GOING 60-60MPH AND WANTED TO SWITCH OVER TO ELECTRIC \"HOLD\" MODE SO I COULD SAVE THE ELECTRIC BATTERY FOR CITY DRIVING. I GLANCED OVER AND HIT THE \"DRIVE MODE\" BUTTON THREE TIMES THINKING I WAS GOING TO SEND THE",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "37 reports (12%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE COMING TO A STOP AT A MODERATE RATE OF DECELERATION, I NOTICED THAT MY DRIVERS SEAT HAD FORWARD/BACKWARD PLAY IN IT. THE ISSUE WAS IDENTIFIED WHEN COMING TO A STOP AND NOTICING THAT MY SEAT BACK SHIFTED FORWARD (~1/2\" OF PLAY). I WAS ABLE TO REPLICATE THE ISSUE AT A STOP BY",
+        "pct": 10,
+        "title": "Seats",
+        "blurb": "31 reports (10%)"
+      }
+    ]
+  }
+}

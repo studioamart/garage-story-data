@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-07-19T23:52:29.051Z",
+  "total": 305,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 99,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE FIRST THING THAT HAPPENED IS OUR RIGHT FRONT DOOR LOCK ACTUATOR WENT OUT AND WE JUST THOUGHT IT WAS BROKEN AND HAVE NOT HAD IT FIXED AND THEN THE SERVICE AIR BAG WARNING LIGHT HAS BEEN COMING ON FOR SEVERAL THOUSAND MILES.   THEN THE TRUCK WOULD NOT START AND WE REPLACED THE ",
+      "pct": 32
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 54,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET TAHOE. WHILE THE CONTACT WAS DRIVING THE VEHICLE 10 MPH WITHOUT WARNING THE REAR WINDOW  AND HINGES SUDDENLY BROKE OFF. THE VEHICLE WAS TAKEN TO THE DEALER WHO STATED THAT THE REAR WINDOW AND TOP HINGES NEEDED TO BE REPLACED. THERE WERE NO PRI",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 40,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I HAVE A 2009 CHEVROLET TAHOE HYBRID THAT CURRENTLY HAS 1085 MILES OF SERVICE. THE VEHICLE HAS BEEN IN SERVICE AT TWO DIFFERENT GM DEALERSHIPS FOR 7 OF 8 WEEKS OF OWNERSHIP FOR AN ARRAY OF ISSUES CULMINATING IN TWO SERIOUS SAFETY CONCERNS PERTAINING TO THE HYBRID SYSTEM. IT WAS P",
+      "pct": 13
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I OWN A 2009 CHEVY TAHOE HYBRID WITH 55K MILES. THE FRONT AND REAR DOOR LOCK ACTUATORS FAILED ONE AT A TIME FROM THE REAR PASSENGER TO PASSENGER TO DRIVERS SIDE OF THE TRUCK FROM 36K UNTIL NOW AT 55K. THE FAULTY DOOR LOCK ACTUATORS PREVENT LOCKING OR UNLOCKING OF THE DOORS FROM T",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE HAVE HAD NOTHING BUT PROBLEMS OUT OF THIS TAHOE. WHEN DRIVING THE DASH LIGHTS FLASH, DOOR LOCKS MOVE UP AND DOWN, SPEEDOMETER WILL GO TO ZERO THEN BACK UP TO SPEED AN SO FORTH, THE TAHOE WILL START GEARING DOWN ON ITS OWN, THE AIR WILL GO OFF, AND THE RADIO WILL FLASH ON AND O",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Tahoe owners report most",
+    "summary": "Across 305 owner complaints to NHTSA, the most reported area is Air Bags (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 99,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE FIRST THING THAT HAPPENED IS OUR RIGHT FRONT DOOR LOCK ACTUATOR WENT OUT AND WE JUST THOUGHT IT WAS BROKEN AND HAVE NOT HAD IT FIXED AND THEN THE SERVICE AIR BAG WARNING LIGHT HAS BEEN COMING ON FOR SEVERAL THOUSAND MILES.   THEN THE TRUCK WOULD NOT START AND WE REPLACED THE ",
+        "pct": 32,
+        "title": "Air Bags",
+        "blurb": "99 reports (32%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 54,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET TAHOE. WHILE THE CONTACT WAS DRIVING THE VEHICLE 10 MPH WITHOUT WARNING THE REAR WINDOW  AND HINGES SUDDENLY BROKE OFF. THE VEHICLE WAS TAKEN TO THE DEALER WHO STATED THAT THE REAR WINDOW AND TOP HINGES NEEDED TO BE REPLACED. THERE WERE NO PRI",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "54 reports (18%) · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 40,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I HAVE A 2009 CHEVROLET TAHOE HYBRID THAT CURRENTLY HAS 1085 MILES OF SERVICE. THE VEHICLE HAS BEEN IN SERVICE AT TWO DIFFERENT GM DEALERSHIPS FOR 7 OF 8 WEEKS OF OWNERSHIP FOR AN ARRAY OF ISSUES CULMINATING IN TWO SERIOUS SAFETY CONCERNS PERTAINING TO THE HYBRID SYSTEM. IT WAS P",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "40 reports (13%) · 1 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I OWN A 2009 CHEVY TAHOE HYBRID WITH 55K MILES. THE FRONT AND REAR DOOR LOCK ACTUATORS FAILED ONE AT A TIME FROM THE REAR PASSENGER TO PASSENGER TO DRIVERS SIDE OF THE TRUCK FROM 36K UNTIL NOW AT 55K. THE FAULTY DOOR LOCK ACTUATORS PREVENT LOCKING OR UNLOCKING OF THE DOORS FROM T",
+        "pct": 8,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "23 reports (8%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE HAVE HAD NOTHING BUT PROBLEMS OUT OF THIS TAHOE. WHEN DRIVING THE DASH LIGHTS FLASH, DOOR LOCKS MOVE UP AND DOWN, SPEEDOMETER WILL GO TO ZERO THEN BACK UP TO SPEED AN SO FORTH, THE TAHOE WILL START GEARING DOWN ON ITS OWN, THE AIR WILL GO OFF, AND THE RADIO WILL FLASH ON AND O",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "16 reports (5%) · 1 crash"
+      }
+    ]
+  }
+}

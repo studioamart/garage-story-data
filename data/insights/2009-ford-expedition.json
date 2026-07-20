@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-07-19T23:52:56.587Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 1,
+      "sample": "I WAS DRIVING IN A SCHOOL ZONE WHEN A VEHICLE RAN A YIELD SIGN AND HIT ME ON THE DRIVERS SIDE FRONT. MY AIRBAGS DIDN'T DEPLOY. THE IMPACT PUSHED ME THROUGH A FENCE AND INTO A RESIDENTIAL YARD. I HIT MY HEAD ON THE WINDOW AND THE HANDLE THAT WAS MOLDED INTO THE DRIVERS SIDE WINDSH",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 FORD EXPEDITION FOG LIGHTS - BOTH FOG LIGHT LENS CRACK AFTER DRIVING ON A PAVED HIGHWAY IN SUB ZERO FREEZING WEATHER.  BOTH HAVE IDENTICAL FAILURE MODE AND FORD REFUSES TO COVER UNDER WARRANTY.  THE MATERIALS, DESIGN, AND ENGINEERING IS SUB-STANDARD AND DOES NOT MEET DOT SPE",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE BRAKE SENSOR HAS MALFUNCTIONED AND I AM NOT ABLE TO TAKE THE VEHICLE OUT OF PARK.  IF I DEPRESSED THE BRAKE PEDAL MULTIPLE TIMES, IT WILL FINALLY SENSE THE BRAKES AND LET ME DRIVE.  ALSO, SOMETIMES DURING DRIVING THE BRAKE LIGHTS WILL NOT ILLUMINATE WHEN PRESSED.  FORD HAS IS",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD EXPEDITION XLT. THE CONTACT STATED THAT VEHICLE WAS A POLICE VEHICLE AND WHEN DRIVING AT HIGH RATES OF SPEEDS WITH THE BRAKE PEDAL DEPRESSED IT WOULD ACT AS IT WAS LOCKED. IN ORDER TO RELEASE IT HE WOULD HAD TO APPLY EXTREME PRESSURE TO THE PEDAL.",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JANUARY 9, 2010 AT APPROXIMATELY 2:00PM, WHILE DRIVING DOWN A  STREET NEAR OUR HOME, THE THIRD ROW REAR PASSENGER SIDE WINDOW  JUST EXPLODED AND CRUMBLED ON OUR 2009 FORD EXPEDITION. NOTHING   IMPACTED THE WINDOW FROM INSIDE OR OUT. WE HAVE ONLY HAD THIS NEW  VEHICLE FOR 4 MON",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Expedition owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Structure (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 1,
+        "sample": "I WAS DRIVING IN A SCHOOL ZONE WHEN A VEHICLE RAN A YIELD SIGN AND HIT ME ON THE DRIVERS SIDE FRONT. MY AIRBAGS DIDN'T DEPLOY. THE IMPACT PUSHED ME THROUGH A FENCE AND INTO A RESIDENTIAL YARD. I HIT MY HEAD ON THE WINDOW AND THE HANDLE THAT WAS MOLDED INTO THE DRIVERS SIDE WINDSH",
+        "pct": 25,
+        "title": "Structure",
+        "blurb": "7 reports (25%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 FORD EXPEDITION FOG LIGHTS - BOTH FOG LIGHT LENS CRACK AFTER DRIVING ON A PAVED HIGHWAY IN SUB ZERO FREEZING WEATHER.  BOTH HAVE IDENTICAL FAILURE MODE AND FORD REFUSES TO COVER UNDER WARRANTY.  THE MATERIALS, DESIGN, AND ENGINEERING IS SUB-STANDARD AND DOES NOT MEET DOT SPE",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "5 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE BRAKE SENSOR HAS MALFUNCTIONED AND I AM NOT ABLE TO TAKE THE VEHICLE OUT OF PARK.  IF I DEPRESSED THE BRAKE PEDAL MULTIPLE TIMES, IT WILL FINALLY SENSE THE BRAKES AND LET ME DRIVE.  ALSO, SOMETIMES DURING DRIVING THE BRAKE LIGHTS WILL NOT ILLUMINATE WHEN PRESSED.  FORD HAS IS",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "4 reports (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD EXPEDITION XLT. THE CONTACT STATED THAT VEHICLE WAS A POLICE VEHICLE AND WHEN DRIVING AT HIGH RATES OF SPEEDS WITH THE BRAKE PEDAL DEPRESSED IT WOULD ACT AS IT WAS LOCKED. IN ORDER TO RELEASE IT HE WOULD HAD TO APPLY EXTREME PRESSURE TO THE PEDAL.",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "4 reports (14%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JANUARY 9, 2010 AT APPROXIMATELY 2:00PM, WHILE DRIVING DOWN A  STREET NEAR OUR HOME, THE THIRD ROW REAR PASSENGER SIDE WINDOW  JUST EXPLODED AND CRUMBLED ON OUR 2009 FORD EXPEDITION. NOTHING   IMPACTED THE WINDOW FROM INSIDE OR OUT. WE HAVE ONLY HAD THIS NEW  VEHICLE FOR 4 MON",
+        "pct": 14,
+        "title": "Visibility",
+        "blurb": "4 reports (14%)"
+      }
+    ]
+  }
+}

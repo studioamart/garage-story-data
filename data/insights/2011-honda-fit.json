@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-fit",
+  "make": "Honda",
+  "model": "Fit",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/FIT#complaints",
+  "generatedAt": "2026-07-19T23:48:54.799Z",
+  "total": 113,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 64,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THE CAR IN FRONT STOPPED ON THE HIGHWAY BECAUSE OF ANOTHER DRIVER SWERVING TO EXIT. THIS CAUSED MY CAR TO REAR-END THE VEHICLE THAT WAS STOPPED DIRECTLY IN FRONT OF ME. MY CAR SUFFERED SEVERE DAMAGE TO THE FRONT END. THE AIRBAGS DID NOT DEPLOY!! UPON LOOKING AT THE DAMAGE AFTER T",
+      "pct": 57
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE CAR STARTED MAKING HUMMING NOISE, IT GOT LOUDER THE FASTER IT WENT, TOOK IT TO GARDEN STATE HONDA IN PASSAIC NU AND THEY SAID IT WAS THE WHEEL BEARINGS ON BOTH SIDES, WHEN I ASKED IF IT WAS UNDER WARRANTY THEY TOLD ME NO AND IT WILL COST $800 AND IT WOULD TAKE A",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER DRIVING 20 MILES THROUGH TRAFFIC WITH 1/2 TANK GAS AND RADIATOR TEMPERATURE OK, NO WARNING LIGHTS SHOWING:   TURNED RIGHT AT INTERSECTION AND LOST ALL ENGINE POWER (NO THROTTLE RESPONSE), THEN ALL LIGHTS (HEADLIGHTS AND DASH). STEERING BECAME STIFF. WE THINK CD PLAYER STAYE",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER DRIVING 20 MILES THROUGH TRAFFIC WITH 1/2 TANK GAS AND RADIATOR TEMPERATURE OK, NO WARNING LIGHTS SHOWING:   TURNED RIGHT AT INTERSECTION AND LOST ALL ENGINE POWER (NO THROTTLE RESPONSE), THEN ALL LIGHTS (HEADLIGHTS AND DASH). STEERING BECAME STIFF. WE THINK CD PLAYER STAYE",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AFTER DRIVING 20 MILES THROUGH TRAFFIC WITH 1/2 TANK GAS AND RADIATOR TEMPERATURE OK, NO WARNING LIGHTS SHOWING:   TURNED RIGHT AT INTERSECTION AND LOST ALL ENGINE POWER (NO THROTTLE RESPONSE), THEN ALL LIGHTS (HEADLIGHTS AND DASH). STEERING BECAME STIFF. WE THINK CD PLAYER STAYE",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Fit owners report most",
+    "summary": "Across 113 owner complaints to NHTSA, the most reported area is Air Bags (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 64,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THE CAR IN FRONT STOPPED ON THE HIGHWAY BECAUSE OF ANOTHER DRIVER SWERVING TO EXIT. THIS CAUSED MY CAR TO REAR-END THE VEHICLE THAT WAS STOPPED DIRECTLY IN FRONT OF ME. MY CAR SUFFERED SEVERE DAMAGE TO THE FRONT END. THE AIRBAGS DID NOT DEPLOY!! UPON LOOKING AT THE DAMAGE AFTER T",
+        "pct": 57,
+        "title": "Air Bags",
+        "blurb": "64 reports (57%) · 4 crash · 5 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE CAR STARTED MAKING HUMMING NOISE, IT GOT LOUDER THE FASTER IT WENT, TOOK IT TO GARDEN STATE HONDA IN PASSAIC NU AND THEY SAID IT WAS THE WHEEL BEARINGS ON BOTH SIDES, WHEN I ASKED IF IT WAS UNDER WARRANTY THEY TOLD ME NO AND IT WILL COST $800 AND IT WOULD TAKE A",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "12 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER DRIVING 20 MILES THROUGH TRAFFIC WITH 1/2 TANK GAS AND RADIATOR TEMPERATURE OK, NO WARNING LIGHTS SHOWING:   TURNED RIGHT AT INTERSECTION AND LOST ALL ENGINE POWER (NO THROTTLE RESPONSE), THEN ALL LIGHTS (HEADLIGHTS AND DASH). STEERING BECAME STIFF. WE THINK CD PLAYER STAYE",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "10 reports (9%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER DRIVING 20 MILES THROUGH TRAFFIC WITH 1/2 TANK GAS AND RADIATOR TEMPERATURE OK, NO WARNING LIGHTS SHOWING:   TURNED RIGHT AT INTERSECTION AND LOST ALL ENGINE POWER (NO THROTTLE RESPONSE), THEN ALL LIGHTS (HEADLIGHTS AND DASH). STEERING BECAME STIFF. WE THINK CD PLAYER STAYE",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "10 reports (9%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AFTER DRIVING 20 MILES THROUGH TRAFFIC WITH 1/2 TANK GAS AND RADIATOR TEMPERATURE OK, NO WARNING LIGHTS SHOWING:   TURNED RIGHT AT INTERSECTION AND LOST ALL ENGINE POWER (NO THROTTLE RESPONSE), THEN ALL LIGHTS (HEADLIGHTS AND DASH). STEERING BECAME STIFF. WE THINK CD PLAYER STAYE",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "7 reports (6%) · 1 fire · 1 injured"
+      }
+    ]
+  }
+}

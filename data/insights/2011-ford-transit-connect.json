@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-transit-connect",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/TRANSIT%20CONNECT#complaints",
+  "generatedAt": "2026-07-19T23:56:08.521Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RE: SAFETY RECALL NOTICE 12S36/NHTSA RECALL 12V-374.   WHILE AT MY DEALERSHIP MAC HAIK FORD, 7201 S IH35. GEORGETOWN TX  ON 8/6/12, I WAS NOTIFIED OF THIS SAFETY RECALL FOR MY WINDSHIELD WIPERS AT WHICH TIME THE PART(S) WERE ORDERED FOR THIS REPAIR. MY LAST COMMUNICATION WITH MY ",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD TRANSIT CONNECT. WHILE MERGING INTO TRAFFIC AT 20 MPH, THE CONTACT HEARD AN ABNORMAL LOUD NOISE COMING FROM THE VEHICLE. THE CONTACT STATED THAT THE FAILURE BECAME WORSE OVER TIME. AN INDEPENDENT MECHANIC WAS UNABLE TO DUPLICATE THE FAILURE. SHORT",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON THE FREE WAY AT 80 MPH AND CAR STALLS. CHECK ENGINE LIGHT AND WRENCH LIGHT CAME ON. PULLED TO THE SIDE RESTARTED CAR EVERYTHING WAS NORMAL AGAIN. A FEW DAYS LATER STARTED DOING AGAIN AND MORE OFTEN. I AM AFRAID TO RIDE MY CAR IT IS A SAFETY ISSUE. I PUT A SCANNER ON TH",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON THE FREE WAY AT 80 MPH AND CAR STALLS. CHECK ENGINE LIGHT AND WRENCH LIGHT CAME ON. PULLED TO THE SIDE RESTARTED CAR EVERYTHING WAS NORMAL AGAIN. A FEW DAYS LATER STARTED DOING AGAIN AND MORE OFTEN. I AM AFRAID TO RIDE MY CAR IT IS A SAFETY ISSUE. I PUT A SCANNER ON TH",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD TRANSIT CONNECT. THE CONTACT STATED THAT WHILE DRIVING 30 MPH, THE BRAKES FAILED WHEN APPLIED. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS WHERE IT WAS STATED THAT THE BRAKES NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED BUT THE PROBLEM PE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Transit Connect owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Visibility/Wiper (25% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RE: SAFETY RECALL NOTICE 12S36/NHTSA RECALL 12V-374.   WHILE AT MY DEALERSHIP MAC HAIK FORD, 7201 S IH35. GEORGETOWN TX  ON 8/6/12, I WAS NOTIFIED OF THIS SAFETY RECALL FOR MY WINDSHIELD WIPERS AT WHICH TIME THE PART(S) WERE ORDERED FOR THIS REPAIR. MY LAST COMMUNICATION WITH MY ",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "6 reports (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD TRANSIT CONNECT. WHILE MERGING INTO TRAFFIC AT 20 MPH, THE CONTACT HEARD AN ABNORMAL LOUD NOISE COMING FROM THE VEHICLE. THE CONTACT STATED THAT THE FAILURE BECAME WORSE OVER TIME. AN INDEPENDENT MECHANIC WAS UNABLE TO DUPLICATE THE FAILURE. SHORT",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON THE FREE WAY AT 80 MPH AND CAR STALLS. CHECK ENGINE LIGHT AND WRENCH LIGHT CAME ON. PULLED TO THE SIDE RESTARTED CAR EVERYTHING WAS NORMAL AGAIN. A FEW DAYS LATER STARTED DOING AGAIN AND MORE OFTEN. I AM AFRAID TO RIDE MY CAR IT IS A SAFETY ISSUE. I PUT A SCANNER ON TH",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON THE FREE WAY AT 80 MPH AND CAR STALLS. CHECK ENGINE LIGHT AND WRENCH LIGHT CAME ON. PULLED TO THE SIDE RESTARTED CAR EVERYTHING WAS NORMAL AGAIN. A FEW DAYS LATER STARTED DOING AGAIN AND MORE OFTEN. I AM AFRAID TO RIDE MY CAR IT IS A SAFETY ISSUE. I PUT A SCANNER ON TH",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD TRANSIT CONNECT. THE CONTACT STATED THAT WHILE DRIVING 30 MPH, THE BRAKES FAILED WHEN APPLIED. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS WHERE IT WAS STATED THAT THE BRAKES NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED BUT THE PROBLEM PE",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

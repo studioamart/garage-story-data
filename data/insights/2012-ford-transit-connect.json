@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-transit-connect",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/TRANSIT%20CONNECT#complaints",
+  "generatedAt": "2026-07-19T23:57:31.460Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON START UP AFTER IT HAS BEEN WARM AND THEN GOTTEN COLD VEHICLE CHECK ENGINE LIGHT COMES ON AND ECU STORES CODES P2101,P2111 AND P2135. THROTTLE BODY BECOMES DISABLED AND VEHICLE WILL RUN POORLY AND NOT ACCELERATE. REPLACED WITH NEW FORD THROTTLE BODY ASSEMBLY PART# 8S4Z9E926B @ ",
+      "pct": 23
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2012 FORD TRANSIT CONNECT.  CONSUMER WRITES IN REGARDS TO MISLEADING GAS MILEAGE, RADIO PROBLEMS, VEHICLE LOCKING ITSELF WITH KEY IN THE IGNITION WHILE ENGINE RUNNING AND SEVERAL OTHER ISSUES.  *SMD  THE CONSUMER ALSO STATED THE WIPERS WERE NOT CLEARLY THE SNOW AND RAIN FROM THE ",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON START UP AFTER IT HAS BEEN WARM AND THEN GOTTEN COLD VEHICLE CHECK ENGINE LIGHT COMES ON AND ECU STORES CODES P2101,P2111 AND P2135. THROTTLE BODY BECOMES DISABLED AND VEHICLE WILL RUN POORLY AND NOT ACCELERATE. REPLACED WITH NEW FORD THROTTLE BODY ASSEMBLY PART# 8S4Z9E926B @ ",
+      "pct": 15
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON A LONGER TRIP IN MY NEW FORD TRANSIT CONNECT, I NOTICED REFLECTIONS OF THE OUTWARD-FACING DASHBOARD AND GRILL ON THE LOWER HALF OF THE WINDSHIELD. SOMETIMES IT WAS THERE,SOMETIMES NOT. I CHECKED THE OWNERS MANUAL WHICH MENTIONED \"TEMPORY SHIMMERING\" WHILE THE WINDSHIELD  WARME",
+      "pct": 15
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD TRANSIT CONNECT. THE CONTACT STATED THAT THE DASHBOARD DETERIORATED, WARPED AND THE FRAMEWORK WAS VISIBLE. THE VEHICLE WAS TAKEN TO THE DEALER FOR REPAIRS OVER THREE TIMES BUT THE FAILURE WAS RECURRING. THE CONTACT LATER NOTICED THE PRESENCE OF A ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Transit Connect owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Engine (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON START UP AFTER IT HAS BEEN WARM AND THEN GOTTEN COLD VEHICLE CHECK ENGINE LIGHT COMES ON AND ECU STORES CODES P2101,P2111 AND P2135. THROTTLE BODY BECOMES DISABLED AND VEHICLE WILL RUN POORLY AND NOT ACCELERATE. REPLACED WITH NEW FORD THROTTLE BODY ASSEMBLY PART# 8S4Z9E926B @ ",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "6 reports (23%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2012 FORD TRANSIT CONNECT.  CONSUMER WRITES IN REGARDS TO MISLEADING GAS MILEAGE, RADIO PROBLEMS, VEHICLE LOCKING ITSELF WITH KEY IN THE IGNITION WHILE ENGINE RUNNING AND SEVERAL OTHER ISSUES.  *SMD  THE CONSUMER ALSO STATED THE WIPERS WERE NOT CLEARLY THE SNOW AND RAIN FROM THE ",
+        "pct": 19,
+        "title": "Visibility",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON START UP AFTER IT HAS BEEN WARM AND THEN GOTTEN COLD VEHICLE CHECK ENGINE LIGHT COMES ON AND ECU STORES CODES P2101,P2111 AND P2135. THROTTLE BODY BECOMES DISABLED AND VEHICLE WILL RUN POORLY AND NOT ACCELERATE. REPLACED WITH NEW FORD THROTTLE BODY ASSEMBLY PART# 8S4Z9E926B @ ",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "4 reports (15%) · 1 fire"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON A LONGER TRIP IN MY NEW FORD TRANSIT CONNECT, I NOTICED REFLECTIONS OF THE OUTWARD-FACING DASHBOARD AND GRILL ON THE LOWER HALF OF THE WINDSHIELD. SOMETIMES IT WAS THERE,SOMETIMES NOT. I CHECKED THE OWNERS MANUAL WHICH MENTIONED \"TEMPORY SHIMMERING\" WHILE THE WINDSHIELD  WARME",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "4 reports (15%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD TRANSIT CONNECT. THE CONTACT STATED THAT THE DASHBOARD DETERIORATED, WARPED AND THE FRAMEWORK WAS VISIBLE. THE VEHICLE WAS TAKEN TO THE DEALER FOR REPAIRS OVER THREE TIMES BUT THE FAILURE WAS RECURRING. THE CONTACT LATER NOTICED THE PRESENCE OF A ",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

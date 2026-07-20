@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/TAURUS#complaints",
+  "generatedAt": "2026-07-19T23:54:37.520Z",
+  "total": 204,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 41,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2010 FORD TAURUS SHO HAS A PROBLEM WITH THE TRANSMISSION NOT BEING IN FIRST GEAR AFTER A STOP.  ONE TO TWO SECOND HESITATION AND THEN CLUNKS INTO GEAR AND I AM ABLE TO TAKE OFF.  THIS HAPPENS APPROXIMATELY TWICE A MONTH.  THE DEALER HAS NOT BEEN ABLE TO DUPLICATE.  THE CAR ALSO H",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 37,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT LEAST 7 TIMES WHILE DRIVING ON THE EXPRESSWAY THE ENGINE STALLED. I HAVE TO SHIFT TO NEUTRAL AND STEP ON THE BRAKE AND PUSH THE START BUTTON AND THE CAR IS BACK TO NORMAL WHEN I SHIFT TO DRIVE. I TOOK IT IN TO THE DEALER AND THEY COULD NOT FIND ANYTHING WRONG. THE FEAR IS THAT",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 36,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 FORD TAURUS. THE VEHICLE WAS EQUIPPED  WITH A \"PUSH START\" SWITCH. THE VEHICLE WAS TURNED OFF WITH THE GEAR  SHIFT PLACED IN THE \"DRIVE\" POSITION AND SUDDENLY, THE VEHICLE  ROLLED WITHOUT WARNING. THE FAILURE OCCURRED ON FOUR SEPARATE  OCCASIONS. THE CO",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 33,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 2,
+      "sample": "TL*THE CONTACT OWNS A 2010 FORD TAURUS. THERE WAS A LOUD GRINDING NOISE WHEN THE VEHICLE CAME TO A STOP AND THE BRAKES WERE ENGAGED. THE VEHICLE WAS TAKEN TO THE DEALER FOUR TIMES AND THEY WERE UNABLE TO DIAGNOSE THE FAILURE. THE BRAKES, ROTORS AND PADS HAVE BEEN REPLACED AND THE",
+      "pct": 16
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 24,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 2,
+      "sample": "TL*THE CONTACT OWNS A 2010 FORD TAURUS WHICH WAS PURCHASED ON JANUARY 15, 2010. WHILE DRIVING AT SPEEDS OF 55 MPH, THE COLLISION WARNING SYMBOL ILLUMINATED ON THE INSTRUMENT PANEL AND WITHIN ONE HALF MILE, THE VEHICLE STALLED. ON A SEPARATE OCCASION, WHILE UTILIZING THE CRUISE CO",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Taurus owners report most",
+    "summary": "Across 204 owner complaints to NHTSA, the most reported area is Steering (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 41,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2010 FORD TAURUS SHO HAS A PROBLEM WITH THE TRANSMISSION NOT BEING IN FIRST GEAR AFTER A STOP.  ONE TO TWO SECOND HESITATION AND THEN CLUNKS INTO GEAR AND I AM ABLE TO TAKE OFF.  THIS HAPPENS APPROXIMATELY TWICE A MONTH.  THE DEALER HAS NOT BEEN ABLE TO DUPLICATE.  THE CAR ALSO H",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "41 reports (20%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 37,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT LEAST 7 TIMES WHILE DRIVING ON THE EXPRESSWAY THE ENGINE STALLED. I HAVE TO SHIFT TO NEUTRAL AND STEP ON THE BRAKE AND PUSH THE START BUTTON AND THE CAR IS BACK TO NORMAL WHEN I SHIFT TO DRIVE. I TOOK IT IN TO THE DEALER AND THEY COULD NOT FIND ANYTHING WRONG. THE FEAR IS THAT",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "37 reports (18%) · 2 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 36,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 FORD TAURUS. THE VEHICLE WAS EQUIPPED  WITH A \"PUSH START\" SWITCH. THE VEHICLE WAS TURNED OFF WITH THE GEAR  SHIFT PLACED IN THE \"DRIVE\" POSITION AND SUDDENLY, THE VEHICLE  ROLLED WITHOUT WARNING. THE FAILURE OCCURRED ON FOUR SEPARATE  OCCASIONS. THE CO",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "36 reports (18%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 33,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 2,
+        "sample": "TL*THE CONTACT OWNS A 2010 FORD TAURUS. THERE WAS A LOUD GRINDING NOISE WHEN THE VEHICLE CAME TO A STOP AND THE BRAKES WERE ENGAGED. THE VEHICLE WAS TAKEN TO THE DEALER FOUR TIMES AND THEY WERE UNABLE TO DIAGNOSE THE FAILURE. THE BRAKES, ROTORS AND PADS HAVE BEEN REPLACED AND THE",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "33 reports (16%) · 4 crash · 9 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 24,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 2,
+        "sample": "TL*THE CONTACT OWNS A 2010 FORD TAURUS WHICH WAS PURCHASED ON JANUARY 15, 2010. WHILE DRIVING AT SPEEDS OF 55 MPH, THE COLLISION WARNING SYMBOL ILLUMINATED ON THE INSTRUMENT PANEL AND WITHIN ONE HALF MILE, THE VEHICLE STALLED. ON A SEPARATE OCCASION, WHILE UTILIZING THE CRUISE CO",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "24 reports (12%) · 6 crash · 10 injured"
+      }
+    ]
+  }
+}

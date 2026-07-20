@@ -1,0 +1,128 @@
+{
+  "slug": "2009-bmw-z4",
+  "make": "BMW",
+  "model": "Z4",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/BMW/Z4#complaints",
+  "generatedAt": "2026-07-19T23:49:34.968Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "WHEELS",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS PROBLEM AFFECTS WHEEL STYLE \"296\" A 19\" OPTIONAL ALLOY WHEEL PACKAGE FOR E89 BMW Z4. BMW PART NUMBER 36116785257(REAR WHEEL 19X9) AND 36116785256(FRONT WHEEL 19X8. UNDER NORMAL DRIVING CONDITIONS, MULTIPLE CRACKS DEVELOPED ON INNER EDGE OF RIM LIP LEADING TO LARGE DROP IN TI",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR HAS STALLED MULTIPLE TIME WHEN COMING TO A STOP.  IN SOME INSTANCES I DID NOT HAVE TO COME TO A COMPLETE STOP SUCH AS CROSSING A DIVIDED HIGHWAY, JUST SLOWED SIGNIFICANTLY. AS I WENT TO ACCELERATE THROUGH THE INTERSECTION THE ENGINE HAD STALLED AND I WAS STUCK IN THE MIDD",
+      "pct": 18
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drivers side seat belt frayed at the point where it comes out of the vehicle when I am seated and buckled in. This is nearly impossible for me to see and I only saw it by chance pulling the seat belt out for some incidental reason. I am unclear how long it had been like this. Oth",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 BMW Z4 CONVERTIBLE. THE CONTACT WAS DRIVING APPROXIMATELY 10-20 MPH WHEN THE VEHICLE STALLED WITHOUT WARNING. HE WAS ABLE TO IMMEDIATELY RESTART THE VEHICLE WITHOUT HESITATION. THE VEHICLE WAS NOT REPAIRED. THE FAILURE WOULD OCCUR INTERMITTENTLY. THE V",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The airbag sensor in my passenger seat has failed. I have been quoted approximately $2000 to repair this. However researching online I see BMW Service Bulletin SB-[XXX] which indicates this may be a widespread problem?  [XXX]   I am concerned to take passengers in the vehicle as ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Bmw Z4 owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Wheels (50% of reports).",
+    "issues": [
+      {
+        "component": "WHEELS",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS PROBLEM AFFECTS WHEEL STYLE \"296\" A 19\" OPTIONAL ALLOY WHEEL PACKAGE FOR E89 BMW Z4. BMW PART NUMBER 36116785257(REAR WHEEL 19X9) AND 36116785256(FRONT WHEEL 19X8. UNDER NORMAL DRIVING CONDITIONS, MULTIPLE CRACKS DEVELOPED ON INNER EDGE OF RIM LIP LEADING TO LARGE DROP IN TI",
+        "pct": 50,
+        "title": "Wheels",
+        "blurb": "11 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR HAS STALLED MULTIPLE TIME WHEN COMING TO A STOP.  IN SOME INSTANCES I DID NOT HAVE TO COME TO A COMPLETE STOP SUCH AS CROSSING A DIVIDED HIGHWAY, JUST SLOWED SIGNIFICANTLY. AS I WENT TO ACCELERATE THROUGH THE INTERSECTION THE ENGINE HAD STALLED AND I WAS STUCK IN THE MIDD",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "4 reports (18%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drivers side seat belt frayed at the point where it comes out of the vehicle when I am seated and buckled in. This is nearly impossible for me to see and I only saw it by chance pulling the seat belt out for some incidental reason. I am unclear how long it had been like this. Oth",
+        "pct": 9,
+        "title": "Seat Belts",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 BMW Z4 CONVERTIBLE. THE CONTACT WAS DRIVING APPROXIMATELY 10-20 MPH WHEN THE VEHICLE STALLED WITHOUT WARNING. HE WAS ABLE TO IMMEDIATELY RESTART THE VEHICLE WITHOUT HESITATION. THE VEHICLE WAS NOT REPAIRED. THE FAILURE WOULD OCCUR INTERMITTENTLY. THE V",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The airbag sensor in my passenger seat has failed. I have been quoted approximately $2000 to repair this. However researching online I see BMW Service Bulletin SB-[XXX] which indicates this may be a widespread problem?  [XXX]   I am concerned to take passengers in the vehicle as ",
+        "pct": 5,
+        "title": "Air Bags",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

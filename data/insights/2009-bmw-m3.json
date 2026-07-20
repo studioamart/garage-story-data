@@ -1,0 +1,128 @@
+{
+  "slug": "2009-bmw-m3",
+  "make": "BMW",
+  "model": "M3",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/BMW/M3#complaints",
+  "generatedAt": "2026-07-19T23:49:31.327Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 09 BMW M3 WITH DCT IS EXHIBITING GEAR SHIFTING SLOWNESS AND POWER LAGGING PROBLEMS AFTER HARD BRAKING. THE MOST RECENT INCIDENT WAS A NEAR REAR END COLLISION TODAY THAT REQUIRED ME TO BRAKE HARD FROM 70MPH, TO 40, SWITCH LANES AND ACCELERATE TO AVOID BEING HIT BY APPROACHING T",
+      "pct": 53
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL    HELLO MADAM/ SIR,    I RECEIVED A SAFETY RECALL NOTICE - 16V-071 REGARDING FAULTY DRIVERS SIDE AIRBAGS IN MY 2009 BMW M3. THE NOTICE (ATTACHED) CLEARLY STATES THAT IN AN EVENT OF AIRBAG GETTING DEPLOYED, THE AIRBAG MIGHT EXPLODE CAUSING SERIOUS INJURY OR DEATH.BM",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SHORTLY AFTER PURCHASING MY BMW 2009 M3, I NOTICED  A RARE BUT VERY DISTURBING PATTERN ON TAKE OFF. I HAD CAR CHECKED IN DEALER AND I WAS TOLD IT WAS LIKELY SECONDARY TO MY DRIVING STYLE! THIS UNCONTROLLED TAKE OFF IS LIKE HI REV AND RAPID ACCELERATION PERIODICALLY ALTERNATING WI",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE LOST POWER WHILE TAKING A TURN.  I WAS ABLE TO RESTART IT AND DRIVE TO A NEARBY PARKING LOT.  I DROVE AROUND SLOWLY TO TEST AND NOTICED KNOCKING NOISE FROM THE ENGINE.  I ALSO NOTICED ENGINE TEMPERATURE WAS ABOVE NORMAL, NOT QUITE TO THE NEXT MARKER, BUT CLOSE.  AT THAT P",
+      "pct": 9
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2009 BMW M3 WITH A DCT TRANSMISSION LAGS BETWEEN 1ST AND 2ND GEAR. WHEN YOU PUSH ON THE ACCELERATOR THE CAR DOES NOT GO FOR AT LEAST 2 SECONDS, THEN IT SHOOTS FORWARD. I HAVE COMPLAINED TO BMW BUT THEY SAY THIS IS NORMAL. THIS OCCURS ALL THE TIME WHEN I AM SLOWING DOWN AND THE",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Bmw M3 owners report most",
+    "summary": "Across 45 owner complaints to NHTSA, the most reported area is Power Train (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 09 BMW M3 WITH DCT IS EXHIBITING GEAR SHIFTING SLOWNESS AND POWER LAGGING PROBLEMS AFTER HARD BRAKING. THE MOST RECENT INCIDENT WAS A NEAR REAR END COLLISION TODAY THAT REQUIRED ME TO BRAKE HARD FROM 70MPH, TO 40, SWITCH LANES AND ACCELERATE TO AVOID BEING HIT BY APPROACHING T",
+        "pct": 53,
+        "title": "Power Train",
+        "blurb": "24 reports (53%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL    HELLO MADAM/ SIR,    I RECEIVED A SAFETY RECALL NOTICE - 16V-071 REGARDING FAULTY DRIVERS SIDE AIRBAGS IN MY 2009 BMW M3. THE NOTICE (ATTACHED) CLEARLY STATES THAT IN AN EVENT OF AIRBAG GETTING DEPLOYED, THE AIRBAG MIGHT EXPLODE CAUSING SERIOUS INJURY OR DEATH.BM",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "8 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SHORTLY AFTER PURCHASING MY BMW 2009 M3, I NOTICED  A RARE BUT VERY DISTURBING PATTERN ON TAKE OFF. I HAD CAR CHECKED IN DEALER AND I WAS TOLD IT WAS LIKELY SECONDARY TO MY DRIVING STYLE! THIS UNCONTROLLED TAKE OFF IS LIKE HI REV AND RAPID ACCELERATION PERIODICALLY ALTERNATING WI",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "6 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE LOST POWER WHILE TAKING A TURN.  I WAS ABLE TO RESTART IT AND DRIVE TO A NEARBY PARKING LOT.  I DROVE AROUND SLOWLY TO TEST AND NOTICED KNOCKING NOISE FROM THE ENGINE.  I ALSO NOTICED ENGINE TEMPERATURE WAS ABOVE NORMAL, NOT QUITE TO THE NEXT MARKER, BUT CLOSE.  AT THAT P",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "4 reports (9%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2009 BMW M3 WITH A DCT TRANSMISSION LAGS BETWEEN 1ST AND 2ND GEAR. WHEN YOU PUSH ON THE ACCELERATOR THE CAR DOES NOT GO FOR AT LEAST 2 SECONDS, THEN IT SHOOTS FORWARD. I HAVE COMPLAINED TO BMW BUT THEY SAY THIS IS NORMAL. THIS OCCURS ALL THE TIME WHEN I AM SLOWING DOWN AND THE",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (7%) · 1 crash"
+      }
+    ]
+  }
+}

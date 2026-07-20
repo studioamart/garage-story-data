@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-hhr",
+  "make": "Chevrolet",
+  "model": "HHR",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/HHR#complaints",
+  "generatedAt": "2026-07-19T23:55:15.311Z",
+  "total": 203,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 43,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING A FREEWAY SPEEDS WHEN THE ENGINE SUDDENLY WENT INTO LIMP HOME MODE.  I RECEIVED THE FOLLOWING DASH INDICATIONS - SERVICE ESC, TRACTION OFF, REDUCED ENGINE POWER.    UPON FURTHER INSPECTION WE FOUND A FAILED ACCELERATOR POSITION SENSOR AND WE HAD THE FOLLOWING TROUBL",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 39,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "WAS DRIVING AT 45MPH WHEN ALL OF THE SUDDEN ALL GAUGES, POWER STEERING, AND ENGINE WENT ERRATIC. LOST POWER STEERING GOING DOWN HWY. CAR DARTED TO THE LEFT A LITTLE. TOOK THE CAR TO DEALER FOR A DIAGNOSTIC. WAS TOLD BY DEALER THAT THE DATA LINK CIRCUIT SHORTED CAUSING ELECTRIC SH",
+      "pct": 19
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 30,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET HHR. THE CONTACT STATED THAT WHILE DRIVING 45 TO 50 MPH, SHE STEERED THE VEHICVLE TO THE LEFT IN AN ATTEMPT TO AVOID CRASHING. THE CONTACT MOMENTARILY LOST CONTROL OF THE VEHICLE, VEERED TO THE RIGHT ACROSS THE ROADWAY, AND CRASHED INTO A GUAR",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 25,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET HHR. THE CONTACT STATED WHILE DRIVING 35 MPH THE STEERING WHEEL BEGAN PULLING TO THE LEFT. THE VEHICLE WAS TAKEN TO THE DEALER WHO WAS UNABLE TO CORRECT THE PROBLEM. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE BUT DID NOT OFFER ANY ASSISTA",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET HHR. WHILE DRIVING APPROXIMATELY 20 MPH, THE CONTACT NOTICED THE ESC WARNING INDICATOR ILLUMINATED ON THE INSTRUMENT PANEL. SUDDENLY THE SPEED DECREASED AND THE ABS BEGAN TO ACTIVATE. IN ADDITION, THE VEHICLE SURGED FORWARD WITH EXCESSIVE VIB",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Hhr owners report most",
+    "summary": "Across 203 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 43,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING A FREEWAY SPEEDS WHEN THE ENGINE SUDDENLY WENT INTO LIMP HOME MODE.  I RECEIVED THE FOLLOWING DASH INDICATIONS - SERVICE ESC, TRACTION OFF, REDUCED ENGINE POWER.    UPON FURTHER INSPECTION WE FOUND A FAILED ACCELERATOR POSITION SENSOR AND WE HAD THE FOLLOWING TROUBL",
+        "pct": 21,
+        "title": "Fuel/Propulsion System",
+        "blurb": "43 reports (21%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 39,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "WAS DRIVING AT 45MPH WHEN ALL OF THE SUDDEN ALL GAUGES, POWER STEERING, AND ENGINE WENT ERRATIC. LOST POWER STEERING GOING DOWN HWY. CAR DARTED TO THE LEFT A LITTLE. TOOK THE CAR TO DEALER FOR A DIAGNOSTIC. WAS TOLD BY DEALER THAT THE DATA LINK CIRCUIT SHORTED CAUSING ELECTRIC SH",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "39 reports (19%) · 2 crash · 5 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 30,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET HHR. THE CONTACT STATED THAT WHILE DRIVING 45 TO 50 MPH, SHE STEERED THE VEHICVLE TO THE LEFT IN AN ATTEMPT TO AVOID CRASHING. THE CONTACT MOMENTARILY LOST CONTROL OF THE VEHICLE, VEERED TO THE RIGHT ACROSS THE ROADWAY, AND CRASHED INTO A GUAR",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "30 reports (15%) · 6 crash · 6 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 25,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET HHR. THE CONTACT STATED WHILE DRIVING 35 MPH THE STEERING WHEEL BEGAN PULLING TO THE LEFT. THE VEHICLE WAS TAKEN TO THE DEALER WHO WAS UNABLE TO CORRECT THE PROBLEM. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE BUT DID NOT OFFER ANY ASSISTA",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "25 reports (12%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET HHR. WHILE DRIVING APPROXIMATELY 20 MPH, THE CONTACT NOTICED THE ESC WARNING INDICATOR ILLUMINATED ON THE INSTRUMENT PANEL. SUDDENLY THE SPEED DECREASED AND THE ABS BEGAN TO ACTIVATE. IN ADDITION, THE VEHICLE SURGED FORWARD WITH EXCESSIVE VIB",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "24 reports (12%) · 1 injured"
+      }
+    ]
+  }
+}

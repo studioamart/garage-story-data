@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-07-19T23:48:59.927Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 27,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "I WAS TRAVELING 20-25 MPH WHEN I NOTICED ANOTHER CAR ABRUPTLY MAKING A LEFT HAND TURN IN FRONT OF ME. THIS CAR WAS TRAVELING THE SAME DIRECTION AS ME. I TRIED TO AVOID HITTING THE CAR BY SWERVING TO THE RIGHT, BUT I CLIPPED THE PASSENGER REAR QUARTER WHICH RESULTED IN A AIRBAG DE",
+      "pct": 69
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FIREWALL: ON 12/2010, WHILE DRIVING DOWN THE INTERSTATE THERE WAS A HIGH PITCHED SQUEAL FROM THE FIREWALL AREA.  WINDSHIELD MOLDING: ON 07/2011, WHILE DRIVING DOWN THE ROAD THE MOLDING CAME LOOSE & WAS FLAPPING IN THE WIND, I PUSHED IT BACK IN UNTIL A DEALER COULD LOOK AT IT & TH",
+      "pct": 15
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "New strut assemblies (complete struts, assembled by manufacturer) were professionally installed on 01/03/2023. During a road test, clunking on the front right of the vehicle. The vehicle was returned to the shop to investigate the issue.   The issue was determined to be the strut",
+      "pct": 3
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2011 Honda Ridgeline. The contact stated that during rainy weather conditions, there would be rain exposure to the dashboard. The contact noticed that in the winter months the dashboard would have frost on it the same as the outside. The vehicle seemed as thoug",
+      "pct": 3
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The back passenger door opens by itself while I'm driving. The heater mode never changes when I switch it to defrost, face, feet.",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Ridgeline owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Air Bags (69% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 27,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "I WAS TRAVELING 20-25 MPH WHEN I NOTICED ANOTHER CAR ABRUPTLY MAKING A LEFT HAND TURN IN FRONT OF ME. THIS CAR WAS TRAVELING THE SAME DIRECTION AS ME. I TRIED TO AVOID HITTING THE CAR BY SWERVING TO THE RIGHT, BUT I CLIPPED THE PASSENGER REAR QUARTER WHICH RESULTED IN A AIRBAG DE",
+        "pct": 69,
+        "title": "Air Bags",
+        "blurb": "27 reports (69%) · 2 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FIREWALL: ON 12/2010, WHILE DRIVING DOWN THE INTERSTATE THERE WAS A HIGH PITCHED SQUEAL FROM THE FIREWALL AREA.  WINDSHIELD MOLDING: ON 07/2011, WHILE DRIVING DOWN THE ROAD THE MOLDING CAME LOOSE & WAS FLAPPING IN THE WIND, I PUSHED IT BACK IN UNTIL A DEALER COULD LOOK AT IT & TH",
+        "pct": 15,
+        "title": "Structure",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "New strut assemblies (complete struts, assembled by manufacturer) were professionally installed on 01/03/2023. During a road test, clunking on the front right of the vehicle. The vehicle was returned to the shop to investigate the issue.   The issue was determined to be the strut",
+        "pct": 3,
+        "title": "Suspension",
+        "blurb": "1 report (3%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2011 Honda Ridgeline. The contact stated that during rainy weather conditions, there would be rain exposure to the dashboard. The contact noticed that in the winter months the dashboard would have frost on it the same as the outside. The vehicle seemed as thoug",
+        "pct": 3,
+        "title": "Visibility",
+        "blurb": "1 report (3%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The back passenger door opens by itself while I'm driving. The heater mode never changes when I switch it to defrost, face, feet.",
+        "pct": 3,
+        "title": "Electrical System",
+        "blurb": "1 report (3%)"
+      }
+    ]
+  }
+}

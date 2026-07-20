@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/FIESTA#complaints",
+  "generatedAt": "2026-07-19T23:57:10.441Z",
+  "total": 616,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 274,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THIS IS A BRAND NEW CAR ,PURCHASED AT FULLER FORD IN CINCINNATI OHIO,  TWO DAYS IN MY POSSESSION, THE TRANSMISSION LOCKED UP AND STARTING BURNING, THE CAR WOULD NOT MOVE AT ALL , IN THE MIDDLE OF THE ROAD , THIS COULD HAVE CAUSED A SERIOUS ACCIDENT OR EVEN DEATHS, FORD KNOWS ABOU",
+      "pct": 44
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 128,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "WE WERE ON THE HIGHWAY WHILE IT WAS SNOWING. ALL OF THE OTHER VEHICLES WERE SLOWING DOWN BECAUSE THERE WAS AN ACCIDENT BLOCKING OFF THE HIGHWAY. EVENTUALLY WE ALL CAME TO A STOP.  AFTER WE STOPPED THERE WAS A YUKON THAT WAS UNABLE TO STOP BECAUSE OF CONDITIONS AND ITS LOAD AND HI",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 68,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED MY \"NEW\" VEHICLE IN AUGUST 2012 AND VERY SOON THERE AFTER I HEARD A RATTLING NOISE IN THE FRONT OF THE CAR.  THE DEALERSHIP MADE A DATE FOR ME TO BRING THE CAR IN.  THEY STATED THAT THEY WERE NOT ABLE TO HEAR THE NOISE BUT THAT FORD WAS AWARE OF THE PROBLEM BECAUSE OT",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 66,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE VEHICLE, DRIVER WAS ENTERING THE FREEWAY, THE VEHICLE SHIFTED THROUGH ALL THE GEARS RAPIDLY LEAVING THE VEHICLE MOVING AT ~40 - 45MPH AND NOT SPEEDING UP. THE ACCELERATION PEDAL WAS TO THE FLOOR AND THE CARE DIDN'T INCREASE IN SPEED AND WAS ALMOST REAR ENDED BEC",
+      "pct": 11
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 56,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD FIESTA. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE REAR PASSENGER SIDE DOOR OPENED AND THE LATCH DETACHED. THE CONTACT ALSO STATED THAT THE REAR DRIVER SIDE DOOR LATCH DETACHED PREVIOUSLY. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DI",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Fiesta owners report most",
+    "summary": "Across 616 owner complaints to NHTSA, the most reported area is Power Train (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 274,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THIS IS A BRAND NEW CAR ,PURCHASED AT FULLER FORD IN CINCINNATI OHIO,  TWO DAYS IN MY POSSESSION, THE TRANSMISSION LOCKED UP AND STARTING BURNING, THE CAR WOULD NOT MOVE AT ALL , IN THE MIDDLE OF THE ROAD , THIS COULD HAVE CAUSED A SERIOUS ACCIDENT OR EVEN DEATHS, FORD KNOWS ABOU",
+        "pct": 44,
+        "title": "Power Train",
+        "blurb": "274 reports (44%) · 3 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 128,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "WE WERE ON THE HIGHWAY WHILE IT WAS SNOWING. ALL OF THE OTHER VEHICLES WERE SLOWING DOWN BECAUSE THERE WAS AN ACCIDENT BLOCKING OFF THE HIGHWAY. EVENTUALLY WE ALL CAME TO A STOP.  AFTER WE STOPPED THERE WAS A YUKON THAT WAS UNABLE TO STOP BECAUSE OF CONDITIONS AND ITS LOAD AND HI",
+        "pct": 21,
+        "title": "Structure",
+        "blurb": "128 reports (21%) · 2 crash · 5 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 68,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED MY \"NEW\" VEHICLE IN AUGUST 2012 AND VERY SOON THERE AFTER I HEARD A RATTLING NOISE IN THE FRONT OF THE CAR.  THE DEALERSHIP MADE A DATE FOR ME TO BRING THE CAR IN.  THEY STATED THAT THEY WERE NOT ABLE TO HEAR THE NOISE BUT THAT FORD WAS AWARE OF THE PROBLEM BECAUSE OT",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "68 reports (11%) · 2 fire · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 66,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE VEHICLE, DRIVER WAS ENTERING THE FREEWAY, THE VEHICLE SHIFTED THROUGH ALL THE GEARS RAPIDLY LEAVING THE VEHICLE MOVING AT ~40 - 45MPH AND NOT SPEEDING UP. THE ACCELERATION PEDAL WAS TO THE FLOOR AND THE CARE DIDN'T INCREASE IN SPEED AND WAS ALMOST REAR ENDED BEC",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "66 reports (11%) · 4 fire"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 56,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD FIESTA. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE REAR PASSENGER SIDE DOOR OPENED AND THE LATCH DETACHED. THE CONTACT ALSO STATED THAT THE REAR DRIVER SIDE DOOR LATCH DETACHED PREVIOUSLY. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DI",
+        "pct": 9,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "56 reports (9%)"
+      }
+    ]
+  }
+}

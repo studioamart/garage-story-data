@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-colorado",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/COLORADO#complaints",
+  "generatedAt": "2026-07-19T23:56:10.548Z",
+  "total": 41,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I NOTICED THE AIRBAG WARNING LIGHT ON ONE MORNING IN LATE OCTOBER. AS I WAS GOING OUT OF TOWN, I COULD NOT DEAL WITH IT UNTIL I GOT BACK, LAST WEEK. WHEN I TOOK IT TO THE DEALER, ON SATURDAY, THEY READ THE ERROR CODES FROM THE AIRBAG MODULE, BUT COULD NOT INTERPRET THEM, AS THE S",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2012 CHEVROLET COLORADO.  CONSUMER WRITES IN REGARDS TO TRANSMISSION ISSUES.  *SMD  THE CONSUMER STATED THE VEHICLE WOULD NOT START. THE VEHICLE WAS TOWED TO THE DEALER. WHEN THE CONSUMER CALLED THE DEALER A COUPLE OF DAYS LATER, HE WAS INFORMED THE ISSUE WAS THE TRANSMISSION. TH",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS ON THE FREEWAY GOING TO WORK AT 5:00 AM WITH ALMOST NO TRAFFIC.  A PICKUP TRUCK IN THE NEXT LANE LEFT OF ME HAD A PIECE OF PLYWOOD EJECTED FROM THE BED AND WAS FLYING THROUGH THE AIR TOWARDS THE FRONT OF MY PICKUP.  I SAW IT COMING AT ME AND I DEPRESSED THE BRAKE PEDAL ONCE",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET COLORADO. WHILE DRIVING APPROXIMATELY 5 MPH THE CONTACT HEARD A POPPING SOUND COMING FROM THE EXHAUST SYSTEM. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTICS. THE TECHNICIAN ADVISED THAT THE MUFFLER WOULD HAVE TO BE REPLACED. THE MUFFLER ",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2012 CHEVY COLORADO EXTENDED CAB 2X4 I4 ENGINE LT1.   THE PROBLEM IS IN THE STEERING. THE STEERING IS EXTREMELY HARD TURNING. THE STEERING DOES NOT RETURN TO CENTER AT MORE THAN 30 DEGREASE WHEN AFTER MAKING A TURN. WHEN STARTING OUT, TURN WHEEL 90 DEGREASE AND THEN PROCEED FORWA",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Colorado owners report most",
+    "summary": "Across 41 owner complaints to NHTSA, the most reported area is Air Bags (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I NOTICED THE AIRBAG WARNING LIGHT ON ONE MORNING IN LATE OCTOBER. AS I WAS GOING OUT OF TOWN, I COULD NOT DEAL WITH IT UNTIL I GOT BACK, LAST WEEK. WHEN I TOOK IT TO THE DEALER, ON SATURDAY, THEY READ THE ERROR CODES FROM THE AIRBAG MODULE, BUT COULD NOT INTERPRET THEM, AS THE S",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "9 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2012 CHEVROLET COLORADO.  CONSUMER WRITES IN REGARDS TO TRANSMISSION ISSUES.  *SMD  THE CONSUMER STATED THE VEHICLE WOULD NOT START. THE VEHICLE WAS TOWED TO THE DEALER. WHEN THE CONSUMER CALLED THE DEALER A COUPLE OF DAYS LATER, HE WAS INFORMED THE ISSUE WAS THE TRANSMISSION. TH",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "8 reports (20%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS ON THE FREEWAY GOING TO WORK AT 5:00 AM WITH ALMOST NO TRAFFIC.  A PICKUP TRUCK IN THE NEXT LANE LEFT OF ME HAD A PIECE OF PLYWOOD EJECTED FROM THE BED AND WAS FLYING THROUGH THE AIR TOWARDS THE FRONT OF MY PICKUP.  I SAW IT COMING AT ME AND I DEPRESSED THE BRAKE PEDAL ONCE",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "7 reports (17%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET COLORADO. WHILE DRIVING APPROXIMATELY 5 MPH THE CONTACT HEARD A POPPING SOUND COMING FROM THE EXHAUST SYSTEM. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTICS. THE TECHNICIAN ADVISED THAT THE MUFFLER WOULD HAVE TO BE REPLACED. THE MUFFLER ",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "7 reports (17%) · 1 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2012 CHEVY COLORADO EXTENDED CAB 2X4 I4 ENGINE LT1.   THE PROBLEM IS IN THE STEERING. THE STEERING IS EXTREMELY HARD TURNING. THE STEERING DOES NOT RETURN TO CENTER AT MORE THAN 30 DEGREASE WHEN AFTER MAKING A TURN. WHEN STARTING OUT, TURN WHEEL 90 DEGREASE AND THEN PROCEED FORWA",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "5 reports (12%) · 1 crash"
+      }
+    ]
+  }
+}

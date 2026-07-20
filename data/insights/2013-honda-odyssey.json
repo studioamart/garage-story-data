@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-07-19T23:49:19.879Z",
+  "total": 209,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 68,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A DEER RAN IN FRONT OF OUR  2013 HONDA ODYSSEY VAN, WE HIT THE DEER DEAD CENTER NEITHER HEADLIGHT WAS BROKEN HOWEVER, THE GRILL, AC CONDENSER, FAN, GRILL, BUMPER, HOOD, LOCK ASSEMBLY AND SECURITY SYSTEM , RADIATOR SUPPORT AND MANY OTHER PARTS WERE DAMAGED TOTALING $4263.06. THE M",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 56,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE BRAKE ROTORS HAVE BECOME WARPED AND NEEDED TO BE RESURFACED.   ONLY THREE THOUSAND MILES AFTER THE REPAIR THE BRAKE ROTORS NEED TO BE REPLACED DUE TO THE SAME ISSUE.    DRIVING HABITS ARE NOT THE CAUSE - AS THIS IS THE FIRST VEHICLE I HAVE OWNED THAT HAS EVER HAD THIS PROBLEM",
+      "pct": 27
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 20,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WE HAVE DISCOVERED THAT THE 2013 MODELS OF THIS VEHICLE DO NOT SOUND THE BEEPER IF THE DRIVER OR FRONT PASSENGER DOOR IS OPEN WHILE DRIVING.  PAGE 77 OF THE OWNER'S MANUAL CLEARLY STATES \"THE BEEPER SOUNDS AND THE INDICATOR COMES ON IF ANY DOOR OR THE TAILGATE IS OPEN WHILE DRIVI",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AIR CONDITION IN THE VEHICLE COMES BY ITSELF AND GOES OFF AFTER CERTAIN TIME EVEN THOUGH THE SWITCH IS OFF. WE GET COLD IN THE VEHICLE AND DOESN'T HAVE ANYWAY TO SWITCH IT OFF. DRIVER NEED TO SWITCH OFF FAN WHEN IT'S TOO COLD AND SWITCH ON THE FAN WHEN THE CABIN BECOMES HOT. HAVI",
+      "pct": 7
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 14,
+      "crash": 8,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "A DEER RAN IN FRONT OF OUR  2013 HONDA ODYSSEY VAN, WE HIT THE DEER DEAD CENTER NEITHER HEADLIGHT WAS BROKEN HOWEVER, THE GRILL, AC CONDENSER, FAN, GRILL, BUMPER, HOOD, LOCK ASSEMBLY AND SECURITY SYSTEM , RADIATOR SUPPORT AND MANY OTHER PARTS WERE DAMAGED TOTALING $4263.06. THE M",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Odyssey owners report most",
+    "summary": "Across 209 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 68,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A DEER RAN IN FRONT OF OUR  2013 HONDA ODYSSEY VAN, WE HIT THE DEER DEAD CENTER NEITHER HEADLIGHT WAS BROKEN HOWEVER, THE GRILL, AC CONDENSER, FAN, GRILL, BUMPER, HOOD, LOCK ASSEMBLY AND SECURITY SYSTEM , RADIATOR SUPPORT AND MANY OTHER PARTS WERE DAMAGED TOTALING $4263.06. THE M",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "68 reports (33%) · 3 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 56,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE BRAKE ROTORS HAVE BECOME WARPED AND NEEDED TO BE RESURFACED.   ONLY THREE THOUSAND MILES AFTER THE REPAIR THE BRAKE ROTORS NEED TO BE REPLACED DUE TO THE SAME ISSUE.    DRIVING HABITS ARE NOT THE CAUSE - AS THIS IS THE FIRST VEHICLE I HAVE OWNED THAT HAS EVER HAD THIS PROBLEM",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "56 reports (27%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 20,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WE HAVE DISCOVERED THAT THE 2013 MODELS OF THIS VEHICLE DO NOT SOUND THE BEEPER IF THE DRIVER OR FRONT PASSENGER DOOR IS OPEN WHILE DRIVING.  PAGE 77 OF THE OWNER'S MANUAL CLEARLY STATES \"THE BEEPER SOUNDS AND THE INDICATOR COMES ON IF ANY DOOR OR THE TAILGATE IS OPEN WHILE DRIVI",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "20 reports (10%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AIR CONDITION IN THE VEHICLE COMES BY ITSELF AND GOES OFF AFTER CERTAIN TIME EVEN THOUGH THE SWITCH IS OFF. WE GET COLD IN THE VEHICLE AND DOESN'T HAVE ANYWAY TO SWITCH IT OFF. DRIVER NEED TO SWITCH OFF FAN WHEN IT'S TOO COLD AND SWITCH ON THE FAN WHEN THE CABIN BECOMES HOT. HAVI",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "15 reports (7%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 14,
+        "crash": 8,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "A DEER RAN IN FRONT OF OUR  2013 HONDA ODYSSEY VAN, WE HIT THE DEER DEAD CENTER NEITHER HEADLIGHT WAS BROKEN HOWEVER, THE GRILL, AC CONDENSER, FAN, GRILL, BUMPER, HOOD, LOCK ASSEMBLY AND SECURITY SYSTEM , RADIATOR SUPPORT AND MANY OTHER PARTS WERE DAMAGED TOTALING $4263.06. THE M",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "14 reports (7%) · 1 fire · 8 crash · 6 injured"
+      }
+    ]
+  }
+}

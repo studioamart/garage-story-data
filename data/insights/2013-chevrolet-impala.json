@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-07-19T23:57:40.318Z",
+  "total": 270,
+  "issues": [
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 108,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I JUST PURCHASED MY 2013 CHEVROLET IMPALA LTZ IN THE LAST 30 DAYS.  HAVE DRIVEN LESS THAN 1500 MILES.   WHILE HIGHWAY DRIVING, I RECEIVED A SERVICE STABILITRAK AND A SLIGHT NOISE OCCURRED WHILE DRIVING.  GM CUSTOMER CARE WAS CLOSED AT THAT TIME, HOWEVER NEXT MORNING THE SERVICE W",
+      "pct": 40
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 53,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET IMPALA. THE CONTACT STATED THAT WHILE DRIVING 5 MPH, THE BRAKE PEDAL WAS ENGAGED BUT THE VEHICLE FAILED TO DECELERATE AND THE CONTACT CRASHED INTO ANOTHER VEHICLE. THERE WERE NO INJURIES OR VISIBLE DAMAGE TO EITHER VEHICLE. A POLICE REPORT WA",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 52,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY 2013 CHEVROLET IMPALA'S ELECTRICAL SYSTEM FAILED.  THERE WERE NO LIGHTS, RADIO, AIR CONDITIONER, GAUGE LIGHTS, POWER STEERING OR POWER BRAKES.  THE ENGINE REMAINED RUNNING AS DID THE TRANSMISSION. THIS LASTED ABOUT FIVE MINUTES.(THERE ARE NO PLACES TO STOP ON OUR ROADS.) THE F",
+      "pct": 19
+    },
+    {
+      "component": "STEERING",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I PURCHASED A 2013 IMPALA IN NOVEMBER WITH 19,000 MILES ON IT. I NOTICED A BANG IN THE FRONT END WHEN BACKING OUT OF DRIVEWAY CUTTING TO THE RIGHT OR LEFT. THE DRIVERS TIRE IS WEARING UNEVEN BECAUSE THE ALIGNMENT IS OFF \"BUT ONLY SLIGHTLY AND WITHIN SPECS\". STEERING WHEEL SHAKES ",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 33,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "2013 CHEVROLET IMPALA RENTAL CAR. CONSUMER WRITES IN REGARDS TO SHIFT INDICATOR ISSUES *TGW   THE CONSUMER STATED GM THOUGHT IT WAS A GOOD IDEA TO REMOVE THE LETTERS FROM THE SHIFT INDICATOR CONSOLE BETWEEN THE TWO FRONT SEATS. INSTEAD, GM PUT THE SHIFT INDICATOR AT THE VERY BOTT",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Impala owners report most",
+    "summary": "Across 270 owner complaints to NHTSA, the most reported area is Electronic Stability Control (Esc) (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 108,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I JUST PURCHASED MY 2013 CHEVROLET IMPALA LTZ IN THE LAST 30 DAYS.  HAVE DRIVEN LESS THAN 1500 MILES.   WHILE HIGHWAY DRIVING, I RECEIVED A SERVICE STABILITRAK AND A SLIGHT NOISE OCCURRED WHILE DRIVING.  GM CUSTOMER CARE WAS CLOSED AT THAT TIME, HOWEVER NEXT MORNING THE SERVICE W",
+        "pct": 40,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "108 reports (40%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 53,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET IMPALA. THE CONTACT STATED THAT WHILE DRIVING 5 MPH, THE BRAKE PEDAL WAS ENGAGED BUT THE VEHICLE FAILED TO DECELERATE AND THE CONTACT CRASHED INTO ANOTHER VEHICLE. THERE WERE NO INJURIES OR VISIBLE DAMAGE TO EITHER VEHICLE. A POLICE REPORT WA",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "53 reports (20%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 52,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY 2013 CHEVROLET IMPALA'S ELECTRICAL SYSTEM FAILED.  THERE WERE NO LIGHTS, RADIO, AIR CONDITIONER, GAUGE LIGHTS, POWER STEERING OR POWER BRAKES.  THE ENGINE REMAINED RUNNING AS DID THE TRANSMISSION. THIS LASTED ABOUT FIVE MINUTES.(THERE ARE NO PLACES TO STOP ON OUR ROADS.) THE F",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "52 reports (19%) · 4 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I PURCHASED A 2013 IMPALA IN NOVEMBER WITH 19,000 MILES ON IT. I NOTICED A BANG IN THE FRONT END WHEN BACKING OUT OF DRIVEWAY CUTTING TO THE RIGHT OR LEFT. THE DRIVERS TIRE IS WEARING UNEVEN BECAUSE THE ALIGNMENT IS OFF \"BUT ONLY SLIGHTLY AND WITHIN SPECS\". STEERING WHEEL SHAKES ",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "34 reports (13%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 33,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "2013 CHEVROLET IMPALA RENTAL CAR. CONSUMER WRITES IN REGARDS TO SHIFT INDICATOR ISSUES *TGW   THE CONSUMER STATED GM THOUGHT IT WAS A GOOD IDEA TO REMOVE THE LETTERS FROM THE SHIFT INDICATOR CONSOLE BETWEEN THE TWO FRONT SEATS. INSTEAD, GM PUT THE SHIFT INDICATOR AT THE VERY BOTT",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "33 reports (12%) · 3 crash · 3 injured"
+      }
+    ]
+  }
+}

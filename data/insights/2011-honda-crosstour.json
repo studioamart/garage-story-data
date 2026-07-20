@@ -1,0 +1,62 @@
+{
+  "slug": "2011-honda-crosstour",
+  "make": "Honda",
+  "model": "Crosstour",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/CROSSTOUR#complaints",
+  "generatedAt": "2026-07-19T23:49:00.582Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT ACCELERATION BETWEEN 25-45MPH EXTREME SHAKING. WENT TO GET VEHICLE DIAGNOSTICS AND DETERMINED IT WAS FAILED AXEL DUE TO HISTORY FROM OTHER HONDA CROSSTOUR OWNERS. BOTH AXELS REPLACED AT OVER $1200 AND SHAKING IS GONE. THE CAR HAS ABOUT 56000 MILES.",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL.  WHEN I FOUND OUT MY APPOINTMENT WAS SCHEDULED WEEKS OUT.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Crosstour owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT ACCELERATION BETWEEN 25-45MPH EXTREME SHAKING. WENT TO GET VEHICLE DIAGNOSTICS AND DETERMINED IT WAS FAILED AXEL DUE TO HISTORY FROM OTHER HONDA CROSSTOUR OWNERS. BOTH AXELS REPLACED AT OVER $1200 AND SHAKING IS GONE. THE CAR HAS ABOUT 56000 MILES.",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL.  WHEN I FOUND OUT MY APPOINTMENT WAS SCHEDULED WEEKS OUT.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-suburban",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/SUBURBAN#complaints",
+  "generatedAt": "2026-07-19T23:52:27.154Z",
+  "total": 161,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 63,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE DISCOVERY OF THE DEFECT WAS ON SEPTEMBER 2012.  THERE IS A CRACK ON THE DASH ABOVE THE VEHICLES INSTRUMENTATION I.E. SPEEDOMETER, OIL PRESSURE, GAS LEVEL, ETC.  I REPORTED TO LOCAL GM DEALERSHIP (HENRY BROWN CHEVROLET) ABOUT THE DEFECT AND MY CONCERN FOR SAFETY.   THEY SAID T",
+      "pct": 39
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ELECTRICAL MALFUNCTION ON MY 2009 CHEVROLET SUBURBAN LTZ. THE CAR WAS PURCHASED NEW FROM THE DEALER IN NOV 2009. UPON DELIVERY, IT WAS NOTED THAT THE DASH LIGHTS FOR FUNCTION BUTTONS DID NOT ILLUMINATE AND VISOR LAMPS WERE INOPERABLE. DEALER ASSURED US THAT THEY WOULD FIX THE PRO",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DASHBOARD ON THE DRIVER SIDED CRACKED INTO 2 PIECES.  I AM NOT THE ONLY ONE WHO HAVE HAD THIS ISSUES.  I FOUND QUITE NUMBERS OF OWNER HAVE THE SAME PROBLEM.  THIS IS NOT THE QUALITY YOU EXPECT FROM $50K VEHICLE,  I BELIEVE IT IS DUE TO \"POORLY\" FINISHED JOB.    GM SIMPLY REFUSES ",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED A 2008 CHEVROLET SUBURBAN IN 2010, WITH APPROXIMATELY 26,000 MILES. IT CURRENTLY HAS 64,353 MILES AND THE ENGINE IS VIGOROUSLY CONSUMING OIL. ON JULY 10TH, 2013 I WAS ON THE PARKWAY WHEN I BEGAN TO HEAR A TICKING NOSE COMING FROM THE FRONT OF THE VEHICLE, THE WARNING IN",
+      "pct": 10
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 CHEVY SUBURBAN CURRENTLY HAS 57,000 MILES.  STARTING AROUND 30,000 MILES THE AUTOMATIC LOCKS STARTED TO STOP WORKING.  NOW THE PASSENGER FRONT, PASSENGER REAR, AND DRIVERS SIDE READ DOOR LOCKS DO NOT WORK.  THEY DO NOT LOCK OR UNLOCK WHILE PUSHING THE SWITCH ON DOOR OR USING",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Suburban owners report most",
+    "summary": "Across 161 owner complaints to NHTSA, the most reported area is Air Bags (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 63,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE DISCOVERY OF THE DEFECT WAS ON SEPTEMBER 2012.  THERE IS A CRACK ON THE DASH ABOVE THE VEHICLES INSTRUMENTATION I.E. SPEEDOMETER, OIL PRESSURE, GAS LEVEL, ETC.  I REPORTED TO LOCAL GM DEALERSHIP (HENRY BROWN CHEVROLET) ABOUT THE DEFECT AND MY CONCERN FOR SAFETY.   THEY SAID T",
+        "pct": 39,
+        "title": "Air Bags",
+        "blurb": "63 reports (39%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ELECTRICAL MALFUNCTION ON MY 2009 CHEVROLET SUBURBAN LTZ. THE CAR WAS PURCHASED NEW FROM THE DEALER IN NOV 2009. UPON DELIVERY, IT WAS NOTED THAT THE DASH LIGHTS FOR FUNCTION BUTTONS DID NOT ILLUMINATE AND VISOR LAMPS WERE INOPERABLE. DEALER ASSURED US THAT THEY WOULD FIX THE PRO",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "22 reports (14%) · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DASHBOARD ON THE DRIVER SIDED CRACKED INTO 2 PIECES.  I AM NOT THE ONLY ONE WHO HAVE HAD THIS ISSUES.  I FOUND QUITE NUMBERS OF OWNER HAVE THE SAME PROBLEM.  THIS IS NOT THE QUALITY YOU EXPECT FROM $50K VEHICLE,  I BELIEVE IT IS DUE TO \"POORLY\" FINISHED JOB.    GM SIMPLY REFUSES ",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "19 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED A 2008 CHEVROLET SUBURBAN IN 2010, WITH APPROXIMATELY 26,000 MILES. IT CURRENTLY HAS 64,353 MILES AND THE ENGINE IS VIGOROUSLY CONSUMING OIL. ON JULY 10TH, 2013 I WAS ON THE PARKWAY WHEN I BEGAN TO HEAR A TICKING NOSE COMING FROM THE FRONT OF THE VEHICLE, THE WARNING IN",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "16 reports (10%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 CHEVY SUBURBAN CURRENTLY HAS 57,000 MILES.  STARTING AROUND 30,000 MILES THE AUTOMATIC LOCKS STARTED TO STOP WORKING.  NOW THE PASSENGER FRONT, PASSENGER REAR, AND DRIVERS SIDE READ DOOR LOCKS DO NOT WORK.  THEY DO NOT LOCK OR UNLOCK WHILE PUSHING THE SWITCH ON DOOR OR USING",
+        "pct": 7,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "11 reports (7%)"
+      }
+    ]
+  }
+}

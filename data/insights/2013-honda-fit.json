@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-fit",
+  "make": "Honda",
+  "model": "Fit",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/FIT#complaints",
+  "generatedAt": "2026-07-19T23:49:17.275Z",
+  "total": 175,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 92,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL- THE CONTACT OWNS A 2013 HONDA FIT.  THE CONTACT STATED THAT THE VEHICLE WOULD NOT START.  THE VEHICLE WAS TOWED TO THE DEALERSHIP.  THE FAILURE OCCURRED THREE TIMES.  THE DIAGNOSIS OF THE VEHICLE WAS THAT THE BATTERY WAS DISCHARGED.  THE VEHICLE WAS REPAIRED.  THE FAILURE REC",
+      "pct": 53
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA FIT. THE CONTACT STATED THAT THE DOORS FAILED TO OPEN. AFTER 30 SECONDS, THE DOORS WERE ABLE TO BE OPENED HOWEVER, THE ANTI-THEFT ALARM ALSO ACTIVATED. THE CONTACT WAS ABLE TO ENTER THE VEHICLE AND START THE ENGINE, DEACTIVATING THE ANTI-THEFT AL",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE ARE \"VENTS\" BELOW THE LICENSE PLATE HOLDER NEAR THE ROAD, WIDE ENOUGH TO SIGNIFICANTLY EXPOSE THE ENGINE TO DAMAGE FROM ROAD DEBRIS SUCH AS A BIG ROCK. THIS CAUSES ROAD DEBRIS TO ENTER AND HIT THE A/C CONDENSER ONLY INCHES BEHIND THE OPENING. I HAVE RESEARCHED THIS PROBLEM ",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA FIT. WHILE DRIVING APPROXIMATELY 5 MPH, THE VEHICLE MADE A LOUD NOISE AND THE TRANSMISSION FAILED. THE TRANSMISSION WARNING INDICATOR ILLUMINATED AND THE VEHICLE SHOOK. THE CONTACT HAD TO DRIVE VERY SLOWLY BEFORE THE VEHICLE STALLED. THE VEHICLE ",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 9,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "I WAS ENTERING A PARKING PLACE AT APPROXIMATELY 3 MPH, TRYING TO ADJUST THE ANGLE OF ENTRY.  WHEN I STEPPED ON THE ACCELERATOR THE CAR BOLTED FORWARD.  I APPLIED THE BRAKE BUT THE ACCELERATION WAS TOO FAST TO KEEP THE BRAKE FROM STOPPING THE CAR FROM COLLIDING WITH THE GUARD RAIL",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Fit owners report most",
+    "summary": "Across 175 owner complaints to NHTSA, the most reported area is Air Bags (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 92,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL- THE CONTACT OWNS A 2013 HONDA FIT.  THE CONTACT STATED THAT THE VEHICLE WOULD NOT START.  THE VEHICLE WAS TOWED TO THE DEALERSHIP.  THE FAILURE OCCURRED THREE TIMES.  THE DIAGNOSIS OF THE VEHICLE WAS THAT THE BATTERY WAS DISCHARGED.  THE VEHICLE WAS REPAIRED.  THE FAILURE REC",
+        "pct": 53,
+        "title": "Air Bags",
+        "blurb": "92 reports (53%) · 1 fire · 6 crash · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA FIT. THE CONTACT STATED THAT THE DOORS FAILED TO OPEN. AFTER 30 SECONDS, THE DOORS WERE ABLE TO BE OPENED HOWEVER, THE ANTI-THEFT ALARM ALSO ACTIVATED. THE CONTACT WAS ABLE TO ENTER THE VEHICLE AND START THE ENGINE, DEACTIVATING THE ANTI-THEFT AL",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "22 reports (13%) · 3 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE ARE \"VENTS\" BELOW THE LICENSE PLATE HOLDER NEAR THE ROAD, WIDE ENOUGH TO SIGNIFICANTLY EXPOSE THE ENGINE TO DAMAGE FROM ROAD DEBRIS SUCH AS A BIG ROCK. THIS CAUSES ROAD DEBRIS TO ENTER AND HIT THE A/C CONDENSER ONLY INCHES BEHIND THE OPENING. I HAVE RESEARCHED THIS PROBLEM ",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "14 reports (8%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA FIT. WHILE DRIVING APPROXIMATELY 5 MPH, THE VEHICLE MADE A LOUD NOISE AND THE TRANSMISSION FAILED. THE TRANSMISSION WARNING INDICATOR ILLUMINATED AND THE VEHICLE SHOOK. THE CONTACT HAD TO DRIVE VERY SLOWLY BEFORE THE VEHICLE STALLED. THE VEHICLE ",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "11 reports (6%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 9,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "I WAS ENTERING A PARKING PLACE AT APPROXIMATELY 3 MPH, TRYING TO ADJUST THE ANGLE OF ENTRY.  WHEN I STEPPED ON THE ACCELERATOR THE CAR BOLTED FORWARD.  I APPLIED THE BRAKE BUT THE ACCELERATION WAS TOO FAST TO KEEP THE BRAKE FROM STOPPING THE CAR FROM COLLIDING WITH THE GUARD RAIL",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "9 reports (5%) · 1 fire · 4 crash · 11 injured"
+      }
+    ]
+  }
+}

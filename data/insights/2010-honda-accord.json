@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-07-19T23:48:30.564Z",
+  "total": 579,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 134,
+      "crash": 25,
+      "fire": 1,
+      "injuries": 27,
+      "deaths": 1,
+      "sample": "TL*THE CONTACT OWNS A 2010 HONDA ACCORD EXL(NA). WHILE DRIVING 55 MPH, ANOTHER VEHICLE CRASHED INTO THE CONTACT'S VEHICLE HEAD-ON. NO AIR BAGS DEPLOYED. TWO PEOPLE WERE INJURED. A POLICE REPORT WAS FILED. THE VEHICLE WAS WITH THE INSURANCE COMPANY BEING INSPECTED. THE DEALER STAT",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 129,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2009 HONDA ACCORD WAS FOUND BY DEALER TO HAVE \"NO REAR BRAKES\" TODAY DURING A SERVICE VISIT. PER THE DEALER, HONDA CHANGED THE BRAKE PROPORTIONING FOR THESE VEHICLES SO THAT ON THE HIGHWAY, ALL OF THE BRAKING IS DONE BY THE REAR WHEELS. AS A RESULT, THE REAR PADS ARE WORN TO NOTH",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 116,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA ACCORD. THE CONTACT STATED THAT WHILE DRIVING ANY SPEED, ROCKS WOULD ENTER THE GRILL AND DAMAGE VARIOUS COMPONENTS OF THE VEHICLE. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER AND THE CONTACT WAS INFORMED THAT THE CONDENSER FOR THE AIR CONDITION",
+      "pct": 20
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 63,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 HONDA ACCORD WAS FOUND BY DEALER TO HAVE \"NO REAR BRAKES\" TODAY DURING A SERVICE VISIT. PER THE DEALER, HONDA CHANGED THE BRAKE PROPORTIONING FOR THESE VEHICLES SO THAT ON THE HIGHWAY, ALL OF THE BRAKING IS DONE BY THE REAR WHEELS. AS A RESULT, THE REAR PADS ARE WORN TO NOTH",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 44,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "HONDA 2010 ACCORD EXL  THIS VEHICLE HAS A PROBLEM WHEN COMING TO A STOP.  THE ENGINE WILL NOT DISENGAGE AND BRING THE CAR TO A STOP.  I HAD  TO SHIFT INTO NEUTRAL WHILE HOLDING THE BRAKE SECURELY TO STOP IT FROM HITTING THE VEHICLE IN FRONT OF ME..   THE MILEAGE IS UNDER 1,000 MI",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Accord owners report most",
+    "summary": "Across 579 owner complaints to NHTSA, the most reported area is Air Bags (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 134,
+        "crash": 25,
+        "fire": 1,
+        "injuries": 27,
+        "deaths": 1,
+        "sample": "TL*THE CONTACT OWNS A 2010 HONDA ACCORD EXL(NA). WHILE DRIVING 55 MPH, ANOTHER VEHICLE CRASHED INTO THE CONTACT'S VEHICLE HEAD-ON. NO AIR BAGS DEPLOYED. TWO PEOPLE WERE INJURED. A POLICE REPORT WAS FILED. THE VEHICLE WAS WITH THE INSURANCE COMPANY BEING INSPECTED. THE DEALER STAT",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "134 reports (23%) · 1 fire · 25 crash · 27 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 129,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2009 HONDA ACCORD WAS FOUND BY DEALER TO HAVE \"NO REAR BRAKES\" TODAY DURING A SERVICE VISIT. PER THE DEALER, HONDA CHANGED THE BRAKE PROPORTIONING FOR THESE VEHICLES SO THAT ON THE HIGHWAY, ALL OF THE BRAKING IS DONE BY THE REAR WHEELS. AS A RESULT, THE REAR PADS ARE WORN TO NOTH",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "129 reports (22%) · 5 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 116,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA ACCORD. THE CONTACT STATED THAT WHILE DRIVING ANY SPEED, ROCKS WOULD ENTER THE GRILL AND DAMAGE VARIOUS COMPONENTS OF THE VEHICLE. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER AND THE CONTACT WAS INFORMED THAT THE CONDENSER FOR THE AIR CONDITION",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "116 reports (20%) · 5 fire · 1 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 63,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 HONDA ACCORD WAS FOUND BY DEALER TO HAVE \"NO REAR BRAKES\" TODAY DURING A SERVICE VISIT. PER THE DEALER, HONDA CHANGED THE BRAKE PROPORTIONING FOR THESE VEHICLES SO THAT ON THE HIGHWAY, ALL OF THE BRAKING IS DONE BY THE REAR WHEELS. AS A RESULT, THE REAR PADS ARE WORN TO NOTH",
+        "pct": 11,
+        "title": "Hydraulic",
+        "blurb": "63 reports (11%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 44,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "HONDA 2010 ACCORD EXL  THIS VEHICLE HAS A PROBLEM WHEN COMING TO A STOP.  THE ENGINE WILL NOT DISENGAGE AND BRING THE CAR TO A STOP.  I HAD  TO SHIFT INTO NEUTRAL WHILE HOLDING THE BRAKE SECURELY TO STOP IT FROM HITTING THE VEHICLE IN FRONT OF ME..   THE MILEAGE IS UNDER 1,000 MI",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "44 reports (8%) · 5 crash · 4 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-07-19T23:56:38.229Z",
+  "total": 354,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 115,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THIS VEHICLE HAS ENGINE DEFECT, WHICH DANGEROUSLY STOPS THE CAR WHILE DRIVEN.  THE CHEVROLET DEALERSHIP TRIED TO REPAIR ONCE BUT FAILED.      I PURCHASED THIS VEHICLE FROM CHEVROLET DEALERSHIP IN NOVEMBER OF 2012.  ON SEPTEMBER 28, 2013, THE ENGINE OF MY VEHICLE SUDDENLY COMPLETE",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 84,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON HIGHWAY, STARTED UP HILL AT 55 MPH IN TRAFFIC. FOLLOWING ALARMS CAME ON: TRACTION CONTROL DASHBOARD SYMBOL; STABILITRACK OFF; ENGINE POWER REDUCED; TRACTION CONTROL DISABLED. VEHICLE IMMEDIATELY SLOWED TO 40 MPH AND WOULD NOT GO FASTER. ONLINE FORUMS INDICATE THIS IS A",
+      "pct": 24
+    },
+    {
+      "component": "STEERING",
+      "count": 62,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET TRAVERSE. THE CONTACT STATED THAT WHILE MAKING A LEFT TURN, THE POWER STEERING SUDDENLY MALFUNCTIONED AND THE STEERING WHEEL SEIZED. THE VEHICLE WAS ABLE TO RESTART AND OPERATED AS NORMAL. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFA",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 48,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECEIVED THE FOLLOWING WARNINGS ALL OF THE SUDDEN: TRACTION CONTROL OFF, TRACTION CONTROL NEEDS SERVICE, STABILITRAK OFF, STABILITRAK NEEDS SERVICE. CHECK ENGINE LIGHT CAME ON AT THE SAME TIME. VEHICLE BEGAN TRYING TO STALL. LUCKILY, I WAS ON A COUNTRY ROAD AND COULD EASILY PULL ",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 48,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TRAVELING APPROXIMATELY 55MPH WE WERE HIT ON THE REAR PASSENGER SIDE DAMAGE TO THE REAR PASSENGER TIRE WELL AND REAR RIGHT SIDE ON THE BODY WITH EXTENSIVE DAMAGE UNDERNEATH.  NO AIRBAGS DEPLOYED AT ANYTIME IN THE VEHICLE.  IT WAS TAKEN TO THE DEALER'S COLLISION AND REPAIR SHOP AN",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Traverse owners report most",
+    "summary": "Across 354 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 115,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THIS VEHICLE HAS ENGINE DEFECT, WHICH DANGEROUSLY STOPS THE CAR WHILE DRIVEN.  THE CHEVROLET DEALERSHIP TRIED TO REPAIR ONCE BUT FAILED.      I PURCHASED THIS VEHICLE FROM CHEVROLET DEALERSHIP IN NOVEMBER OF 2012.  ON SEPTEMBER 28, 2013, THE ENGINE OF MY VEHICLE SUDDENLY COMPLETE",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "115 reports (32%) · 2 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 84,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON HIGHWAY, STARTED UP HILL AT 55 MPH IN TRAFFIC. FOLLOWING ALARMS CAME ON: TRACTION CONTROL DASHBOARD SYMBOL; STABILITRACK OFF; ENGINE POWER REDUCED; TRACTION CONTROL DISABLED. VEHICLE IMMEDIATELY SLOWED TO 40 MPH AND WOULD NOT GO FASTER. ONLINE FORUMS INDICATE THIS IS A",
+        "pct": 24,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "84 reports (24%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 62,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET TRAVERSE. THE CONTACT STATED THAT WHILE MAKING A LEFT TURN, THE POWER STEERING SUDDENLY MALFUNCTIONED AND THE STEERING WHEEL SEIZED. THE VEHICLE WAS ABLE TO RESTART AND OPERATED AS NORMAL. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFA",
+        "pct": 18,
+        "title": "Steering",
+        "blurb": "62 reports (18%) · 1 fire · 3 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 48,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECEIVED THE FOLLOWING WARNINGS ALL OF THE SUDDEN: TRACTION CONTROL OFF, TRACTION CONTROL NEEDS SERVICE, STABILITRAK OFF, STABILITRAK NEEDS SERVICE. CHECK ENGINE LIGHT CAME ON AT THE SAME TIME. VEHICLE BEGAN TRYING TO STALL. LUCKILY, I WAS ON A COUNTRY ROAD AND COULD EASILY PULL ",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "48 reports (14%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 48,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TRAVELING APPROXIMATELY 55MPH WE WERE HIT ON THE REAR PASSENGER SIDE DAMAGE TO THE REAR PASSENGER TIRE WELL AND REAR RIGHT SIDE ON THE BODY WITH EXTENSIVE DAMAGE UNDERNEATH.  NO AIRBAGS DEPLOYED AT ANYTIME IN THE VEHICLE.  IT WAS TAKEN TO THE DEALER'S COLLISION AND REPAIR SHOP AN",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "48 reports (14%) · 4 crash · 4 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-cobalt",
+  "make": "Chevrolet",
+  "model": "Cobalt",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/COBALT#complaints",
+  "generatedAt": "2026-07-19T23:52:37.705Z",
+  "total": 900,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 232,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NOTICED A FUEL SMELL IN THE CAR FOR ABOUT 3 DAYS.  DISCONNECTED THE FUEL TANK AND NOTICED FUEL LEAKING FROM THE FUEL PUMP.  UPON FURTHER INSPECTION IT WAS THE PLASTIC SENDING LINE ON TOP OF THE FUEL PUMP THAT HAD DEVELOPED A CRACK, RESULTING IN FUEL LEAK.  REPLACED THE FUEL PUMP,",
+      "pct": 26
+    },
+    {
+      "component": "STEERING",
+      "count": 210,
+      "crash": 30,
+      "fire": 1,
+      "injuries": 23,
+      "deaths": 2,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET COBALT. WHILE DRIVING THE CONTACT LOSS CONTROL OF  THE STEERING WHEEL AND WAS FORCED SHUT THE ENGINE OFF SO THAT IT COULD RESET ITSELF. THE DEALER WAS UNABLE TO DIAGNOSE THE FAILURE. THE MANUFACTURER HAS NOT BEEN NOTIFIED.  THE FAILURE MILEAGE",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 174,
+      "crash": 15,
+      "fire": 3,
+      "injuries": 5,
+      "deaths": 1,
+      "sample": "ON MY 09 CHEVY COBALT SS THE REAR  BRAKES GOT VERY LOUD. THE FAILURE WAS THE INNER REAR BRAKE PADS WENT METAL TO METAL BY 8000 MILES FROM NEW. THE OUTER PADS WERE LIKE NEW. DEALERSHIP RESURFACED THE ROTORS AND REPLACED THE PADS. THEY HAD THE CAR 5 DAYS AND GAVE ME A RENTAL. 2000 ",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 158,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 1,
+      "sample": "NO INCIDENT HAS OCCURRED AT THIS POINT, HOWEVER, I SEE THIS AS A POTENTIAL SAFETY HAZARD.  I HAVE A 2009 CHEVY COBALT WITH BATTERY INSTALLED IN THE TRUNK.  THE BATTERY VENT TUBE IS CONNECTED TO THE TOP OF THE BATTERY BY A PLASTIC ELBOW, A PLASTIC VENT TUBE IS CONNECTED TO THE MAL",
+      "pct": 18
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 143,
+      "crash": 10,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "ON MY 09 CHEVY COBALT SS THE REAR  BRAKES GOT VERY LOUD. THE FAILURE WAS THE INNER REAR BRAKE PADS WENT METAL TO METAL BY 8000 MILES FROM NEW. THE OUTER PADS WERE LIKE NEW. DEALERSHIP RESURFACED THE ROTORS AND REPLACED THE PADS. THEY HAD THE CAR 5 DAYS AND GAVE ME A RENTAL. 2000 ",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Cobalt owners report most",
+    "summary": "Across 900 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 232,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NOTICED A FUEL SMELL IN THE CAR FOR ABOUT 3 DAYS.  DISCONNECTED THE FUEL TANK AND NOTICED FUEL LEAKING FROM THE FUEL PUMP.  UPON FURTHER INSPECTION IT WAS THE PLASTIC SENDING LINE ON TOP OF THE FUEL PUMP THAT HAD DEVELOPED A CRACK, RESULTING IN FUEL LEAK.  REPLACED THE FUEL PUMP,",
+        "pct": 26,
+        "title": "Fuel/Propulsion System",
+        "blurb": "232 reports (26%) · 4 fire · 2 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 210,
+        "crash": 30,
+        "fire": 1,
+        "injuries": 23,
+        "deaths": 2,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET COBALT. WHILE DRIVING THE CONTACT LOSS CONTROL OF  THE STEERING WHEEL AND WAS FORCED SHUT THE ENGINE OFF SO THAT IT COULD RESET ITSELF. THE DEALER WAS UNABLE TO DIAGNOSE THE FAILURE. THE MANUFACTURER HAS NOT BEEN NOTIFIED.  THE FAILURE MILEAGE",
+        "pct": 23,
+        "title": "Steering",
+        "blurb": "210 reports (23%) · 1 fire · 30 crash · 23 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 174,
+        "crash": 15,
+        "fire": 3,
+        "injuries": 5,
+        "deaths": 1,
+        "sample": "ON MY 09 CHEVY COBALT SS THE REAR  BRAKES GOT VERY LOUD. THE FAILURE WAS THE INNER REAR BRAKE PADS WENT METAL TO METAL BY 8000 MILES FROM NEW. THE OUTER PADS WERE LIKE NEW. DEALERSHIP RESURFACED THE ROTORS AND REPLACED THE PADS. THEY HAD THE CAR 5 DAYS AND GAVE ME A RENTAL. 2000 ",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "174 reports (19%) · 3 fire · 15 crash · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 158,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 1,
+        "sample": "NO INCIDENT HAS OCCURRED AT THIS POINT, HOWEVER, I SEE THIS AS A POTENTIAL SAFETY HAZARD.  I HAVE A 2009 CHEVY COBALT WITH BATTERY INSTALLED IN THE TRUNK.  THE BATTERY VENT TUBE IS CONNECTED TO THE TOP OF THE BATTERY BY A PLASTIC ELBOW, A PLASTIC VENT TUBE IS CONNECTED TO THE MAL",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "158 reports (18%) · 9 crash · 5 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 143,
+        "crash": 10,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "ON MY 09 CHEVY COBALT SS THE REAR  BRAKES GOT VERY LOUD. THE FAILURE WAS THE INNER REAR BRAKE PADS WENT METAL TO METAL BY 8000 MILES FROM NEW. THE OUTER PADS WERE LIKE NEW. DEALERSHIP RESURFACED THE ROTORS AND REPLACED THE PADS. THEY HAD THE CAR 5 DAYS AND GAVE ME A RENTAL. 2000 ",
+        "pct": 16,
+        "title": "Hydraulic",
+        "blurb": "143 reports (16%) · 3 fire · 10 crash · 1 injured"
+      }
+    ]
+  }
+}

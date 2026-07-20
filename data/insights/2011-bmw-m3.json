@@ -1,0 +1,128 @@
+{
+  "slug": "2011-bmw-m3",
+  "make": "BMW",
+  "model": "M3",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/BMW/M3#complaints",
+  "generatedAt": "2026-07-19T23:50:01.069Z",
+  "total": 41,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING IN 60/MPH SPEED. WHEN OVERTAKING A TRUCK; 'ENGINE FAULT' WARNING LIGHT CAME-UP. VEHICLE TRANSMISSION AUTOMATICALLY TURNED TO NEUTRAL. ENGINE WAS CUT-OFF. TRUCK WAS ABOUT TO REAR-END MY CAR. UNFORTUNATELY, NO ONE WAS HURT (TODDLER WAS INSIDE THE CAR). I PULLED OVER IMMEDIA",
+      "pct": 49
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2011 BMW DCT M3    ENGINE TURNS OFF BY IT SELF WHILE DRIVING THROUGH INTERSECTION.  TRANSMISSION GOES INTO NEUTRAL.  \"N\" POPS UP ON THE CENTER COCKPIT.  STEERING WHEEL LOCK. BRAKES WORK. HAD TO MAINTAIN FOOT ON BRAKES.    HAVE TO PUSH \"ENGINE START\" BUTTON. CAR STARTS UP AGAIN.  ",
+      "pct": 22
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 BMW M3. THE CONTACT STATED THAT THE PASSENGER SIDE AIR BAG LIGHT FLICKERED WHILE THE SEAT WAS OCCUPIED OR UNOCCUPIED. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 14V428000 (AIR BAGS) AND STATED THAT THE PART WAS NOT AVAILABLE. THE DEALE",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE PROBLEM OCCURS WHEN YOU SLOW DOWN- LIKE FOR A TURN, BUT DO NOT COME TO A COMPLETE STOP. THE DCT TRANSMISSION SEEMS TO HAVE TROUBLE FIGURING OUT WHAT GEAR TO SELECT BECAUSE WHEN YOU STEP ON THE GAS TO ACCELERATE, THERE IS A VERY SIGNIFICANT DELAY IN THE ONSET OF POWER- UP TO 2",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY VEHICLE, THE ENGINE SUDDENLY SHUT OFF, AND THE TRANSMISSION WENT INTO NEUTRAL. I IMMEDIATELY TURNED THE CAR BACK ON, AND PULLED TO A STOP SIGN. I GAVE MY CAR A FEW REVS JUST TO MAKE SURE EVERYTHING WAS FINE. EVERYTHING SEEMED TO CHECK OUT, SO I CONTINUE DRIVING. ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Bmw M3 owners report most",
+    "summary": "Across 41 owner complaints to NHTSA, the most reported area is Engine (49% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING IN 60/MPH SPEED. WHEN OVERTAKING A TRUCK; 'ENGINE FAULT' WARNING LIGHT CAME-UP. VEHICLE TRANSMISSION AUTOMATICALLY TURNED TO NEUTRAL. ENGINE WAS CUT-OFF. TRUCK WAS ABOUT TO REAR-END MY CAR. UNFORTUNATELY, NO ONE WAS HURT (TODDLER WAS INSIDE THE CAR). I PULLED OVER IMMEDIA",
+        "pct": 49,
+        "title": "Engine",
+        "blurb": "20 reports (49%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2011 BMW DCT M3    ENGINE TURNS OFF BY IT SELF WHILE DRIVING THROUGH INTERSECTION.  TRANSMISSION GOES INTO NEUTRAL.  \"N\" POPS UP ON THE CENTER COCKPIT.  STEERING WHEEL LOCK. BRAKES WORK. HAD TO MAINTAIN FOOT ON BRAKES.    HAVE TO PUSH \"ENGINE START\" BUTTON. CAR STARTS UP AGAIN.  ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "9 reports (22%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 BMW M3. THE CONTACT STATED THAT THE PASSENGER SIDE AIR BAG LIGHT FLICKERED WHILE THE SEAT WAS OCCUPIED OR UNOCCUPIED. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 14V428000 (AIR BAGS) AND STATED THAT THE PART WAS NOT AVAILABLE. THE DEALE",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "9 reports (22%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE PROBLEM OCCURS WHEN YOU SLOW DOWN- LIKE FOR A TURN, BUT DO NOT COME TO A COMPLETE STOP. THE DCT TRANSMISSION SEEMS TO HAVE TROUBLE FIGURING OUT WHAT GEAR TO SELECT BECAUSE WHEN YOU STEP ON THE GAS TO ACCELERATE, THERE IS A VERY SIGNIFICANT DELAY IN THE ONSET OF POWER- UP TO 2",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "7 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY VEHICLE, THE ENGINE SUDDENLY SHUT OFF, AND THE TRANSMISSION WENT INTO NEUTRAL. I IMMEDIATELY TURNED THE CAR BACK ON, AND PULLED TO A STOP SIGN. I GAVE MY CAR A FEW REVS JUST TO MAKE SURE EVERYTHING WAS FINE. EVERYTHING SEEMED TO CHECK OUT, SO I CONTINUE DRIVING. ",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "2 reports (5%)"
+      }
+    ]
+  }
+}

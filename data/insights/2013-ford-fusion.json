@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-fusion",
+  "make": "Ford",
+  "model": "Fusion",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/FUSION#complaints",
+  "generatedAt": "2026-07-19T23:58:53.131Z",
+  "total": 1948,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 417,
+      "crash": 9,
+      "fire": 5,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHILE TRAVELING NORTH ON CA-2 NEAR SAN FERNANDO ROAD, THE STEERING STARTED TO FEEL WOBBLY. ABOUT 2 SECONDS LATER, THE COMPUTER SCREEN IN THE INSTRUMENT CLUSTER DISPLAYED AN ALERT SAYING TO SERVICE THE STEERING SOON; ABOUT 2 SECONDS AFTER THAT, IT SAID \"STEERING LOSS - STOP SAFELY",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 395,
+      "crash": 4,
+      "fire": 78,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A CITY ROAD WITH MY FOOT ON THE GAS AT 35-40MPH, THE TRANSMISSION ERRATICALLY SHIFTED INTO A LOWER GEAR ON THE TRANSMISSION, CAUSING THE ENGINE RPMS TO NEAR INSTANTANEOUSLY TO GO FROM 1750-2000RPMS TO JUST OVER 4000RPMS. THROUGH THE RPM INCREASE THE VEHICLE MAINT",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 315,
+      "crash": 11,
+      "fire": 1,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A CITY ROAD WITH MY FOOT ON THE GAS AT 35-40MPH, THE TRANSMISSION ERRATICALLY SHIFTED INTO A LOWER GEAR ON THE TRANSMISSION, CAUSING THE ENGINE RPMS TO NEAR INSTANTANEOUSLY TO GO FROM 1750-2000RPMS TO JUST OVER 4000RPMS. THROUGH THE RPM INCREASE THE VEHICLE MAINT",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 189,
+      "crash": 6,
+      "fire": 25,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN THE VEHICLE WAS TO BE STARTED TURNED THE KEY FORWARD TO START AND IT DIDN'T START, THE KEY RETURNED THEN THE CAR STARTED AFTER THE KEY RETURNED TO KEY IN POSITION, THIS HAS HAPPENED A FEW TIMES SINCE AND SEEMS TO BECOME MORE REGULAR I NOW HAVE 4,972 MILES ON THE CAR AND HAD ",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 179,
+      "crash": 4,
+      "fire": 5,
+      "injuries": 11,
+      "deaths": 1,
+      "sample": "WE REALLY LIKE OUR 2013 FORD FUSION - EXCEPT FOR ONE MAJOR SNAFU - VISIBILITY WHEN MAKING A TURN.    THE ATTACHED PHOTO, MADE FROM THE POSITION OF THE DRIVER'S EYES, SHOWS THE PROBLEM. ONE MUST MOVE THEIR HEAD FORWARD AND BACKWARD TO VIEW BEYOND THE LARGE BLOCKED-OUT AREA BEHIND ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Fusion owners report most",
+    "summary": "Across 1,948 owner complaints to NHTSA, the most reported area is Steering (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 417,
+        "crash": 9,
+        "fire": 5,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHILE TRAVELING NORTH ON CA-2 NEAR SAN FERNANDO ROAD, THE STEERING STARTED TO FEEL WOBBLY. ABOUT 2 SECONDS LATER, THE COMPUTER SCREEN IN THE INSTRUMENT CLUSTER DISPLAYED AN ALERT SAYING TO SERVICE THE STEERING SOON; ABOUT 2 SECONDS AFTER THAT, IT SAID \"STEERING LOSS - STOP SAFELY",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "417 reports (21%) · 5 fire · 9 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 395,
+        "crash": 4,
+        "fire": 78,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A CITY ROAD WITH MY FOOT ON THE GAS AT 35-40MPH, THE TRANSMISSION ERRATICALLY SHIFTED INTO A LOWER GEAR ON THE TRANSMISSION, CAUSING THE ENGINE RPMS TO NEAR INSTANTANEOUSLY TO GO FROM 1750-2000RPMS TO JUST OVER 4000RPMS. THROUGH THE RPM INCREASE THE VEHICLE MAINT",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "395 reports (20%) · 78 fire · 4 crash · 6 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 315,
+        "crash": 11,
+        "fire": 1,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A CITY ROAD WITH MY FOOT ON THE GAS AT 35-40MPH, THE TRANSMISSION ERRATICALLY SHIFTED INTO A LOWER GEAR ON THE TRANSMISSION, CAUSING THE ENGINE RPMS TO NEAR INSTANTANEOUSLY TO GO FROM 1750-2000RPMS TO JUST OVER 4000RPMS. THROUGH THE RPM INCREASE THE VEHICLE MAINT",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "315 reports (16%) · 1 fire · 11 crash · 10 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 189,
+        "crash": 6,
+        "fire": 25,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN THE VEHICLE WAS TO BE STARTED TURNED THE KEY FORWARD TO START AND IT DIDN'T START, THE KEY RETURNED THEN THE CAR STARTED AFTER THE KEY RETURNED TO KEY IN POSITION, THIS HAS HAPPENED A FEW TIMES SINCE AND SEEMS TO BECOME MORE REGULAR I NOW HAVE 4,972 MILES ON THE CAR AND HAD ",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "189 reports (10%) · 25 fire · 6 crash · 3 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 179,
+        "crash": 4,
+        "fire": 5,
+        "injuries": 11,
+        "deaths": 1,
+        "sample": "WE REALLY LIKE OUR 2013 FORD FUSION - EXCEPT FOR ONE MAJOR SNAFU - VISIBILITY WHEN MAKING A TURN.    THE ATTACHED PHOTO, MADE FROM THE POSITION OF THE DRIVER'S EYES, SHOWS THE PROBLEM. ONE MUST MOVE THEIR HEAD FORWARD AND BACKWARD TO VIEW BEYOND THE LARGE BLOCKED-OUT AREA BEHIND ",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "179 reports (9%) · 5 fire · 4 crash · 11 injured"
+      }
+    ]
+  }
+}

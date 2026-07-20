@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/FOCUS#complaints",
+  "generatedAt": "2026-07-19T23:58:44.475Z",
+  "total": 2105,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1098,
+      "crash": 17,
+      "fire": 1,
+      "injuries": 10,
+      "deaths": 1,
+      "sample": "AT APPROXIMATELY 7:15 AM, ROADWAY WAS WET (PREVIOUSLY RAINED), TRAVELING AT APPROXIMATELY 60 MPH IN LANE 3 OF 3 AND CHANGING LANE INTO LANE 2 OF 3  WHILE MILDLY ACCELERATING AND THEN LET OFF THE ACCELERATOR LIGHTLY AS CHANGING LANE (APPROACHING REAR OF VEHICLE IN FRONT OF ME). AS",
+      "pct": 52
+    },
+    {
+      "component": "ENGINE",
+      "count": 343,
+      "crash": 7,
+      "fire": 6,
+      "injuries": 6,
+      "deaths": 2,
+      "sample": "I OWN A 2013 FORD FOCUS HATCHBACK TITANIUM MODEL. PURCHASED THE CAR IN JANUARY 2013. CURRENTLY HAS 1100 MILES ON IT. CAR HAS A SIX-SPEED AUTOMATIC TRANSMISSION THAT FORD HAS DUBBED \"POWERSHIFT\". TRANSMISSION IS VERY JITTERY AT ALL SPEEDS WHEN SHIFTING GEARS WHILE ACCELERATING. IT",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 273,
+      "crash": 4,
+      "fire": 5,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "THE INSTRUMENT CLUSTER GAUGES  ARE HARD TO READ ON A SUNNY DAY.  THE VISION OF THE SPEEDOMETER, WHILE DRIVING ON A SUNNY DAY IS VERY HARD TO READ.  IT IS A DISTRACTION TO STARE AT THE SPEEDOMETER, TO SEE THE SPEED OF THE VEHICLE.  THE INSTRUMENT CLUSTER LIGHTS ARE SET AT THE BRIG",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 273,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "DRIVING STRAIGHT ON THE HIGHWAY ~50MPH THE CAR SEEMED TO BE DRIFTING TO THE RIGHT AS THOUGH BEING BLOWN BY HEAVY WINDS, ALTHOUGH THERE WAS LITTLE/NO WIND THAT DAY. I APPLIED A TYPICAL, SLIGHT ADJUSTMENT TO THE LEFT BUT THE STEERING WHEEL RESISTED MY INPUT, AS THOUGH SOMEBODY WAS ",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 208,
+      "crash": 4,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "AS I PULLED OUT INTO THE FLOW OF TRAFFIC FROM A GAS STATION, I REALIZED MY CAR WOULD NOT ACCELERATE BEYOND 15-20 MPH.  I IMMEDIATELY PULLED OVER TO THE RIGHT HAND LANE AND PROCEEDED TO THE STOP LIGHT, WHICH WAS ABOUT A 100 YARDS DOWN THE ROAD.  AT THE RED LIGHT I PLACED THE CAR I",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Focus owners report most",
+    "summary": "Across 2,105 owner complaints to NHTSA, the most reported area is Power Train (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1098,
+        "crash": 17,
+        "fire": 1,
+        "injuries": 10,
+        "deaths": 1,
+        "sample": "AT APPROXIMATELY 7:15 AM, ROADWAY WAS WET (PREVIOUSLY RAINED), TRAVELING AT APPROXIMATELY 60 MPH IN LANE 3 OF 3 AND CHANGING LANE INTO LANE 2 OF 3  WHILE MILDLY ACCELERATING AND THEN LET OFF THE ACCELERATOR LIGHTLY AS CHANGING LANE (APPROACHING REAR OF VEHICLE IN FRONT OF ME). AS",
+        "pct": 52,
+        "title": "Power Train",
+        "blurb": "1,098 reports (52%) · 1 fire · 17 crash · 10 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 343,
+        "crash": 7,
+        "fire": 6,
+        "injuries": 6,
+        "deaths": 2,
+        "sample": "I OWN A 2013 FORD FOCUS HATCHBACK TITANIUM MODEL. PURCHASED THE CAR IN JANUARY 2013. CURRENTLY HAS 1100 MILES ON IT. CAR HAS A SIX-SPEED AUTOMATIC TRANSMISSION THAT FORD HAS DUBBED \"POWERSHIFT\". TRANSMISSION IS VERY JITTERY AT ALL SPEEDS WHEN SHIFTING GEARS WHILE ACCELERATING. IT",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "343 reports (16%) · 6 fire · 7 crash · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 273,
+        "crash": 4,
+        "fire": 5,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "THE INSTRUMENT CLUSTER GAUGES  ARE HARD TO READ ON A SUNNY DAY.  THE VISION OF THE SPEEDOMETER, WHILE DRIVING ON A SUNNY DAY IS VERY HARD TO READ.  IT IS A DISTRACTION TO STARE AT THE SPEEDOMETER, TO SEE THE SPEED OF THE VEHICLE.  THE INSTRUMENT CLUSTER LIGHTS ARE SET AT THE BRIG",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "273 reports (13%) · 5 fire · 4 crash · 4 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 273,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "DRIVING STRAIGHT ON THE HIGHWAY ~50MPH THE CAR SEEMED TO BE DRIFTING TO THE RIGHT AS THOUGH BEING BLOWN BY HEAVY WINDS, ALTHOUGH THERE WAS LITTLE/NO WIND THAT DAY. I APPLIED A TYPICAL, SLIGHT ADJUSTMENT TO THE LEFT BUT THE STEERING WHEEL RESISTED MY INPUT, AS THOUGH SOMEBODY WAS ",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "273 reports (13%) · 7 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 208,
+        "crash": 4,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "AS I PULLED OUT INTO THE FLOW OF TRAFFIC FROM A GAS STATION, I REALIZED MY CAR WOULD NOT ACCELERATE BEYOND 15-20 MPH.  I IMMEDIATELY PULLED OVER TO THE RIGHT HAND LANE AND PROCEEDED TO THE STOP LIGHT, WHICH WAS ABOUT A 100 YARDS DOWN THE ROAD.  AT THE RED LIGHT I PLACED THE CAR I",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "208 reports (10%) · 3 fire · 4 crash · 1 injured"
+      }
+    ]
+  }
+}

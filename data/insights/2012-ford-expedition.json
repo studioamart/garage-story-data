@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-07-19T23:56:56.848Z",
+  "total": 116,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 64,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON MANY OCCASIONS FROM AROUND MAY OR JUNE OF 2013, WHEN THE CAR IS ACCELERATING FROM FIRST TO SECOND GEAR IT \"JUMPS\".  IT FEELS AS IF SOMEONE HAS HIT THE BACK OF THE VEHICLE.  THE VEHICLE WAS TAKEN BACK TO THE DEALERSHIP 3 TIMES.  EACH TIME THEY HAVE UPDATED THE SOFTWARE AND SUPP",
+      "pct": 55
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING DOWN THE HIGHWAY AT 65 MPH IN THE LEFT LANE WHEN THE CAR LOST ALL POWER. WE WERE ABLE TO COAST TO THE SIDE OF THE HIGHWAY BECAUSE WE WERE TRAVELING AT THE RATE OF SPEED LISTED ABOVE WITH NO POWER. THIS IS EXTREMELY DANGEROUS TO SOMEONE IN THIS POSITION. AS WE ATTEMPTED TO",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 16,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "STOPPED AT 0MPH. WITNESS IN CAR BEHIND. FOOT ON BRAKE.  TOUCHED ACCELERATOR NORMALLY.  HEARD NOISE. CAR TOOK OFF AT HIGH SPEED.  HIT WALL APPROX TWENTY FEET AWAY.  BOTH FRONT AIRBAGS DEPLOYED.  NO ONE IN PASSENGER SEAT.  SEAT BELT ON, PER DRIVER, WITNESS WHO HELPED DRIVER THRU WI",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 15,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD EXPEDITION. THE CONTACT STATED THAT THE FRONT PASSENGER SIDE DOOR MOVED IRREGULARLY, MAKING IT DIFFICULT FOR PASSENGERS TO EXIT THE VEHICLE. THE FAILURE RECURRED NUMEROUS TIMES. THE CONTACT ALSO STATED THAT WHILE DRIVING 15 MPH, THE INSTRUMENT PAN",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY 2012 EXPEDITION 45 - 60 MPH, THE VEHICLE DOWNSHIFTED WITHOUT WARNING AND STALLED MORE THAN ONCE AND JERKED REPEATEDLY. THE VEHICLE WAS TAKEN BACK TO THE DEALERSHIP TWICE FOR THE SAME OCCURENCE LISTED ON THE RECALL NOTIFICATION. THE DEALER CLAIMS THEY \"FIXED\" THE ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Expedition owners report most",
+    "summary": "Across 116 owner complaints to NHTSA, the most reported area is Power Train (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 64,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON MANY OCCASIONS FROM AROUND MAY OR JUNE OF 2013, WHEN THE CAR IS ACCELERATING FROM FIRST TO SECOND GEAR IT \"JUMPS\".  IT FEELS AS IF SOMEONE HAS HIT THE BACK OF THE VEHICLE.  THE VEHICLE WAS TAKEN BACK TO THE DEALERSHIP 3 TIMES.  EACH TIME THEY HAVE UPDATED THE SOFTWARE AND SUPP",
+        "pct": 55,
+        "title": "Power Train",
+        "blurb": "64 reports (55%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING DOWN THE HIGHWAY AT 65 MPH IN THE LEFT LANE WHEN THE CAR LOST ALL POWER. WE WERE ABLE TO COAST TO THE SIDE OF THE HIGHWAY BECAUSE WE WERE TRAVELING AT THE RATE OF SPEED LISTED ABOVE WITH NO POWER. THIS IS EXTREMELY DANGEROUS TO SOMEONE IN THIS POSITION. AS WE ATTEMPTED TO",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "20 reports (17%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 16,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "STOPPED AT 0MPH. WITNESS IN CAR BEHIND. FOOT ON BRAKE.  TOUCHED ACCELERATOR NORMALLY.  HEARD NOISE. CAR TOOK OFF AT HIGH SPEED.  HIT WALL APPROX TWENTY FEET AWAY.  BOTH FRONT AIRBAGS DEPLOYED.  NO ONE IN PASSENGER SEAT.  SEAT BELT ON, PER DRIVER, WITNESS WHO HELPED DRIVER THRU WI",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "16 reports (14%) · 3 crash · 7 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 15,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD EXPEDITION. THE CONTACT STATED THAT THE FRONT PASSENGER SIDE DOOR MOVED IRREGULARLY, MAKING IT DIFFICULT FOR PASSENGERS TO EXIT THE VEHICLE. THE FAILURE RECURRED NUMEROUS TIMES. THE CONTACT ALSO STATED THAT WHILE DRIVING 15 MPH, THE INSTRUMENT PAN",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "15 reports (13%) · 1 fire · 4 crash · 12 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY 2012 EXPEDITION 45 - 60 MPH, THE VEHICLE DOWNSHIFTED WITHOUT WARNING AND STALLED MORE THAN ONCE AND JERKED REPEATEDLY. THE VEHICLE WAS TAKEN BACK TO THE DEALERSHIP TWICE FOR THE SAME OCCURENCE LISTED ON THE RECALL NOTIFICATION. THE DEALER CLAIMS THEY \"FIXED\" THE ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "12 reports (10%) · 1 fire · 1 crash · 6 injured"
+      }
+    ]
+  }
+}

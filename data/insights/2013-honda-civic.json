@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-07-19T23:49:13.143Z",
+  "total": 315,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 111,
+      "crash": 19,
+      "fire": 1,
+      "injuries": 24,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA CIVIC. THE CONTACT STATED THAT WHILE MAKING A LEFT TURN, ANOTHER VEHICLE DROVE THROUGH A RED LIGHT AND CRASHED INTO THE FRONT OF THE CONTACT'S VEHICLE. THE AIR BAG WARNING LIGHT ILLUMINATED AND THE AIR BAGS FAILED TO DEPLOY. A POLICE REPORT WAS F",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 39,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY  2013 HONDA CIVIC EXL  THE ACCELERATOR FAILED TO RESPOND TO ACCELERATION .THE VEHICLE ERRONEOUSLY DECELERATED WHILE THE ACCELERATOR PEDAL WAS  DEPRESSED. THE VEHICLE  WAS TAKEN TO THE DEALER . THE CAR WAS CHECKED OUT THEY COULDN T FIND THE FAULT. THE FAILURE STARTED @   300 MI",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 38,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I BOUGHT A NEW CAR AN DRIVING AT 245 MILES I FELT RUBBING FEEL WITH BRAKES TOOK CAR BACK TO HONDA SERVICE!  HONDA ROAD TESTED VEHICLE AN CONFIRMED THERE WAS A PROBLEM, REMOVED PADS CLEANED AN REINSTALLED.  RETURNED CAR SAME DAY, THIS WAS DONE AT 376 MILES.  SAME ISSUE ON FEBRUARY",
+      "pct": 12
+    },
+    {
+      "component": "STEERING",
+      "count": 37,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING AT 30 MPH AND WANTED TO  TURN LEFT WHEN THE STEERING WHEEL GOT STIFF , THE NOTICE ON THE DASH BOARD SAID: \"CHECK THE POWER STEERING SYSTEM\"AND I COULD NOT CONTROL  THE WHEEL. I PANICKED AND TRIED HARD TO TURN THE WHEEL. I WAS ABLE TO TURN LEFT WITH A LOT OF DIFFICUL",
+      "pct": 12
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 23,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I BOUGHT THIS 2013 HONDA  CIVIC AFTER OWNING A 2008 CIVIC NEW FROM MY LOCAL DEALER. THERE HAS BEEN THREE NEW WINDSHIELD PUT IN MY HONDA CIVIC. THE 1ST  WINDSHIELD HAD A FISH EYE IN IT. THE SECOND WINDSHIELD ON THE MIDDLE RIGHT SIDE HAD A DISTORTION WHEN YOU LOOK THROUGH IT THINGS",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Civic owners report most",
+    "summary": "Across 315 owner complaints to NHTSA, the most reported area is Air Bags (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 111,
+        "crash": 19,
+        "fire": 1,
+        "injuries": 24,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA CIVIC. THE CONTACT STATED THAT WHILE MAKING A LEFT TURN, ANOTHER VEHICLE DROVE THROUGH A RED LIGHT AND CRASHED INTO THE FRONT OF THE CONTACT'S VEHICLE. THE AIR BAG WARNING LIGHT ILLUMINATED AND THE AIR BAGS FAILED TO DEPLOY. A POLICE REPORT WAS F",
+        "pct": 35,
+        "title": "Air Bags",
+        "blurb": "111 reports (35%) · 1 fire · 19 crash · 24 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 39,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY  2013 HONDA CIVIC EXL  THE ACCELERATOR FAILED TO RESPOND TO ACCELERATION .THE VEHICLE ERRONEOUSLY DECELERATED WHILE THE ACCELERATOR PEDAL WAS  DEPRESSED. THE VEHICLE  WAS TAKEN TO THE DEALER . THE CAR WAS CHECKED OUT THEY COULDN T FIND THE FAULT. THE FAILURE STARTED @   300 MI",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "39 reports (12%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 38,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I BOUGHT A NEW CAR AN DRIVING AT 245 MILES I FELT RUBBING FEEL WITH BRAKES TOOK CAR BACK TO HONDA SERVICE!  HONDA ROAD TESTED VEHICLE AN CONFIRMED THERE WAS A PROBLEM, REMOVED PADS CLEANED AN REINSTALLED.  RETURNED CAR SAME DAY, THIS WAS DONE AT 376 MILES.  SAME ISSUE ON FEBRUARY",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "38 reports (12%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 37,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING AT 30 MPH AND WANTED TO  TURN LEFT WHEN THE STEERING WHEEL GOT STIFF , THE NOTICE ON THE DASH BOARD SAID: \"CHECK THE POWER STEERING SYSTEM\"AND I COULD NOT CONTROL  THE WHEEL. I PANICKED AND TRIED HARD TO TURN THE WHEEL. I WAS ABLE TO TURN LEFT WITH A LOT OF DIFFICUL",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "37 reports (12%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 23,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I BOUGHT THIS 2013 HONDA  CIVIC AFTER OWNING A 2008 CIVIC NEW FROM MY LOCAL DEALER. THERE HAS BEEN THREE NEW WINDSHIELD PUT IN MY HONDA CIVIC. THE 1ST  WINDSHIELD HAD A FISH EYE IN IT. THE SECOND WINDSHIELD ON THE MIDDLE RIGHT SIDE HAD A DISTORTION WHEN YOU LOOK THROUGH IT THINGS",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "23 reports (7%) · 3 crash · 3 injured"
+      }
+    ]
+  }
+}

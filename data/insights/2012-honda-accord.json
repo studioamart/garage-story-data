@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-07-19T23:49:02.384Z",
+  "total": 378,
+  "issues": [
+    {
+      "component": "SEATS",
+      "count": 64,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 13,
+      "deaths": 0,
+      "sample": "THE DRIVER'S SEAT IS SO UNCOMFORTABLE THAT I FEEL IT IS A SAFETY CONCERN.  DRIVER FATIGUE AND DISTRACTION.  THE SEATING MATERIAL IS TOO HARD, THE LUMBAR IS TOO PROMINENT AND MISPLACED (TOO HIGH) BECAUSE THE BOTTOM SEAT CUSHION IS TOO LOW IN THE BACK, AND CAN'T BE ADJUSTED UPWARD.",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 58,
+      "crash": 28,
+      "fire": 0,
+      "injuries": 17,
+      "deaths": 0,
+      "sample": "I WAS DRIVING DOWN MARKET STREET IN YOUNGSTOWN WHEN I WAS ALMOST OBSTRUCTED BY ANOTHER VEHICLE, I SWERVED AND WAS STRUCK BY ANOTHER VEHICLE MY AIR BAGS DID NOT DEPLOY AT 40MPH AND SHE WAS GOING 25MPH. THERE WAS A RECALL ON THE SIDE AIR BAGS, MY BACK AND NECK HURT AS WELL AS MY PA",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 51,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I HAVE PURCHASED A NEW 2012 HONDA ACCORD SE MODEL WITH VIN [XXX] ON JANUARY 19TH 2012. I PURCHASED MY VEHICLE FROM RIVERSIDE HONDA THROUGH FOOTHILL FEDERAL CREDIT UNION. EVER SINCE, I HAVE BEEN EXPERIENCING NOTHING BUT NIGHTMARES.    I HAVE FOLLOWED THE RECOMMENDED MANUFACTURER'S",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 44,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 1,
+      "sample": "THAT WAS ON MONDAY 12/31/2012 WHILE TRAFFIC IN FREEWAY WAS VERY CLEAR. I SET CRUISE CONTROL AT 60 MILE/HOUR BUT SUDDENLY THE CAR KEPT INCREASING FASTER MORE THAN 75 MILES. I WAS PANIC AND KEPT STEPPING BRAKE TO REDUCE SPEED. ABOUT ONE MINUTE, THE CAR WAS REDUCED AT SPEED OF 50 MI",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 38,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY BRAKES CONSTANTLY MAKE AN ANNOYING CLICKING SHOULD IT IS ONLY GETTING WORSE.  I TOOK THE VEHICLE TO THE DEALERSHIP WHERE I MADE THE PURCHASE I WAS WAITING FOR ONE HOUR AND A HALF ONLY TO BE TOLD THEY DID NOT DO A FULL INSPECTION AND EVERYTHING IS NORMAL THE CLICKING SOUND IS N",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Accord owners report most",
+    "summary": "Across 378 owner complaints to NHTSA, the most reported area is Seats (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SEATS",
+        "count": 64,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 13,
+        "deaths": 0,
+        "sample": "THE DRIVER'S SEAT IS SO UNCOMFORTABLE THAT I FEEL IT IS A SAFETY CONCERN.  DRIVER FATIGUE AND DISTRACTION.  THE SEATING MATERIAL IS TOO HARD, THE LUMBAR IS TOO PROMINENT AND MISPLACED (TOO HIGH) BECAUSE THE BOTTOM SEAT CUSHION IS TOO LOW IN THE BACK, AND CAN'T BE ADJUSTED UPWARD.",
+        "pct": 17,
+        "title": "Seats",
+        "blurb": "64 reports (17%) · 13 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 58,
+        "crash": 28,
+        "fire": 0,
+        "injuries": 17,
+        "deaths": 0,
+        "sample": "I WAS DRIVING DOWN MARKET STREET IN YOUNGSTOWN WHEN I WAS ALMOST OBSTRUCTED BY ANOTHER VEHICLE, I SWERVED AND WAS STRUCK BY ANOTHER VEHICLE MY AIR BAGS DID NOT DEPLOY AT 40MPH AND SHE WAS GOING 25MPH. THERE WAS A RECALL ON THE SIDE AIR BAGS, MY BACK AND NECK HURT AS WELL AS MY PA",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "58 reports (15%) · 28 crash · 17 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 51,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I HAVE PURCHASED A NEW 2012 HONDA ACCORD SE MODEL WITH VIN [XXX] ON JANUARY 19TH 2012. I PURCHASED MY VEHICLE FROM RIVERSIDE HONDA THROUGH FOOTHILL FEDERAL CREDIT UNION. EVER SINCE, I HAVE BEEN EXPERIENCING NOTHING BUT NIGHTMARES.    I HAVE FOLLOWED THE RECOMMENDED MANUFACTURER'S",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "51 reports (13%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 44,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 1,
+        "sample": "THAT WAS ON MONDAY 12/31/2012 WHILE TRAFFIC IN FREEWAY WAS VERY CLEAR. I SET CRUISE CONTROL AT 60 MILE/HOUR BUT SUDDENLY THE CAR KEPT INCREASING FASTER MORE THAN 75 MILES. I WAS PANIC AND KEPT STEPPING BRAKE TO REDUCE SPEED. ABOUT ONE MINUTE, THE CAR WAS REDUCED AT SPEED OF 50 MI",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "44 reports (12%) · 1 fire · 6 crash · 6 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 38,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY BRAKES CONSTANTLY MAKE AN ANNOYING CLICKING SHOULD IT IS ONLY GETTING WORSE.  I TOOK THE VEHICLE TO THE DEALERSHIP WHERE I MADE THE PURCHASE I WAS WAITING FOR ONE HOUR AND A HALF ONLY TO BE TOLD THEY DID NOT DO A FULL INSPECTION AND EVERYTHING IS NORMAL THE CLICKING SOUND IS N",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "38 reports (10%) · 6 crash · 1 injured"
+      }
+    ]
+  }
+}

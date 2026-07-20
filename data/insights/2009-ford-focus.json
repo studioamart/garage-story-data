@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/FOCUS#complaints",
+  "generatedAt": "2026-07-19T23:53:02.456Z",
+  "total": 229,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 45,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY FORD FOCUS ON THE HIGHWAY, RUNNING APPROX. 55 MPH. ALL AT ONCE A WRENCH LIGHT CAME ON IN MY CAR, AND MY CAR DECELERATED TO APPROX. 10 MPH. I PULLED IT OFF OF THE ROAD SHUT THE CAR OFF AND RESTARTED IT, AND THE CAR RAN FINE THE REST OF THE WAY HOME. SINCE THEN IT ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 39,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I DRIVE A 2009 FORD FOCUS.  WHILE DRIVING DOWN THE HIGHWAY I WILL HAVE THE WRENCH LIGHT COME ON.  I TAKE IT TO THE DEALER AND THEY FIND NOTHING WRONG.  WHEN THE LIGHT COMES ON THE CAR LOSES POWER.  I TURN THE CAR OFF, WAIT ABOUT A MINUTE AND TURN THE CAR BACK ON.  AT THAT TIME TH",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 33,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD FOCUS. THE CONTACT WAS DRIVING APPROXIMATELY 5 MPH WHEN THE VEHICLE JUMPED A CURB AND CRASHED INTO A POLE. THE DRIVER SUSTAINED NO PERSONAL INJURY. THERE WAS PROPERTY DAMAGE, AND A POLICE REPORT FILED. THE VEHICLE WAS COMPLETELY DESTROYED. IN ADDI",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 25,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NEAR MISS.  I BOUGHT A NEW 2009 FORD FOCUS 7 MONTHS AGO; IT HAD 25 MILES ON IT.  I HAVE PUT 18,000 MILES ON IT SO FAR, MOSTLY IN THE LAST 2 MONTHS.  THE BACK STARTS THUMPING AT HIGHWAY SPEEDS ABOUT 1000 MILES AGO SO TODAY I TAKE IT IN TO BILL KNIGHT FORD, WHERE I BOUGHT THE CAR (",
+      "pct": 11
+    },
+    {
+      "component": "WHEELS",
+      "count": 22,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 1,
+      "sample": "CAR PURCHASED NEW FROM OUT OF AREA DEALER IN DECEMBER 2008 - NO ACCIDENTS OR POTHOLE CONTACT. AT 10090 MILES, HAD RIGHT REAR TIRE BLOWOUT, TIRE WAS REPLACED. SIX MONTHS LATER, REPLACED BOTH REAR TIRES DUE TO UNEVEN WEAR, COMPETED ALIGNMENT AT QUALITY PROVIDER WITH NO PROBLEMS NOT",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Focus owners report most",
+    "summary": "Across 229 owner complaints to NHTSA, the most reported area is Electrical System (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 45,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY FORD FOCUS ON THE HIGHWAY, RUNNING APPROX. 55 MPH. ALL AT ONCE A WRENCH LIGHT CAME ON IN MY CAR, AND MY CAR DECELERATED TO APPROX. 10 MPH. I PULLED IT OFF OF THE ROAD SHUT THE CAR OFF AND RESTARTED IT, AND THE CAR RAN FINE THE REST OF THE WAY HOME. SINCE THEN IT ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "45 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 39,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I DRIVE A 2009 FORD FOCUS.  WHILE DRIVING DOWN THE HIGHWAY I WILL HAVE THE WRENCH LIGHT COME ON.  I TAKE IT TO THE DEALER AND THEY FIND NOTHING WRONG.  WHEN THE LIGHT COMES ON THE CAR LOSES POWER.  I TURN THE CAR OFF, WAIT ABOUT A MINUTE AND TURN THE CAR BACK ON.  AT THAT TIME TH",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "39 reports (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 33,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD FOCUS. THE CONTACT WAS DRIVING APPROXIMATELY 5 MPH WHEN THE VEHICLE JUMPED A CURB AND CRASHED INTO A POLE. THE DRIVER SUSTAINED NO PERSONAL INJURY. THERE WAS PROPERTY DAMAGE, AND A POLICE REPORT FILED. THE VEHICLE WAS COMPLETELY DESTROYED. IN ADDI",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "33 reports (14%) · 4 crash · 3 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 25,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NEAR MISS.  I BOUGHT A NEW 2009 FORD FOCUS 7 MONTHS AGO; IT HAD 25 MILES ON IT.  I HAVE PUT 18,000 MILES ON IT SO FAR, MOSTLY IN THE LAST 2 MONTHS.  THE BACK STARTS THUMPING AT HIGHWAY SPEEDS ABOUT 1000 MILES AGO SO TODAY I TAKE IT IN TO BILL KNIGHT FORD, WHERE I BOUGHT THE CAR (",
+        "pct": 11,
+        "title": "Suspension",
+        "blurb": "25 reports (11%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 22,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 1,
+        "sample": "CAR PURCHASED NEW FROM OUT OF AREA DEALER IN DECEMBER 2008 - NO ACCIDENTS OR POTHOLE CONTACT. AT 10090 MILES, HAD RIGHT REAR TIRE BLOWOUT, TIRE WAS REPLACED. SIX MONTHS LATER, REPLACED BOTH REAR TIRES DUE TO UNEVEN WEAR, COMPETED ALIGNMENT AT QUALITY PROVIDER WITH NO PROBLEMS NOT",
+        "pct": 10,
+        "title": "Wheels",
+        "blurb": "22 reports (10%) · 5 crash · 7 injured"
+      }
+    ]
+  }
+}

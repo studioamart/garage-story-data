@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-07-19T23:53:29.457Z",
+  "total": 1359,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 454,
+      "crash": 11,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "CAN SOMEONE PLEASE SEE IF THE 2010 CHEVROLET MALIBU HAS THE SAME STEERING AS THE COBALT?  I HAVE OWNED THIS CAR FOR 1 MONTH NOW AND HAVE THE SAME ISSUE.   PROBLEM: OVER 45MPH THERE IS A DISCONNECTED FEELING IN THE STEERING. ON ROUGH ROADS OR ON A WINDY DAY THE CAR IS HARD TO KEEP",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 293,
+      "crash": 4,
+      "fire": 5,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "I BOUGHT A 2010 CHEVY MALIBU IN NOVEMBER OF 2010 AND THE CAR ENGINE CAUGHT ON FIRE IN JANUARY OF 2010. THE VEHICLE WAS PARKED IN MY DRIVEWAY WHILE I WAS SLEEPING. AT APPROXIMATELY 9 P.M. MY NEIGHBORS AWAKE ME TO NOTIFY ME THAT MY CAR WAS ON FIRE. THEY HAD CALLED 911 AND THE FIRE ",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 226,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I PURCHASED THE 2010 MALIBU, USED FROM THE DEALERSHIP- THEY WERE THE OWNERS PREVIOUSLY. I PURCHASED IT IN OCT. 2011 AND HAVE TAKEN IT TO THE DEALERSHIP 8 TIMES IN THE 9 MONTHS OF OWNING IT. ONE TIME THE ENTIRE DRIVER SIDE FLOOR HAD 1+ INCHES OF STANDING WATER IN IT, AFTER A RAIN.",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 199,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "VERY DELAYED RESPONSE TO BRAKING.  I WAS ABOUT FOUR CARS AWAY WHEN I APPLIED THE BRAKE.  I WAS GOING ABOUT 40MPH WHEN I SLAMMED ON THE BRAKE.  VEHICLE KEPT ROLLING UNTIL EVENTUALLY IT HIT ANOTHER VEHICLE.  IT FELT LIKE I WAS JUST DRIVING WITH THE FOOT ON THE GAS VERY SLOWLY.  ITS",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 194,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET MALIBU LT. THE CONTACT STATED THAT WHILE DRIVING AND DEPRESSING THE BRAKE PEDAL, THE BCM AND THE BRAKE PEDAL POSITION SENSOR ENGAGED IN THE OPPOSITE DIRECTION.  WHEN THE BRAKE PEDAL WAS DEPRESSED THE BRAKE LIGHT DID NOT ILLUMINATE AND WHEN TH",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Malibu owners report most",
+    "summary": "Across 1,359 owner complaints to NHTSA, the most reported area is Steering (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 454,
+        "crash": 11,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "CAN SOMEONE PLEASE SEE IF THE 2010 CHEVROLET MALIBU HAS THE SAME STEERING AS THE COBALT?  I HAVE OWNED THIS CAR FOR 1 MONTH NOW AND HAVE THE SAME ISSUE.   PROBLEM: OVER 45MPH THERE IS A DISCONNECTED FEELING IN THE STEERING. ON ROUGH ROADS OR ON A WINDY DAY THE CAR IS HARD TO KEEP",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "454 reports (33%) · 1 fire · 11 crash · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 293,
+        "crash": 4,
+        "fire": 5,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "I BOUGHT A 2010 CHEVY MALIBU IN NOVEMBER OF 2010 AND THE CAR ENGINE CAUGHT ON FIRE IN JANUARY OF 2010. THE VEHICLE WAS PARKED IN MY DRIVEWAY WHILE I WAS SLEEPING. AT APPROXIMATELY 9 P.M. MY NEIGHBORS AWAKE ME TO NOTIFY ME THAT MY CAR WAS ON FIRE. THEY HAD CALLED 911 AND THE FIRE ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "293 reports (22%) · 5 fire · 4 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 226,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I PURCHASED THE 2010 MALIBU, USED FROM THE DEALERSHIP- THEY WERE THE OWNERS PREVIOUSLY. I PURCHASED IT IN OCT. 2011 AND HAVE TAKEN IT TO THE DEALERSHIP 8 TIMES IN THE 9 MONTHS OF OWNING IT. ONE TIME THE ENTIRE DRIVER SIDE FLOOR HAD 1+ INCHES OF STANDING WATER IN IT, AFTER A RAIN.",
+        "pct": 17,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "226 reports (17%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 199,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "VERY DELAYED RESPONSE TO BRAKING.  I WAS ABOUT FOUR CARS AWAY WHEN I APPLIED THE BRAKE.  I WAS GOING ABOUT 40MPH WHEN I SLAMMED ON THE BRAKE.  VEHICLE KEPT ROLLING UNTIL EVENTUALLY IT HIT ANOTHER VEHICLE.  IT FELT LIKE I WAS JUST DRIVING WITH THE FOOT ON THE GAS VERY SLOWLY.  ITS",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "199 reports (15%) · 8 crash · 9 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 194,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET MALIBU LT. THE CONTACT STATED THAT WHILE DRIVING AND DEPRESSING THE BRAKE PEDAL, THE BCM AND THE BRAKE PEDAL POSITION SENSOR ENGAGED IN THE OPPOSITE DIRECTION.  WHEN THE BRAKE PEDAL WAS DEPRESSED THE BRAKE LIGHT DID NOT ILLUMINATE AND WHEN TH",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "194 reports (14%) · 1 fire · 2 crash · 3 injured"
+      }
+    ]
+  }
+}

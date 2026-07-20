@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-07-19T23:55:37.240Z",
+  "total": 1191,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 737,
+      "crash": 19,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2011 FORD EXPLORER 4WD IS PROGRAMMED TO SEND 100% POWER TO THE FRONT WHEELS DURING NORMAL DRIVING. UPON SUDDEN ACCELERATION ESPECIALLY GOING UPHILL THE SUBSEQUENT TORQUE STEER IS OVERWHELMING TO THE DRIVER. CAN BE SO SEVERE IT CAN RIP THE WHEEL FROM THE HANDS OF THE DRIVER. THIS ",
+      "pct": 62
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 110,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD EXPLORER. THE CONTACT STATED WHILE DRIVING THROUGH DIRT OR WATER, PARTICLES WOULD SEEP INTO THE VEHICLE ON THE DRIVERS SIDE. THE DEALER AND MANUFACTURER WERE NOTIFIED, BUT DENIED ANY ASSISTANCE WITH REPAIR TO THE FAILURE.  THE VEHICLE WAS NOT REPA",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 94,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MORE LIKE ADAPTIVE 'CURSE' CONTROL.  MY 2011 EXPLORER LIMITED 4X4 WITH THE ADAPTIVE CRUISE ALWAYS CATCHES THE REAR OF SEMI TRUCKS IN OTHER LANES, CAUSING IT TO APPLY FULL BRAKES AND PEOPLE BEHIND ME ALMOST CRASH INTO ME.  MY 2011 LIMITED IS TOTALLY FACTORY ORIGINAL, NO TOW BARS. ",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 83,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "PURCHASED THIS VEHICLE FOR MY WIFE A LITTLE OVER A YEAR AGO. AT FIRST EVERYTHING WAS FINE BUT THEN AT ABOUT FOUR MONTHS WE STARTED HAVING ISSUES WITH THE WINDOW NOT ROLLING UP. THE DEALER TOOK CARE OF THAT ISSUE WITH NO PROBLEMS. THEN WE TAKE IT IN FOR THE SCHEDULED MAINTENANCE (",
+      "pct": 7
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 64,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2011 FORD EXPLORER WAS PARKED.  STARTED CAR AND  POWER STEERING FAILURE LIGHT CAME ON ALARMS SOUNDING AND STEERING WHEEL WAS LOCKED, YET CAR WOULD BACK UP ...STRAIGHT.   PRIOR TO THIS INCIDENT WHEN CAR WAS STOPPED AT A LIGHT IT SEEMED TO HAVE A TRANSMISSION SLIP OR JUMP.      AFT",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Explorer owners report most",
+    "summary": "Across 1,191 owner complaints to NHTSA, the most reported area is Steering (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 737,
+        "crash": 19,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2011 FORD EXPLORER 4WD IS PROGRAMMED TO SEND 100% POWER TO THE FRONT WHEELS DURING NORMAL DRIVING. UPON SUDDEN ACCELERATION ESPECIALLY GOING UPHILL THE SUBSEQUENT TORQUE STEER IS OVERWHELMING TO THE DRIVER. CAN BE SO SEVERE IT CAN RIP THE WHEEL FROM THE HANDS OF THE DRIVER. THIS ",
+        "pct": 62,
+        "title": "Steering",
+        "blurb": "737 reports (62%) · 19 crash · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 110,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD EXPLORER. THE CONTACT STATED WHILE DRIVING THROUGH DIRT OR WATER, PARTICLES WOULD SEEP INTO THE VEHICLE ON THE DRIVERS SIDE. THE DEALER AND MANUFACTURER WERE NOTIFIED, BUT DENIED ANY ASSISTANCE WITH REPAIR TO THE FAILURE.  THE VEHICLE WAS NOT REPA",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "110 reports (9%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 94,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MORE LIKE ADAPTIVE 'CURSE' CONTROL.  MY 2011 EXPLORER LIMITED 4X4 WITH THE ADAPTIVE CRUISE ALWAYS CATCHES THE REAR OF SEMI TRUCKS IN OTHER LANES, CAUSING IT TO APPLY FULL BRAKES AND PEOPLE BEHIND ME ALMOST CRASH INTO ME.  MY 2011 LIMITED IS TOTALLY FACTORY ORIGINAL, NO TOW BARS. ",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "94 reports (8%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 83,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "PURCHASED THIS VEHICLE FOR MY WIFE A LITTLE OVER A YEAR AGO. AT FIRST EVERYTHING WAS FINE BUT THEN AT ABOUT FOUR MONTHS WE STARTED HAVING ISSUES WITH THE WINDOW NOT ROLLING UP. THE DEALER TOOK CARE OF THAT ISSUE WITH NO PROBLEMS. THEN WE TAKE IT IN FOR THE SCHEDULED MAINTENANCE (",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "83 reports (7%) · 1 fire · 1 crash · 5 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 64,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2011 FORD EXPLORER WAS PARKED.  STARTED CAR AND  POWER STEERING FAILURE LIGHT CAME ON ALARMS SOUNDING AND STEERING WHEEL WAS LOCKED, YET CAR WOULD BACK UP ...STRAIGHT.   PRIOR TO THIS INCIDENT WHEN CAR WAS STOPPED AT A LIGHT IT SEEMED TO HAVE A TRANSMISSION SLIP OR JUMP.      AFT",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "64 reports (5%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

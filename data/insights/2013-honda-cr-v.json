@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/CR-V#complaints",
+  "generatedAt": "2026-07-19T23:49:14.978Z",
+  "total": 381,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 97,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA CR-V . THE CONTACT STATED THAT WHILE DRIVING 25 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS BUT THE DEALER WAS UNABLE TO DIAGNOSIS THE FAILURE. THE VEHICLE WAS NOT REPAIRED AND THE MANUFACTURER WAS ",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 95,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "INTERMITTENT PROBLEM HAPPENED 4 TIMES OVER 2 WEEKS WHILE DRIVING NEW VEHICLE  (JUST PURCHASED NEW) ABOUT 30 MILES.  ECO BUTTON IS ON.  FROM FULL STOP, WHEN I STEP ON GAS PEDAL GET A 1-2 SEC HESITATION; NO ENGINE REV UP, NO ACCELERATION.  FOOT IS NOT ON THE BRAKE AT TIME OF GAS PE",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 38,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FIRST, SECOND AND THIRD INCIDENT, PERTAINED OF ALL 4 DOORS LOCKING AND UNLOCKING REPEATEDLY, BY THEMSELVES WHILE THE VEHICLE WAS IN DRIVE, GOING DOWN THE FREEWAY AND ON SURFACE STREETS. THE MOST REENT INCIDENT WAS 12/16/13. THE VEHICLE WOULD NOT UNLOCK. I USED BOTH THE AFTER MARK",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 32,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA CR-V. WHILE DRIVING APPROXIMATELY 25 MPH, THE CONTACT NOTICED THAT THE HEADLIGHTS WERE EXTREMELY DIM AND WERE NOT POINTING TOWARD THE ROAD. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTIC TESTING. THE TECHNICIAN WAS UNABLE TO DIAGNOSE OR REPAI",
+      "pct": 8
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 27,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL*  THE CONTACT OWNS A 2013 HONDA CR-V.  THE CONTACT WAS DRIVING 15 MPH WHEN THE PASSENGER SIDE AIR BAG INDICATOR ILLUMINATED ON THE INSTRUMENT PANEL.  THERE WAS NO ONE OCCUPYING THE PASSENGER SEAT DURING THE FAILURE.  THE DEALER RESET THE CODES ON THREE DIFFERENT OCCASIONS, BUT",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Cr-V owners report most",
+    "summary": "Across 381 owner complaints to NHTSA, the most reported area is Engine (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 97,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA CR-V . THE CONTACT STATED THAT WHILE DRIVING 25 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS BUT THE DEALER WAS UNABLE TO DIAGNOSIS THE FAILURE. THE VEHICLE WAS NOT REPAIRED AND THE MANUFACTURER WAS ",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "97 reports (25%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 95,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "INTERMITTENT PROBLEM HAPPENED 4 TIMES OVER 2 WEEKS WHILE DRIVING NEW VEHICLE  (JUST PURCHASED NEW) ABOUT 30 MILES.  ECO BUTTON IS ON.  FROM FULL STOP, WHEN I STEP ON GAS PEDAL GET A 1-2 SEC HESITATION; NO ENGINE REV UP, NO ACCELERATION.  FOOT IS NOT ON THE BRAKE AT TIME OF GAS PE",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "95 reports (25%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 38,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FIRST, SECOND AND THIRD INCIDENT, PERTAINED OF ALL 4 DOORS LOCKING AND UNLOCKING REPEATEDLY, BY THEMSELVES WHILE THE VEHICLE WAS IN DRIVE, GOING DOWN THE FREEWAY AND ON SURFACE STREETS. THE MOST REENT INCIDENT WAS 12/16/13. THE VEHICLE WOULD NOT UNLOCK. I USED BOTH THE AFTER MARK",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "38 reports (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 32,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA CR-V. WHILE DRIVING APPROXIMATELY 25 MPH, THE CONTACT NOTICED THAT THE HEADLIGHTS WERE EXTREMELY DIM AND WERE NOT POINTING TOWARD THE ROAD. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTIC TESTING. THE TECHNICIAN WAS UNABLE TO DIAGNOSE OR REPAI",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "32 reports (8%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 27,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL*  THE CONTACT OWNS A 2013 HONDA CR-V.  THE CONTACT WAS DRIVING 15 MPH WHEN THE PASSENGER SIDE AIR BAG INDICATOR ILLUMINATED ON THE INSTRUMENT PANEL.  THERE WAS NO ONE OCCUPYING THE PASSENGER SEAT DURING THE FAILURE.  THE DEALER RESET THE CODES ON THREE DIFFERENT OCCASIONS, BUT",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "27 reports (7%) · 9 crash · 7 injured"
+      }
+    ]
+  }
+}

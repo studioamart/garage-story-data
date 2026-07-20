@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-07-19T23:56:11.475Z",
+  "total": 56,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 28,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON BRAKING TO ENTER A TIGHT LEFT HAND TURN IN THE COUNTRY THE DIC DISPLAYED SEVERAL WARNING INDICATORS, ABS AND TRACTION CONTROL. THE RIGHT FRONT BRAKE LOCKED UP (CONFIRMED BY THE FLAT SPOT ON THE TIRE). I BEGAN MODULATING THE BRAKES THINKING THAT I HAD LOST ANTI-LOCK BRAKES, B",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PASSENGER AIR BAG LIGHT SHOWS OFF WHEN MY 120 POUND WIFE SITS IN THE PASSENGER SEAT...TOOK THE CAR TO THE DEALER TODAY AND WAS TOLD THAT IT WORKS IF THE PASSENGER WEIGHS 150 POUNDS...PLEASE ADVISE NEXT STEPS AS THIS SEEMS VERY UNSAFE AND I WANT THE AIR BAG FUNCTIONAL FOR MY PASSE",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT ANY SPEED, THE RED SEAT BELT LIGHT WILL INTERMITTENTLY FLASH. JUST MOVING MY BUM FROM JUST GETTING COMFY, THE LIGHT WILL COME ON STEADY, THEN FLASH, THEN BE ACCOMPANIED BY FOUR CHIMES, THEN, GO OFF. A FEW MILES DOWN ROAD, AT LEGAL SPEEDS, (DOESN'T MATTER THE SPEE",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON BRAKING TO ENTER A TIGHT LEFT HAND TURN IN THE COUNTRY THE DIC DISPLAYED SEVERAL WARNING INDICATORS, ABS AND TRACTION CONTROL. THE RIGHT FRONT BRAKE LOCKED UP (CONFIRMED BY THE FLAT SPOT ON THE TIRE). I BEGAN MODULATING THE BRAKES THINKING THAT I HAD LOST ANTI-LOCK BRAKES, B",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON BRAKING TO ENTER A TIGHT LEFT HAND TURN IN THE COUNTRY THE DIC DISPLAYED SEVERAL WARNING INDICATORS, ABS AND TRACTION CONTROL. THE RIGHT FRONT BRAKE LOCKED UP (CONFIRMED BY THE FLAT SPOT ON THE TIRE). I BEGAN MODULATING THE BRAKES THINKING THAT I HAD LOST ANTI-LOCK BRAKES, B",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Corvette owners report most",
+    "summary": "Across 56 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 28,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON BRAKING TO ENTER A TIGHT LEFT HAND TURN IN THE COUNTRY THE DIC DISPLAYED SEVERAL WARNING INDICATORS, ABS AND TRACTION CONTROL. THE RIGHT FRONT BRAKE LOCKED UP (CONFIRMED BY THE FLAT SPOT ON THE TIRE). I BEGAN MODULATING THE BRAKES THINKING THAT I HAD LOST ANTI-LOCK BRAKES, B",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "28 reports (50%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PASSENGER AIR BAG LIGHT SHOWS OFF WHEN MY 120 POUND WIFE SITS IN THE PASSENGER SEAT...TOOK THE CAR TO THE DEALER TODAY AND WAS TOLD THAT IT WORKS IF THE PASSENGER WEIGHS 150 POUNDS...PLEASE ADVISE NEXT STEPS AS THIS SEEMS VERY UNSAFE AND I WANT THE AIR BAG FUNCTIONAL FOR MY PASSE",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "10 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT ANY SPEED, THE RED SEAT BELT LIGHT WILL INTERMITTENTLY FLASH. JUST MOVING MY BUM FROM JUST GETTING COMFY, THE LIGHT WILL COME ON STEADY, THEN FLASH, THEN BE ACCOMPANIED BY FOUR CHIMES, THEN, GO OFF. A FEW MILES DOWN ROAD, AT LEGAL SPEEDS, (DOESN'T MATTER THE SPEE",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "6 reports (11%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON BRAKING TO ENTER A TIGHT LEFT HAND TURN IN THE COUNTRY THE DIC DISPLAYED SEVERAL WARNING INDICATORS, ABS AND TRACTION CONTROL. THE RIGHT FRONT BRAKE LOCKED UP (CONFIRMED BY THE FLAT SPOT ON THE TIRE). I BEGAN MODULATING THE BRAKES THINKING THAT I HAD LOST ANTI-LOCK BRAKES, B",
+        "pct": 9,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "5 reports (9%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON BRAKING TO ENTER A TIGHT LEFT HAND TURN IN THE COUNTRY THE DIC DISPLAYED SEVERAL WARNING INDICATORS, ABS AND TRACTION CONTROL. THE RIGHT FRONT BRAKE LOCKED UP (CONFIRMED BY THE FLAT SPOT ON THE TIRE). I BEGAN MODULATING THE BRAKES THINKING THAT I HAD LOST ANTI-LOCK BRAKES, B",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "4 reports (7%) · 1 crash"
+      }
+    ]
+  }
+}

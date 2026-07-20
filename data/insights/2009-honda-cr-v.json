@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/CR-V#complaints",
+  "generatedAt": "2026-07-19T23:48:18.608Z",
+  "total": 386,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 176,
+      "crash": 18,
+      "fire": 1,
+      "injuries": 13,
+      "deaths": 0,
+      "sample": "MY WIFE DROVE A HONDA CRV 2009 WHICH WE PURCHASED LAST YEAR AND HAD A FRONT COLLISION WITH A TREE ON 2/19/1010. THE FRONT OF THE CAR WAS SERIOUSLY DAMAGED AND MY WIFE WAS SENT TO ER WITH REPORTED HEAD INJURY. BUT THE AIRBAG NEVER CAME OUT. WE BELIEVE THIS IS A DEFECT WHICH SHOULD",
+      "pct": 46
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 44,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT A CRV HONDA LAST MONTH.  RIGHT AFTER PURCHASE, BEGAN GETTING LARGE ELECTRICAL SHOCKS WHILE OPENING OR SHUTTING DOORS--IN A VARIETY OF SHOES AND CLOTHING.  CONTACTED DEALERSHIP AND CORPORATE OFFICE--ALL THEY COULD SAY WAS TO SPRAY THE SEATS AND FLOORS WITH FABRIC SOFTENER. ",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 38,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I PURCHASED A 2009 HONDA CRV IN FEB. I WAS CONCERNED ABOUT THE REAR/SIDE VISIBILITY DUE TO THE DESIGN OF THE VEHICLE AND VOICED MY CONCERN TO THE SALESWOMAN. SHE ASSURED ME THAT I \"WOULD GET USED TO IT.\" WELL, I HAVEN'T! I HAVE SERIOUS VISIBILITY PROBLEMS WHEN BACKING UP AND CHAN",
+      "pct": 10
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA CR-V. THE CONTACT STATED THAT THE PASSENGER SIDE DOOR WOULD NOT LOCK AUTOMATICALLY AND THE REAR HATCH WOULD NOT UNLOCK AT ALL. THE PASSENGER SIDE DOOR LOCK WOULD ONLY LOCK MANUALLY. THE CONTACT CALLED THE DEALER REGARDING THE LOCKING SYSTEM AND T",
+      "pct": 4
+    },
+    {
+      "component": "STEERING",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 HONDA CRV VEERS TO THE RIGHT. IF EVEN FOR A SPLIT SECOND ONE LETS GO OF THE STEERING WHEEL, THE CRV VEERS IMMEDIATELY INTO THE RIGHT LANE IN A TOTAL TIME OF 2-3 SECONDS. THIS HAS BEEN A KNOWN DEFECT OVER THE YEARS AND HONDA HAS REFUSED TO RECALL AND NHTSA HAS FAILED TO FOLLO",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Cr-V owners report most",
+    "summary": "Across 386 owner complaints to NHTSA, the most reported area is Air Bags (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 176,
+        "crash": 18,
+        "fire": 1,
+        "injuries": 13,
+        "deaths": 0,
+        "sample": "MY WIFE DROVE A HONDA CRV 2009 WHICH WE PURCHASED LAST YEAR AND HAD A FRONT COLLISION WITH A TREE ON 2/19/1010. THE FRONT OF THE CAR WAS SERIOUSLY DAMAGED AND MY WIFE WAS SENT TO ER WITH REPORTED HEAD INJURY. BUT THE AIRBAG NEVER CAME OUT. WE BELIEVE THIS IS A DEFECT WHICH SHOULD",
+        "pct": 46,
+        "title": "Air Bags",
+        "blurb": "176 reports (46%) · 1 fire · 18 crash · 13 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 44,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT A CRV HONDA LAST MONTH.  RIGHT AFTER PURCHASE, BEGAN GETTING LARGE ELECTRICAL SHOCKS WHILE OPENING OR SHUTTING DOORS--IN A VARIETY OF SHOES AND CLOTHING.  CONTACTED DEALERSHIP AND CORPORATE OFFICE--ALL THEY COULD SAY WAS TO SPRAY THE SEATS AND FLOORS WITH FABRIC SOFTENER. ",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "44 reports (11%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 38,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I PURCHASED A 2009 HONDA CRV IN FEB. I WAS CONCERNED ABOUT THE REAR/SIDE VISIBILITY DUE TO THE DESIGN OF THE VEHICLE AND VOICED MY CONCERN TO THE SALESWOMAN. SHE ASSURED ME THAT I \"WOULD GET USED TO IT.\" WELL, I HAVEN'T! I HAVE SERIOUS VISIBILITY PROBLEMS WHEN BACKING UP AND CHAN",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "38 reports (10%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA CR-V. THE CONTACT STATED THAT THE PASSENGER SIDE DOOR WOULD NOT LOCK AUTOMATICALLY AND THE REAR HATCH WOULD NOT UNLOCK AT ALL. THE PASSENGER SIDE DOOR LOCK WOULD ONLY LOCK MANUALLY. THE CONTACT CALLED THE DEALER REGARDING THE LOCKING SYSTEM AND T",
+        "pct": 4,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "17 reports (4%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 HONDA CRV VEERS TO THE RIGHT. IF EVEN FOR A SPLIT SECOND ONE LETS GO OF THE STEERING WHEEL, THE CRV VEERS IMMEDIATELY INTO THE RIGHT LANE IN A TOTAL TIME OF 2-3 SECONDS. THIS HAS BEEN A KNOWN DEFECT OVER THE YEARS AND HONDA HAS REFUSED TO RECALL AND NHTSA HAS FAILED TO FOLLO",
+        "pct": 4,
+        "title": "Steering",
+        "blurb": "15 reports (4%)"
+      }
+    ]
+  }
+}

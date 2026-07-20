@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-crown-victoria",
+  "make": "Ford",
+  "model": "Crown Victoria",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/CROWN%20VICTORIA#complaints",
+  "generatedAt": "2026-07-19T23:52:44.831Z",
+  "total": 44,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 17,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CATASTROPHIC FAILURE OF THE STEERING COLUMN; THE STEERING COLUMN RETAINING RING FAILED. BINDING OF LOWER AND MIDDLE UNIVERSAL JOINTS AND BELIEVE IT IS HEAT RELATED. STEERING SHAFT NOT TRAVELING ON A TRUE AXIS AND A RESULT IS THE RETAINING RING IS BEING WORN AND EVENTUALLY WEARS O",
+      "pct": 39
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 11,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FORD CROWN VICTORIA FUEL PUMP FAILURES.ERRATIC FUEL PUMP OPERATION AND SUBSEQUENT FAILURE RESULTING IN LOSS OF POWER AND VEHICLE STOPPING IN ROADWAY.  17 SHERIFF'S DEPUTY PATROL CARS HAVE HAD SUDDEN FUEL PUMP FAILURES SINCE 6/1/2010. ALL 17 FUEL PUMPS HAVE HAD TO BE REPLACED. FOR",
+      "pct": 25
+    },
+    {
+      "component": "GASOLINE",
+      "count": 11,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FORD CROWN VICTORIA FUEL PUMP FAILURES.ERRATIC FUEL PUMP OPERATION AND SUBSEQUENT FAILURE RESULTING IN LOSS OF POWER AND VEHICLE STOPPING IN ROADWAY.  17 SHERIFF'S DEPUTY PATROL CARS HAVE HAD SUDDEN FUEL PUMP FAILURES SINCE 6/1/2010. ALL 17 FUEL PUMPS HAVE HAD TO BE REPLACED. FOR",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "POLICE INTERCEPTOR LOST ALL FORWARD GEARS AT HIGHWAY SPEED IN HEAVY TRAFFIC.  VEHICLE HAS CRACKED FORWARD CLUTCH CYLINDER.  VEHICLE WAS SUBJECT TO SATISFACTION CAMPAIGN 06B36 FOR A CALIBRATION UPDATE AND SUBSEQUENT WARRANTY EXTENSION OF MILEAGE ONLY FOR THE FORWARD CLUTCH CYLINDE",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 FORD CROWN VICTORIA POLICE INTERCEPTOR(NA). WHILE STARTING THE VEHICLE, THE CONTACT TURNED ON THE VENT AND WHITE TOXIC FLAKES ESCAPED FROM IT. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHO STATED THAT THE VEHICLE WAS NO LONGER UNDER WARRANTY. THE MA",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Crown Victoria owners report most",
+    "summary": "Across 44 owner complaints to NHTSA, the most reported area is Steering (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 17,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CATASTROPHIC FAILURE OF THE STEERING COLUMN; THE STEERING COLUMN RETAINING RING FAILED. BINDING OF LOWER AND MIDDLE UNIVERSAL JOINTS AND BELIEVE IT IS HEAT RELATED. STEERING SHAFT NOT TRAVELING ON A TRUE AXIS AND A RESULT IS THE RETAINING RING IS BEING WORN AND EVENTUALLY WEARS O",
+        "pct": 39,
+        "title": "Steering",
+        "blurb": "17 reports (39%) · 2 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 11,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FORD CROWN VICTORIA FUEL PUMP FAILURES.ERRATIC FUEL PUMP OPERATION AND SUBSEQUENT FAILURE RESULTING IN LOSS OF POWER AND VEHICLE STOPPING IN ROADWAY.  17 SHERIFF'S DEPUTY PATROL CARS HAVE HAD SUDDEN FUEL PUMP FAILURES SINCE 6/1/2010. ALL 17 FUEL PUMPS HAVE HAD TO BE REPLACED. FOR",
+        "pct": 25,
+        "title": "Fuel System",
+        "blurb": "11 reports (25%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 11,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FORD CROWN VICTORIA FUEL PUMP FAILURES.ERRATIC FUEL PUMP OPERATION AND SUBSEQUENT FAILURE RESULTING IN LOSS OF POWER AND VEHICLE STOPPING IN ROADWAY.  17 SHERIFF'S DEPUTY PATROL CARS HAVE HAD SUDDEN FUEL PUMP FAILURES SINCE 6/1/2010. ALL 17 FUEL PUMPS HAVE HAD TO BE REPLACED. FOR",
+        "pct": 25,
+        "title": "Gasoline",
+        "blurb": "11 reports (25%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "POLICE INTERCEPTOR LOST ALL FORWARD GEARS AT HIGHWAY SPEED IN HEAVY TRAFFIC.  VEHICLE HAS CRACKED FORWARD CLUTCH CYLINDER.  VEHICLE WAS SUBJECT TO SATISFACTION CAMPAIGN 06B36 FOR A CALIBRATION UPDATE AND SUBSEQUENT WARRANTY EXTENSION OF MILEAGE ONLY FOR THE FORWARD CLUTCH CYLINDE",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "7 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 FORD CROWN VICTORIA POLICE INTERCEPTOR(NA). WHILE STARTING THE VEHICLE, THE CONTACT TURNED ON THE VENT AND WHITE TOXIC FLAKES ESCAPED FROM IT. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHO STATED THAT THE VEHICLE WAS NO LONGER UNDER WARRANTY. THE MA",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "5 reports (11%) · 1 fire"
+      }
+    ]
+  }
+}

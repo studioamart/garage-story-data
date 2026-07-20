@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-fit",
+  "make": "Honda",
+  "model": "Fit",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/FIT#complaints",
+  "generatedAt": "2026-07-19T23:49:05.170Z",
+  "total": 113,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 41,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "NO INCIDENT OR ACCIDENT. JUST A REQUEST CONCERNING THE TAKATA AIRBAG RECALLS.    THE TAKATA AIRBAGS ARE BEING REPLACED WITH ANOTHER POTENTIALLY DEFECTIVE TAKATA AIRBAG. TAKATA IS UNCERTAIN AS TO THE CAUSE OF THE AIRBAG EXPLOSIONS. THEY ARE STILL IN THE PROCESS OF TRYING TO UNDERS",
+      "pct": 36
+    },
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA FIT. THE CONTACT STATED THAT WHILE REVERSING AT UNKNOWN SPEEDS, SHE ATTEMPTED TO MAKE A SHARP TURN BUT THE VEHICLE FAILED TO RESPOND TO STEERING ATTEMPTS AND CRASHED INTO A POLE. THE CONTACT ALSO MENTIONED THAT THE FAILURE RECURRED TWICE, BOTH IN",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT SUSTAINED HIGHWAYS SPEEDS OF 70-75MPH, WITH THE OUTDOOR TEMPERATURE ABOVE 87 DEG. F, VEHICLE WHEELS INTERMITTENTLY VEERED, TAKING THE VEHICLE OUT OF THE LANE RAPIDLY, AND WITHOUT ANY FEEDBACK ON THE STEERING WHEEL.    THIS OCCURRED ON BOTH FRESHLY PAVED INTERSTATE HIGHWAYS AND",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA FIT. THE CONTACT WAS DRIVING 50 MPH WHEN THE VEHICLE BECAME RESISTANT TO ACCELERATION ATTEMPTS. THE VEHICLE WAS SHUT OFF AND RESTARTED, BUT THE ENGINE STALLED. THE VEHICLE WAS INSPECTED BY THE DEALER BUT THE FAILURE COULD NOT BE DIAGNOSED. THE MA",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON 12/31/2013 I PARKED MY HONDA FIT 2012 IN THE PARKING GARAGE OF CHILDREN'S HOSPITAL LOS ANGELES AT 6AM AND LEFT IT THERE WHILE MY LITTLE GIRL HAD SURGERY. WHEN I RETURNED TO IT AT 4:30, I WAS UNABLE TO OPEN THE DOORS WITH THE KEY FOB. THE LIGHT ON THE FOB FLASHED, SO I KNEW IT ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Fit owners report most",
+    "summary": "Across 113 owner complaints to NHTSA, the most reported area is Air Bags (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 41,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "NO INCIDENT OR ACCIDENT. JUST A REQUEST CONCERNING THE TAKATA AIRBAG RECALLS.    THE TAKATA AIRBAGS ARE BEING REPLACED WITH ANOTHER POTENTIALLY DEFECTIVE TAKATA AIRBAG. TAKATA IS UNCERTAIN AS TO THE CAUSE OF THE AIRBAG EXPLOSIONS. THEY ARE STILL IN THE PROCESS OF TRYING TO UNDERS",
+        "pct": 36,
+        "title": "Air Bags",
+        "blurb": "41 reports (36%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA FIT. THE CONTACT STATED THAT WHILE REVERSING AT UNKNOWN SPEEDS, SHE ATTEMPTED TO MAKE A SHARP TURN BUT THE VEHICLE FAILED TO RESPOND TO STEERING ATTEMPTS AND CRASHED INTO A POLE. THE CONTACT ALSO MENTIONED THAT THE FAILURE RECURRED TWICE, BOTH IN",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "16 reports (14%) · 3 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT SUSTAINED HIGHWAYS SPEEDS OF 70-75MPH, WITH THE OUTDOOR TEMPERATURE ABOVE 87 DEG. F, VEHICLE WHEELS INTERMITTENTLY VEERED, TAKING THE VEHICLE OUT OF THE LANE RAPIDLY, AND WITHOUT ANY FEEDBACK ON THE STEERING WHEEL.    THIS OCCURRED ON BOTH FRESHLY PAVED INTERSTATE HIGHWAYS AND",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "14 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA FIT. THE CONTACT WAS DRIVING 50 MPH WHEN THE VEHICLE BECAME RESISTANT TO ACCELERATION ATTEMPTS. THE VEHICLE WAS SHUT OFF AND RESTARTED, BUT THE ENGINE STALLED. THE VEHICLE WAS INSPECTED BY THE DEALER BUT THE FAILURE COULD NOT BE DIAGNOSED. THE MA",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "12 reports (11%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON 12/31/2013 I PARKED MY HONDA FIT 2012 IN THE PARKING GARAGE OF CHILDREN'S HOSPITAL LOS ANGELES AT 6AM AND LEFT IT THERE WHILE MY LITTLE GIRL HAD SURGERY. WHEN I RETURNED TO IT AT 4:30, I WAS UNABLE TO OPEN THE DOORS WITH THE KEY FOB. THE LIGHT ON THE FOB FLASHED, SO I KNEW IT ",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "9 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

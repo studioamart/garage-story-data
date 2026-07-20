@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/TAURUS#complaints",
+  "generatedAt": "2026-07-19T23:53:10.911Z",
+  "total": 64,
+  "issues": [
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I JUST FINISHED RENTING A FORD TAURUS 2009 FROM AVIS WHICH HAD 1543 MILES ON IT AT THE START OF THE RENTAL.  DURING THE COURSE OF THE RENTAL THE FOLLOWING OCCURRED.    WHILE DESCENDING A STEEP HILL ON A STATE HIGHWAY IN EASTHAMPTON, MA THE ENGINE STOPPED RUNNING.  I ONLY DETECTED",
+      "pct": 28
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 10,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 FORD TAURUS.  WHEN THE CONTACT ATTEMPTED TO APPLY THE BRAKES, SHE NOTICED THAT THE VEHICLE WAS ACCELERATING BY ITSELF.  SHE REACHED FOR THE ACCELERATOR PEDAL, BUT IT WAS STUCK TO THE FLOORBOARD.  SHE WAS ABLE TO LIFT THE PEDAL BACK UP AND DEPRESSED THE ",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2009 FORD TAURUS. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 45 MPH, ANOTHER VEHICLE CRASHED INTO HER WHEN IT DROVE THROUGH A STOP LIGHT. THE AIR BAGS DID NOT DEPLOY. THE POLICE REPORTED TO THE SCENE. THE CONTACT SUSTAINED BRUISES, A SPRAINED BACK",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING WITH CRUISE CONTROL SET AT 55MPH MY ENGINE STALLED. SMELLED ELECTRICAL WIRE BURNING. SMELL WENT AWAY, SO I RESTARTED THE ENGINE, AND DROVE ON. TOOK VEHICLE TO DEALER, WHERE A TAIL LIGHT HARNESS WAS DISCOVERED TO BE BURNED THROUGH. DEALER REPLACED WIRE HARNESS, AND R",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 FORD TAURUS. THE CONTACT WAS TRAVELING 30 MPH WHEN THE BRAKES WERE APPLIED IN ORDER TO MAKE A RIGHT TURN;   HOWEVER,  THE VEHICLE SPUN AROUND. THE CONTACT WAS ABLE TO DRIVE THE VEHICLE, BUT THE REAR DRIVER SIDE WHEEL WAS DRAGGING. WHEN THE CONTACT TOOK ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Taurus owners report most",
+    "summary": "Across 64 owner complaints to NHTSA, the most reported area is Engine And Engine Cooling (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I JUST FINISHED RENTING A FORD TAURUS 2009 FROM AVIS WHICH HAD 1543 MILES ON IT AT THE START OF THE RENTAL.  DURING THE COURSE OF THE RENTAL THE FOLLOWING OCCURRED.    WHILE DESCENDING A STEEP HILL ON A STATE HIGHWAY IN EASTHAMPTON, MA THE ENGINE STOPPED RUNNING.  I ONLY DETECTED",
+        "pct": 28,
+        "title": "Engine And Engine Cooling",
+        "blurb": "18 reports (28%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 10,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 FORD TAURUS.  WHEN THE CONTACT ATTEMPTED TO APPLY THE BRAKES, SHE NOTICED THAT THE VEHICLE WAS ACCELERATING BY ITSELF.  SHE REACHED FOR THE ACCELERATOR PEDAL, BUT IT WAS STUCK TO THE FLOORBOARD.  SHE WAS ABLE TO LIFT THE PEDAL BACK UP AND DEPRESSED THE ",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "10 reports (16%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2009 FORD TAURUS. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 45 MPH, ANOTHER VEHICLE CRASHED INTO HER WHEN IT DROVE THROUGH A STOP LIGHT. THE AIR BAGS DID NOT DEPLOY. THE POLICE REPORTED TO THE SCENE. THE CONTACT SUSTAINED BRUISES, A SPRAINED BACK",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "6 reports (9%) · 6 crash · 8 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING WITH CRUISE CONTROL SET AT 55MPH MY ENGINE STALLED. SMELLED ELECTRICAL WIRE BURNING. SMELL WENT AWAY, SO I RESTARTED THE ENGINE, AND DROVE ON. TOOK VEHICLE TO DEALER, WHERE A TAIL LIGHT HARNESS WAS DISCOVERED TO BE BURNED THROUGH. DEALER REPLACED WIRE HARNESS, AND R",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "6 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 FORD TAURUS. THE CONTACT WAS TRAVELING 30 MPH WHEN THE BRAKES WERE APPLIED IN ORDER TO MAKE A RIGHT TURN;   HOWEVER,  THE VEHICLE SPUN AROUND. THE CONTACT WAS ABLE TO DRIVE THE VEHICLE, BUT THE REAR DRIVER SIDE WHEEL WAS DRAGGING. WHEN THE CONTACT TOOK ",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "5 reports (8%)"
+      }
+    ]
+  }
+}

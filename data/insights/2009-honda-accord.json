@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-07-19T23:48:13.949Z",
+  "total": 720,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 235,
+      "crash": 8,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 HONDA ACCORD.  WHILE DRIVING 50 MPH, THE STEERING COLUMN SHOOK VIOLENTLY WHEN THE BRAKES WERE APPLIED.  THE VEHICLE WAS TAKEN TO THE DEALER, BUT THEY COULD NOT DUPLICATE OR REMEDY THE FAILURE.  UPON FURTHER INSPECTION, THE CONTACT NOTICED THAT WATER WOU",
+      "pct": 33
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 160,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 HONDA ACCORD.  WHILE DRIVING 50 MPH, THE STEERING COLUMN SHOOK VIOLENTLY WHEN THE BRAKES WERE APPLIED.  THE VEHICLE WAS TAKEN TO THE DEALER, BUT THEY COULD NOT DUPLICATE OR REMEDY THE FAILURE.  UPON FURTHER INSPECTION, THE CONTACT NOTICED THAT WATER WOU",
+      "pct": 22
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 142,
+      "crash": 29,
+      "fire": 1,
+      "injuries": 38,
+      "deaths": 2,
+      "sample": "NO CRASH YET, BUT CRASH LIKELY. 2009 HONDA ACCORD HAS DIM HEAD LIGHTS THAT CREATE A BLACK BLANKET IN FRONT OF DRIVER AND NARROWS ON ANY DIP IN ROAD.  VISIBILITY VERY POOR, AND THE BLACK BLANKET EFFECT IN FRONT OF YOU MOVES UP AND DOWN BECAUSE CAR BOUNCES ALOT DUE TO STIFF SUSPENS",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 111,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA ACCORD. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE CHECK ENGINE LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS AND IT WAS DETERMINED THAT THE VEHICLE WAS BURNING AN EXCESSIVE AMOUNT OF OIL. THE DEALER WAS NOT SURE WHY",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 43,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2009 HONDA ACCORD HEAD LIGHT BLINK EVERY 27 SECONDS WHEN A/C IS ON HONDA SEES IT NORMAL A CHARACTERISTIC ACCORDING TO HONDA I DIDN'T SEE THIS ON THE WINDOW STICKER ANYWHERE NOR WAS I INFORMED ABOUT BY MY SALES MAN JUST 4 DIFFERENT SERVICE DEPARTMENTS APPARENTLY IS A VERY LARGE PR",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Accord owners report most",
+    "summary": "Across 720 owner complaints to NHTSA, the most reported area is Service Brakes (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 235,
+        "crash": 8,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 HONDA ACCORD.  WHILE DRIVING 50 MPH, THE STEERING COLUMN SHOOK VIOLENTLY WHEN THE BRAKES WERE APPLIED.  THE VEHICLE WAS TAKEN TO THE DEALER, BUT THEY COULD NOT DUPLICATE OR REMEDY THE FAILURE.  UPON FURTHER INSPECTION, THE CONTACT NOTICED THAT WATER WOU",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "235 reports (33%) · 1 fire · 8 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 160,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 HONDA ACCORD.  WHILE DRIVING 50 MPH, THE STEERING COLUMN SHOOK VIOLENTLY WHEN THE BRAKES WERE APPLIED.  THE VEHICLE WAS TAKEN TO THE DEALER, BUT THEY COULD NOT DUPLICATE OR REMEDY THE FAILURE.  UPON FURTHER INSPECTION, THE CONTACT NOTICED THAT WATER WOU",
+        "pct": 22,
+        "title": "Hydraulic",
+        "blurb": "160 reports (22%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 142,
+        "crash": 29,
+        "fire": 1,
+        "injuries": 38,
+        "deaths": 2,
+        "sample": "NO CRASH YET, BUT CRASH LIKELY. 2009 HONDA ACCORD HAS DIM HEAD LIGHTS THAT CREATE A BLACK BLANKET IN FRONT OF DRIVER AND NARROWS ON ANY DIP IN ROAD.  VISIBILITY VERY POOR, AND THE BLACK BLANKET EFFECT IN FRONT OF YOU MOVES UP AND DOWN BECAUSE CAR BOUNCES ALOT DUE TO STIFF SUSPENS",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "142 reports (20%) · 1 fire · 29 crash · 38 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 111,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA ACCORD. THE CONTACT STATED THAT WHILE DRIVING 45 MPH, THE CHECK ENGINE LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS AND IT WAS DETERMINED THAT THE VEHICLE WAS BURNING AN EXCESSIVE AMOUNT OF OIL. THE DEALER WAS NOT SURE WHY",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "111 reports (15%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 43,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2009 HONDA ACCORD HEAD LIGHT BLINK EVERY 27 SECONDS WHEN A/C IS ON HONDA SEES IT NORMAL A CHARACTERISTIC ACCORDING TO HONDA I DIDN'T SEE THIS ON THE WINDOW STICKER ANYWHERE NOR WAS I INFORMED ABOUT BY MY SALES MAN JUST 4 DIFFERENT SERVICE DEPARTMENTS APPARENTLY IS A VERY LARGE PR",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "43 reports (6%) · 1 fire · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

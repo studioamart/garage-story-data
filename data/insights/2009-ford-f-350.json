@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-f-350",
+  "make": "Ford",
+  "model": "F-350",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/F-350#complaints",
+  "generatedAt": "2026-07-19T23:53:00.874Z",
+  "total": 47,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN MY TRUCK IS DRIVEN OVER A POTHOLE, ONTO A BRIDGE, OR ANY CHANGE IN ELEVATION IN THE DRIVING SURFACE, THE VEHICLE WILL SHAKE VIOLENTLY.  THE SHAKING IS SO VIOLENT THE VEHICLE MUST BE STOPPED TO AVOID LOSING CONTROL.  IT FEELS AS IF THE FRONT END WILL LITERALLY COME APART.  TH",
+      "pct": 45
+    },
+    {
+      "component": "STEERING",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN MY TRUCK IS DRIVEN OVER A POTHOLE, ONTO A BRIDGE, OR ANY CHANGE IN ELEVATION IN THE DRIVING SURFACE, THE VEHICLE WILL SHAKE VIOLENTLY.  THE SHAKING IS SO VIOLENT THE VEHICLE MUST BE STOPPED TO AVOID LOSING CONTROL.  IT FEELS AS IF THE FRONT END WILL LITERALLY COME APART.  TH",
+      "pct": 36
+    },
+    {
+      "component": "WHEELS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HIT ROAD BUMP & THE 'DEATH WOBBLE' OCCURRED CAUSING THE TRUCK TO SHAKE UNCONTROLLABLY & FORCE US TO THE SIDE OF THE ROAD.  I TOOK IT TO FORD DEALERSHIP & THEY QUOTED ME OVER $7K TO FIX VIRTUALLY EVERYTHING SUSPENSION RELATED.  I TOOK IT 2 LOCAL DIESEL MECHANICS WHO EVENTUALLY FIX",
+      "pct": 13
+    },
+    {
+      "component": "TIRES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON MARCH 23, 2012, WHILE TOWING MY RV ON I16, THE TREAD ON THE LEFT REAR TIRE OF MY 2009 F350 PEELED OFF. MY FACTORY INSTALLED TIRES WERE CONTINENTAL CONTITRAC LT275/65R18. ACCORDING TO CONTINENTAL THESE TIRES WERE NOT A PART OF RECALL #11T002000 AND YET, GIVEN THE EXACT SAME FAI",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD F-350 SD. THE CONTACT STATED THAT WHILE DRIVING AT 75 MPH, THE DRIVER HEARD A LOUD NOISE COMING FROM THE ENGINE COMPARTMENT AND THE VEHICLE STALLED. THE VEHICLE WAS TOWED TO THE DEALER WHO INSPECTED THE VEHICLE AND DIAGNOSED THAT THE ENGINE ROD FA",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford F-350 owners report most",
+    "summary": "Across 47 owner complaints to NHTSA, the most reported area is Suspension (45% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN MY TRUCK IS DRIVEN OVER A POTHOLE, ONTO A BRIDGE, OR ANY CHANGE IN ELEVATION IN THE DRIVING SURFACE, THE VEHICLE WILL SHAKE VIOLENTLY.  THE SHAKING IS SO VIOLENT THE VEHICLE MUST BE STOPPED TO AVOID LOSING CONTROL.  IT FEELS AS IF THE FRONT END WILL LITERALLY COME APART.  TH",
+        "pct": 45,
+        "title": "Suspension",
+        "blurb": "21 reports (45%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN MY TRUCK IS DRIVEN OVER A POTHOLE, ONTO A BRIDGE, OR ANY CHANGE IN ELEVATION IN THE DRIVING SURFACE, THE VEHICLE WILL SHAKE VIOLENTLY.  THE SHAKING IS SO VIOLENT THE VEHICLE MUST BE STOPPED TO AVOID LOSING CONTROL.  IT FEELS AS IF THE FRONT END WILL LITERALLY COME APART.  TH",
+        "pct": 36,
+        "title": "Steering",
+        "blurb": "17 reports (36%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HIT ROAD BUMP & THE 'DEATH WOBBLE' OCCURRED CAUSING THE TRUCK TO SHAKE UNCONTROLLABLY & FORCE US TO THE SIDE OF THE ROAD.  I TOOK IT TO FORD DEALERSHIP & THEY QUOTED ME OVER $7K TO FIX VIRTUALLY EVERYTHING SUSPENSION RELATED.  I TOOK IT 2 LOCAL DIESEL MECHANICS WHO EVENTUALLY FIX",
+        "pct": 13,
+        "title": "Wheels",
+        "blurb": "6 reports (13%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON MARCH 23, 2012, WHILE TOWING MY RV ON I16, THE TREAD ON THE LEFT REAR TIRE OF MY 2009 F350 PEELED OFF. MY FACTORY INSTALLED TIRES WERE CONTINENTAL CONTITRAC LT275/65R18. ACCORDING TO CONTINENTAL THESE TIRES WERE NOT A PART OF RECALL #11T002000 AND YET, GIVEN THE EXACT SAME FAI",
+        "pct": 11,
+        "title": "Tires",
+        "blurb": "5 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD F-350 SD. THE CONTACT STATED THAT WHILE DRIVING AT 75 MPH, THE DRIVER HEARD A LOUD NOISE COMING FROM THE ENGINE COMPARTMENT AND THE VEHICLE STALLED. THE VEHICLE WAS TOWED TO THE DEALER WHO INSPECTED THE VEHICLE AND DIAGNOSED THAT THE ENGINE ROD FA",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "5 reports (11%)"
+      }
+    ]
+  }
+}

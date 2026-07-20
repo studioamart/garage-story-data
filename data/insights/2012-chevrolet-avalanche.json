@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-avalanche",
+  "make": "Chevrolet",
+  "model": "Avalanche",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/AVALANCHE#complaints",
+  "generatedAt": "2026-07-19T23:56:39.057Z",
+  "total": 52,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE STEERING WHEEL IS DIFFICULT TO TURN OR CONTROL, WENT TO DEALERSHIP TO FIX THE PROBLEM. AFTER THE DEALERSHIP ALLEGEDLY FIX THE PROBLEM, WE HAD CONTINUED PROBLEMS WITH THE STEERING (CONTROLLING THE STEERING WHEEL) AND THEN THE TRANSMISSION CAUSED THE VEHICLE TO JUMP OR SKIP GEA",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE FAILS TO START SOME TIMES, THIS HAPPEN 2 TO 3 TIME A MONTH THE ENGINE CRANK OK VOLT ON BATTERY  DROPS TO 10.5 VOLTS, INSTALLED NEW BATTERY, NO HELP. AFTER SETTING FOR 15 TO 20 MIN. IT WILL START, NO CHECK ENG. LITE  NO CODE SET IN COMPUTER. CHEV DEALER SAID CANNOT HELP",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE STANDING AT THE REAR DRIVER'S SIDE DOOR WITH THE VEHICLE PARKED AND THE ENGINE RUNNING, THE VEHICLE ROLLED AWAY AT APPROXIMATELY 20 MPH. THE CONTACT WAS KNOCKED OVER AND SUSTAINED SEVERAL INJURIES INCL",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET AVALANCHE. THE CONTACT STATED THAT PRECIPITATION WAS ENTERING THE VEHICLE AND SATURATING THE FRONT PASSENGER SIDE FLOOR BOARD. AFTER INSPECTING THE VEHICLE, THE CONTACT DISCOVERED THAT THE FRONT PASSENGER SIDE DOOR WAS RETAINING WATER. THE MA",
+      "pct": 6
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE ATTEMPTING TO ACCELERATE, THE VEHICLE HESITATED FOR SEVERAL SECONDS BEFORE ENGAGING. THE FAILURE OCCURRED WITHOUT ANY WARNING AND RECURRED SEVERAL TIMES. IN ADDITION, THE VEHICLE SURGED SPORADICALLY WH",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Avalanche owners report most",
+    "summary": "Across 52 owner complaints to NHTSA, the most reported area is Air Bags (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE STEERING WHEEL IS DIFFICULT TO TURN OR CONTROL, WENT TO DEALERSHIP TO FIX THE PROBLEM. AFTER THE DEALERSHIP ALLEGEDLY FIX THE PROBLEM, WE HAD CONTINUED PROBLEMS WITH THE STEERING (CONTROLLING THE STEERING WHEEL) AND THEN THE TRANSMISSION CAUSED THE VEHICLE TO JUMP OR SKIP GEA",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "9 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE FAILS TO START SOME TIMES, THIS HAPPEN 2 TO 3 TIME A MONTH THE ENGINE CRANK OK VOLT ON BATTERY  DROPS TO 10.5 VOLTS, INSTALLED NEW BATTERY, NO HELP. AFTER SETTING FOR 15 TO 20 MIN. IT WILL START, NO CHECK ENG. LITE  NO CODE SET IN COMPUTER. CHEV DEALER SAID CANNOT HELP",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "3 reports (6%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE STANDING AT THE REAR DRIVER'S SIDE DOOR WITH THE VEHICLE PARKED AND THE ENGINE RUNNING, THE VEHICLE ROLLED AWAY AT APPROXIMATELY 20 MPH. THE CONTACT WAS KNOCKED OVER AND SUSTAINED SEVERAL INJURIES INCL",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "3 reports (6%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET AVALANCHE. THE CONTACT STATED THAT PRECIPITATION WAS ENTERING THE VEHICLE AND SATURATING THE FRONT PASSENGER SIDE FLOOR BOARD. AFTER INSPECTING THE VEHICLE, THE CONTACT DISCOVERED THAT THE FRONT PASSENGER SIDE DOOR WAS RETAINING WATER. THE MA",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "3 reports (6%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE ATTEMPTING TO ACCELERATE, THE VEHICLE HESITATED FOR SEVERAL SECONDS BEFORE ENGAGING. THE FAILURE OCCURRED WITHOUT ANY WARNING AND RECURRED SEVERAL TIMES. IN ADDITION, THE VEHICLE SURGED SPORADICALLY WH",
+        "pct": 4,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (4%)"
+      }
+    ]
+  }
+}

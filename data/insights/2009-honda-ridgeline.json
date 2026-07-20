@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-07-19T23:48:27.259Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL  YESTERDAY 2/05/16 I CONTACTED AMERICAN HONDA MOTOR INC AND WAS GIVEN A CLAIM NUMBER 04437864 TO BEGIN THE PROCESS OF OBTAINING A RENTAL TO USE UNTIL THE PARTS ARE AVAILABLE FOR THE RECALL. A VIN SEARCH INCLUDED MY VEHICLE AT THE TIME AND WAS VERIFIED. I WAS ASSIGNE",
+      "pct": 60
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2009 Honda Ridgeline. The contact received notification of NHTSA Campaign Number: 22V430000 (Structure) however, the equipment needed to repair the under carriage of the vehicle was unavailable and was not sent from the manufacturer to the local dealer. The con",
+      "pct": 9
+    },
+    {
+      "component": "TIRES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA RIDGELINE WITH MICHELIN LTX M/S R245 65/R17 (N/A) TIRES. THE CONTACT STATED THAT THE TIRES WERE CRACKED. THE CONTACT TOOK THE VEHICLE TO THE DEALER AND WAS TOLD THAT THE TIRES WERE DRY ROTTING. THE TIRES WERE REPLACED. THE TIRE FAILURE MILEAGE WA",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After driving through Lake Alfred and getting on I-4 heading NE bound toward Orlando, I noticed a very loud noise.  I drove to the next exit a few miles down the road (the car seemed to handle fine), Exit 55 at Davenport FL.  On the exit ramp, I began to smell burning rubber.  Af",
+      "pct": 6
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IT'S HARD TO TURN MY STEERING WHEEL. IT'S ONLY EASY TO TURN WHEN I'M HITTING THE GAS. WHEN MY FOOT IS ON THE BREAK IT'S HARD TO TURN THE STEERING WHEEL. I CANNOT PARALLEL PARK BECAUSE I HAVE TO PRESS THE BREAK. AT THE HOSPITAL I AM NOT ALLOWED TO GET VALET PARKING BECAUSE THEY SA",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Ridgeline owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Air Bags (60% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL  YESTERDAY 2/05/16 I CONTACTED AMERICAN HONDA MOTOR INC AND WAS GIVEN A CLAIM NUMBER 04437864 TO BEGIN THE PROCESS OF OBTAINING A RENTAL TO USE UNTIL THE PARTS ARE AVAILABLE FOR THE RECALL. A VIN SEARCH INCLUDED MY VEHICLE AT THE TIME AND WAS VERIFIED. I WAS ASSIGNE",
+        "pct": 60,
+        "title": "Air Bags",
+        "blurb": "21 reports (60%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2009 Honda Ridgeline. The contact received notification of NHTSA Campaign Number: 22V430000 (Structure) however, the equipment needed to repair the under carriage of the vehicle was unavailable and was not sent from the manufacturer to the local dealer. The con",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "3 reports (9%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA RIDGELINE WITH MICHELIN LTX M/S R245 65/R17 (N/A) TIRES. THE CONTACT STATED THAT THE TIRES WERE CRACKED. THE CONTACT TOOK THE VEHICLE TO THE DEALER AND WAS TOLD THAT THE TIRES WERE DRY ROTTING. THE TIRES WERE REPLACED. THE TIRE FAILURE MILEAGE WA",
+        "pct": 9,
+        "title": "Tires",
+        "blurb": "3 reports (9%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After driving through Lake Alfred and getting on I-4 heading NE bound toward Orlando, I noticed a very loud noise.  I drove to the next exit a few miles down the road (the car seemed to handle fine), Exit 55 at Davenport FL.  On the exit ramp, I began to smell burning rubber.  Af",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (6%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IT'S HARD TO TURN MY STEERING WHEEL. IT'S ONLY EASY TO TURN WHEN I'M HITTING THE GAS. WHEN MY FOOT IS ON THE BREAK IT'S HARD TO TURN THE STEERING WHEEL. I CANNOT PARALLEL PARK BECAUSE I HAVE TO PRESS THE BREAK. AT THE HOSPITAL I AM NOT ALLOWED TO GET VALET PARKING BECAUSE THEY SA",
+        "pct": 6,
+        "title": "Steering",
+        "blurb": "2 reports (6%)"
+      }
+    ]
+  }
+}

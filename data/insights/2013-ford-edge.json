@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/EDGE#complaints",
+  "generatedAt": "2026-07-19T23:58:17.615Z",
+  "total": 2434,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 851,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I BOUGHT MY USED FORD EDGE WITH LESS THAN 20000 MILES. I WAS EXCITED TO HAVE A SONY MEDIA CENTER, IT HAD GREAT SOUND. BUT I'VE HAD PROBLEMS WITH IT FROM THE BEGINNING AND CONTINUE TO HAVE ISSUES. WITH BLUETOOTH MY PHONE WILL NOT CONNECT OR LOOSE CONNECTION FOR NO REASON. THE OTHE",
+      "pct": 35
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 630,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "PURCHASED 2013 FORD EDGE SPORT ON JULY 14TH. I'VE HAD POSSESSION OF THE CAR FOR THREE WEEKS AS OF THIS COMPLAINT. THE CAR REQUIRED SERVICE EVERY SINGLE WEEK SINCE I'VE HAD THE CAR. THE LAST INCIDENT WAS ON AUGUST 8TH. I STARTED THE CAR, AND MULTIPLE WARNING LIGHTS APPEARED ON THE",
+      "pct": 26
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 300,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE AUTOMATIC TRUNK HAS NO SENSOR FOR ITEMS OR PEOPLE IN THE WAY.  WHEN YOU HIT THE CLOSE BUTTON, IT CONTINUES TO CLOSE DESPITE SOMEONE OR SOMETHING IN ITS PATH.  IT HAS NO SENSOR TO RETRACT OR STOP CLOSING.  IT IS EXTREMELY DANGEROUS CONSIDERING THE SPEED AND WEIGHT OF THE DOOR.",
+      "pct": 12
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 191,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD EDGE. THE CONTACT STATED THAT THE HEADLIGHTS WERE EXTREMELY BRIGHT, CAUSING OTHER DRIVERS TO BECOME SLIGHTLY BLIND. THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION WHERE THEY STATED THAT THE LIGHT MAY HAVE NEEDED AN ADJUSTMENT. THE VEHICLE WAS ",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 168,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THE VEHICLE HESITATES AT THE TIME OF ACCELERATION AND THEN WILL SURGE. THE SURGING  OCCURS AT LO SPEEDS AND IS ,UNFORTUNATELY, INTERMITTENT. A REAL PROBLEM IN TIGHT PARKING LOTS/PARKING STRUCTURES. ALMOST HIT A FAMILY IN A PARKING LOT WITH A SURGE OF SPEED. THE HESITATIONS CAN OC",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Edge owners report most",
+    "summary": "Across 2,434 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 851,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I BOUGHT MY USED FORD EDGE WITH LESS THAN 20000 MILES. I WAS EXCITED TO HAVE A SONY MEDIA CENTER, IT HAD GREAT SOUND. BUT I'VE HAD PROBLEMS WITH IT FROM THE BEGINNING AND CONTINUE TO HAVE ISSUES. WITH BLUETOOTH MY PHONE WILL NOT CONNECT OR LOOSE CONNECTION FOR NO REASON. THE OTHE",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "851 reports (35%) · 1 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 630,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "PURCHASED 2013 FORD EDGE SPORT ON JULY 14TH. I'VE HAD POSSESSION OF THE CAR FOR THREE WEEKS AS OF THIS COMPLAINT. THE CAR REQUIRED SERVICE EVERY SINGLE WEEK SINCE I'VE HAD THE CAR. THE LAST INCIDENT WAS ON AUGUST 8TH. I STARTED THE CAR, AND MULTIPLE WARNING LIGHTS APPEARED ON THE",
+        "pct": 26,
+        "title": "Service Brakes",
+        "blurb": "630 reports (26%) · 11 crash · 15 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 300,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE AUTOMATIC TRUNK HAS NO SENSOR FOR ITEMS OR PEOPLE IN THE WAY.  WHEN YOU HIT THE CLOSE BUTTON, IT CONTINUES TO CLOSE DESPITE SOMEONE OR SOMETHING IN ITS PATH.  IT HAS NO SENSOR TO RETRACT OR STOP CLOSING.  IT IS EXTREMELY DANGEROUS CONSIDERING THE SPEED AND WEIGHT OF THE DOOR.",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "300 reports (12%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 191,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD EDGE. THE CONTACT STATED THAT THE HEADLIGHTS WERE EXTREMELY BRIGHT, CAUSING OTHER DRIVERS TO BECOME SLIGHTLY BLIND. THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION WHERE THEY STATED THAT THE LIGHT MAY HAVE NEEDED AN ADJUSTMENT. THE VEHICLE WAS ",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "191 reports (8%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 168,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THE VEHICLE HESITATES AT THE TIME OF ACCELERATION AND THEN WILL SURGE. THE SURGING  OCCURS AT LO SPEEDS AND IS ,UNFORTUNATELY, INTERMITTENT. A REAL PROBLEM IN TIGHT PARKING LOTS/PARKING STRUCTURES. ALMOST HIT A FAMILY IN A PARKING LOT WITH A SURGE OF SPEED. THE HESITATIONS CAN OC",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "168 reports (7%) · 2 fire · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-07-19T23:55:08.679Z",
+  "total": 608,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 204,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WE WERE MOVING FROM SOUTH CAROLINA TO WISCONSIN WHICH IS A 1,000 MILE TRIP. ON THE MORNING OF FEBRUARY 9TH, 2013 WE WERE ABOUT TO ENTER CINCINNATI ON THE SECOND LEG OF OUR TRIP WHEN ALL THE SUDDEN THE DASH DISPLAYED A MESSAGE THAT SAID TRAK SYSTEM FAILED, SOON FOLLOWED BY ANOTHER",
+      "pct": 34
+    },
+    {
+      "component": "STEERING",
+      "count": 165,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PULLLING UP TO THE AIRPORT PARKING AS I WAS GETTING MY TICKET TO ENTER THE PARKING LOT THE GATE OPEN AND I STEP ON THE GAS TO CONTINUE WHEN THE TRUCK SHIFTED TO THE RIGHT BEING IN BETWEEN TWO BARRIERS THE TRUCK DID HAD MINOR SCRATCHES ON THE RIGHT BUMPER WHEN IT SHIFTED TO THE RI",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 103,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DEFECTIVE BRAKING SYSTEM INCLUDES STABILITRAK AND ABS SYSTEM. THE BRAND NEW VEHICLE HAS BEEN SERVICED FIVE TIMES FOR BRAKING FAILURE. WHILE WAITING AT A TRAFFIC LIGHT THE ABS KICKED IN AND THE BRAKE WENT TO THE FLOOR. THE SENSORS HAVE BEEN CHANGED/DEBRIS CLEANED/AND FRAYED WIRES ",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 79,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET TRAVERSE. THE CONTACT STATED THE VEHICLE LOST POWER WHILE SHIFTING INTO THIRD AND FOURTH GEAR. THE VEHICLE WAS TAKEN TO THE DEALER WHO PERFORMED A DIAGNOSTIC TEST THAT INDICATED THE FAILURE WAS LOCATED IN THE TRANSMISSION MODULE. THE DEALER RE",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 67,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET TRAVERSE. THE CONTACT STATED THAT THE VEHICLE EXPERIENCED DIFFICULTY STARTING. THE CONTACT ALSO STATED THAT THE VEHICLE LOST POWER AND STALLED INTERMITTENTLY. THE FAILURE WAS EXPERIENCED NUMEROUS TIMES. THE VEHICLE WAS TAKEN TO THE DEALER SEV",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Traverse owners report most",
+    "summary": "Across 608 owner complaints to NHTSA, the most reported area is Engine (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 204,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WE WERE MOVING FROM SOUTH CAROLINA TO WISCONSIN WHICH IS A 1,000 MILE TRIP. ON THE MORNING OF FEBRUARY 9TH, 2013 WE WERE ABOUT TO ENTER CINCINNATI ON THE SECOND LEG OF OUR TRIP WHEN ALL THE SUDDEN THE DASH DISPLAYED A MESSAGE THAT SAID TRAK SYSTEM FAILED, SOON FOLLOWED BY ANOTHER",
+        "pct": 34,
+        "title": "Engine",
+        "blurb": "204 reports (34%) · 2 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 165,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PULLLING UP TO THE AIRPORT PARKING AS I WAS GETTING MY TICKET TO ENTER THE PARKING LOT THE GATE OPEN AND I STEP ON THE GAS TO CONTINUE WHEN THE TRUCK SHIFTED TO THE RIGHT BEING IN BETWEEN TWO BARRIERS THE TRUCK DID HAD MINOR SCRATCHES ON THE RIGHT BUMPER WHEN IT SHIFTED TO THE RI",
+        "pct": 27,
+        "title": "Steering",
+        "blurb": "165 reports (27%) · 2 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 103,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DEFECTIVE BRAKING SYSTEM INCLUDES STABILITRAK AND ABS SYSTEM. THE BRAND NEW VEHICLE HAS BEEN SERVICED FIVE TIMES FOR BRAKING FAILURE. WHILE WAITING AT A TRAFFIC LIGHT THE ABS KICKED IN AND THE BRAKE WENT TO THE FLOOR. THE SENSORS HAVE BEEN CHANGED/DEBRIS CLEANED/AND FRAYED WIRES ",
+        "pct": 17,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "103 reports (17%) · 3 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 79,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET TRAVERSE. THE CONTACT STATED THE VEHICLE LOST POWER WHILE SHIFTING INTO THIRD AND FOURTH GEAR. THE VEHICLE WAS TAKEN TO THE DEALER WHO PERFORMED A DIAGNOSTIC TEST THAT INDICATED THE FAILURE WAS LOCATED IN THE TRANSMISSION MODULE. THE DEALER RE",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "79 reports (13%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 67,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET TRAVERSE. THE CONTACT STATED THAT THE VEHICLE EXPERIENCED DIFFICULTY STARTING. THE CONTACT ALSO STATED THAT THE VEHICLE LOST POWER AND STALLED INTERMITTENTLY. THE FAILURE WAS EXPERIENCED NUMEROUS TIMES. THE VEHICLE WAS TAKEN TO THE DEALER SEV",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "67 reports (11%) · 2 fire · 1 injured"
+      }
+    ]
+  }
+}

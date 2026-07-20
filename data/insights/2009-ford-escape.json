@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-07-19T23:52:55.861Z",
+  "total": 1691,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 827,
+      "crash": 16,
+      "fire": 0,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "2009 FORD ESCAPE (RENTAL CAR) I RECEIVED THIS NEW RENTAL CAR FROM A MAJOR RENTAL CAR COMPANY AT THE SEATTLE/TACOMA AIRPORT WITH ONLY WITH 83 MILES ON THE ODOMETER. I RENTED THE CAR ON APPROXIMATELY 7-7-09. ON 7-13-09, WITH APPROXIMATELY 1,100 MILES ON IT, THE FRONT (PASSENGER SID",
+      "pct": 49
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 301,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "09 FORD ESCAPE TRANSMISSION  LOST THIRD GEAR [6 SPEED AUTO] THEN GOES INTO DEFAULT MODE [5TH GEAR ONLY] THIS IS A VERY HARSH EVENT [IT CAUSES THE TIRE TO SKID ON DRY PAVEMENT] FORD REPLACED A PCM  NOW THE TRANSMISSION SPEWS OIL OUT THE DIPSTICK TUBE AND COVERS THE BACK END GATE A",
+      "pct": 18
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 279,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A FEW MONTHS AFTER I PURCHASED A 2009 FORD ESCAPE, I NOTICED MY ACCELERATOR VIBRATING UNDER MY FOOT. WITHIN A FEW WEEKS WHILE ACCELERATING MY CAR FELT LIKE IT STALLED- TO EXPLAIN  I WOULD PUSH DOWN THE PEDAL AND THE CAR WOULD SOUND AS IF IT WAS REVVING UP THEN NOTHING! MY CAR WOU",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 254,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS SITTING IN THE BANK LINE WITH MY FOOT ON THE BRAKE, WAITING TO GET TO THE DRIVE-UP ATM WHEN MY CAR SUDDENLY ACCELERATED. I IMMEDIATELY APPLIED THE BRAKE HARDER TO STOP THE CAR FROM MOVING FORWARD. THIS HAPPENED ON TWO OTHER OCCASIONS. WHEN I MENTIONED IT TO MY SERVICE SPECI",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 143,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "GOT HOME AT 4PM,  PARKED THE CAR IN THE GARAGE AND TURNED IT OFF.  WALKED INSIDE AND WENT TO DINNER AT MY IN LAWS. ABOUT 3AM MY WIFE WOKE UP TO ONE OF OUR BABIES CRYING. SHE WENT DOWN TO SEE WHAT WAS GOING ON. AS SHE WAS WALKING THROUGH OUR KITCHEN SHE SMELLED SOMETHING THAT WAS ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Escape owners report most",
+    "summary": "Across 1,691 owner complaints to NHTSA, the most reported area is Steering (49% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 827,
+        "crash": 16,
+        "fire": 0,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "2009 FORD ESCAPE (RENTAL CAR) I RECEIVED THIS NEW RENTAL CAR FROM A MAJOR RENTAL CAR COMPANY AT THE SEATTLE/TACOMA AIRPORT WITH ONLY WITH 83 MILES ON THE ODOMETER. I RENTED THE CAR ON APPROXIMATELY 7-7-09. ON 7-13-09, WITH APPROXIMATELY 1,100 MILES ON IT, THE FRONT (PASSENGER SID",
+        "pct": 49,
+        "title": "Steering",
+        "blurb": "827 reports (49%) · 16 crash · 15 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 301,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "09 FORD ESCAPE TRANSMISSION  LOST THIRD GEAR [6 SPEED AUTO] THEN GOES INTO DEFAULT MODE [5TH GEAR ONLY] THIS IS A VERY HARSH EVENT [IT CAUSES THE TIRE TO SKID ON DRY PAVEMENT] FORD REPLACED A PCM  NOW THE TRANSMISSION SPEWS OIL OUT THE DIPSTICK TUBE AND COVERS THE BACK END GATE A",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "301 reports (18%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 279,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A FEW MONTHS AFTER I PURCHASED A 2009 FORD ESCAPE, I NOTICED MY ACCELERATOR VIBRATING UNDER MY FOOT. WITHIN A FEW WEEKS WHILE ACCELERATING MY CAR FELT LIKE IT STALLED- TO EXPLAIN  I WOULD PUSH DOWN THE PEDAL AND THE CAR WOULD SOUND AS IF IT WAS REVVING UP THEN NOTHING! MY CAR WOU",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "279 reports (16%) · 7 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 254,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS SITTING IN THE BANK LINE WITH MY FOOT ON THE BRAKE, WAITING TO GET TO THE DRIVE-UP ATM WHEN MY CAR SUDDENLY ACCELERATED. I IMMEDIATELY APPLIED THE BRAKE HARDER TO STOP THE CAR FROM MOVING FORWARD. THIS HAPPENED ON TWO OTHER OCCASIONS. WHEN I MENTIONED IT TO MY SERVICE SPECI",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "254 reports (15%) · 3 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 143,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "GOT HOME AT 4PM,  PARKED THE CAR IN THE GARAGE AND TURNED IT OFF.  WALKED INSIDE AND WENT TO DINNER AT MY IN LAWS. ABOUT 3AM MY WIFE WOKE UP TO ONE OF OUR BABIES CRYING. SHE WENT DOWN TO SEE WHAT WAS GOING ON. AS SHE WAS WALKING THROUGH OUR KITCHEN SHE SMELLED SOMETHING THAT WAS ",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "143 reports (8%) · 1 fire · 2 crash · 8 injured"
+      }
+    ]
+  }
+}

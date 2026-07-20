@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-07-19T23:48:55.685Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 28,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, A VEHICLE CRASHED INTO THE REAR OF HER VEHICLE CAUSING HER TO CRASH INTO A GUARD RAIL. THE CONTACT STATED THAT THE AIR BAGS DID NOT DEPLOY UPON IMPACT. THE SEAT BELT DID NOT LOCK AND HER HEAD",
+      "pct": 70
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT STATED THAT WHILE HE STOPPED ON A STEEP INCLINE, THERE WAS A HESITATION BETWEEN THE TIME THE ELECTRIC ENGINE STOPPED AND THE GAS ENGINE RE-ENGAGED. THE DELAY CAUSED THE VEHICLE TO ROLL BACKWARD BE FORE THE GAS ENGINE RE-ENGAG",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "INSIGHT HYBRID STOPPED AT INTERSECTION--AUTO IDLE STOP.  SUDDENLY ENGINE RACED WILDLY, TACHOMETER REGISTERED GREATER THAN 3000 R/MIN.  MY FOOT WAS FIRMLY ON BRAKE, AND I STOPPED THE RACING BY SHIFTING OUT OF GEAR. IT FELT AS IF THE CAR MIGHT LURCH FORWARD FROM A STOP AND CAUSE A ",
+      "pct": 8
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT WAS DRIVING 70 MPH WHEN THE CONTACT DROVE OVER A SPEED BUMP AND LOST CONTROL OF THE VEHICLE. THE CONTACT ALSO MENTIONED THAT BOTH FRONT TIRES WERE WORN. THE VEHICLE WAS TAKEN TO THE DEALER FOR REPAIRS.THE MANUFACTURER WAS NOT",
+      "pct": 5
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT STATED THAT THE REAR SEAT BELTS WAS DEFECTIVE. AS A RESULT, THE REAR SEAT BELTS STUCK BETWEEN THE SEAT PLASTIC COVER CAUSING THE SEAT BELT TO BE LOOSE AND UNABLE TO SUSTAIN THE CHILD CAR SEAT. THE VEHICLE WAS TAKEN TO THE DEA",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Insight owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Air Bags (70% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 28,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, A VEHICLE CRASHED INTO THE REAR OF HER VEHICLE CAUSING HER TO CRASH INTO A GUARD RAIL. THE CONTACT STATED THAT THE AIR BAGS DID NOT DEPLOY UPON IMPACT. THE SEAT BELT DID NOT LOCK AND HER HEAD",
+        "pct": 70,
+        "title": "Air Bags",
+        "blurb": "28 reports (70%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT STATED THAT WHILE HE STOPPED ON A STEEP INCLINE, THERE WAS A HESITATION BETWEEN THE TIME THE ELECTRIC ENGINE STOPPED AND THE GAS ENGINE RE-ENGAGED. THE DELAY CAUSED THE VEHICLE TO ROLL BACKWARD BE FORE THE GAS ENGINE RE-ENGAG",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "INSIGHT HYBRID STOPPED AT INTERSECTION--AUTO IDLE STOP.  SUDDENLY ENGINE RACED WILDLY, TACHOMETER REGISTERED GREATER THAN 3000 R/MIN.  MY FOOT WAS FIRMLY ON BRAKE, AND I STOPPED THE RACING BY SHIFTING OUT OF GEAR. IT FELT AS IF THE CAR MIGHT LURCH FORWARD FROM A STOP AND CAUSE A ",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (8%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT WAS DRIVING 70 MPH WHEN THE CONTACT DROVE OVER A SPEED BUMP AND LOST CONTROL OF THE VEHICLE. THE CONTACT ALSO MENTIONED THAT BOTH FRONT TIRES WERE WORN. THE VEHICLE WAS TAKEN TO THE DEALER FOR REPAIRS.THE MANUFACTURER WAS NOT",
+        "pct": 5,
+        "title": "Wheels",
+        "blurb": "2 reports (5%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA INSIGHT. THE CONTACT STATED THAT THE REAR SEAT BELTS WAS DEFECTIVE. AS A RESULT, THE REAR SEAT BELTS STUCK BETWEEN THE SEAT PLASTIC COVER CAUSING THE SEAT BELT TO BE LOOSE AND UNABLE TO SUSTAIN THE CHILD CAR SEAT. THE VEHICLE WAS TAKEN TO THE DEA",
+        "pct": 5,
+        "title": "Seat Belts",
+        "blurb": "2 reports (5%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

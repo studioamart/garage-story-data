@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-mustang",
+  "make": "Ford",
+  "model": "Mustang",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/MUSTANG#complaints",
+  "generatedAt": "2026-07-19T23:57:28.852Z",
+  "total": 469,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 177,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 1,
+      "sample": "I CURRENTLY DRIVE A 2012 FORD MUSTANG GT COUPE (THIS SITE WILL NOT LET ME SELECT A 2012 MUSTANG FROM THE DROP DOWN MENU, ONLY 2011), PURCHASED 3/11/11. IT IS CURRENTLY EXPERIENCING A \"CLUTCH STAY OUT\" PROBLEM. IT IS A SIX SPEED MANUAL TRANSMISSION. WHEN SHIFTING FROM FIRST TO SEC",
+      "pct": 38
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 158,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "2012 MUSTANG IS A RENTAL VEHICLE FROM AVIS/BUDGET GROUP THAT I HAVE BEEN ASSIGNED TO REPAIR. IT WAS RENTED OUT AND RETURNED WITH ALL 4 AIRBAGS DEPLOYED. CUSTOMER SEEMED TRUTHFUL. STATED THEY BLEW OUT WHILE AT FULL THROTTLE. DOESN'T REMEMBER SEEING ANYTHING IN HIS PATH. FELT A SIM",
+      "pct": 34
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 35,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD MUSTANG. THE CONTACT STATED WHILE SITTING AT A STOP LIGHT THE RPM SUDDENLY STARTED TO INCREASE AS IF THE VEHICLE WANTED TO TAKE OFF. THE BRAKE WAS BEING DEPRESSED FIRMLY TO DECREASE THE RPM ACCELERATION. THE CONTACT STATED THAT THIS RECURRED AT LE",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 30,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING THE VEHICLE IN ANY GEAR, WHEN GAS PEDAL TO THE FLOOR, THE CAR WILL FALL ON IT'S FACE WHEN REACHING 3000 RPM'S AND UP AT ALL SPEEDS. IT MISSES AND THE TI-VCT ISN'T ENGAGING CORRECTLY. OIL LEVEL IS FULL, AND THE SPARK PLUGS LOOK GREAT. THE VEHICLE WILL NOT EVEN THROW AN MIL",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 23,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD MUSTANG. THE CONTACT STATED THAT AFTER ENGINE STARTUP, WATER WAS SEEN LEAKING FROM THE DASH BOARD AREA. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE DEALER CONFIRMED THAT THE WINDSHIELD SEAL NEEDED TO BE REPLACED. THE MANUFACTURER WAS CONTACTED. ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Mustang owners report most",
+    "summary": "Across 469 owner complaints to NHTSA, the most reported area is Power Train (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 177,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 1,
+        "sample": "I CURRENTLY DRIVE A 2012 FORD MUSTANG GT COUPE (THIS SITE WILL NOT LET ME SELECT A 2012 MUSTANG FROM THE DROP DOWN MENU, ONLY 2011), PURCHASED 3/11/11. IT IS CURRENTLY EXPERIENCING A \"CLUTCH STAY OUT\" PROBLEM. IT IS A SIX SPEED MANUAL TRANSMISSION. WHEN SHIFTING FROM FIRST TO SEC",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "177 reports (38%) · 8 crash · 3 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 158,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "2012 MUSTANG IS A RENTAL VEHICLE FROM AVIS/BUDGET GROUP THAT I HAVE BEEN ASSIGNED TO REPAIR. IT WAS RENTED OUT AND RETURNED WITH ALL 4 AIRBAGS DEPLOYED. CUSTOMER SEEMED TRUTHFUL. STATED THEY BLEW OUT WHILE AT FULL THROTTLE. DOESN'T REMEMBER SEEING ANYTHING IN HIS PATH. FELT A SIM",
+        "pct": 34,
+        "title": "Air Bags",
+        "blurb": "158 reports (34%) · 9 crash · 6 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 35,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD MUSTANG. THE CONTACT STATED WHILE SITTING AT A STOP LIGHT THE RPM SUDDENLY STARTED TO INCREASE AS IF THE VEHICLE WANTED TO TAKE OFF. THE BRAKE WAS BEING DEPRESSED FIRMLY TO DECREASE THE RPM ACCELERATION. THE CONTACT STATED THAT THIS RECURRED AT LE",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "35 reports (7%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 30,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING THE VEHICLE IN ANY GEAR, WHEN GAS PEDAL TO THE FLOOR, THE CAR WILL FALL ON IT'S FACE WHEN REACHING 3000 RPM'S AND UP AT ALL SPEEDS. IT MISSES AND THE TI-VCT ISN'T ENGAGING CORRECTLY. OIL LEVEL IS FULL, AND THE SPARK PLUGS LOOK GREAT. THE VEHICLE WILL NOT EVEN THROW AN MIL",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "30 reports (6%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 23,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD MUSTANG. THE CONTACT STATED THAT AFTER ENGINE STARTUP, WATER WAS SEEN LEAKING FROM THE DASH BOARD AREA. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE DEALER CONFIRMED THAT THE WINDSHIELD SEAL NEEDED TO BE REPLACED. THE MANUFACTURER WAS CONTACTED. ",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "23 reports (5%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/FLEX#complaints",
+  "generatedAt": "2026-07-19T23:57:30.680Z",
+  "total": 64,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 24,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FIRST INCIDENT HAPPENED WHILE DRIVING ABOUT 40 MILES AN HOUR. IDIOT LIGHTS CAME ON THE DASH AND THE CARS ENGINE TURNED OFF. THANKFULLY I WAS ABLE TO GET CAR OFF TO THE SIDE OF ROAD. CAR CRANKED RIGHT BACK UP. 5 DAYS LATER WHILE SITTING IN A FAST FOOD LINE, SAME THING HAPPENED AND",
+      "pct": 38
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FIRST INCIDENT HAPPENED WHILE DRIVING ABOUT 40 MILES AN HOUR. IDIOT LIGHTS CAME ON THE DASH AND THE CARS ENGINE TURNED OFF. THANKFULLY I WAS ABLE TO GET CAR OFF TO THE SIDE OF ROAD. CAR CRANKED RIGHT BACK UP. 5 DAYS LATER WHILE SITTING IN A FAST FOOD LINE, SAME THING HAPPENED AND",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE ARE SEVERAL DIFFERENT INCIDENCES THAT HAVE OCCURRED.  (1) WHILE TURNING A CORNER OR SLOWING DOWN THE A/C WILL SHUT DOWN.  (2) THE CONTROL PANEL INSTRUMENTS WILL GO ALL THE WAY OVER TO THE RIGHT AND THEN SURGE FORWARD WHEN TURNING A CORNER. (3) CAR HAS DIED ON SEVERAL OCCASI",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD FLEX. THE CONTACT STATED THAT WHILE ATTEMPTING TO PARK, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE ACCELERATED FORWARD. THE CONTACT STATED THAT THE VEHICLE JUMPED A CURB AND CRASHED INTO A POST. THE VEHICLE WAS NOT DESTROYED AND THERE WERE NO I",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING UP AN ON RAMP TO AN INTERSTATE, SUDDENLY ALL THE LIGHTS STARTED FLASHING ON THE DASHBOARD DISPLAY.  I COULD NOT SEE ANY SPEED OR DRIVING INFORMATION.  I PULLED OVER TO THE SIDE OF THE ROAD TURNED OFF THE VEHICLE AND IT WOULD NOT RESTART.  NOTHING WOULD HAPPEN WHEN I TURNE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Flex owners report most",
+    "summary": "Across 64 owner complaints to NHTSA, the most reported area is Steering (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 24,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FIRST INCIDENT HAPPENED WHILE DRIVING ABOUT 40 MILES AN HOUR. IDIOT LIGHTS CAME ON THE DASH AND THE CARS ENGINE TURNED OFF. THANKFULLY I WAS ABLE TO GET CAR OFF TO THE SIDE OF ROAD. CAR CRANKED RIGHT BACK UP. 5 DAYS LATER WHILE SITTING IN A FAST FOOD LINE, SAME THING HAPPENED AND",
+        "pct": 38,
+        "title": "Steering",
+        "blurb": "24 reports (38%) · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FIRST INCIDENT HAPPENED WHILE DRIVING ABOUT 40 MILES AN HOUR. IDIOT LIGHTS CAME ON THE DASH AND THE CARS ENGINE TURNED OFF. THANKFULLY I WAS ABLE TO GET CAR OFF TO THE SIDE OF ROAD. CAR CRANKED RIGHT BACK UP. 5 DAYS LATER WHILE SITTING IN A FAST FOOD LINE, SAME THING HAPPENED AND",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "11 reports (17%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE ARE SEVERAL DIFFERENT INCIDENCES THAT HAVE OCCURRED.  (1) WHILE TURNING A CORNER OR SLOWING DOWN THE A/C WILL SHUT DOWN.  (2) THE CONTROL PANEL INSTRUMENTS WILL GO ALL THE WAY OVER TO THE RIGHT AND THEN SURGE FORWARD WHEN TURNING A CORNER. (3) CAR HAS DIED ON SEVERAL OCCASI",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "10 reports (16%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD FLEX. THE CONTACT STATED THAT WHILE ATTEMPTING TO PARK, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE ACCELERATED FORWARD. THE CONTACT STATED THAT THE VEHICLE JUMPED A CURB AND CRASHED INTO A POST. THE VEHICLE WAS NOT DESTROYED AND THERE WERE NO I",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "8 reports (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING UP AN ON RAMP TO AN INTERSTATE, SUDDENLY ALL THE LIGHTS STARTED FLASHING ON THE DASHBOARD DISPLAY.  I COULD NOT SEE ANY SPEED OR DRIVING INFORMATION.  I PULLED OVER TO THE SIDE OF THE ROAD TURNED OFF THE VEHICLE AND IT WOULD NOT RESTART.  NOTHING WOULD HAPPEN WHEN I TURNE",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (8%)"
+      }
+    ]
+  }
+}

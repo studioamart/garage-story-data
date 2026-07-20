@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-07-19T23:53:23.155Z",
+  "total": 441,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 132,
+      "crash": 6,
+      "fire": 3,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET IMPALA. WHILE TRAVELING WITH THE CRUISE CONTROL ACTIVATED AT SPEEDS OF 75 MPH, THE CONTACT NOTICED THAT THE INSTRUMENT PANEL WAS EXTREMELY DIFFICULT TO READ ON A VERY SUNNY DAY, EVEN WITH HIS SUNGLASSES ON. THE VEHICLE WAS NOT DIAGNOSED AND T",
+      "pct": 30
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 102,
+      "crash": 11,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET IMPALA. WHEN OCCUPYING THE PASSENGER FRONT SEAT, THE AIR BAG WARNING LIGHT ILLUMINATES ON THE INSTRUMENT CONTROL PANEL. THE TECHNICIANS AT THE DEALER WERE NOT ABLE TO IDENTIFY THE CAUSE OF THE FAILURE.  THE MANUFACTURER TOOK A REPORT. THE MAN",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 88,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET IMPALA. WHILE DRIVING APPROXIMATELY 80 MPH, THE TRAC STABILITY AND ENGINE WARNING INDICATORS ILLUMINATED ON THE INSTRUMENT PANEL. THE VEHICLE IMMEDIATELY STALLED. THE VEHICLE WAS RESTARTED AFTER TWENTY MINUTES AND RESUMED NORMALLY. THE FAILUR",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 74,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A LOW MILEAGE VEHICLE. I HAVE REMAINED CURRENT ON ALL OF MY ROUTINE MAINTENANCE. THE CAR RECENTLY HAD THE WARNINGS: SERVICE TRACTION CONTROL AND ENGINE POWER IS REDUCED. I HAVE LOOKED ON MULTIPLE OUTLETS AND SAW THAT THIS IS A COMMON PROBLEM WITH THIS VEHICLE. THE SOLUTION",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 67,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET IMPALA.  THE VEHICLE WAS PARKED ON A SLIGHT INCLINE WITHOUT THE PARING BRAKE ENGAGED. THE GEAR SHIFTER WAS NOT PLACED IN THE \"PARK\" POSITION AND UNEXPECTEDLY, THE VEHICLE ROLLED INTO A RETAINING  POND. THERE WERE NO OCCUPANTS IN THE VEHICLE. T",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Impala owners report most",
+    "summary": "Across 441 owner complaints to NHTSA, the most reported area is Electrical System (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 132,
+        "crash": 6,
+        "fire": 3,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET IMPALA. WHILE TRAVELING WITH THE CRUISE CONTROL ACTIVATED AT SPEEDS OF 75 MPH, THE CONTACT NOTICED THAT THE INSTRUMENT PANEL WAS EXTREMELY DIFFICULT TO READ ON A VERY SUNNY DAY, EVEN WITH HIS SUNGLASSES ON. THE VEHICLE WAS NOT DIAGNOSED AND T",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "132 reports (30%) · 3 fire · 6 crash · 6 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 102,
+        "crash": 11,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET IMPALA. WHEN OCCUPYING THE PASSENGER FRONT SEAT, THE AIR BAG WARNING LIGHT ILLUMINATES ON THE INSTRUMENT CONTROL PANEL. THE TECHNICIANS AT THE DEALER WERE NOT ABLE TO IDENTIFY THE CAUSE OF THE FAILURE.  THE MANUFACTURER TOOK A REPORT. THE MAN",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "102 reports (23%) · 1 fire · 11 crash · 8 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 88,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET IMPALA. WHILE DRIVING APPROXIMATELY 80 MPH, THE TRAC STABILITY AND ENGINE WARNING INDICATORS ILLUMINATED ON THE INSTRUMENT PANEL. THE VEHICLE IMMEDIATELY STALLED. THE VEHICLE WAS RESTARTED AFTER TWENTY MINUTES AND RESUMED NORMALLY. THE FAILUR",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "88 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 74,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A LOW MILEAGE VEHICLE. I HAVE REMAINED CURRENT ON ALL OF MY ROUTINE MAINTENANCE. THE CAR RECENTLY HAD THE WARNINGS: SERVICE TRACTION CONTROL AND ENGINE POWER IS REDUCED. I HAVE LOOKED ON MULTIPLE OUTLETS AND SAW THAT THIS IS A COMMON PROBLEM WITH THIS VEHICLE. THE SOLUTION",
+        "pct": 17,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "74 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 67,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2010 CHEVROLET IMPALA.  THE VEHICLE WAS PARKED ON A SLIGHT INCLINE WITHOUT THE PARING BRAKE ENGAGED. THE GEAR SHIFTER WAS NOT PLACED IN THE \"PARK\" POSITION AND UNEXPECTEDLY, THE VEHICLE ROLLED INTO A RETAINING  POND. THERE WERE NO OCCUPANTS IN THE VEHICLE. T",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "67 reports (15%) · 1 crash"
+      }
+    ]
+  }
+}

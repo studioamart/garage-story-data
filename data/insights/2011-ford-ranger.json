@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-ranger",
+  "make": "Ford",
+  "model": "Ranger",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/RANGER#complaints",
+  "generatedAt": "2026-07-19T23:56:03.724Z",
+  "total": 235,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 196,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "MY VEHICLE (1 )WAS INVOLVED IN COLLISION WITH ANOTHER VEHICLE( 2) FAILING TO YIELD AT AN INTERSECTION, THE NON-YIELDING VEHICLE(2) WAS SIDESWIPED AS I WAS NOT GOING TO TAKE HIM HEAD ON, THE FRONT END AND SIDE PANELS ON THE DRIVERS SIDE OF VEHICLE (1) AND THE PASSENGER SIDE FRONT ",
+      "pct": 83
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE HAVE HAD A PROBLEM WITH OUR 2011 FORD RANGER SINCE BUYING IT ON 10-24-15. NOTICE IT AFTER ONE DAY AND TOOK IT BACK TO DEALERSHIP. THEY SAID IT WAS FINE AND WE WENT BACK ANOTHER TIME TO COMPLAIN AND THEY DIDN'T CARE. THE HIGH BEAM HEADLIGHTS ONLY WORKS INTERMITTENTLY. MY HUSBAN",
+      "pct": 4
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD RANGER. THE CONTACT STATED THAT THE LOWER BALL JOINTS AND THE BOOTS DETERIORATED PREMATURELY WHICH MIGHT RESULT IN A POTENTIAL FRACTURE OF THE PARTS. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE VIN ",
+      "pct": 3
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN BRAKING VEHICLE ACCELERATES IN FORWARD AND REVERSE.  OCTOBER 2011, I WAS SLOWLY BACKING AND UPON APPLYING THE BRAKES VEHICLE SURGED BACKWARD ALMOST HITTING TWO MEN DIRECTING ME.  THE NEXT DAY I CARRIED VEHICLE TO AN OPEN FIELD AND TRIED UNSUCCESSFULLY TO DUPLICATE THE PROBLE",
+      "pct": 3
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD RANGER. WHILE DRIVING APPROXIMATELY 25 MPH, THE IGNITION WIRING RUBBED AGAINST THE EMERGENCY BRAKE MECHANISM AND CAUSED THE VEHICLE TO SHUT OFF. THE CONTACT REPLACED THE FUSE, BUT THE FAILURE RECURRED. THE VEHICLE WAS TAKEN TO A DEALER FOR DIAGNOS",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Ranger owners report most",
+    "summary": "Across 235 owner complaints to NHTSA, the most reported area is Air Bags (83% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 196,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "MY VEHICLE (1 )WAS INVOLVED IN COLLISION WITH ANOTHER VEHICLE( 2) FAILING TO YIELD AT AN INTERSECTION, THE NON-YIELDING VEHICLE(2) WAS SIDESWIPED AS I WAS NOT GOING TO TAKE HIM HEAD ON, THE FRONT END AND SIDE PANELS ON THE DRIVERS SIDE OF VEHICLE (1) AND THE PASSENGER SIDE FRONT ",
+        "pct": 83,
+        "title": "Air Bags",
+        "blurb": "196 reports (83%) · 6 crash · 6 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE HAVE HAD A PROBLEM WITH OUR 2011 FORD RANGER SINCE BUYING IT ON 10-24-15. NOTICE IT AFTER ONE DAY AND TOOK IT BACK TO DEALERSHIP. THEY SAID IT WAS FINE AND WE WENT BACK ANOTHER TIME TO COMPLAIN AND THEY DIDN'T CARE. THE HIGH BEAM HEADLIGHTS ONLY WORKS INTERMITTENTLY. MY HUSBAN",
+        "pct": 4,
+        "title": "Exterior Lighting",
+        "blurb": "9 reports (4%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD RANGER. THE CONTACT STATED THAT THE LOWER BALL JOINTS AND THE BOOTS DETERIORATED PREMATURELY WHICH MIGHT RESULT IN A POTENTIAL FRACTURE OF THE PARTS. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE VIN ",
+        "pct": 3,
+        "title": "Structure",
+        "blurb": "8 reports (3%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN BRAKING VEHICLE ACCELERATES IN FORWARD AND REVERSE.  OCTOBER 2011, I WAS SLOWLY BACKING AND UPON APPLYING THE BRAKES VEHICLE SURGED BACKWARD ALMOST HITTING TWO MEN DIRECTING ME.  THE NEXT DAY I CARRIED VEHICLE TO AN OPEN FIELD AND TRIED UNSUCCESSFULLY TO DUPLICATE THE PROBLE",
+        "pct": 3,
+        "title": "Service Brakes",
+        "blurb": "8 reports (3%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD RANGER. WHILE DRIVING APPROXIMATELY 25 MPH, THE IGNITION WIRING RUBBED AGAINST THE EMERGENCY BRAKE MECHANISM AND CAUSED THE VEHICLE TO SHUT OFF. THE CONTACT REPLACED THE FUSE, BUT THE FAILURE RECURRED. THE VEHICLE WAS TAKEN TO A DEALER FOR DIAGNOS",
+        "pct": 2,
+        "title": "Electrical System",
+        "blurb": "5 reports (2%) · 1 fire"
+      }
+    ]
+  }
+}

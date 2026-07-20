@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-mustang",
+  "make": "Ford",
+  "model": "Mustang",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/MUSTANG#complaints",
+  "generatedAt": "2026-07-19T23:58:55.124Z",
+  "total": 271,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 145,
+      "crash": 9,
+      "fire": 1,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2013 FORD MUSTANG. THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE WHILE IDLING AT A STOP SIGN. THE DRIVER SIDE AIR BAG DEPLOYED, BUT THE PASSENGER SIDE AIR BAG DID NOT DEPLOY. BOTH THE DRIVER AND THE PASSENGER SUFFERED INJURIES AND WERE TRANSPORTE",
+      "pct": 54
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 48,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "OWNER OF A 2013 MUSTANG GT PREMIUM 5.0 WITH 6 SPEED TRANSMISSION.  HAVE HAD PROBLEMS WITH ROUGH SHIFTING SINCE SHORTLY AFTER BUYING.  HAVE TAKEN IT INTO MY LOCAL FORD DEALERSHIP 2 TIMES SO FAR AND MADE MENTION OF MY PROBLEMS SEVERAL OTHER TIMES.  FORD HAS BEEN UNABLE TO CORRECT T",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INCREASING SPEED TO MERGE ONTO KELLOGG IN WICHITA, KANSAS WESTBOUND FROM OLIVER AND TRANSMISSION BEGAN TO JERK, THEN IN A VERY SHORT TIME SPAN, ABOUT 2-3 SECONDS, ENTIRE VEHICLE SHUT DOWN.  DEALER DID SOME REPAIR WORK BUT THE CAR HAS HAD NUMEROUS ELECTRICAL INCIDENTS INCLUDING FA",
+      "pct": 8
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INCIDENT:  WHILE WAITING IN THE LEFT TURN LANE FOR THE LEFT TURN LIGHT TO TURN GREEN I HAD MY FOOT ON THE BRAKE. I WAS BEHIND ANOTHER LEFT TURNING VEHICLE. WHEN THE LIGHT CHANGED I TOOK MY FOOT OFF THE BRAKE SO TO APPLY PRESSURE ON THE ACCELERATOR. HOWEVER, BEFORE I PUT MY FOOT O",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "INCIDENT:  WHILE WAITING IN THE LEFT TURN LANE FOR THE LEFT TURN LIGHT TO TURN GREEN I HAD MY FOOT ON THE BRAKE. I WAS BEHIND ANOTHER LEFT TURNING VEHICLE. WHEN THE LIGHT CHANGED I TOOK MY FOOT OFF THE BRAKE SO TO APPLY PRESSURE ON THE ACCELERATOR. HOWEVER, BEFORE I PUT MY FOOT O",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Mustang owners report most",
+    "summary": "Across 271 owner complaints to NHTSA, the most reported area is Air Bags (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 145,
+        "crash": 9,
+        "fire": 1,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2013 FORD MUSTANG. THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE WHILE IDLING AT A STOP SIGN. THE DRIVER SIDE AIR BAG DEPLOYED, BUT THE PASSENGER SIDE AIR BAG DID NOT DEPLOY. BOTH THE DRIVER AND THE PASSENGER SUFFERED INJURIES AND WERE TRANSPORTE",
+        "pct": 54,
+        "title": "Air Bags",
+        "blurb": "145 reports (54%) · 1 fire · 9 crash · 7 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 48,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "OWNER OF A 2013 MUSTANG GT PREMIUM 5.0 WITH 6 SPEED TRANSMISSION.  HAVE HAD PROBLEMS WITH ROUGH SHIFTING SINCE SHORTLY AFTER BUYING.  HAVE TAKEN IT INTO MY LOCAL FORD DEALERSHIP 2 TIMES SO FAR AND MADE MENTION OF MY PROBLEMS SEVERAL OTHER TIMES.  FORD HAS BEEN UNABLE TO CORRECT T",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "48 reports (18%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INCREASING SPEED TO MERGE ONTO KELLOGG IN WICHITA, KANSAS WESTBOUND FROM OLIVER AND TRANSMISSION BEGAN TO JERK, THEN IN A VERY SHORT TIME SPAN, ABOUT 2-3 SECONDS, ENTIRE VEHICLE SHUT DOWN.  DEALER DID SOME REPAIR WORK BUT THE CAR HAS HAD NUMEROUS ELECTRICAL INCIDENTS INCLUDING FA",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "22 reports (8%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INCIDENT:  WHILE WAITING IN THE LEFT TURN LANE FOR THE LEFT TURN LIGHT TO TURN GREEN I HAD MY FOOT ON THE BRAKE. I WAS BEHIND ANOTHER LEFT TURNING VEHICLE. WHEN THE LIGHT CHANGED I TOOK MY FOOT OFF THE BRAKE SO TO APPLY PRESSURE ON THE ACCELERATOR. HOWEVER, BEFORE I PUT MY FOOT O",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "19 reports (7%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "INCIDENT:  WHILE WAITING IN THE LEFT TURN LANE FOR THE LEFT TURN LIGHT TO TURN GREEN I HAD MY FOOT ON THE BRAKE. I WAS BEHIND ANOTHER LEFT TURNING VEHICLE. WHEN THE LIGHT CHANGED I TOOK MY FOOT OFF THE BRAKE SO TO APPLY PRESSURE ON THE ACCELERATOR. HOWEVER, BEFORE I PUT MY FOOT O",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "18 reports (7%) · 1 injured"
+      }
+    ]
+  }
+}

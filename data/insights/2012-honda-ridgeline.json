@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-07-19T23:49:09.980Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL. TO DATE NOTHING HAS HAPPENED BUT IF I HADN'T SEEN SOMETHING ON MY LOCAL NEWS I WOULD STILL BE DRIVING MY VEHICLE, WHICH BY THE WAY ONLY HAS 22,000 OR SO MILES ON IT. I CONTACTED HONDA, WHICH WAS A DRAWN OUT AFFAIR TO LET THEM KNOW MY VEHICLE IS ON THE RECALL AND TH",
+      "pct": 58
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA RIDGELINE. WHILE DRIVING APPROXIMATELY 45 MPH, THE CONTACT OBSERVED THAT THE THIRD BRAKE LIGHT GARNISH SET DETACHED FROM THE VEHICLE WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER, BUT IT WAS NOT DIAGNOSED. THE VEHICLE WAS REPAIRED. EIGHT MON",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE EXPERIENCED A LOSS IN POWER STEERING, SOMETIMES, WHEN DRIVING THROUGH PUDDLES OF WATER. I SEE THIS AS A SERIOUS SAFETY CONCERN, AS IF YOU'RE EXPECTING TO BE ABLE TO TURN A CERTAIN WAY, AND THEN YOU CAN'T, YOU'RE GOING TO RUN INTO SOMETHING, AND THIS HAS ALMOST HAPPENED TO ",
+      "pct": 8
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Because of well known water intrusion into the cabin from the firewall, over time the seat risers rust away, and then the compromised metal breaks, at which point the front of the seat is no longer bolted into the floor board. The seat swings backward uncommanded, and may is like",
+      "pct": 4
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Because of well known water intrusion into the cabin from the firewall, over time the seat risers rust away, and then the compromised metal breaks, at which point the front of the seat is no longer bolted into the floor board. The seat swings backward uncommanded, and may is like",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Ridgeline owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Air Bags (58% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL. TO DATE NOTHING HAS HAPPENED BUT IF I HADN'T SEEN SOMETHING ON MY LOCAL NEWS I WOULD STILL BE DRIVING MY VEHICLE, WHICH BY THE WAY ONLY HAS 22,000 OR SO MILES ON IT. I CONTACTED HONDA, WHICH WAS A DRAWN OUT AFFAIR TO LET THEM KNOW MY VEHICLE IS ON THE RECALL AND TH",
+        "pct": 58,
+        "title": "Air Bags",
+        "blurb": "14 reports (58%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA RIDGELINE. WHILE DRIVING APPROXIMATELY 45 MPH, THE CONTACT OBSERVED THAT THE THIRD BRAKE LIGHT GARNISH SET DETACHED FROM THE VEHICLE WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER, BUT IT WAS NOT DIAGNOSED. THE VEHICLE WAS REPAIRED. EIGHT MON",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE EXPERIENCED A LOSS IN POWER STEERING, SOMETIMES, WHEN DRIVING THROUGH PUDDLES OF WATER. I SEE THIS AS A SERIOUS SAFETY CONCERN, AS IF YOU'RE EXPECTING TO BE ABLE TO TURN A CERTAIN WAY, AND THEN YOU CAN'T, YOU'RE GOING TO RUN INTO SOMETHING, AND THIS HAS ALMOST HAPPENED TO ",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Because of well known water intrusion into the cabin from the firewall, over time the seat risers rust away, and then the compromised metal breaks, at which point the front of the seat is no longer bolted into the floor board. The seat swings backward uncommanded, and may is like",
+        "pct": 4,
+        "title": "Seat Belts",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Because of well known water intrusion into the cabin from the firewall, over time the seat risers rust away, and then the compromised metal breaks, at which point the front of the seat is no longer bolted into the floor board. The seat swings backward uncommanded, and may is like",
+        "pct": 4,
+        "title": "Seats",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2009-bmw-5-series",
+  "make": "BMW",
+  "model": "5 Series",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/BMW/5%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:28.848Z",
+  "total": 110,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "CAR STARTS NORMALLY. UPON REACHING CRUISING SPEED CAR ENGINE WARNING LIGHT COMES ON AND CAR IMMEDIATELY REDUCES ENGINE POWER. THIS HAPPENS RANDOMLY, AND HAS HAPPENED ON SIDE ROADS AND FREEWAYS. I HAVE TO PULL OVER IMMEDIATELY AND SHUT OFF CAR, WAIT, AND RE-START CAR. LATER, AND R",
+      "pct": 32
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 30,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY FIRST INCIDENT OCCURRED WHILE I WAS TRAVELING ON I-185. MY VEHICLE SUDDENLY LOST POWER AND BEGAN SPUTTERING AND CHECK ENGINE LIGHT CAME ON. THIS HAPPENED WHILE TRAFFIC WAS HEAVY BUT MIRACULOUSLY I WAS ABLE TO MERGE OVER TO THE EMERGENCY LANE AND EXIT OFF THE INTERSTATE. BMW DE",
+      "pct": 27
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 BMW 535I: WHILE ACCELERATING, A SUDDEN NEAR-STALL/LOSS OF POWER OCCURRED WHILE ATTEMPTING TO ENTER INTO AN INTERSECTION, NEARLY CAUSING AN ACCIDENT.  A WARNING WAS ALERTED THROUGH THE IDRIVE SYSTEM (\"ENGINE MALFUNCTION - REDUCED POWER\").  THE CAR WAS DRIVABLE, BUT EXTREMELY ",
+      "pct": 18
+    },
+    {
+      "component": "GASOLINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 BMW 535I: WHILE ACCELERATING, A SUDDEN NEAR-STALL/LOSS OF POWER OCCURRED WHILE ATTEMPTING TO ENTER INTO AN INTERSECTION, NEARLY CAUSING AN ACCIDENT.  A WARNING WAS ALERTED THROUGH THE IDRIVE SYSTEM (\"ENGINE MALFUNCTION - REDUCED POWER\").  THE CAR WAS DRIVABLE, BUT EXTREMELY ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 BMW 535I: WHILE ACCELERATING, A SUDDEN NEAR-STALL/LOSS OF POWER OCCURRED WHILE ATTEMPTING TO ENTER INTO AN INTERSECTION, NEARLY CAUSING AN ACCIDENT.  A WARNING WAS ALERTED THROUGH THE IDRIVE SYSTEM (\"ENGINE MALFUNCTION - REDUCED POWER\").  THE CAR WAS DRIVABLE, BUT EXTREMELY ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Bmw 5 Series owners report most",
+    "summary": "Across 110 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "CAR STARTS NORMALLY. UPON REACHING CRUISING SPEED CAR ENGINE WARNING LIGHT COMES ON AND CAR IMMEDIATELY REDUCES ENGINE POWER. THIS HAPPENS RANDOMLY, AND HAS HAPPENED ON SIDE ROADS AND FREEWAYS. I HAVE TO PULL OVER IMMEDIATELY AND SHUT OFF CAR, WAIT, AND RE-START CAR. LATER, AND R",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "35 reports (32%) · 3 fire · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 30,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY FIRST INCIDENT OCCURRED WHILE I WAS TRAVELING ON I-185. MY VEHICLE SUDDENLY LOST POWER AND BEGAN SPUTTERING AND CHECK ENGINE LIGHT CAME ON. THIS HAPPENED WHILE TRAFFIC WAS HEAVY BUT MIRACULOUSLY I WAS ABLE TO MERGE OVER TO THE EMERGENCY LANE AND EXIT OFF THE INTERSTATE. BMW DE",
+        "pct": 27,
+        "title": "Fuel/Propulsion System",
+        "blurb": "30 reports (27%) · 2 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 BMW 535I: WHILE ACCELERATING, A SUDDEN NEAR-STALL/LOSS OF POWER OCCURRED WHILE ATTEMPTING TO ENTER INTO AN INTERSECTION, NEARLY CAUSING AN ACCIDENT.  A WARNING WAS ALERTED THROUGH THE IDRIVE SYSTEM (\"ENGINE MALFUNCTION - REDUCED POWER\").  THE CAR WAS DRIVABLE, BUT EXTREMELY ",
+        "pct": 18,
+        "title": "Fuel System",
+        "blurb": "20 reports (18%) · 1 fire"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 BMW 535I: WHILE ACCELERATING, A SUDDEN NEAR-STALL/LOSS OF POWER OCCURRED WHILE ATTEMPTING TO ENTER INTO AN INTERSECTION, NEARLY CAUSING AN ACCIDENT.  A WARNING WAS ALERTED THROUGH THE IDRIVE SYSTEM (\"ENGINE MALFUNCTION - REDUCED POWER\").  THE CAR WAS DRIVABLE, BUT EXTREMELY ",
+        "pct": 17,
+        "title": "Gasoline",
+        "blurb": "19 reports (17%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 BMW 535I: WHILE ACCELERATING, A SUDDEN NEAR-STALL/LOSS OF POWER OCCURRED WHILE ATTEMPTING TO ENTER INTO AN INTERSECTION, NEARLY CAUSING AN ACCIDENT.  A WARNING WAS ALERTED THROUGH THE IDRIVE SYSTEM (\"ENGINE MALFUNCTION - REDUCED POWER\").  THE CAR WAS DRIVABLE, BUT EXTREMELY ",
+        "pct": 11,
+        "title": "Engine And Engine Cooling",
+        "blurb": "12 reports (11%) · 1 fire"
+      }
+    ]
+  }
+}

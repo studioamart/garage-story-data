@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-fit",
+  "make": "Honda",
+  "model": "Fit",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/FIT#complaints",
+  "generatedAt": "2026-07-19T23:48:21.136Z",
+  "total": 286,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 104,
+      "crash": 13,
+      "fire": 0,
+      "injuries": 14,
+      "deaths": 0,
+      "sample": "TRAFFIC WAS SLOWING DOWN BECAUSE OF WORK ON THE SIDE OF THE ROAD.  I TAPPED MY BRAKES TWICE WITHOUT ANY RESULT.  THE NEXT TIME I PUT MY FOOT TO THE FLOOR AND THE CAR WOULD NOT STOP.  I RAN INTO A TRUCK.  SINCE MY CAR WAS LOW, THE SENSOR DID NOT GO OFF WITH THE AIR BAGS.  I OWN A ",
+      "pct": 36
+    },
+    {
+      "component": "STEERING",
+      "count": 46,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 HONDA FIT. WHEN ATTEMPTING TO START THE VEHICLE SHE NOTICED THAT THE ELECTRONIC POWER STEERING WARNING LIGHT ILLUMINATED ON THE INSTRUMENT CONTROL PANEL, AND THE STEERING COLUMN WAS LOCKED. THE VEHICLE WAS TAKEN TO THE DEALER AND THE TECHNICIAN LOCATED",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 33,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN THE CAR IS STOPPED AT SAY A LIGHT STOP SIGN OR JUST PULLING OUT OF A PARKING SPOT. IF I BARELY ACCELERATE JUST ENOUGH TO GET LIKE 1500 RPM'S AND SHIFT INTO SECOND GEAR AND SAME INTO 3RD IT SEEMS LIKE THE CAR DOESN'T HAVE ENOUGH POWER TO HOLD THAT GEAR ON THE CHANGE, RESULTIN",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TOWING A 2009 HONDA FIT BEHIND A MOTORHOME WHEN IT LOCKED UP.  EVERYTHING WAS SET ACCORDING TO THE MANUAL. IT IS  AUTOMATIC.  WE WERE TOLD IT COULD BE THE BATTERY BUT WE ARE NOT SATISFIED WITH THAT EXPLANATION.  HAVE YOU HEARD OF OTHER HONDA FITS LOCKING UP THE FRONT WHEELS WHILE",
+      "pct": 8
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2009 HONDA FIT WINDSHIELD RESTRICTS DRIVER'S VIEW.    THE FIRST TIME I DROVE MY NEW BASE MODEL  2009 HONDA FIT IN BUMPER-TO-BUMPER RUSH HOUR TRAFFIC I DISCOVERED  THAT I COULD NOT SEE ENOUGH THROUGH ITS TOO HIGH, TOO NARROW (FROM TOP TO BOTTOM) WINDSHIELD TO ACCURATELY POSITION T",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Fit owners report most",
+    "summary": "Across 286 owner complaints to NHTSA, the most reported area is Air Bags (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 104,
+        "crash": 13,
+        "fire": 0,
+        "injuries": 14,
+        "deaths": 0,
+        "sample": "TRAFFIC WAS SLOWING DOWN BECAUSE OF WORK ON THE SIDE OF THE ROAD.  I TAPPED MY BRAKES TWICE WITHOUT ANY RESULT.  THE NEXT TIME I PUT MY FOOT TO THE FLOOR AND THE CAR WOULD NOT STOP.  I RAN INTO A TRUCK.  SINCE MY CAR WAS LOW, THE SENSOR DID NOT GO OFF WITH THE AIR BAGS.  I OWN A ",
+        "pct": 36,
+        "title": "Air Bags",
+        "blurb": "104 reports (36%) · 13 crash · 14 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 46,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 HONDA FIT. WHEN ATTEMPTING TO START THE VEHICLE SHE NOTICED THAT THE ELECTRONIC POWER STEERING WARNING LIGHT ILLUMINATED ON THE INSTRUMENT CONTROL PANEL, AND THE STEERING COLUMN WAS LOCKED. THE VEHICLE WAS TAKEN TO THE DEALER AND THE TECHNICIAN LOCATED",
+        "pct": 16,
+        "title": "Steering",
+        "blurb": "46 reports (16%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 33,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN THE CAR IS STOPPED AT SAY A LIGHT STOP SIGN OR JUST PULLING OUT OF A PARKING SPOT. IF I BARELY ACCELERATE JUST ENOUGH TO GET LIKE 1500 RPM'S AND SHIFT INTO SECOND GEAR AND SAME INTO 3RD IT SEEMS LIKE THE CAR DOESN'T HAVE ENOUGH POWER TO HOLD THAT GEAR ON THE CHANGE, RESULTIN",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "33 reports (12%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TOWING A 2009 HONDA FIT BEHIND A MOTORHOME WHEN IT LOCKED UP.  EVERYTHING WAS SET ACCORDING TO THE MANUAL. IT IS  AUTOMATIC.  WE WERE TOLD IT COULD BE THE BATTERY BUT WE ARE NOT SATISFIED WITH THAT EXPLANATION.  HAVE YOU HEARD OF OTHER HONDA FITS LOCKING UP THE FRONT WHEELS WHILE",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "22 reports (8%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2009 HONDA FIT WINDSHIELD RESTRICTS DRIVER'S VIEW.    THE FIRST TIME I DROVE MY NEW BASE MODEL  2009 HONDA FIT IN BUMPER-TO-BUMPER RUSH HOUR TRAFFIC I DISCOVERED  THAT I COULD NOT SEE ENOUGH THROUGH ITS TOO HIGH, TOO NARROW (FROM TOP TO BOTTOM) WINDSHIELD TO ACCURATELY POSITION T",
+        "pct": 6,
+        "title": "Visibility",
+        "blurb": "17 reports (6%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

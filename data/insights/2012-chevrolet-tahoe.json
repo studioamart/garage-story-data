@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-07-19T23:56:36.327Z",
+  "total": 180,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 63,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "WHILE TURNING LEFT (TAHOE) WITH A PROTECTED GREEN ARROW AT AN X-SHAPED INTERSECTION, VEHICLE (KIA SEDAN) AT FAULT FAILED TO YIELD AND ENTERED THE INTERSECTION AT SPEEDS UPWARDS OF 40 MPH FROM THE LEFT OF THE TAHOE.  FRONT-IMPACT COLLISION OCCURRED; DUE TO THE SHAPE OF THE INTERSE",
+      "pct": 35
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 37,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2012 CHEVROLET TAHOE. CONSUMER WRITES IN REGARDS TO  CRASH WHILE DRIVING SAFELY *TGW  THE CONSUMER STATED THE DRIVER OF THE VEHICLE WAS DRIVING ACROSS A PARKING LOT, WHEN SUDDENLY HE STRUCK A LIGHT POLE AND CAUSED OVER $10,000 WORTH OF DAMAGE. THE DRIVER MADE A COMMENT ABOUT THE ",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2012 CHEVROLET TAHOE. CONSUMER STATES PROBLEM WITH OIL GAUGE AND STATES INSTRUMENT CLUSTER PANEL IS DEFECTIVE *TGW  THE CONSUMER STATED WHILE DRIVING, HE NOTICED THE OIL PRESSURE GAUGE SHOWED ZERO PRESSURE. THE CONSUMER TOOK THE VEHICLE TO HIS MECHANIC, WHO INFORMED HIM ABOUT THE",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING APPROXIMATELY 70 MPH. VEHICLES ENGINE AND INSTRUMENT PANEL CYCLED ON AND OFF RANDOMLY.  NOTING THAT ONCE I WAS ABLE TO PULL OFF THE ROAD AND COME TO A COMPLETE STOP THE VEHICLE FINALLY SHUTDOWN. FURTHERMORE ATTEMPTING TO TURN THE TRUCK ON ONLY RESULTED IN FLICKERING",
+      "pct": 5
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING APPROXIMATELY 70 MPH. VEHICLES ENGINE AND INSTRUMENT PANEL CYCLED ON AND OFF RANDOMLY.  NOTING THAT ONCE I WAS ABLE TO PULL OFF THE ROAD AND COME TO A COMPLETE STOP THE VEHICLE FINALLY SHUTDOWN. FURTHERMORE ATTEMPTING TO TURN THE TRUCK ON ONLY RESULTED IN FLICKERING",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Tahoe owners report most",
+    "summary": "Across 180 owner complaints to NHTSA, the most reported area is Air Bags (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 63,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "WHILE TURNING LEFT (TAHOE) WITH A PROTECTED GREEN ARROW AT AN X-SHAPED INTERSECTION, VEHICLE (KIA SEDAN) AT FAULT FAILED TO YIELD AND ENTERED THE INTERSECTION AT SPEEDS UPWARDS OF 40 MPH FROM THE LEFT OF THE TAHOE.  FRONT-IMPACT COLLISION OCCURRED; DUE TO THE SHAPE OF THE INTERSE",
+        "pct": 35,
+        "title": "Air Bags",
+        "blurb": "63 reports (35%) · 1 fire · 6 crash · 8 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 37,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2012 CHEVROLET TAHOE. CONSUMER WRITES IN REGARDS TO  CRASH WHILE DRIVING SAFELY *TGW  THE CONSUMER STATED THE DRIVER OF THE VEHICLE WAS DRIVING ACROSS A PARKING LOT, WHEN SUDDENLY HE STRUCK A LIGHT POLE AND CAUSED OVER $10,000 WORTH OF DAMAGE. THE DRIVER MADE A COMMENT ABOUT THE ",
+        "pct": 21,
+        "title": "Structure",
+        "blurb": "37 reports (21%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2012 CHEVROLET TAHOE. CONSUMER STATES PROBLEM WITH OIL GAUGE AND STATES INSTRUMENT CLUSTER PANEL IS DEFECTIVE *TGW  THE CONSUMER STATED WHILE DRIVING, HE NOTICED THE OIL PRESSURE GAUGE SHOWED ZERO PRESSURE. THE CONSUMER TOOK THE VEHICLE TO HIS MECHANIC, WHO INFORMED HIM ABOUT THE",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "13 reports (7%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING APPROXIMATELY 70 MPH. VEHICLES ENGINE AND INSTRUMENT PANEL CYCLED ON AND OFF RANDOMLY.  NOTING THAT ONCE I WAS ABLE TO PULL OFF THE ROAD AND COME TO A COMPLETE STOP THE VEHICLE FINALLY SHUTDOWN. FURTHERMORE ATTEMPTING TO TURN THE TRUCK ON ONLY RESULTED IN FLICKERING",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "9 reports (5%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING APPROXIMATELY 70 MPH. VEHICLES ENGINE AND INSTRUMENT PANEL CYCLED ON AND OFF RANDOMLY.  NOTING THAT ONCE I WAS ABLE TO PULL OFF THE ROAD AND COME TO A COMPLETE STOP THE VEHICLE FINALLY SHUTDOWN. FURTHERMORE ATTEMPTING TO TURN THE TRUCK ON ONLY RESULTED IN FLICKERING",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "7 reports (4%)"
+      }
+    ]
+  }
+}

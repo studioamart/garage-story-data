@@ -1,0 +1,62 @@
+{
+  "slug": "2012-honda-cr-z",
+  "make": "Honda",
+  "model": "CR-Z",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/CR-Z#complaints",
+  "generatedAt": "2026-07-19T23:49:03.943Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 HONDA CR-Z. THE CONTACT STATED THAT WHILE DRIVING, THE PASSENGER SIDE AIR BAGS DEPLOYED WITHOUT ANY WARNING OR ANY IMPACT OF A CRASH. THERE WERE NO INJURIES AND NO POLICE REPORT FILED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT SOM",
+      "pct": 86
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Same issue as the 2012 CRV recalls of the passenger aide lock actuators. The passenger door lock works sometimes but the car will constantly try to lock that door if it is unlocked, because it won’t always lock. The dealership isn’t  sure, I wonder if it’s a fuse because I hear t",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Cr-Z owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Air Bags (86% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 HONDA CR-Z. THE CONTACT STATED THAT WHILE DRIVING, THE PASSENGER SIDE AIR BAGS DEPLOYED WITHOUT ANY WARNING OR ANY IMPACT OF A CRASH. THERE WERE NO INJURIES AND NO POLICE REPORT FILED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT SOM",
+        "pct": 86,
+        "title": "Air Bags",
+        "blurb": "6 reports (86%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Same issue as the 2012 CRV recalls of the passenger aide lock actuators. The passenger door lock works sometimes but the car will constantly try to lock that door if it is unlocked, because it won’t always lock. The dealership isn’t  sure, I wonder if it’s a fuse because I hear t",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

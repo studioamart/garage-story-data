@@ -1,0 +1,128 @@
+{
+  "slug": "2009-bmw-x3",
+  "make": "BMW",
+  "model": "X3",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/BMW/X3#complaints",
+  "generatedAt": "2026-07-19T23:49:33.030Z",
+  "total": 87,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THE CAR WAS STORED OUTSIDE IN EXTREME HEAT DURING THE MONTH OF APRIL - 90+ DEGREES FOR OVER 3 WEEKS. (IN FLORIDA) AIR BAG SENSOR AND SEAT BELT SENSOR ON PASSENGER SIDE, INCORRECTLY ALERTING, WHEN SOMEONE OR NO ONE WAS IN THE SEAT. NOW THE SENSOR IS ON ALL THE TIME. ALSO THE FAN W",
+      "pct": 39
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNED A 2009 BMW X3. THE CONTACT STATED THAT AFTER PARKING  HIS VEHICLE AT 9 AM HE RECEIVED A CALL AT 2 PM STATING THAT HIS VEHICLE WAS ON FIRE. WHEN HE WALKED OUTSIDE HE SAW FLAMES COMING FROM THE VEHICLE. THE FIRE DEPARTMENT EXTINGUISHED THE FIRE AND A REPORT WAS",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 BMW 335D, EGR COOLER CRACKS OPEN AND STARTS FUMING UNFILTERED DIESEL EXHAUST INTO THE ENVIRONMENT AND INTO COCK PIT OF CAR. HIGHLY DANGEROUS GAS HAS SEVERE IMPACT TO OCCUPANTS, CAR COULD NOT BE DRIVEN AS EXHAUST SMELL INSIDE OF CAR.     BMW REFUSE TO FIX THIS UNDER BELOW MEN",
+      "pct": 8
+    },
+    {
+      "component": "SEATS",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I TURNED ON MY VEHICLE ONE DAY AND A MESSAGE SAYING \"PASSENGER RESTRAINT SYSTEM MALFUNCTION. CONTINUE TO WEAR SEATBELT. BRING TO LOCAL BMW DEALERSHIP.\" THE DAY BEFORE NOTHING HAPPEN AS I WAS DRIVING HOME FROM DALLAS TO HOUSTON. OCCASIONALLY AS I DRIVE WITH SOMEONE SITTING IN THE ",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 BMW 335D, EGR COOLER CRACKS OPEN AND STARTS FUMING UNFILTERED DIESEL EXHAUST INTO THE ENVIRONMENT AND INTO COCK PIT OF CAR. HIGHLY DANGEROUS GAS HAS SEVERE IMPACT TO OCCUPANTS, CAR COULD NOT BE DRIVEN AS EXHAUST SMELL INSIDE OF CAR.     BMW REFUSE TO FIX THIS UNDER BELOW MEN",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Bmw X3 owners report most",
+    "summary": "Across 87 owner complaints to NHTSA, the most reported area is Air Bags (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THE CAR WAS STORED OUTSIDE IN EXTREME HEAT DURING THE MONTH OF APRIL - 90+ DEGREES FOR OVER 3 WEEKS. (IN FLORIDA) AIR BAG SENSOR AND SEAT BELT SENSOR ON PASSENGER SIDE, INCORRECTLY ALERTING, WHEN SOMEONE OR NO ONE WAS IN THE SEAT. NOW THE SENSOR IS ON ALL THE TIME. ALSO THE FAN W",
+        "pct": 39,
+        "title": "Air Bags",
+        "blurb": "34 reports (39%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNED A 2009 BMW X3. THE CONTACT STATED THAT AFTER PARKING  HIS VEHICLE AT 9 AM HE RECEIVED A CALL AT 2 PM STATING THAT HIS VEHICLE WAS ON FIRE. WHEN HE WALKED OUTSIDE HE SAW FLAMES COMING FROM THE VEHICLE. THE FIRE DEPARTMENT EXTINGUISHED THE FIRE AND A REPORT WAS",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "15 reports (17%) · 4 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 BMW 335D, EGR COOLER CRACKS OPEN AND STARTS FUMING UNFILTERED DIESEL EXHAUST INTO THE ENVIRONMENT AND INTO COCK PIT OF CAR. HIGHLY DANGEROUS GAS HAS SEVERE IMPACT TO OCCUPANTS, CAR COULD NOT BE DRIVEN AS EXHAUST SMELL INSIDE OF CAR.     BMW REFUSE TO FIX THIS UNDER BELOW MEN",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (8%) · 1 fire"
+      },
+      {
+        "component": "SEATS",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I TURNED ON MY VEHICLE ONE DAY AND A MESSAGE SAYING \"PASSENGER RESTRAINT SYSTEM MALFUNCTION. CONTINUE TO WEAR SEATBELT. BRING TO LOCAL BMW DEALERSHIP.\" THE DAY BEFORE NOTHING HAPPEN AS I WAS DRIVING HOME FROM DALLAS TO HOUSTON. OCCASIONALLY AS I DRIVE WITH SOMEONE SITTING IN THE ",
+        "pct": 8,
+        "title": "Seats",
+        "blurb": "7 reports (8%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 BMW 335D, EGR COOLER CRACKS OPEN AND STARTS FUMING UNFILTERED DIESEL EXHAUST INTO THE ENVIRONMENT AND INTO COCK PIT OF CAR. HIGHLY DANGEROUS GAS HAS SEVERE IMPACT TO OCCUPANTS, CAR COULD NOT BE DRIVEN AS EXHAUST SMELL INSIDE OF CAR.     BMW REFUSE TO FIX THIS UNDER BELOW MEN",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "7 reports (8%) · 2 fire"
+      }
+    ]
+  }
+}

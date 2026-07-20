@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-f-250",
+  "make": "Ford",
+  "model": "F-250",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/F-250#complaints",
+  "generatedAt": "2026-07-19T23:55:41.909Z",
+  "total": 370,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 157,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 1,
+      "sample": "THESE TRUCKS SHAKE VIOLENTLY IN THE FRONT END WHEN THEY ENCOUNTER EVEN THE SMALLEST OF BUMPS IN THE ROAD. FORD HAS FAILED TO TAKE THE RESPONSIBLE AND CORRECTIVE MATTERS TO FIX THE PROBLEMS. SOMETHING MUST BE DONE BEFORE SOMEONE GET KILLED. PLEASE SEE FORDFORUM.ORG TO SEE THAT MAN",
+      "pct": 42
+    },
+    {
+      "component": "STEERING",
+      "count": 149,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 1,
+      "sample": "FORD F 250 DEATH WOBBLE-  HIT A BUMP AT SPEED ABOVE 30 MPH AND THE STEEERING WHEEL BEGINS AN UNCONTRILLABLE WOBBLE.  IN FACT THE WHOLE TRUCK SHAKES VIOLENTLY.  THE TRUCK HAS ACTUALLY JUMP SIDEWAYS INTO THE ON COMMING LANE.  *TT  PRREVOIUSLY REPORTS IN NHTSA FOR PREVIOUS YEARS FOR",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 51,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD F250SD. THE CONTACT STATED THAT WHILE PARKED WITH THE ENGINE ON, SMOKE STARTED TO EMIT FROM UNDER THE HOOD AND SHORTLY AFTER THE VEHICLE WAS ENGULFED INTO FLAMES. THE FIRE DEPARTMENT WAS NOTIFIED AND REPORT WAS FILED. NO INJURIES WERE REPORTED.  N",
+      "pct": 14
+    },
+    {
+      "component": "WHEELS",
+      "count": 28,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 1,
+      "sample": "I HAVE EXPERIENCED A VIOLENT WOBBLE IN MY FRONT END OF THE 2011 FORD 250 CREW CAB DIESEL. HAVE TAKING IT TO A FORD DEALER FOUR TIMES , THEY SAY THAT THEY CAN NOT FIND ANYTHING WRONG. AT 50+ THE TRUCK SHIMMIES SO BAD I HAVE TO SLOW DOWN TO ALMOST A STOP TO STOP THE SHIMMY. I'M AT ",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 27,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING DOWN A 6 LANE HIGHWAY IN MID DAY TRAFFIC. HAD JUST LEFT MY HOUSE NOT 2 MINUTES EARLIER. LIGHT COMES ON SAYS STOP SAFELY NOW. I START TO SWITCH LANES AND THE ENGINE SHUTS DOWN. I AVOIDED A NEAR COLLISION AND SWERVED INTO A TURN LANE. THE TRUCK WOULD NOT EVEN TURN OVER. CAL",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford F-250 owners report most",
+    "summary": "Across 370 owner complaints to NHTSA, the most reported area is Suspension (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 157,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 1,
+        "sample": "THESE TRUCKS SHAKE VIOLENTLY IN THE FRONT END WHEN THEY ENCOUNTER EVEN THE SMALLEST OF BUMPS IN THE ROAD. FORD HAS FAILED TO TAKE THE RESPONSIBLE AND CORRECTIVE MATTERS TO FIX THE PROBLEMS. SOMETHING MUST BE DONE BEFORE SOMEONE GET KILLED. PLEASE SEE FORDFORUM.ORG TO SEE THAT MAN",
+        "pct": 42,
+        "title": "Suspension",
+        "blurb": "157 reports (42%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 149,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 1,
+        "sample": "FORD F 250 DEATH WOBBLE-  HIT A BUMP AT SPEED ABOVE 30 MPH AND THE STEEERING WHEEL BEGINS AN UNCONTRILLABLE WOBBLE.  IN FACT THE WHOLE TRUCK SHAKES VIOLENTLY.  THE TRUCK HAS ACTUALLY JUMP SIDEWAYS INTO THE ON COMMING LANE.  *TT  PRREVOIUSLY REPORTS IN NHTSA FOR PREVIOUS YEARS FOR",
+        "pct": 40,
+        "title": "Steering",
+        "blurb": "149 reports (40%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 51,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD F250SD. THE CONTACT STATED THAT WHILE PARKED WITH THE ENGINE ON, SMOKE STARTED TO EMIT FROM UNDER THE HOOD AND SHORTLY AFTER THE VEHICLE WAS ENGULFED INTO FLAMES. THE FIRE DEPARTMENT WAS NOTIFIED AND REPORT WAS FILED. NO INJURIES WERE REPORTED.  N",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "51 reports (14%) · 3 fire · 1 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 28,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 1,
+        "sample": "I HAVE EXPERIENCED A VIOLENT WOBBLE IN MY FRONT END OF THE 2011 FORD 250 CREW CAB DIESEL. HAVE TAKING IT TO A FORD DEALER FOUR TIMES , THEY SAY THAT THEY CAN NOT FIND ANYTHING WRONG. AT 50+ THE TRUCK SHIMMIES SO BAD I HAVE TO SLOW DOWN TO ALMOST A STOP TO STOP THE SHIMMY. I'M AT ",
+        "pct": 8,
+        "title": "Wheels",
+        "blurb": "28 reports (8%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 27,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING DOWN A 6 LANE HIGHWAY IN MID DAY TRAFFIC. HAD JUST LEFT MY HOUSE NOT 2 MINUTES EARLIER. LIGHT COMES ON SAYS STOP SAFELY NOW. I START TO SWITCH LANES AND THE ENGINE SHUTS DOWN. I AVOIDED A NEAR COLLISION AND SWERVED INTO A TURN LANE. THE TRUCK WOULD NOT EVEN TURN OVER. CAL",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "27 reports (7%) · 1 crash"
+      }
+    ]
+  }
+}

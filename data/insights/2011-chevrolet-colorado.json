@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-colorado",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/COLORADO#complaints",
+  "generatedAt": "2026-07-19T23:54:43.759Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON FEBRUARY 14, 2012 I WAS DRIVING ON A CLEAN, DRY, STRAIGHT, AND LEVEL ROAD AT 35MPH.  I WAS NOT ACCELERATING, BRAKING, OR CORNERING.  THE ALARM BELL RANG AND THE DASH BOARD DISPLAY INDICATED \"TRACTION FAULT, REDUCED POWER, SERVICE STABILITY SYSTEM\".  THE VEHICLE DRAMATICALLY RE",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2011 CHEVROLET COLORADO. THE CONTACT STATED THAT WHILE DRIVING 70 MPH, THE CONTACT CRASHED INTO AN EMBANKMENT AND THE FRONT PASSENGER AIR BAG DID NOT DEPLOY. THE VEHICLE WAS DESTROYED AND TOWED TO AN IMPOUND LOT. THE PASSENGER SUFFERED INJURIES DURING THE ",
+      "pct": 24
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET COLORADO. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED THAT BOTH REAR TAIL LIGHTS HAD SLIGHTLY DETACHED BECAUSE THE SUPPORT BRACKETS WERE FRACTURED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE REAR PASSENGER SIDE ",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NO PREVIOUS ISSUES WITH THE AIRBAG BUT AFTER AN OIL CHANGE IT HAS COME ON AND WILL HAVE TO REPLACE WIRING. UNSAFE AND WILL BE A COSTLY FIX FOR SOMETHING THAT SHOULD NOT HAVE OCCURRED DUE TO USAGE OF THE REAR DOOR. IT IS AN EXTENDED CAB FOR A REASON!   BRAKES ON DRIVERS SIDE GRAB ",
+      "pct": 7
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE'S ELECTRONIC SAFETY SYSTEM BEGAN TO REPORT THAT THE DRIVER'S SIDE SEATBELT WAS NOT LATCHED, EVEN THOUGH IT WAS.  I TOOK IT IN FOR DIAGNOSIS & REPAIR AT MY LOCAL GM DEALER (BOB HOOK CHEVROLET, 4144 BARDSTOWN RD., LOUISVILLE KY 40218).  HOWEVER, THE FIRST REPLACEMENT PAR",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Colorado owners report most",
+    "summary": "Across 42 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON FEBRUARY 14, 2012 I WAS DRIVING ON A CLEAN, DRY, STRAIGHT, AND LEVEL ROAD AT 35MPH.  I WAS NOT ACCELERATING, BRAKING, OR CORNERING.  THE ALARM BELL RANG AND THE DASH BOARD DISPLAY INDICATED \"TRACTION FAULT, REDUCED POWER, SERVICE STABILITY SYSTEM\".  THE VEHICLE DRAMATICALLY RE",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "14 reports (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2011 CHEVROLET COLORADO. THE CONTACT STATED THAT WHILE DRIVING 70 MPH, THE CONTACT CRASHED INTO AN EMBANKMENT AND THE FRONT PASSENGER AIR BAG DID NOT DEPLOY. THE VEHICLE WAS DESTROYED AND TOWED TO AN IMPOUND LOT. THE PASSENGER SUFFERED INJURIES DURING THE ",
+        "pct": 24,
+        "title": "Air Bags",
+        "blurb": "10 reports (24%) · 3 crash · 4 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 CHEVROLET COLORADO. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED THAT BOTH REAR TAIL LIGHTS HAD SLIGHTLY DETACHED BECAUSE THE SUPPORT BRACKETS WERE FRACTURED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE REAR PASSENGER SIDE ",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NO PREVIOUS ISSUES WITH THE AIRBAG BUT AFTER AN OIL CHANGE IT HAS COME ON AND WILL HAVE TO REPLACE WIRING. UNSAFE AND WILL BE A COSTLY FIX FOR SOMETHING THAT SHOULD NOT HAVE OCCURRED DUE TO USAGE OF THE REAR DOOR. IT IS AN EXTENDED CAB FOR A REASON!   BRAKES ON DRIVERS SIDE GRAB ",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "3 reports (7%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE'S ELECTRONIC SAFETY SYSTEM BEGAN TO REPORT THAT THE DRIVER'S SIDE SEATBELT WAS NOT LATCHED, EVEN THOUGH IT WAS.  I TOOK IT IN FOR DIAGNOSIS & REPAIR AT MY LOCAL GM DEALER (BOB HOOK CHEVROLET, 4144 BARDSTOWN RD., LOUISVILLE KY 40218).  HOWEVER, THE FIRST REPLACEMENT PAR",
+        "pct": 7,
+        "title": "Seat Belts",
+        "blurb": "3 reports (7%)"
+      }
+    ]
+  }
+}

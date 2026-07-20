@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-sonic",
+  "make": "Chevrolet",
+  "model": "Sonic",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/SONIC#complaints",
+  "generatedAt": "2026-07-19T23:57:48.778Z",
+  "total": 217,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 56,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "I HAVE FOUND THE  SWITCH BLADE KEY USED BY MANY CHEVROLET PRODUCTS HAS A TENDENCY TO OPERATE WHEN THE KEY IS PUT IN YOUR PANTS POCKET. ON MANY OCCASIONS I HAVE LOCKED OR UNLOCKED THE DOORS OR RELEASED THE TRUNK LATCH SIMPLY BY SITTING DOWN OR WALKING DOWN THE STEPS.THIS IS A MINO",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 55,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS CONDITION HAPPENS DURING FIRST DRIVE OF THE DAY OR AFTER THE VEHICLE SITS FOR A WHILE. WHILE ACCELERATING THROUGH THE AUTOMATIC TRANSMISSION THE CAR SURGES/JOLTS AT OR NEAR THE SHIFT POINTS. IT ALMOST FEELS AS IF I STARTED MOVING THE VEHICLE IN THE WRONG GEAR, IF IT WERE A M",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 38,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS CONDITION HAPPENS DURING FIRST DRIVE OF THE DAY OR AFTER THE VEHICLE SITS FOR A WHILE. WHILE ACCELERATING THROUGH THE AUTOMATIC TRANSMISSION THE CAR SURGES/JOLTS AT OR NEAR THE SHIFT POINTS. IT ALMOST FEELS AS IF I STARTED MOVING THE VEHICLE IN THE WRONG GEAR, IF IT WERE A M",
+      "pct": 18
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 25,
+      "crash": 17,
+      "fire": 0,
+      "injuries": 17,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET SONIC. THE CONTACT STATED THAT WHILE DRIVING 35 MPH, A TRACTOR TRAILER CRASHED INTO THE CONTACT'S VEHICLE FROM THE FRONT DRIVER'S SIDE DOOR.  THE FRONT DRIVER, ROOF AND SIDE AIR BAGS FAILED TO DEPLOY.  THE VEHICLE WAS DESTROYED. THERE WERE NO",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE HIGHWAY AT BETWEEN 55 AND 65 MPH. THE SIDE I WAS ON HAD A LONG, STEADY INCLINE UPWARD. I HAD SET MY CRUISE CONTROL TO ABOUT 63 MPH.  AS I WAS GOING UPHILL THE CRUISE CONTROL WAS SUPPLYING FUEL TO GET TO AND MAINTAIN MY SPEED AT 63 MPH.  I WAS APPROACHING ANOT",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Sonic owners report most",
+    "summary": "Across 217 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 56,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "I HAVE FOUND THE  SWITCH BLADE KEY USED BY MANY CHEVROLET PRODUCTS HAS A TENDENCY TO OPERATE WHEN THE KEY IS PUT IN YOUR PANTS POCKET. ON MANY OCCASIONS I HAVE LOCKED OR UNLOCKED THE DOORS OR RELEASED THE TRUNK LATCH SIMPLY BY SITTING DOWN OR WALKING DOWN THE STEPS.THIS IS A MINO",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "56 reports (26%) · 4 crash · 7 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 55,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS CONDITION HAPPENS DURING FIRST DRIVE OF THE DAY OR AFTER THE VEHICLE SITS FOR A WHILE. WHILE ACCELERATING THROUGH THE AUTOMATIC TRANSMISSION THE CAR SURGES/JOLTS AT OR NEAR THE SHIFT POINTS. IT ALMOST FEELS AS IF I STARTED MOVING THE VEHICLE IN THE WRONG GEAR, IF IT WERE A M",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "55 reports (25%) · 2 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 38,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS CONDITION HAPPENS DURING FIRST DRIVE OF THE DAY OR AFTER THE VEHICLE SITS FOR A WHILE. WHILE ACCELERATING THROUGH THE AUTOMATIC TRANSMISSION THE CAR SURGES/JOLTS AT OR NEAR THE SHIFT POINTS. IT ALMOST FEELS AS IF I STARTED MOVING THE VEHICLE IN THE WRONG GEAR, IF IT WERE A M",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "38 reports (18%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 25,
+        "crash": 17,
+        "fire": 0,
+        "injuries": 17,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET SONIC. THE CONTACT STATED THAT WHILE DRIVING 35 MPH, A TRACTOR TRAILER CRASHED INTO THE CONTACT'S VEHICLE FROM THE FRONT DRIVER'S SIDE DOOR.  THE FRONT DRIVER, ROOF AND SIDE AIR BAGS FAILED TO DEPLOY.  THE VEHICLE WAS DESTROYED. THERE WERE NO",
+        "pct": 12,
+        "title": "Air Bags",
+        "blurb": "25 reports (12%) · 17 crash · 17 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE HIGHWAY AT BETWEEN 55 AND 65 MPH. THE SIDE I WAS ON HAD A LONG, STEADY INCLINE UPWARD. I HAD SET MY CRUISE CONTROL TO ABOUT 63 MPH.  AS I WAS GOING UPHILL THE CRUISE CONTROL WAS SUPPLYING FUEL TO GET TO AND MAINTAIN MY SPEED AT 63 MPH.  I WAS APPROACHING ANOT",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "13 reports (6%)"
+      }
+    ]
+  }
+}

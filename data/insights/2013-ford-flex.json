@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/FLEX#complaints",
+  "generatedAt": "2026-07-19T23:59:01.508Z",
+  "total": 578,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 200,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE OWNED MY VEHICLE SINCE MARCH 2013 AND HAVE HAD IT IN THE PROCESS MULTIPLE TIMES SINCE - SYNC ISSUES, DEAD BATTERY AND THREE SEATBELT REPLACEMENTS. MY VEHICLE HAS REAR AIRBAG SEATBELTS SUPPOSEDLY FOR SAFETY. INSTEAD, MY KIDS HAVE BEEN FORCED INTO UNSAFE SITUATIONS BECAUSE T",
+      "pct": 35
+    },
+    {
+      "component": "STEERING",
+      "count": 149,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I WAS TURNING A CORNER AND SOMETHING POPPED AND THE CAR WOULD NOT STEER.  THE ONLY THING THAT STOPPED THE CAR WAS THE CURVE, AS I WAS MAKING THE TURN, AND THAT CAUSED A LOT OF DAMAGE.  SUTTON FORD LINCOLN IN MATTESON, IL SAID THEY WOULD NOT REPAIR THE DAMAGES CAUSED BY THE LEMON-",
+      "pct": 26
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 69,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS TURNING A CORNER AND SOMETHING POPPED AND THE CAR WOULD NOT STEER.  THE ONLY THING THAT STOPPED THE CAR WAS THE CURVE, AS I WAS MAKING THE TURN, AND THAT CAUSED A LOT OF DAMAGE.  SUTTON FORD LINCOLN IN MATTESON, IL SAID THEY WOULD NOT REPAIR THE DAMAGES CAUSED BY THE LEMON-",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 59,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "A 2013 FORD FLEX RENTAL VEHICLE USED FOR A 4-HOUR DRIVE FROM THE SAN DIEGO AREA TO SOUTHERN ARIZONA WAS LEAKING GASOLINE FUMES, WHICH KEPT ENTERING THE CABIN AND MADE ALL PASSENGERS NAUSEOUS, INCLUDING AN ELDERLY FEMALE WITH ALZHEIMER'S DISEASE. THE VEHICLE WAS PARKED INSIDE A GA",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 36,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "DOOR AJAR WARNING STAYS ON FOR DRIVERS DOOR. BEGIN AS INTERMITTENT PROBLEM RESOLVED BY OPENING AND CLOSING THE DOOR TILL THE DOOR SENSOR REGISTERED THE DOOR CLOSED. PROGRESSIVELY GOT WORSE AND 7 MONTHS LATER THE DOOR AJAR LIGHT STAYS ON ALL THE TIME. INTERIOR LIGHTS REMAIN ON ALL",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Flex owners report most",
+    "summary": "Across 578 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 200,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE OWNED MY VEHICLE SINCE MARCH 2013 AND HAVE HAD IT IN THE PROCESS MULTIPLE TIMES SINCE - SYNC ISSUES, DEAD BATTERY AND THREE SEATBELT REPLACEMENTS. MY VEHICLE HAS REAR AIRBAG SEATBELTS SUPPOSEDLY FOR SAFETY. INSTEAD, MY KIDS HAVE BEEN FORCED INTO UNSAFE SITUATIONS BECAUSE T",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "200 reports (35%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 149,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I WAS TURNING A CORNER AND SOMETHING POPPED AND THE CAR WOULD NOT STEER.  THE ONLY THING THAT STOPPED THE CAR WAS THE CURVE, AS I WAS MAKING THE TURN, AND THAT CAUSED A LOT OF DAMAGE.  SUTTON FORD LINCOLN IN MATTESON, IL SAID THEY WOULD NOT REPAIR THE DAMAGES CAUSED BY THE LEMON-",
+        "pct": 26,
+        "title": "Steering",
+        "blurb": "149 reports (26%) · 7 crash · 3 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 69,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS TURNING A CORNER AND SOMETHING POPPED AND THE CAR WOULD NOT STEER.  THE ONLY THING THAT STOPPED THE CAR WAS THE CURVE, AS I WAS MAKING THE TURN, AND THAT CAUSED A LOT OF DAMAGE.  SUTTON FORD LINCOLN IN MATTESON, IL SAID THEY WOULD NOT REPAIR THE DAMAGES CAUSED BY THE LEMON-",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "69 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 59,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "A 2013 FORD FLEX RENTAL VEHICLE USED FOR A 4-HOUR DRIVE FROM THE SAN DIEGO AREA TO SOUTHERN ARIZONA WAS LEAKING GASOLINE FUMES, WHICH KEPT ENTERING THE CABIN AND MADE ALL PASSENGERS NAUSEOUS, INCLUDING AN ELDERLY FEMALE WITH ALZHEIMER'S DISEASE. THE VEHICLE WAS PARKED INSIDE A GA",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "59 reports (10%) · 4 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 36,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "DOOR AJAR WARNING STAYS ON FOR DRIVERS DOOR. BEGIN AS INTERMITTENT PROBLEM RESOLVED BY OPENING AND CLOSING THE DOOR TILL THE DOOR SENSOR REGISTERED THE DOOR CLOSED. PROGRESSIVELY GOT WORSE AND 7 MONTHS LATER THE DOOR AJAR LIGHT STAYS ON ALL THE TIME. INTERIOR LIGHTS REMAIN ON ALL",
+        "pct": 6,
+        "title": "Exterior Lighting",
+        "blurb": "36 reports (6%) · 1 injured"
+      }
+    ]
+  }
+}

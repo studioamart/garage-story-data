@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-cruze",
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/CRUZE#complaints",
+  "generatedAt": "2026-07-19T23:56:15.782Z",
+  "total": 864,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 267,
+      "crash": 10,
+      "fire": 13,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THIS VEHICLE WAS PURCHASED DECEMBER 2010 AND SINCE THE PURCHASE ALL THE ISSUES THAT 2012 CHEVY CRUZE HAS BEEN SUBJECTED TO REGARDING RECALLS WE HAVE SUFFERED THEM. THIS COMPLAINT IS FILED DUE TO THE FACT THAT, ALTHOUGH THE CAR IS UNDER WARRANTY, GM AND THE DEALERSHIP REFUSES TO H",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 196,
+      "crash": 10,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING HOME AND OUT OF NOWHERE MY 2012 CHEVY CRUZE DINGS AND SAYS \"ENGINE OVERHEATING A/C TURNED OFF,\" I WAS VERY SURPRISED BUT KEPT DRIVING AND LITERALLY ONE MINUTE LATER THE CAR DINGS AGAIN.  THERE IS A DIFFERENT MESSAGE THAT SAYS \"IDLE ENGINE OVERHEATING,\" AT THIS POINT",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 152,
+      "crash": 27,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I TOOK MY VEHICLE IN COMPLAINING OF A STRANGE NOISE, ALMOST LIKE A \"POP\" WHEN BRAKING. WHEN THE DEALERSHIP LOOKED AT IT THEY TOLD ME IT WAS THE STRUTS. THEY STATED THEY WERE WAITING ON A RECALL FROM CHEVROLET AND THAT I SHOULD JUST CONTINUE TO KEEP CALLING AND CHECKING ON IT. I C",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 137,
+      "crash": 5,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "MY 2012 CHEVROLET CRUZE ECO WITH THE 6-SPEED MANUAL TRANSMISSION HAS OCCASIONALLY REFUSED TO GO INTO 4TH GEAR, AND GRINDS OCCASIONALLY WHEN GOING INTO 2ND GEAR. I GET THE GRIND AT ABOUT 1200 RPM AND UP. MOST OF MY SHIFTING IS DONE AT OR BELOW 2500 RPM FOR FUEL ECONOMY REASONS. TH",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 108,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON ORTEGA HIGHWAY WHICH IS A TWO LANE HIGHWAY AND IS A CONNECTOR ROAD FROM INLAND EMPIRE TO ORANGE COUNTY WITH NARROW LANES RUNNING THRU CLEVELAND NATIONAL FOREST, I WAS DRIVING WITH THE FLOW OF TRAFFIC AND THE CAR SUDDENLY SHUT OFF, STEERING WHEEL LOCKED, VARIOUS C",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Cruze owners report most",
+    "summary": "Across 864 owner complaints to NHTSA, the most reported area is Engine (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 267,
+        "crash": 10,
+        "fire": 13,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THIS VEHICLE WAS PURCHASED DECEMBER 2010 AND SINCE THE PURCHASE ALL THE ISSUES THAT 2012 CHEVY CRUZE HAS BEEN SUBJECTED TO REGARDING RECALLS WE HAVE SUFFERED THEM. THIS COMPLAINT IS FILED DUE TO THE FACT THAT, ALTHOUGH THE CAR IS UNDER WARRANTY, GM AND THE DEALERSHIP REFUSES TO H",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "267 reports (31%) · 13 fire · 10 crash · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 196,
+        "crash": 10,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING HOME AND OUT OF NOWHERE MY 2012 CHEVY CRUZE DINGS AND SAYS \"ENGINE OVERHEATING A/C TURNED OFF,\" I WAS VERY SURPRISED BUT KEPT DRIVING AND LITERALLY ONE MINUTE LATER THE CAR DINGS AGAIN.  THERE IS A DIFFERENT MESSAGE THAT SAYS \"IDLE ENGINE OVERHEATING,\" AT THIS POINT",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "196 reports (23%) · 3 fire · 10 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 152,
+        "crash": 27,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I TOOK MY VEHICLE IN COMPLAINING OF A STRANGE NOISE, ALMOST LIKE A \"POP\" WHEN BRAKING. WHEN THE DEALERSHIP LOOKED AT IT THEY TOLD ME IT WAS THE STRUTS. THEY STATED THEY WERE WAITING ON A RECALL FROM CHEVROLET AND THAT I SHOULD JUST CONTINUE TO KEEP CALLING AND CHECKING ON IT. I C",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "152 reports (18%) · 1 fire · 27 crash · 4 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 137,
+        "crash": 5,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "MY 2012 CHEVROLET CRUZE ECO WITH THE 6-SPEED MANUAL TRANSMISSION HAS OCCASIONALLY REFUSED TO GO INTO 4TH GEAR, AND GRINDS OCCASIONALLY WHEN GOING INTO 2ND GEAR. I GET THE GRIND AT ABOUT 1200 RPM AND UP. MOST OF MY SHIFTING IS DONE AT OR BELOW 2500 RPM FOR FUEL ECONOMY REASONS. TH",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "137 reports (16%) · 3 fire · 5 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 108,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON ORTEGA HIGHWAY WHICH IS A TWO LANE HIGHWAY AND IS A CONNECTOR ROAD FROM INLAND EMPIRE TO ORANGE COUNTY WITH NARROW LANES RUNNING THRU CLEVELAND NATIONAL FOREST, I WAS DRIVING WITH THE FLOW OF TRAFFIC AND THE CAR SUDDENLY SHUT OFF, STEERING WHEEL LOCKED, VARIOUS C",
+        "pct": 13,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "108 reports (13%) · 5 crash"
+      }
+    ]
+  }
+}

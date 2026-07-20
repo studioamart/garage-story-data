@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-fusion",
+  "make": "Ford",
+  "model": "Fusion",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/FUSION#complaints",
+  "generatedAt": "2026-07-19T23:53:07.119Z",
+  "total": 1020,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 535,
+      "crash": 42,
+      "fire": 1,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "1908 FORD FUSION REAR BRAKING SYSTEM, BRAKE PADS MUST BE REPLACED AT 25,000 MILES. REAR ROTORS MUST BE TURNED. FORD MOTOR COMPANY REFUSES TO ADMIT PROBLEMS AFTER CALL TO REVIEW ISSUE WITH MY PURCHASED FUSION IN 2008. LOSS OF REAR BRAKING CAN LEAD TO INCIDENT'S, CRASHES AND INJURY",
+      "pct": 52
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 359,
+      "crash": 20,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD FUSION. THE CONTACT FELL ASLEEP WHILE DRIVING AND WAS INVOLVED IN A CRASH IN WHICH THE AIR BAGS DID NOT DEPLOY. THE CONTACT WAS UNSURE OF THE EXACT SPEED THE VEHICLE WAS TRAVELING DURING THE FAILURE. A POLICE REPORT WAS FILED AND THE CONTACT SUFFE",
+      "pct": 35
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 60,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1908 FORD FUSION REAR BRAKING SYSTEM, BRAKE PADS MUST BE REPLACED AT 25,000 MILES. REAR ROTORS MUST BE TURNED. FORD MOTOR COMPANY REFUSES TO ADMIT PROBLEMS AFTER CALL TO REVIEW ISSUE WITH MY PURCHASED FUSION IN 2008. LOSS OF REAR BRAKING CAN LEAD TO INCIDENT'S, CRASHES AND INJURY",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 42,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "I DECIDED TO BUY A NEW FORD FIESTA TITANIUM 1.4I DURATEC PETROL , ENGINE NUMBER:8Y00038 AND COLOR OF MY CAR  IS GREY,  ON 1TH DECEMBER  IN 2008 IN TURKEY IN HATAY OVALI  FORD VEHICLE COMPANY ( 2009 MODEL)..I PAID 29,800 TRKISH LIRA( 17678 AMERICAN DOLLAR) FOR MY CAR.I HAVE GOT A ",
+      "pct": 4
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 33,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD FUSION. WHILE DRIVING AT   SPEEDS OF 70 MPH, THE ACCELERATOR PEDAL BECAME STUCK IN THE OPEN THROTTLE POSITION. THE VEHICLE CONTINUED TO ACCELERATE WITHOUT DRIVER INTENT AND THE CONTACT USED EXTREME FORCE ON THE BRAKES TO STOP THE VEHICLE. THE VEHI",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Fusion owners report most",
+    "summary": "Across 1,020 owner complaints to NHTSA, the most reported area is Service Brakes (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 535,
+        "crash": 42,
+        "fire": 1,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "1908 FORD FUSION REAR BRAKING SYSTEM, BRAKE PADS MUST BE REPLACED AT 25,000 MILES. REAR ROTORS MUST BE TURNED. FORD MOTOR COMPANY REFUSES TO ADMIT PROBLEMS AFTER CALL TO REVIEW ISSUE WITH MY PURCHASED FUSION IN 2008. LOSS OF REAR BRAKING CAN LEAD TO INCIDENT'S, CRASHES AND INJURY",
+        "pct": 52,
+        "title": "Service Brakes",
+        "blurb": "535 reports (52%) · 1 fire · 42 crash · 9 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 359,
+        "crash": 20,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD FUSION. THE CONTACT FELL ASLEEP WHILE DRIVING AND WAS INVOLVED IN A CRASH IN WHICH THE AIR BAGS DID NOT DEPLOY. THE CONTACT WAS UNSURE OF THE EXACT SPEED THE VEHICLE WAS TRAVELING DURING THE FAILURE. A POLICE REPORT WAS FILED AND THE CONTACT SUFFE",
+        "pct": 35,
+        "title": "Air Bags",
+        "blurb": "359 reports (35%) · 20 crash · 12 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 60,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1908 FORD FUSION REAR BRAKING SYSTEM, BRAKE PADS MUST BE REPLACED AT 25,000 MILES. REAR ROTORS MUST BE TURNED. FORD MOTOR COMPANY REFUSES TO ADMIT PROBLEMS AFTER CALL TO REVIEW ISSUE WITH MY PURCHASED FUSION IN 2008. LOSS OF REAR BRAKING CAN LEAD TO INCIDENT'S, CRASHES AND INJURY",
+        "pct": 6,
+        "title": "Hydraulic",
+        "blurb": "60 reports (6%) · 2 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 42,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "I DECIDED TO BUY A NEW FORD FIESTA TITANIUM 1.4I DURATEC PETROL , ENGINE NUMBER:8Y00038 AND COLOR OF MY CAR  IS GREY,  ON 1TH DECEMBER  IN 2008 IN TURKEY IN HATAY OVALI  FORD VEHICLE COMPANY ( 2009 MODEL)..I PAID 29,800 TRKISH LIRA( 17678 AMERICAN DOLLAR) FOR MY CAR.I HAVE GOT A ",
+        "pct": 4,
+        "title": "Structure",
+        "blurb": "42 reports (4%) · 1 fire · 5 crash · 12 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 33,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD FUSION. WHILE DRIVING AT   SPEEDS OF 70 MPH, THE ACCELERATOR PEDAL BECAME STUCK IN THE OPEN THROTTLE POSITION. THE VEHICLE CONTINUED TO ACCELERATE WITHOUT DRIVER INTENT AND THE CONTACT USED EXTREME FORCE ON THE BRAKES TO STOP THE VEHICLE. THE VEHI",
+        "pct": 3,
+        "title": "Vehicle Speed Control",
+        "blurb": "33 reports (3%) · 7 crash · 4 injured"
+      }
+    ]
+  }
+}

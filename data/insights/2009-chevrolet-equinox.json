@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-07-19T23:52:16.067Z",
+  "total": 94,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 26,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TWO MONTHS AFTER REPAIR OF VEHICLE, GRANDDAUGHTER REPORTED THAT CAR VEERED TO RIGHT AND SHE COULD NOT CONTROL THE CAR. SHE HIT A POLE AND THE CAR SUFFERED SEVERE DAMAGE AND NONE OF THE AIR BAGS DEPLOYED. SHE SUFFERED A CONCUSSION AND BRUISES. PICTURES OF INTERIOR AND EXTERIOR ARE",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 23,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE TIRE PRESSURE MONITORING LIGHT ILLUMINATED CONTINUOUSLY WHILE THE VEHICLE WAS ON. THE CONTACT ALSO STATED THAT WHILE DRIVING 25 MPH, ACCELERATION POWER REDUCED DRAMATICALLY AND THE VEHICLE DECELERATED TO 3",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET EQUINOX. THE CONTACT STATED THAT ABNORMAL FUMES WERE ENTERING THE VEHICLE CABIN, WHICH WAS CAUSING THE DRIVER AND ANY PASSENGER TO BECOME DROWSY. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC FOR INSPECTION AND REPAIR WHERE THE EGR VALVE W",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR HESITATED, SLOWED DOWN, LOST POWER.   WARNING LIGHTS INCLUDED STABILITRAK OFF, TRACTION CONTROL OFF, AND REDUCED ENGINE POWER.   REPAIR WAS TO CLEAN THROTTLE BODY.  JAN OF 2014, (83,000 MILES) SAME PROBLEM OCCURRED, AND THROTTLE BODY CLEANED AT DEALER AFTER DIAGNOSTICS.   MAR",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE VEHICLE WOULD BECOME SLUGGISH WHEN ATTEMPTING TO ACCELERATE AND WOULD EXHIBIT SIGNS OF WANTING TO STALL. THE FAILURE PROGRESSED TO WHERE THE VEHICLE WOULD NOT ACCELERATE OVER 10 MPH. THE CONTACT TOOK THE V",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Equinox owners report most",
+    "summary": "Across 94 owner complaints to NHTSA, the most reported area is Air Bags (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 26,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TWO MONTHS AFTER REPAIR OF VEHICLE, GRANDDAUGHTER REPORTED THAT CAR VEERED TO RIGHT AND SHE COULD NOT CONTROL THE CAR. SHE HIT A POLE AND THE CAR SUFFERED SEVERE DAMAGE AND NONE OF THE AIR BAGS DEPLOYED. SHE SUFFERED A CONCUSSION AND BRUISES. PICTURES OF INTERIOR AND EXTERIOR ARE",
+        "pct": 28,
+        "title": "Air Bags",
+        "blurb": "26 reports (28%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 23,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE TIRE PRESSURE MONITORING LIGHT ILLUMINATED CONTINUOUSLY WHILE THE VEHICLE WAS ON. THE CONTACT ALSO STATED THAT WHILE DRIVING 25 MPH, ACCELERATION POWER REDUCED DRAMATICALLY AND THE VEHICLE DECELERATED TO 3",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "23 reports (24%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET EQUINOX. THE CONTACT STATED THAT ABNORMAL FUMES WERE ENTERING THE VEHICLE CABIN, WHICH WAS CAUSING THE DRIVER AND ANY PASSENGER TO BECOME DROWSY. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC FOR INSPECTION AND REPAIR WHERE THE EGR VALVE W",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "18 reports (19%) · 1 fire · 1 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR HESITATED, SLOWED DOWN, LOST POWER.   WARNING LIGHTS INCLUDED STABILITRAK OFF, TRACTION CONTROL OFF, AND REDUCED ENGINE POWER.   REPAIR WAS TO CLEAN THROTTLE BODY.  JAN OF 2014, (83,000 MILES) SAME PROBLEM OCCURRED, AND THROTTLE BODY CLEANED AT DEALER AFTER DIAGNOSTICS.   MAR",
+        "pct": 13,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "12 reports (13%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE VEHICLE WOULD BECOME SLUGGISH WHEN ATTEMPTING TO ACCELERATE AND WOULD EXHIBIT SIGNS OF WANTING TO STALL. THE FAILURE PROGRESSED TO WHERE THE VEHICLE WOULD NOT ACCELERATE OVER 10 MPH. THE CONTACT TOOK THE V",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "11 reports (12%)"
+      }
+    ]
+  }
+}

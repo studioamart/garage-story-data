@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-07-19T23:56:19.659Z",
+  "total": 682,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 354,
+      "crash": 3,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STOPPED AT A STOP SIGN OR RED LIGHT SOMETIMES THE ENGINE TRIES TO CUT OUT, AND THE CAR JERKS LIKE IT IS TRYING TO STAY CRANKED.  I HAVE A FRIEND THAT HAS A GM TERRAIN AND HERS DOES THE SAME THING.  WHEN TURNING THERE IS A KNOCKING IN THE STEERING.  THE SPEAKERS HAVE A RATTLI",
+      "pct": 52
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 121,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE STATED THAT WHILE DRIVING AT APPROXIMATELY 35 MPH, THERE WAS AN ABNORMAL NOISE AND THE WINDSHIELD WIPERS FAILED TO OPERATE. THE VEHICLE WAS TAKEN TO A DEALER, WHO DIAGNOSED THAT THE WINDSHIELD WIPER MOTOR NEEDED TO BE REPLACED. T",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 84,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE CONTACT WAS DRIVING 70 MPH WHEN THE VEHICLE DECELERATED ABNORMALLY WITH THE ILLUMINATION OF THE CHECK ENGINE WARNING LIGHT. THE VEHICLE WAS TOWED TO THE DEALER AND THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE WAS N",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 69,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE INSTRUMENT PANEL BECAME BLURRY WHEN THE SUN REFLECTED ON IT. AS A RESULT, THE CONTACT WAS UNABLE TO SEE THE GAUGES ON THE INSTRUMENT PANEL. THE VEHICLE WAS TAKEN TO THE DEALER; HOWEVER THEY DID NOT PROVIDE",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 54,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE CHECK ENGINE WARNING LIGHT ILLUMINATED. THE VEHICLE STALLED. THE CONTACT WAS UNABLE TO RESTART VEHICLE. THE VEHICLE WAS TOWED TO DEALER WHERE A FAULTY FUEL PUMP WAS LOCATED. THE VEHIC",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Equinox owners report most",
+    "summary": "Across 682 owner complaints to NHTSA, the most reported area is Engine (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 354,
+        "crash": 3,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STOPPED AT A STOP SIGN OR RED LIGHT SOMETIMES THE ENGINE TRIES TO CUT OUT, AND THE CAR JERKS LIKE IT IS TRYING TO STAY CRANKED.  I HAVE A FRIEND THAT HAS A GM TERRAIN AND HERS DOES THE SAME THING.  WHEN TURNING THERE IS A KNOCKING IN THE STEERING.  THE SPEAKERS HAVE A RATTLI",
+        "pct": 52,
+        "title": "Engine",
+        "blurb": "354 reports (52%) · 3 fire · 3 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 121,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE STATED THAT WHILE DRIVING AT APPROXIMATELY 35 MPH, THERE WAS AN ABNORMAL NOISE AND THE WINDSHIELD WIPERS FAILED TO OPERATE. THE VEHICLE WAS TAKEN TO A DEALER, WHO DIAGNOSED THAT THE WINDSHIELD WIPER MOTOR NEEDED TO BE REPLACED. T",
+        "pct": 18,
+        "title": "Visibility/Wiper",
+        "blurb": "121 reports (18%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 84,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE CONTACT WAS DRIVING 70 MPH WHEN THE VEHICLE DECELERATED ABNORMALLY WITH THE ILLUMINATION OF THE CHECK ENGINE WARNING LIGHT. THE VEHICLE WAS TOWED TO THE DEALER AND THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE WAS N",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "84 reports (12%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 69,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE CONTACT STATED THAT THE INSTRUMENT PANEL BECAME BLURRY WHEN THE SUN REFLECTED ON IT. AS A RESULT, THE CONTACT WAS UNABLE TO SEE THE GAUGES ON THE INSTRUMENT PANEL. THE VEHICLE WAS TAKEN TO THE DEALER; HOWEVER THEY DID NOT PROVIDE",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "69 reports (10%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 54,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET EQUINOX. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE CHECK ENGINE WARNING LIGHT ILLUMINATED. THE VEHICLE STALLED. THE CONTACT WAS UNABLE TO RESTART VEHICLE. THE VEHICLE WAS TOWED TO DEALER WHERE A FAULTY FUEL PUMP WAS LOCATED. THE VEHIC",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "54 reports (8%) · 1 fire"
+      }
+    ]
+  }
+}

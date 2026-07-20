@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-element",
+  "make": "Honda",
+  "model": "Element",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/ELEMENT#complaints",
+  "generatedAt": "2026-07-19T23:48:53.608Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA ELEMENT. THE CONTACT RECEIVED A NOTIFICATION FOR NHTSA CAMPAIGN NUMBER: 14V351000 (AIR BAGS). HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR.",
+      "pct": 55
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SUN VISOR WILL NOT STAY UP AND IS BLOCKING VISIBILITY OF THE ROAD AHEAD. AFTER LOOKING ONLINE I SEE THAT THIS IS AN ONGOING ISSUE WITH SIMILAR MODELS OF HONDA. IT SHOULD BE A SAFETY RECALL FOR HONDA AS IT MAY CAUSE AN ACCIDENT.   *JS",
+      "pct": 18
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA ELEMENT. THE CONTACT STATED THAT WHILE DRIVING AT 65 MPH, SHE HAD NOTICED  THAT AN EXTENSION LADDER AND DEBRIS HAD LANDED IN THE MIDDLE OF THE ROAD. IN ORDER TO AVOID THE OBJECTS, THE CONTACT AND THE DRIVER BEHIND HER ATTEMPTED TO MAKE THE SAME T",
+      "pct": 9
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ALUMINUM STEERING WHEEL 'HUB SUPPORT MOUNTING BRACKET' HAS CRACKED AND IS BROKEN IN TWO PLACES. THIS HAS HAPPENED OVER A TIME PERIOD DURING NORMAL USAGE OF MY VEHICLE. THE STEERING WHEEL IS WOBBLEY AND LOOSENED. HONDA DEALER SERVICE DEPARTMENT DISASSEMBLED AND REVIEWED COMPONENTS",
+      "pct": 9
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE ARE TWO INDICATOR LIGHTS FOR AIR PRESSURE THAT COME ON AND STAY ON WITHOUT CAUSE (PRESSURE IS NORMAL) \"TPMS\" AND A SYMBOL.  IT IS A DOCUMENTED PROBLEM AMONG OWNERS ONLINE IN GROUP DISCUSSIONS.  IN ADDITION, THE SUSPENSION IS FAULTY IN THAT AN UNEXPLAINABLE \"CRACKING\" AND SL",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Element owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Air Bags (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA ELEMENT. THE CONTACT RECEIVED A NOTIFICATION FOR NHTSA CAMPAIGN NUMBER: 14V351000 (AIR BAGS). HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR.",
+        "pct": 55,
+        "title": "Air Bags",
+        "blurb": "6 reports (55%) · 1 crash"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SUN VISOR WILL NOT STAY UP AND IS BLOCKING VISIBILITY OF THE ROAD AHEAD. AFTER LOOKING ONLINE I SEE THAT THIS IS AN ONGOING ISSUE WITH SIMILAR MODELS OF HONDA. IT SHOULD BE A SAFETY RECALL FOR HONDA AS IT MAY CAUSE AN ACCIDENT.   *JS",
+        "pct": 18,
+        "title": "Visibility",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA ELEMENT. THE CONTACT STATED THAT WHILE DRIVING AT 65 MPH, SHE HAD NOTICED  THAT AN EXTENSION LADDER AND DEBRIS HAD LANDED IN THE MIDDLE OF THE ROAD. IN ORDER TO AVOID THE OBJECTS, THE CONTACT AND THE DRIVER BEHIND HER ATTEMPTED TO MAKE THE SAME T",
+        "pct": 9,
+        "title": "Seat Belts",
+        "blurb": "1 report (9%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ALUMINUM STEERING WHEEL 'HUB SUPPORT MOUNTING BRACKET' HAS CRACKED AND IS BROKEN IN TWO PLACES. THIS HAS HAPPENED OVER A TIME PERIOD DURING NORMAL USAGE OF MY VEHICLE. THE STEERING WHEEL IS WOBBLEY AND LOOSENED. HONDA DEALER SERVICE DEPARTMENT DISASSEMBLED AND REVIEWED COMPONENTS",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE ARE TWO INDICATOR LIGHTS FOR AIR PRESSURE THAT COME ON AND STAY ON WITHOUT CAUSE (PRESSURE IS NORMAL) \"TPMS\" AND A SYMBOL.  IT IS A DOCUMENTED PROBLEM AMONG OWNERS ONLINE IN GROUP DISCUSSIONS.  IN ADDITION, THE SUSPENSION IS FAULTY IN THAT AN UNEXPLAINABLE \"CRACKING\" AND SL",
+        "pct": 9,
+        "title": "Suspension",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

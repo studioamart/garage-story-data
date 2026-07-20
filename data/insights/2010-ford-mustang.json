@@ -1,0 +1,128 @@
+{
+  "slug": "2010-ford-mustang",
+  "make": "Ford",
+  "model": "Mustang",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/FORD/MUSTANG#complaints",
+  "generatedAt": "2026-07-19T23:54:33.494Z",
+  "total": 260,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 179,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 10,
+      "deaths": 2,
+      "sample": "BRAKING FOR TRAFFIC SIGNAL ENGINE CREATED CLUNKING THEN WHISTLING NOISE.  IT SEEMED AND FELT LIKE THE ENGINE HAD FALLEN ONTO PAYMENT.  TAKING FOOT OFF BRAKE THE 2010 MUSTANG ACCELERATED ON ITS OWN. DROVE HOME PARKED CALLED FORD AND ALSO REPORTED THAT AIRBAG LIGHT PASSENGER AIRBAG",
+      "pct": 69
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 FORD MUSTANG. THE CONTACT WAS DRIVING APPROXIMATELY 25 MPH WHEN HE NOTICED THAT THE HOOD SCOOP WOULD NOT REMAIN PROPERLY SECURED TO THE HOOD. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS REPAIRED. THE FAILURE PERSISTED AND THE VEHICLE WAS TAKEN BAC",
+      "pct": 7
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "BOUGHT A 2010 MUSTANG GT500 CONVERTIBLE ON FEB 18 2010.  SINCE THEN I HAVE HAD TWO OF THE SAME ISSUES WITH PROBLEMS SHIFTING THE TRANSMISSION TO SECOND GEAR AND FIFTH GEAR. IT IS IN THE SHOP NOW FOR THE SECOND TIME TRYING TO FIX THIS PROBLEM. ALSO, IN MARCH, MY VEHICLE WAS STRUCK",
+      "pct": 5
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 MUSTANG GT. THE CONTACT STATED THAT THE FUEL PUMP RELAY FUSE BURNED OUT AND CAUSED THE VEHICLE TO STALL. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN WAS UNABLE TO DIAGNOSE THE PROBLEM. THE TECHNICIAN REPLACED THE FUEL PUMP RELAY BUT THE VE",
+      "pct": 4
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 10,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WAS PULLING INTO PARKING SPOT AT CHURCH AND THE CAR SURGED FORWARD AND HIT A CONCRETE WALL.  FOOT WAS ON THE BRAKE PEDAL COMING TO A STOP; WAS GOING SLOWLY WHEN THE CAR SUDDENLY LUNGED FORWARD.  THE BUMPER AND HOOD WERE DAMAGED AND WILL NEED TO BE REPLACED.  TOOK TO FORD DEALERSH",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Ford Mustang owners report most",
+    "summary": "Across 260 owner complaints to NHTSA, the most reported area is Air Bags (69% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 179,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 10,
+        "deaths": 2,
+        "sample": "BRAKING FOR TRAFFIC SIGNAL ENGINE CREATED CLUNKING THEN WHISTLING NOISE.  IT SEEMED AND FELT LIKE THE ENGINE HAD FALLEN ONTO PAYMENT.  TAKING FOOT OFF BRAKE THE 2010 MUSTANG ACCELERATED ON ITS OWN. DROVE HOME PARKED CALLED FORD AND ALSO REPORTED THAT AIRBAG LIGHT PASSENGER AIRBAG",
+        "pct": 69,
+        "title": "Air Bags",
+        "blurb": "179 reports (69%) · 1 fire · 7 crash · 10 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 FORD MUSTANG. THE CONTACT WAS DRIVING APPROXIMATELY 25 MPH WHEN HE NOTICED THAT THE HOOD SCOOP WOULD NOT REMAIN PROPERLY SECURED TO THE HOOD. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS REPAIRED. THE FAILURE PERSISTED AND THE VEHICLE WAS TAKEN BAC",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "17 reports (7%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "BOUGHT A 2010 MUSTANG GT500 CONVERTIBLE ON FEB 18 2010.  SINCE THEN I HAVE HAD TWO OF THE SAME ISSUES WITH PROBLEMS SHIFTING THE TRANSMISSION TO SECOND GEAR AND FIFTH GEAR. IT IS IN THE SHOP NOW FOR THE SECOND TIME TRYING TO FIX THIS PROBLEM. ALSO, IN MARCH, MY VEHICLE WAS STRUCK",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "13 reports (5%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 MUSTANG GT. THE CONTACT STATED THAT THE FUEL PUMP RELAY FUSE BURNED OUT AND CAUSED THE VEHICLE TO STALL. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN WAS UNABLE TO DIAGNOSE THE PROBLEM. THE TECHNICIAN REPLACED THE FUEL PUMP RELAY BUT THE VE",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "10 reports (4%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 10,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WAS PULLING INTO PARKING SPOT AT CHURCH AND THE CAR SURGED FORWARD AND HIT A CONCRETE WALL.  FOOT WAS ON THE BRAKE PEDAL COMING TO A STOP; WAS GOING SLOWLY WHEN THE CAR SUDDENLY LUNGED FORWARD.  THE BUMPER AND HOOD WERE DAMAGED AND WILL NEED TO BE REPLACED.  TOOK TO FORD DEALERSH",
+        "pct": 4,
+        "title": "Vehicle Speed Control",
+        "blurb": "10 reports (4%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

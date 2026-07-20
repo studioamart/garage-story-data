@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-07-19T23:52:15.164Z",
+  "total": 152,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 80,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY FUEL GAUGE WOULD NOT RECORD ANY FUEL LEVEL AFTER FILLING THE TANK AND DRIVING FOR APPROXIMATELY ONE QUARTER OF THE TANK OF FUEL.THE GAUGE WOULD DROP TO \"EMPTY\".  THIS TRIGGERED THE CHECK ENGINE LIGHT, AND AN ERROR CODE, RESULTING IN  NOT BEING ABLE TO PASS MY CAR INSPECTED IN ",
+      "pct": 53
+    },
+    {
+      "component": "ENGINE",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY SON'S CAR BLEW UP WHILE TRAVELING ON THE FREEWAY ALMOST CAUSING AN ACCIDENT. HE WILL FILE A SEPARATE COMPLAINT. THERE IS A SYSTEMIC PROBLEM WITH THE Z06 AND THE 427 ENGINE SO I HAD MY HEADS CHECKED AS A PREVENTATIVE MEASURE AND THEY WERE FAR ENOUGH OUT OF SPEC THAT SELF DESTRU",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AIR BAG MALFUNCTION LIGHT TURNS ON INTERMITTENTLY WHEN CAR GOES OVER A BUMP, OR DURING QUICK STOP, OR SHARP TURN. THIS LIGHT INDICATES THAT THE AIR BAGS WILL NOT DEPLOY. POSSIBLY RELATED TO THE WIRING HARNESS UNDERNEATH THE SEATS.  *TR    SINCE THE LIGHT COMES ON DURING HARD STEE",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET CORVETTE. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE HEADLIGHTS SHUT OFF WITHOUT MANUAL FORCE, CAUSING THE CONTACT TO HAVE TO USE THE FOG LIGHTS. THE VEHICLE WAS NOT REPAIRED AND THE MANUFACTURER WAS NOTIFIED. THE VIN WAS NOT AVAILABLE",
+      "pct": 6
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 C6 CHEVROLET CORVETTE COUPE 1. MY WIFE & I GOT INTO ACR TO BACK OUT OF GARAGE. THE BATTERY FAILED WHEN I PRESSED IGNITION BUTTON. WE WERE LOCKED IN CAR WHICH HAS NO MANUAL DOOR HANDLES.  2. WE ESCAPED VEHICLE BY REMOVING ROOF PANEL AND CLIMBING OUT OF ROOF.   3. CAR TOWED TO",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Corvette owners report most",
+    "summary": "Across 152 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 80,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY FUEL GAUGE WOULD NOT RECORD ANY FUEL LEVEL AFTER FILLING THE TANK AND DRIVING FOR APPROXIMATELY ONE QUARTER OF THE TANK OF FUEL.THE GAUGE WOULD DROP TO \"EMPTY\".  THIS TRIGGERED THE CHECK ENGINE LIGHT, AND AN ERROR CODE, RESULTING IN  NOT BEING ABLE TO PASS MY CAR INSPECTED IN ",
+        "pct": 53,
+        "title": "Fuel/Propulsion System",
+        "blurb": "80 reports (53%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY SON'S CAR BLEW UP WHILE TRAVELING ON THE FREEWAY ALMOST CAUSING AN ACCIDENT. HE WILL FILE A SEPARATE COMPLAINT. THERE IS A SYSTEMIC PROBLEM WITH THE Z06 AND THE 427 ENGINE SO I HAD MY HEADS CHECKED AS A PREVENTATIVE MEASURE AND THEY WERE FAR ENOUGH OUT OF SPEC THAT SELF DESTRU",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "24 reports (16%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AIR BAG MALFUNCTION LIGHT TURNS ON INTERMITTENTLY WHEN CAR GOES OVER A BUMP, OR DURING QUICK STOP, OR SHARP TURN. THIS LIGHT INDICATES THAT THE AIR BAGS WILL NOT DEPLOY. POSSIBLY RELATED TO THE WIRING HARNESS UNDERNEATH THE SEATS.  *TR    SINCE THE LIGHT COMES ON DURING HARD STEE",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "15 reports (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET CORVETTE. THE CONTACT STATED THAT WHILE DRIVING 65 MPH, THE HEADLIGHTS SHUT OFF WITHOUT MANUAL FORCE, CAUSING THE CONTACT TO HAVE TO USE THE FOG LIGHTS. THE VEHICLE WAS NOT REPAIRED AND THE MANUFACTURER WAS NOTIFIED. THE VIN WAS NOT AVAILABLE",
+        "pct": 6,
+        "title": "Exterior Lighting",
+        "blurb": "9 reports (6%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 C6 CHEVROLET CORVETTE COUPE 1. MY WIFE & I GOT INTO ACR TO BACK OUT OF GARAGE. THE BATTERY FAILED WHEN I PRESSED IGNITION BUTTON. WE WERE LOCKED IN CAR WHICH HAS NO MANUAL DOOR HANDLES.  2. WE ESCAPED VEHICLE BY REMOVING ROOF PANEL AND CLIMBING OUT OF ROOF.   3. CAR TOWED TO",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "8 reports (5%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-07-19T23:48:32.673Z",
+  "total": 396,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 96,
+      "crash": 20,
+      "fire": 0,
+      "injuries": 21,
+      "deaths": 0,
+      "sample": "2010 HONDA CIVIC - ROLL OVER ACCIDENT. CAR TOTALED. PASSENGERS INJURED. AIRBAGS DID NOT DEPLOY.  SPEED AT TIME OF INCIDENT WAS 70 MPH (APPROX). CAR LEFT FREEWAY AND ROLLED ON FRONT DRIVER CORNER AND SIDE-OVER-SIDE. FRONT PASSENGER CORNER FLATTENED. PASSENGER SUFFERED NECK INJURY(",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 89,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT LEASED A 2010 HONDA CIVIC LX. THE CONTACT STATED THAT WHEN HE DEPRESSED THE BRAKE PEDAL, THE VEHICLE SURGED FORWARD AND ACCELERATED. THE FAILURE OCCURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER THREE TIMES BUT THE DEALER WAS UNABLE TO FIX THE ",
+      "pct": 22
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 43,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "GOOD AFTERNOON, MY NAME IS [XXX]AND MY HUSBAND AND I LEASED  A 2010 HONDA CIVIC IN FEBRUARY 2010 THROUGH RANDY KUEHL HONDA HERE  IN CEDAR RAPIDS. STARTING IN APRIL 2010, WE HAVE NOTICIED PROBLEMS WITH  THE BODY/METAL/PAINT WITH THE CAR. WE FEEL OUR 2010 HONDA CIVIC IS NOT SAFE  T",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY 2010 HONDA CIVIC, THE DRIVER'S SIDE SUN VISOR BROKE, FALLING INTO THE FIELD OF VIEW FOR THE DRIVER.  THE VISOR FAILED TO REMAIN IN THE RETRACTED (UP) POSITION, AND WOULD FALL BACK INTO THE DRIVER'S FIELD OF VIEW, CREATING A DANGEROUS SITUATION BY RESTRICTING THE ",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 23,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE WEIRDEST ACCIDENT I HAD JANUARY 8TH, 2012, AROUND 4:45 PM WITH MY HONDA CIVIC, I CONSIDER IT A SAFETY ISSUE THAT WAS ADDRESSED TO HONDA DEALER AND AMERICAN HONDA. IT IS WHEN I WAS TURNING TO THE RIGHT, OUT FROM THE PARKING LOT OF A MEGA-STORE, ONE OF THE KEYS IN MY KEY CHAIN ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Civic owners report most",
+    "summary": "Across 396 owner complaints to NHTSA, the most reported area is Air Bags (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 96,
+        "crash": 20,
+        "fire": 0,
+        "injuries": 21,
+        "deaths": 0,
+        "sample": "2010 HONDA CIVIC - ROLL OVER ACCIDENT. CAR TOTALED. PASSENGERS INJURED. AIRBAGS DID NOT DEPLOY.  SPEED AT TIME OF INCIDENT WAS 70 MPH (APPROX). CAR LEFT FREEWAY AND ROLLED ON FRONT DRIVER CORNER AND SIDE-OVER-SIDE. FRONT PASSENGER CORNER FLATTENED. PASSENGER SUFFERED NECK INJURY(",
+        "pct": 24,
+        "title": "Air Bags",
+        "blurb": "96 reports (24%) · 20 crash · 21 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 89,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT LEASED A 2010 HONDA CIVIC LX. THE CONTACT STATED THAT WHEN HE DEPRESSED THE BRAKE PEDAL, THE VEHICLE SURGED FORWARD AND ACCELERATED. THE FAILURE OCCURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER THREE TIMES BUT THE DEALER WAS UNABLE TO FIX THE ",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "89 reports (22%) · 4 crash · 8 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 43,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "GOOD AFTERNOON, MY NAME IS [XXX]AND MY HUSBAND AND I LEASED  A 2010 HONDA CIVIC IN FEBRUARY 2010 THROUGH RANDY KUEHL HONDA HERE  IN CEDAR RAPIDS. STARTING IN APRIL 2010, WE HAVE NOTICIED PROBLEMS WITH  THE BODY/METAL/PAINT WITH THE CAR. WE FEEL OUR 2010 HONDA CIVIC IS NOT SAFE  T",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "43 reports (11%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY 2010 HONDA CIVIC, THE DRIVER'S SIDE SUN VISOR BROKE, FALLING INTO THE FIELD OF VIEW FOR THE DRIVER.  THE VISOR FAILED TO REMAIN IN THE RETRACTED (UP) POSITION, AND WOULD FALL BACK INTO THE DRIVER'S FIELD OF VIEW, CREATING A DANGEROUS SITUATION BY RESTRICTING THE ",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "34 reports (9%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 23,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE WEIRDEST ACCIDENT I HAD JANUARY 8TH, 2012, AROUND 4:45 PM WITH MY HONDA CIVIC, I CONSIDER IT A SAFETY ISSUE THAT WAS ADDRESSED TO HONDA DEALER AND AMERICAN HONDA. IT IS WHEN I WAS TURNING TO THE RIGHT, OUT FROM THE PARKING LOT OF A MEGA-STORE, ONE OF THE KEYS IN MY KEY CHAIN ",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "23 reports (6%) · 3 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

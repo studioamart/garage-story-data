@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-07-19T23:56:09.717Z",
+  "total": 111,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 26,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAMARO LS . THE CONTACT STATED THAT WHILE IN REVERSE, THE VEHICLE STALLED. THE VEHICLE WAS RESTARTED AFTER THE FAILURE AND WAS TAKEN TO THE DEALER TWICE. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE VEHICLE WAS NOT REPAIRED. THE FA",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I PURCHASED MY 2012 CAMARO IN AUGUST OF 2012. IT WAS BRAND NEW, 0 MILEAGE WHEN I BOUGHT IT. SINCE I HAVE HAD IT, THERE HAVE BEEN NO ISSUES...UNTIL TODAY. I WOKE UP TO DISCOVER THAT MY ENTIRE CAR WAS ENGULFED IN FLAMES, ALSO SPREADING THE FIRE TO ANOTHER VEHICLE. BOTH VEHICLES ARE",
+      "pct": 23
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 22,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 3,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAMARO. THE CONTACT STATED THAT THE FRONT PASSENGER SIDE AIR BAG SENSOR WAS NOT RECOGNIZING THAT A PASSENGER WAS SEATED IN THAT SEAT. AS A RESULT, THE FRONT PASSENGER'S AIR BAG LIGHT WAS ILLUMINATED. THE CONTACT STATED THAT THE ONLY WAY THAT ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAMARO. THE CONTACT STATED THAT THE VEHICLE WOULD SHAKE ABNORMALLY AND THE RPMS INCREASED BETWEEN 1500 AND 2500. IN ADDITION, THE VEHICLE WOULD NOT ACCELERATE. THE VEHICLE WAS TAKEN TO THE DEALER SEVERAL TIMES FOR THE FAILURE WHERE A DIAGNOST",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONVERTIBLE TOP HAS BECOME INCREASINGLY SLOWER WHEN PUTTING IT UP AND DOWN. THERE ARE SIGNS ON THE TOP OF THE CAR WHERE IT LATCHES OF SOMETHING GRINDING. TOOK TO DEALER AND WAS ADVISED THAT THE TOP OPERATED AT NORMAL SPEED WHEN COMPARED TO A SIMILAR MODEL. CURRENTLY OPERATION",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Camaro owners report most",
+    "summary": "Across 111 owner complaints to NHTSA, the most reported area is Engine (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 26,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAMARO LS . THE CONTACT STATED THAT WHILE IN REVERSE, THE VEHICLE STALLED. THE VEHICLE WAS RESTARTED AFTER THE FAILURE AND WAS TAKEN TO THE DEALER TWICE. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE VEHICLE WAS NOT REPAIRED. THE FA",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "26 reports (23%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I PURCHASED MY 2012 CAMARO IN AUGUST OF 2012. IT WAS BRAND NEW, 0 MILEAGE WHEN I BOUGHT IT. SINCE I HAVE HAD IT, THERE HAVE BEEN NO ISSUES...UNTIL TODAY. I WOKE UP TO DISCOVER THAT MY ENTIRE CAR WAS ENGULFED IN FLAMES, ALSO SPREADING THE FIRE TO ANOTHER VEHICLE. BOTH VEHICLES ARE",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "25 reports (23%) · 2 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 22,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 3,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAMARO. THE CONTACT STATED THAT THE FRONT PASSENGER SIDE AIR BAG SENSOR WAS NOT RECOGNIZING THAT A PASSENGER WAS SEATED IN THAT SEAT. AS A RESULT, THE FRONT PASSENGER'S AIR BAG LIGHT WAS ILLUMINATED. THE CONTACT STATED THAT THE ONLY WAY THAT ",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "22 reports (20%) · 1 fire · 7 crash · 4 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 CHEVROLET CAMARO. THE CONTACT STATED THAT THE VEHICLE WOULD SHAKE ABNORMALLY AND THE RPMS INCREASED BETWEEN 1500 AND 2500. IN ADDITION, THE VEHICLE WOULD NOT ACCELERATE. THE VEHICLE WAS TAKEN TO THE DEALER SEVERAL TIMES FOR THE FAILURE WHERE A DIAGNOST",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "15 reports (14%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONVERTIBLE TOP HAS BECOME INCREASINGLY SLOWER WHEN PUTTING IT UP AND DOWN. THERE ARE SIGNS ON THE TOP OF THE CAR WHERE IT LATCHES OF SOMETHING GRINDING. TOOK TO DEALER AND WAS ADVISED THAT THE TOP OPERATED AT NORMAL SPEED WHEN COMPARED TO A SIMILAR MODEL. CURRENTLY OPERATION",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "11 reports (10%) · 2 fire · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/FIESTA#complaints",
+  "generatedAt": "2026-07-19T23:55:47.773Z",
+  "total": 729,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 366,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 13,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 FORD FIESTA. WHILE REVERSING OR ATTEMPTING TO STOP, THE CONTACT NOTICED A LOUD NOISE. THE VEHICLE WAS TAKEN TO A TRANSMISSION SPECIALIST WHO STATED THAT THE TRANSMISSIN NEEDED TO BE REPLACED. THE TRANSMISSION WAS REPLACED BY THE LOCAL DEALER BUT THE FAI",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 125,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "AT CROSSROADS FORD,PRINCE GEORGE,VIRGINIA: THIS 2011 FORD FIESTA...SERVICE ENGINE SOON LIGHT CAME ON..DEALERSHIP CHECKED CAR TSB(POWER TRAIN CENTRAL MODULE-FOR TRANSMISSION) ONLY RE-SET/RE-PROGRAMMED TRANSMISSION COMPUTER.(APRIL 25,2011.   ON NOVEMBER 4,2011...I TOOK VEHICLE BACK",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 107,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD FIESTA. THE CONTACT WAS DRIVING 55 MPH WHEN HE BEGAN TO SMELL GASOLINE FUMES. THE ODOR WAS SO OVERPOWERING THAT EVEN AFTER EXITING THE VEHICLE HE COULD STILL TASTE AND THE SMELL GASOLINE IN HIS HAIR AND CLOTHING.  THE FAILURE RECURRED NUMEROUS TIM",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 96,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2011 FORD FIESTA. ATTORNEY WRITES ON BEHALF OF CLIENTS IN REGARDS TO VEHICLE CATCHING FIRE WHILE DRIVING *TGW  THE DRIVER OF THE VEHICLE STATED HE WAS DRIVING WITH THE CRUISE CONTROL ACTIVATED, WHEN SUDDENLY THE VEHICLE BEGAN TO LOSE POWER AND THE HEATER STOPPED WORKING. THE DRIV",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 57,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 FORD FIESTA. WHILE DRIVING WITH THE CRUISE CONTROL SET AT 40 MPH, THE VEHICLE SUDDENLY ACCELERATED UP TO 60 MPH AND THE RPMS INCREASED TO OVER 500 RPMS. THE CONTACT SHUT THE CRUISE CONTROL OFF AND THE SPEED RESUMED ITS NORMAL STATE. THE VEHICLE WAS TAKE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Fiesta owners report most",
+    "summary": "Across 729 owner complaints to NHTSA, the most reported area is Power Train (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 366,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 13,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 FORD FIESTA. WHILE REVERSING OR ATTEMPTING TO STOP, THE CONTACT NOTICED A LOUD NOISE. THE VEHICLE WAS TAKEN TO A TRANSMISSION SPECIALIST WHO STATED THAT THE TRANSMISSIN NEEDED TO BE REPLACED. THE TRANSMISSION WAS REPLACED BY THE LOCAL DEALER BUT THE FAI",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "366 reports (50%) · 10 crash · 13 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 125,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "AT CROSSROADS FORD,PRINCE GEORGE,VIRGINIA: THIS 2011 FORD FIESTA...SERVICE ENGINE SOON LIGHT CAME ON..DEALERSHIP CHECKED CAR TSB(POWER TRAIN CENTRAL MODULE-FOR TRANSMISSION) ONLY RE-SET/RE-PROGRAMMED TRANSMISSION COMPUTER.(APRIL 25,2011.   ON NOVEMBER 4,2011...I TOOK VEHICLE BACK",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "125 reports (17%) · 1 fire · 4 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 107,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD FIESTA. THE CONTACT WAS DRIVING 55 MPH WHEN HE BEGAN TO SMELL GASOLINE FUMES. THE ODOR WAS SO OVERPOWERING THAT EVEN AFTER EXITING THE VEHICLE HE COULD STILL TASTE AND THE SMELL GASOLINE IN HIS HAIR AND CLOTHING.  THE FAILURE RECURRED NUMEROUS TIM",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "107 reports (15%) · 1 fire · 4 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 96,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2011 FORD FIESTA. ATTORNEY WRITES ON BEHALF OF CLIENTS IN REGARDS TO VEHICLE CATCHING FIRE WHILE DRIVING *TGW  THE DRIVER OF THE VEHICLE STATED HE WAS DRIVING WITH THE CRUISE CONTROL ACTIVATED, WHEN SUDDENLY THE VEHICLE BEGAN TO LOSE POWER AND THE HEATER STOPPED WORKING. THE DRIV",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "96 reports (13%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 57,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 FORD FIESTA. WHILE DRIVING WITH THE CRUISE CONTROL SET AT 40 MPH, THE VEHICLE SUDDENLY ACCELERATED UP TO 60 MPH AND THE RPMS INCREASED TO OVER 500 RPMS. THE CONTACT SHUT THE CRUISE CONTROL OFF AND THE SPEED RESUMED ITS NORMAL STATE. THE VEHICLE WAS TAKE",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "57 reports (8%) · 1 fire · 4 crash"
+      }
+    ]
+  }
+}

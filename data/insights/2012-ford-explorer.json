@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-07-19T23:57:00.044Z",
+  "total": 821,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 356,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I STOPPED AT A STOP SIGN AND TOOK A LEFT HAND TURN AS I PROCEEDED DOWN A HILL. MY STEERING WHEEL WOULDN'T TURN,LIKE THE WHEEL LOCKED UP, AND THE BRAKES WERE HARD TO PUSH, NOT SLOWING ME DOWN. THE EXPLORER WENT OFF OF THE ROAD STRIKING A CONCRETE POLE. IT DESTROYED THE ENTIRE RIGH",
+      "pct": 43
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 142,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON RT44 IN MA WHEN I NOTICED ONCOMING DRIVERS YELLING AT ME.  I THOUGHT I WAS DOING SOMETHING WRONG AND WHEN I CAME TO A STOP LIGHT, THE DRIVER IN FRONT OF ME GOT OUT OF HIS CAR AND YELLED THAT MY 2012 FORD EXPLORED HAD FLAMES COMING FROM THE BOTTOM OF THE VEHICLE. ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 79,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD EXPLORER. THE CONTACT WAS DRIVING 60 MPH WHEN BURNING FUMES WERE EMITTED INTO THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THAT UNDER HEAVY ACCELERATION, THE GILLS ALLOWED EXHAUST FUMES TO BE EMITTED INTO THE VEHICLE BUT THEY WER",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 63,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD EXPLORER. THE CONTACT STATED THAT HE WAS  ABLE TO  SHUT THE IGNITION OFF WITH THE ELECTRONIC START BUTTON WITHOUT PLACING THE VEHICLE IN PARK OR DEPRESSING THE BRAKES.  THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE WAS NOT TAKEN TO T",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 55,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING HOME FROM A MOVIE ON PACIFIC COAST HWY IN HUNTINGTON BEACH, CA AND ALL OF SUDDEN THE POWER STEERING ASSIST FAULT WARNING CAME ON, I HADN'T LOST COMPLETE FUNCTION OF THE STEERING BUT IT WAS ABOUT A HALF A MILE DOWN THE ROAD THAT IT GOT ALMOST IMPOSSIBLE TO STEER.  I ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Explorer owners report most",
+    "summary": "Across 821 owner complaints to NHTSA, the most reported area is Steering (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 356,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I STOPPED AT A STOP SIGN AND TOOK A LEFT HAND TURN AS I PROCEEDED DOWN A HILL. MY STEERING WHEEL WOULDN'T TURN,LIKE THE WHEEL LOCKED UP, AND THE BRAKES WERE HARD TO PUSH, NOT SLOWING ME DOWN. THE EXPLORER WENT OFF OF THE ROAD STRIKING A CONCRETE POLE. IT DESTROYED THE ENTIRE RIGH",
+        "pct": 43,
+        "title": "Steering",
+        "blurb": "356 reports (43%) · 1 fire · 6 crash · 5 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 142,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON RT44 IN MA WHEN I NOTICED ONCOMING DRIVERS YELLING AT ME.  I THOUGHT I WAS DOING SOMETHING WRONG AND WHEN I CAME TO A STOP LIGHT, THE DRIVER IN FRONT OF ME GOT OUT OF HIS CAR AND YELLED THAT MY 2012 FORD EXPLORED HAD FLAMES COMING FROM THE BOTTOM OF THE VEHICLE. ",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "142 reports (17%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 79,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD EXPLORER. THE CONTACT WAS DRIVING 60 MPH WHEN BURNING FUMES WERE EMITTED INTO THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THAT UNDER HEAVY ACCELERATION, THE GILLS ALLOWED EXHAUST FUMES TO BE EMITTED INTO THE VEHICLE BUT THEY WER",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "79 reports (10%) · 3 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 63,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD EXPLORER. THE CONTACT STATED THAT HE WAS  ABLE TO  SHUT THE IGNITION OFF WITH THE ELECTRONIC START BUTTON WITHOUT PLACING THE VEHICLE IN PARK OR DEPRESSING THE BRAKES.  THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE VEHICLE WAS NOT TAKEN TO T",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "63 reports (8%) · 3 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 55,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING HOME FROM A MOVIE ON PACIFIC COAST HWY IN HUNTINGTON BEACH, CA AND ALL OF SUDDEN THE POWER STEERING ASSIST FAULT WARNING CAME ON, I HADN'T LOST COMPLETE FUNCTION OF THE STEERING BUT IT WAS ABOUT A HALF A MILE DOWN THE ROAD THAT IT GOT ALMOST IMPOSSIBLE TO STEER.  I ",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "55 reports (7%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

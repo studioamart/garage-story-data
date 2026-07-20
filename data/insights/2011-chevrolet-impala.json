@@ -1,0 +1,128 @@
+{
+  "slug": "2011-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-07-19T23:54:52.801Z",
+  "total": 505,
+  "issues": [
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 132,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "ON 5/11/12, THE \"SERVICE STABILITRAK\" LIGHT CAME ON; THEN A NOTICE THAT THE ENGINE POWER WAS REDUCED CAME ON.   I CALLED THE DEALER FOR SERVICE AND HE SAID I COULD BRING IT IN ON 5/14.   I ASKED IF IT WAS DANGEROUS TO DRIVE IN THE MEANTIME AND HE SAID NO.    I WAS DRIVING ON 5/12",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 125,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I HAVE A CHEVY IMPALA, 2011, AND A MONTH OR SO AFTER BUYING IT THE \"SERVICE STABILITRAK\" LIGHT CAME ON. BEFORE I COULD GET IT INTO A SHOP, IT WENT OFF. IT CAME ON AGAIN YESTERDAY AND MY ENGINE POWER ALL BUT SHUT DOWN, I WAS TRYING TO GET THROUGH AN INTERSECTION AND THOUGHT I WOUL",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 95,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I OWN A 2011 CHEVY IMPALA AND FOR THE PAST COUPLE MONTHS ON 6 DIFFERENT OCCASIONS AS I AM DRIVING DOWN THE FREEWAY MY ENGINE POWER IS REDUCED AND \"SERVICE STABILITRAK\" LIGHT APPEARS. AS I HAVE RESEARCHED AND HAVE FOUND THAT THIS IS A COMMON AND VERY UNSAFE PROBLEM AMONG GM VEHICL",
+      "pct": 19
+    },
+    {
+      "component": "SEATS",
+      "count": 77,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET IMPALA. WHILE DRIVING THE VEHICLE AT ANY SPEED, THE CONTACT NOTICED THAT IT WAS DIFFICULT TO SEE THROUGH THE REAR WINDOW DUE TO THE REAR SEAT HEAD RESTS BLOCKING HER VIEW. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE  CONTACT WAS INFORMED THA",
+      "pct": 15
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 69,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY FIRST ISSUE WAS WITH THE CENTER HEAD RESTRAINT IN THE BACK WHICH TOTALLY BLOCKS VISION USING THE REAR VIEW MIRROR. I ASKED THE DEALER TO REMOVE IT AND I WAS TOLD THEY COULD NOT. BACKING UP IS IMPOSSIBLE EXCEPT WITH THE SIDE MIRRORS AND TRAFFIC IMMEDIATELY BEHIND IS BLOCKED WHE",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Chevrolet Impala owners report most",
+    "summary": "Across 505 owner complaints to NHTSA, the most reported area is Electronic Stability Control (Esc) (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 132,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "ON 5/11/12, THE \"SERVICE STABILITRAK\" LIGHT CAME ON; THEN A NOTICE THAT THE ENGINE POWER WAS REDUCED CAME ON.   I CALLED THE DEALER FOR SERVICE AND HE SAID I COULD BRING IT IN ON 5/14.   I ASKED IF IT WAS DANGEROUS TO DRIVE IN THE MEANTIME AND HE SAID NO.    I WAS DRIVING ON 5/12",
+        "pct": 26,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "132 reports (26%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 125,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I HAVE A CHEVY IMPALA, 2011, AND A MONTH OR SO AFTER BUYING IT THE \"SERVICE STABILITRAK\" LIGHT CAME ON. BEFORE I COULD GET IT INTO A SHOP, IT WENT OFF. IT CAME ON AGAIN YESTERDAY AND MY ENGINE POWER ALL BUT SHUT DOWN, I WAS TRYING TO GET THROUGH AN INTERSECTION AND THOUGHT I WOUL",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "125 reports (25%) · 2 fire · 3 crash · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 95,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I OWN A 2011 CHEVY IMPALA AND FOR THE PAST COUPLE MONTHS ON 6 DIFFERENT OCCASIONS AS I AM DRIVING DOWN THE FREEWAY MY ENGINE POWER IS REDUCED AND \"SERVICE STABILITRAK\" LIGHT APPEARS. AS I HAVE RESEARCHED AND HAVE FOUND THAT THIS IS A COMMON AND VERY UNSAFE PROBLEM AMONG GM VEHICL",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "95 reports (19%) · 4 crash · 5 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 77,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 CHEVROLET IMPALA. WHILE DRIVING THE VEHICLE AT ANY SPEED, THE CONTACT NOTICED THAT IT WAS DIFFICULT TO SEE THROUGH THE REAR WINDOW DUE TO THE REAR SEAT HEAD RESTS BLOCKING HER VIEW. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE  CONTACT WAS INFORMED THA",
+        "pct": 15,
+        "title": "Seats",
+        "blurb": "77 reports (15%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 69,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY FIRST ISSUE WAS WITH THE CENTER HEAD RESTRAINT IN THE BACK WHICH TOTALLY BLOCKS VISION USING THE REAR VIEW MIRROR. I ASKED THE DEALER TO REMOVE IT AND I WAS TOLD THEY COULD NOT. BACKING UP IS IMPOSSIBLE EXCEPT WITH THE SIDE MIRRORS AND TRAFFIC IMMEDIATELY BEHIND IS BLOCKED WHE",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "69 reports (14%) · 1 fire"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-07-19T23:52:31.357Z",
+  "total": 448,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 231,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LOUD THUMPING NOISE WHEN TURNING THE STEERING WHEEL.  SOUNDED LIKE SOMETHING FELL OUT OF THE FRONT END OF THE CAR.      CAR DEALERSHIP REPLACED RACK AND PINION AND BLED POWER STEERING AND SET TOE.  FOUND NOISE TRACED TO INTERNAL RACK FAILURE WHICH CAUSED CLUNK WHEN TURNED BACK AN",
+      "pct": 52
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 58,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN MY CRUISE IS ON AND I HAVE A STEEP INCLINE TO APPROACH, ONCE I AM DOWN THE INCLINE, THE VEHICLE SHIFTS FROM 6TH GEAR DOWN TO 4TH OR 5TH GEAR AND STAYS THERE.  MY DEALER HAS RUN DIAGNOSTICS ON THIS 4 TIMES NOW, AND STILL NO ANSWER.  I HAVE BULLETIN NUMBER #09-06-04-019  ISSUE",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 50,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET TRAVERSE. WHILE IDLING AT A TRAFFIC LIGHT, THE VEHICLE STALLED AND THE TRACTION CONTROL SERVICE INDICATOR ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 37,0",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 36,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING GOING APPROXIMATELY 55 MPH THE PARK ASSIST MESSAGE APPEARED ON THE DASHBOARD AND THEN THE CAR SUDDENLY LOST POWER. THE GAUGES WENT TO 0 AND THE RADIO AND AIR CONDITIONING WENT OFF. IT THEN SUDDENLY POPPED BACK ON AND 4 DIFFERENT WARNING LIGHTS CAME ON  THE DASH (",
+      "pct": 8
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 26,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET TRAVERSE. THE CONTACT APPLIED THE BRAKES WHILE DRIVING 35 MPH AND THE VEHICLE CRASH INTO THE REAR END OF THE VEHICLE IN FRONT. THE AIR BAG DID NOT DEPLOY. THE CONTACT SUFFERED A FRACTURED STERNUM BY HITTING THE STEERING WHEEL. THE CONTACT STAT",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Traverse owners report most",
+    "summary": "Across 448 owner complaints to NHTSA, the most reported area is Steering (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 231,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LOUD THUMPING NOISE WHEN TURNING THE STEERING WHEEL.  SOUNDED LIKE SOMETHING FELL OUT OF THE FRONT END OF THE CAR.      CAR DEALERSHIP REPLACED RACK AND PINION AND BLED POWER STEERING AND SET TOE.  FOUND NOISE TRACED TO INTERNAL RACK FAILURE WHICH CAUSED CLUNK WHEN TURNED BACK AN",
+        "pct": 52,
+        "title": "Steering",
+        "blurb": "231 reports (52%) · 5 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 58,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN MY CRUISE IS ON AND I HAVE A STEEP INCLINE TO APPROACH, ONCE I AM DOWN THE INCLINE, THE VEHICLE SHIFTS FROM 6TH GEAR DOWN TO 4TH OR 5TH GEAR AND STAYS THERE.  MY DEALER HAS RUN DIAGNOSTICS ON THIS 4 TIMES NOW, AND STILL NO ANSWER.  I HAVE BULLETIN NUMBER #09-06-04-019  ISSUE",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "58 reports (13%) · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 50,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET TRAVERSE. WHILE IDLING AT A TRAFFIC LIGHT, THE VEHICLE STALLED AND THE TRACTION CONTROL SERVICE INDICATOR ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 37,0",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "50 reports (11%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 36,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING GOING APPROXIMATELY 55 MPH THE PARK ASSIST MESSAGE APPEARED ON THE DASHBOARD AND THEN THE CAR SUDDENLY LOST POWER. THE GAUGES WENT TO 0 AND THE RADIO AND AIR CONDITIONING WENT OFF. IT THEN SUDDENLY POPPED BACK ON AND 4 DIFFERENT WARNING LIGHTS CAME ON  THE DASH (",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "36 reports (8%) · 1 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 26,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET TRAVERSE. THE CONTACT APPLIED THE BRAKES WHILE DRIVING 35 MPH AND THE VEHICLE CRASH INTO THE REAR END OF THE VEHICLE IN FRONT. THE AIR BAG DID NOT DEPLOY. THE CONTACT SUFFERED A FRACTURED STERNUM BY HITTING THE STEERING WHEEL. THE CONTACT STAT",
+        "pct": 6,
+        "title": "Air Bags",
+        "blurb": "26 reports (6%) · 1 fire · 6 crash · 10 injured"
+      }
+    ]
+  }
+}

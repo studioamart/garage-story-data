@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-07-19T23:53:18.301Z",
+  "total": 84,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 44,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2010 CORVETTE GRAND SPORT WITH 46000 MILES THAT HAS STRONG GAS FUMES COMING FROM THE DRIVERS SIDE BY THE GAS TANK WHILE PARKED IN THE GARAGE. EVEN AFTER SITTING FOR 2 DAYS THE GAS SMELL DIDN'T GO AWAY. I TOOK THE CAR INTO CHEVROLET AND THEY REPLACED THE GAS TANK AND THE ",
+      "pct": 52
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I HAVE A 2009 CORVETTE C6 WITH 9500 MILES ON IT. THE AIRBAG WARNING COMES ON AND STAYS ON. DEALER TURNED OFF THE WARNING NOW AND SAID I HAVE DEFECTIVE DRIVERS SIDE AIR BAGS. HE WAS GOING TO ORDER NEW ONES AND I HAVEN'T HEARD BACK FOR A MONTH NOW. I AM DRIVING A NEW CAR WITHOUT AI",
+      "pct": 17
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CORVETTE. THE CONTACT STATED THAT FUEL FUMES EMITTED IN AND AROUND THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE FUEL PUMP WAS LEAKING. AS A RESULT, THE FUEL PUMP, SENSOR KIT, AND FUEL PIPE NEEDED TO",
+      "pct": 6
+    },
+    {
+      "component": "GASOLINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CORVETTE. THE CONTACT STATED THAT FUEL FUMES EMITTED IN AND AROUND THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE FUEL PUMP WAS LEAKING. AS A RESULT, THE FUEL PUMP, SENSOR KIT, AND FUEL PIPE NEEDED TO",
+      "pct": 6
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BECAME TRAPPED INSIDE THIS LATE MODEL CORVETTE.  I OPENED, ENTERED, SAT IN AND SIMPLY CLOSED THE UNLOCKED DRIVERS DOOR OF THIS CAR LOCATED IN THE FOR SALE SECTION OF THE CARMAX STORE IN WAUKESHA WI.  THE DOORS LOCKED APPROXIMATELY 1 MINUTE AFTER ENTRY.  ALL ATTEMPTS TO UNLOCK V",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Corvette owners report most",
+    "summary": "Across 84 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 44,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2010 CORVETTE GRAND SPORT WITH 46000 MILES THAT HAS STRONG GAS FUMES COMING FROM THE DRIVERS SIDE BY THE GAS TANK WHILE PARKED IN THE GARAGE. EVEN AFTER SITTING FOR 2 DAYS THE GAS SMELL DIDN'T GO AWAY. I TOOK THE CAR INTO CHEVROLET AND THEY REPLACED THE GAS TANK AND THE ",
+        "pct": 52,
+        "title": "Fuel/Propulsion System",
+        "blurb": "44 reports (52%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I HAVE A 2009 CORVETTE C6 WITH 9500 MILES ON IT. THE AIRBAG WARNING COMES ON AND STAYS ON. DEALER TURNED OFF THE WARNING NOW AND SAID I HAVE DEFECTIVE DRIVERS SIDE AIR BAGS. HE WAS GOING TO ORDER NEW ONES AND I HAVEN'T HEARD BACK FOR A MONTH NOW. I AM DRIVING A NEW CAR WITHOUT AI",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "14 reports (17%) · 1 crash · 4 injured"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CORVETTE. THE CONTACT STATED THAT FUEL FUMES EMITTED IN AND AROUND THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE FUEL PUMP WAS LEAKING. AS A RESULT, THE FUEL PUMP, SENSOR KIT, AND FUEL PIPE NEEDED TO",
+        "pct": 6,
+        "title": "Fuel System",
+        "blurb": "5 reports (6%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET CORVETTE. THE CONTACT STATED THAT FUEL FUMES EMITTED IN AND AROUND THE VEHICLE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE FUEL PUMP WAS LEAKING. AS A RESULT, THE FUEL PUMP, SENSOR KIT, AND FUEL PIPE NEEDED TO",
+        "pct": 6,
+        "title": "Gasoline",
+        "blurb": "5 reports (6%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BECAME TRAPPED INSIDE THIS LATE MODEL CORVETTE.  I OPENED, ENTERED, SAT IN AND SIMPLY CLOSED THE UNLOCKED DRIVERS DOOR OF THIS CAR LOCATED IN THE FOR SALE SECTION OF THE CARMAX STORE IN WAUKESHA WI.  THE DOORS LOCKED APPROXIMATELY 1 MINUTE AFTER ENTRY.  ALL ATTEMPTS TO UNLOCK V",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "5 reports (6%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-mustang",
+  "make": "Ford",
+  "model": "Mustang",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/MUSTANG#complaints",
+  "generatedAt": "2026-07-19T23:56:01.313Z",
+  "total": 466,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 200,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE AMBIENT TEMPERATURE IS COLD (BELOW 35 DEGREES) 1ST, 2ND AND 3RD GEARS ARE EXTREMELT DIFFICULT TO ENGAGE. I HAVE A MANUAL TRANSMISSION VEHICLE AND HAVE ALMOST BEEN REAR ENDED TWICE WHEN TRYING TO ENGAGE 2ND GEAR IN MY NEW 2011 FORD MUSTANG. I HAVE VISITED KEITH HAWTHORNE ",
+      "pct": 43
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 125,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 14,
+      "deaths": 0,
+      "sample": "2011 FORD MUSTANG V-6   AFTER OWNING FOR ABOUT 2 MONTHS, WE NOTICED THAT ON OCCASION THE \"PASS AIR BAG' LIGHT IN THE OVERHEAD WOULD FLICKER ON INDICATION THAT THE PASSENGER AIRBAG SYSTEM IS DISABLED. AFTER A FEW WEEKS, THE LIGHT BECAME MORE CONSISTENT TO THE POINT THAT IT WOULD R",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 48,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WAS TRAVELING ON A FREEWAY WHEN A THE CARE LOST POWER AND BEGAN SLOWING DOWN. A LITTLE WRENCH ICON APPEARED. I THERE WAS NO PLACE TO PULL OVER SO I TURNED ON FLASHERS AND RODE ON THE HIGHWAY UNTIL THE CARE STOPPED. TRAFFIC BEHIND ME SWERVED TO AVOID MY CAR. I RESTARTED THE VEHICL",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 39,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD MUSTANG. THE CONTACT STATED THAT THE VEHICLE STALLED NUMEROUS TIMES WITHOUT WARNING. THE WRENCH WARNING LIGHT ILLUMINATED AFTER THE FAILURE OCCURRED.  THE VEHICLE WAS TAKEN THE TO THE DEALER SEVERAL TIMES FOR THE FAILURE WHO LOCATED THE FAILURE AT",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 25,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 FORD MUSTANG. THE CONTACT STATED THAT WHENEVER THE BRAKES WERE ENGAGED, THE STEERING WHEEL WOULD DIRECT THE VEHICLE SHARPLY TO THE LEFT OR RIGHT. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHERE THE CONTACT WAS INFORMED THAT THE TIRES WERE STICKING ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Mustang owners report most",
+    "summary": "Across 466 owner complaints to NHTSA, the most reported area is Power Train (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 200,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE AMBIENT TEMPERATURE IS COLD (BELOW 35 DEGREES) 1ST, 2ND AND 3RD GEARS ARE EXTREMELT DIFFICULT TO ENGAGE. I HAVE A MANUAL TRANSMISSION VEHICLE AND HAVE ALMOST BEEN REAR ENDED TWICE WHEN TRYING TO ENGAGE 2ND GEAR IN MY NEW 2011 FORD MUSTANG. I HAVE VISITED KEITH HAWTHORNE ",
+        "pct": 43,
+        "title": "Power Train",
+        "blurb": "200 reports (43%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 125,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 14,
+        "deaths": 0,
+        "sample": "2011 FORD MUSTANG V-6   AFTER OWNING FOR ABOUT 2 MONTHS, WE NOTICED THAT ON OCCASION THE \"PASS AIR BAG' LIGHT IN THE OVERHEAD WOULD FLICKER ON INDICATION THAT THE PASSENGER AIRBAG SYSTEM IS DISABLED. AFTER A FEW WEEKS, THE LIGHT BECAME MORE CONSISTENT TO THE POINT THAT IT WOULD R",
+        "pct": 27,
+        "title": "Air Bags",
+        "blurb": "125 reports (27%) · 9 crash · 14 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 48,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WAS TRAVELING ON A FREEWAY WHEN A THE CARE LOST POWER AND BEGAN SLOWING DOWN. A LITTLE WRENCH ICON APPEARED. I THERE WAS NO PLACE TO PULL OVER SO I TURNED ON FLASHERS AND RODE ON THE HIGHWAY UNTIL THE CARE STOPPED. TRAFFIC BEHIND ME SWERVED TO AVOID MY CAR. I RESTARTED THE VEHICL",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "48 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 39,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD MUSTANG. THE CONTACT STATED THAT THE VEHICLE STALLED NUMEROUS TIMES WITHOUT WARNING. THE WRENCH WARNING LIGHT ILLUMINATED AFTER THE FAILURE OCCURRED.  THE VEHICLE WAS TAKEN THE TO THE DEALER SEVERAL TIMES FOR THE FAILURE WHO LOCATED THE FAILURE AT",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "39 reports (8%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 25,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 FORD MUSTANG. THE CONTACT STATED THAT WHENEVER THE BRAKES WERE ENGAGED, THE STEERING WHEEL WOULD DIRECT THE VEHICLE SHARPLY TO THE LEFT OR RIGHT. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHERE THE CONTACT WAS INFORMED THAT THE TIRES WERE STICKING ",
+        "pct": 5,
+        "title": "Steering",
+        "blurb": "25 reports (5%) · 3 crash · 1 injured"
+      }
+    ]
+  }
+}

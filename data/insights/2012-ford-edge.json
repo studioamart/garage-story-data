@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/EDGE#complaints",
+  "generatedAt": "2026-07-19T23:56:53.258Z",
+  "total": 1129,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 460,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE EQUIPPED WITH MYFORD TOUCH SYSTEM.  SYSTEM CONTROLS HEATING/DEFROSTING SYSTEM.  THIS SYSTEM HAS FAILED TO OPERATE PROPERLY ON MULTIPLE OCCASIONS.  FORD MOTOR COMPANY IS AWARE OF ISSUE AND HAS NOT CORRECTED IT.  FORD SHOULD NOT BE ALLOWED TO MARKET VEHICLES THAT DO NOT HAV",
+      "pct": 41
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 273,
+      "crash": 15,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "DRIVER:  83 YEAR OLD WOMAN...  NEW AUTO:   FORD EDGE 2012,  NO INJURIES, VEHICLE DAMAGE APPROX $2000.00 NO PROPERTY DAMAGE.....  PROBLEM: LADY STEPPED ON ACCELERATOR RATHER THAN BRAKE....  REASON:  THE BRAKE PEDAL AT REST IS HIGHER THAN THE ACCELERATOR PEDAL AT REST. THE DRIVER I",
+      "pct": 24
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 168,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "DRIVER:  83 YEAR OLD WOMAN...  NEW AUTO:   FORD EDGE 2012,  NO INJURIES, VEHICLE DAMAGE APPROX $2000.00 NO PROPERTY DAMAGE.....  PROBLEM: LADY STEPPED ON ACCELERATOR RATHER THAN BRAKE....  REASON:  THE BRAKE PEDAL AT REST IS HIGHER THAN THE ACCELERATOR PEDAL AT REST. THE DRIVER I",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 84,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN IN DRIVE, AND DOOR CLOSED, DOOR AJAR INDICATOR CONSTANTLY DINGS.  WHEN CONTACTING DEALERSHIP, THEY ACKNOWLEDGED ITS A KNOWN ISSUE FOR THIS VEHICLE, YET FORD DOESN'T DEEM IT A SAFETY ISSUE, THEREFORE WON'T RECALL IT.  IT IS A DISTRACTION, AND DOOR IS UNABLE TO BE LOCKED WHEN ",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 59,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER SEEING THE RECENT ISSUES W/ THE FORD V6 ECOBOOST ENGINE, I THOUGHT IT WISE TO TELL ABOUT THE 2.0L ECOBOOST ENGINE IN MY EDGE. AFTER OWNING THE VEHICLE LESS THAN A YEAR, I WAS DRIVING THRU A NEIGHBORHOOD AT A VERY SLOW PACE, I STARTED TO MAKE A RIGHT TURN & THE CAR SIMPLY DI",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Edge owners report most",
+    "summary": "Across 1,129 owner complaints to NHTSA, the most reported area is Electrical System (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 460,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE EQUIPPED WITH MYFORD TOUCH SYSTEM.  SYSTEM CONTROLS HEATING/DEFROSTING SYSTEM.  THIS SYSTEM HAS FAILED TO OPERATE PROPERLY ON MULTIPLE OCCASIONS.  FORD MOTOR COMPANY IS AWARE OF ISSUE AND HAS NOT CORRECTED IT.  FORD SHOULD NOT BE ALLOWED TO MARKET VEHICLES THAT DO NOT HAV",
+        "pct": 41,
+        "title": "Electrical System",
+        "blurb": "460 reports (41%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 273,
+        "crash": 15,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "DRIVER:  83 YEAR OLD WOMAN...  NEW AUTO:   FORD EDGE 2012,  NO INJURIES, VEHICLE DAMAGE APPROX $2000.00 NO PROPERTY DAMAGE.....  PROBLEM: LADY STEPPED ON ACCELERATOR RATHER THAN BRAKE....  REASON:  THE BRAKE PEDAL AT REST IS HIGHER THAN THE ACCELERATOR PEDAL AT REST. THE DRIVER I",
+        "pct": 24,
+        "title": "Service Brakes",
+        "blurb": "273 reports (24%) · 15 crash · 6 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 168,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "DRIVER:  83 YEAR OLD WOMAN...  NEW AUTO:   FORD EDGE 2012,  NO INJURIES, VEHICLE DAMAGE APPROX $2000.00 NO PROPERTY DAMAGE.....  PROBLEM: LADY STEPPED ON ACCELERATOR RATHER THAN BRAKE....  REASON:  THE BRAKE PEDAL AT REST IS HIGHER THAN THE ACCELERATOR PEDAL AT REST. THE DRIVER I",
+        "pct": 15,
+        "title": "Structure",
+        "blurb": "168 reports (15%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 84,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN IN DRIVE, AND DOOR CLOSED, DOOR AJAR INDICATOR CONSTANTLY DINGS.  WHEN CONTACTING DEALERSHIP, THEY ACKNOWLEDGED ITS A KNOWN ISSUE FOR THIS VEHICLE, YET FORD DOESN'T DEEM IT A SAFETY ISSUE, THEREFORE WON'T RECALL IT.  IT IS A DISTRACTION, AND DOOR IS UNABLE TO BE LOCKED WHEN ",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "84 reports (7%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 59,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER SEEING THE RECENT ISSUES W/ THE FORD V6 ECOBOOST ENGINE, I THOUGHT IT WISE TO TELL ABOUT THE 2.0L ECOBOOST ENGINE IN MY EDGE. AFTER OWNING THE VEHICLE LESS THAN A YEAR, I WAS DRIVING THRU A NEIGHBORHOOD AT A VERY SLOW PACE, I STARTED TO MAKE A RIGHT TURN & THE CAR SIMPLY DI",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "59 reports (5%) · 1 fire"
+      }
+    ]
+  }
+}

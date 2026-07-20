@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-avalanche",
+  "make": "Chevrolet",
+  "model": "Avalanche",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/AVALANCHE#complaints",
+  "generatedAt": "2026-07-19T23:52:32.368Z",
+  "total": 96,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 50,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE DASH ON MY 2009 CHEVROLET AVALANCHE HAS CRACKED IN TWO PLACES. ONE OVER THE GAUGE CLUSTER AND ONE CRACK OVER THE PASSENGER AIR BAG. THIS PROBLEM HAS AFFECTED MORE 2007 + SILVERADOS, TAHOES, AVALANCHES , ESCALADES AND MORE. IF THE PASSENGER AIR BAG DEPLOYS WITH THE BROKEN DASH",
+      "pct": 52
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE DASH ON MY 2009 CHEVROLET AVALANCHE HAS CRACKED IN TWO PLACES. ONE OVER THE GAUGE CLUSTER AND ONE CRACK OVER THE PASSENGER AIR BAG. THIS PROBLEM HAS AFFECTED MORE 2007 + SILVERADOS, TAHOES, AVALANCHES , ESCALADES AND MORE. IF THE PASSENGER AIR BAG DEPLOYS WITH THE BROKEN DASH",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 75 MPH THE VEHICLE STALLED, THEN AUTOMATICALLY RESTARTED INDEPENDENTLY. ALL OF THE WARNING LIGHTS IN THE VEHICLE ILLUMINATED AFTER THE FAILURE AND THE DOOR LOCKS BEGAN ERRATICALLY",
+      "pct": 6
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVALANCHE. WHILE THE CONTACT WAS STOPPED WITH THE VEHICLE IN DRIVE THE VEHICLE  SUDDENLY ACCELERATED WITHOUT WARNING CAUSING THE CONTACT TO CRASH INTO A GARAGE DOOR. THE ACCELERATION COULD ONLY BE STOPPED BY PLACING THE VEHICLE INTO THE PARK ",
+      "pct": 4
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "09 CHEVY AVALANCHE  THE DRIVE SHAFT  OR BALL JOINT WAS UNDERSIZED BY 5/1000 TO MAKE THE 6 SPEED TRANSMISSION SHIFT CORRECTLY/THUS CAUSING SLACK WHICH MAKES NOISES FROM  A JAR TO SOUNDING LIKE YOU WERE HIT IN THE REAR. 3 TIMES TO DEALER--3/30/10 AT3,788 MI, 10/28/10 W/8,185 MI TO3",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Avalanche owners report most",
+    "summary": "Across 96 owner complaints to NHTSA, the most reported area is Air Bags (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 50,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE DASH ON MY 2009 CHEVROLET AVALANCHE HAS CRACKED IN TWO PLACES. ONE OVER THE GAUGE CLUSTER AND ONE CRACK OVER THE PASSENGER AIR BAG. THIS PROBLEM HAS AFFECTED MORE 2007 + SILVERADOS, TAHOES, AVALANCHES , ESCALADES AND MORE. IF THE PASSENGER AIR BAG DEPLOYS WITH THE BROKEN DASH",
+        "pct": 52,
+        "title": "Air Bags",
+        "blurb": "50 reports (52%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE DASH ON MY 2009 CHEVROLET AVALANCHE HAS CRACKED IN TWO PLACES. ONE OVER THE GAUGE CLUSTER AND ONE CRACK OVER THE PASSENGER AIR BAG. THIS PROBLEM HAS AFFECTED MORE 2007 + SILVERADOS, TAHOES, AVALANCHES , ESCALADES AND MORE. IF THE PASSENGER AIR BAG DEPLOYS WITH THE BROKEN DASH",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "11 reports (11%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVALANCHE. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 75 MPH THE VEHICLE STALLED, THEN AUTOMATICALLY RESTARTED INDEPENDENTLY. ALL OF THE WARNING LIGHTS IN THE VEHICLE ILLUMINATED AFTER THE FAILURE AND THE DOOR LOCKS BEGAN ERRATICALLY",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "6 reports (6%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVALANCHE. WHILE THE CONTACT WAS STOPPED WITH THE VEHICLE IN DRIVE THE VEHICLE  SUDDENLY ACCELERATED WITHOUT WARNING CAUSING THE CONTACT TO CRASH INTO A GARAGE DOOR. THE ACCELERATION COULD ONLY BE STOPPED BY PLACING THE VEHICLE INTO THE PARK ",
+        "pct": 4,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (4%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "09 CHEVY AVALANCHE  THE DRIVE SHAFT  OR BALL JOINT WAS UNDERSIZED BY 5/1000 TO MAKE THE 6 SPEED TRANSMISSION SHIFT CORRECTLY/THUS CAUSING SLACK WHICH MAKES NOISES FROM  A JAR TO SOUNDING LIKE YOU WERE HIT IN THE REAR. 3 TIMES TO DEALER--3/30/10 AT3,788 MI, 10/28/10 W/8,185 MI TO3",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "4 reports (4%) · 1 crash"
+      }
+    ]
+  }
+}

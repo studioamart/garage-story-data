@@ -1,0 +1,128 @@
+{
+  "slug": "2010-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-07-19T23:48:40.095Z",
+  "total": 119,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 57,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 2,
+      "sample": "WHILE PARKING THE 2010 HONDA INSIGHT IN MY GARAGE,  I HAVE TO VEER TO THE RIGHT AND THEN BACK THE CAR TO GET INTO THE GARAGE. AS I WAS VEERING TO THE RIGHT AND CLOSE TO THE HOUSE THE INSIGHT SUDDENLY ACCELERATED,  AND WHEN I PUT THE BRAKES THEY DID NOT RESPOND ,INSTEAD THEY LOCKE",
+      "pct": 48
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 17,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 1,
+      "sample": "WHILE APPROACHING A RED LIGHT AT A LOW SPEED OF 35 MPH OR LESS, I BEGAN TO APPLY THE BRAKES WHICH DID NOT ENGAGE.  I HIT THE DRIVER WHO WAS STOPPED IN FRONT OF ME.  THE IMPACT CAUSED FRONT END DAMAGE AND THE AIR BAG TO DEPLOY AND REQUIRED A TRIP TO THE ER   I AM SEEKING ASSISTANC",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA INSIGHT.  THE CONTACT WAS DRIVING APPROXIMATELY 55 MPH WHEN HE BEGAN TO HEAR AN UNUSUAL SLAPPING NOISE FROM THE ROOF AND COULD SEE SOMETHING SLAPPING AGAINST THE REAR WINDOW. THE VEHICLE WAS PULLED OVER AND THE CONTACT FOUND THAT HALF OF THE WEAT",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 8,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IN JANUARY 2012, MY CAR THE 2010 INSIGHT, \"UNPREDICTABLY ACCELERATED, THEN AT THE SAME TIME, THE BRAKES LOCKED\". THIS CAUSED THE CAR TO MOVE FORWARD AT AN ACCELERATED RATE WITH NO DRIVER CONTROL.  IT HAPPENED TWICE IN A SHORT TIME SPAN BUT DID NOT HAPPEN IN THE PREVIOUS 1 1/2 YRS",
+      "pct": 7
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 HONDA INSIGHT. THE CONTACT STATED THAT BOTH TAIL LIGHTS FAILED. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS. THE TECHNICIAN STATED THE TAIL LIGHT ASSEMBLY WOULD HAVE TO BE REPLACED. THE DRIVER'S SIDE TAIL LIGHT ASSEMBLY WAS REPLACED BUT NOT THE P",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Honda Insight owners report most",
+    "summary": "Across 119 owner complaints to NHTSA, the most reported area is Air Bags (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 57,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 2,
+        "sample": "WHILE PARKING THE 2010 HONDA INSIGHT IN MY GARAGE,  I HAVE TO VEER TO THE RIGHT AND THEN BACK THE CAR TO GET INTO THE GARAGE. AS I WAS VEERING TO THE RIGHT AND CLOSE TO THE HOUSE THE INSIGHT SUDDENLY ACCELERATED,  AND WHEN I PUT THE BRAKES THEY DID NOT RESPOND ,INSTEAD THEY LOCKE",
+        "pct": 48,
+        "title": "Air Bags",
+        "blurb": "57 reports (48%) · 11 crash · 9 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 17,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 1,
+        "sample": "WHILE APPROACHING A RED LIGHT AT A LOW SPEED OF 35 MPH OR LESS, I BEGAN TO APPLY THE BRAKES WHICH DID NOT ENGAGE.  I HIT THE DRIVER WHO WAS STOPPED IN FRONT OF ME.  THE IMPACT CAUSED FRONT END DAMAGE AND THE AIR BAG TO DEPLOY AND REQUIRED A TRIP TO THE ER   I AM SEEKING ASSISTANC",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "17 reports (14%) · 11 crash · 4 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA INSIGHT.  THE CONTACT WAS DRIVING APPROXIMATELY 55 MPH WHEN HE BEGAN TO HEAR AN UNUSUAL SLAPPING NOISE FROM THE ROOF AND COULD SEE SOMETHING SLAPPING AGAINST THE REAR WINDOW. THE VEHICLE WAS PULLED OVER AND THE CONTACT FOUND THAT HALF OF THE WEAT",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "15 reports (13%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 8,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IN JANUARY 2012, MY CAR THE 2010 INSIGHT, \"UNPREDICTABLY ACCELERATED, THEN AT THE SAME TIME, THE BRAKES LOCKED\". THIS CAUSED THE CAR TO MOVE FORWARD AT AN ACCELERATED RATE WITH NO DRIVER CONTROL.  IT HAPPENED TWICE IN A SHORT TIME SPAN BUT DID NOT HAPPEN IN THE PREVIOUS 1 1/2 YRS",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "8 reports (7%) · 5 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 HONDA INSIGHT. THE CONTACT STATED THAT BOTH TAIL LIGHTS FAILED. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSIS. THE TECHNICIAN STATED THE TAIL LIGHT ASSEMBLY WOULD HAVE TO BE REPLACED. THE DRIVER'S SIDE TAIL LIGHT ASSEMBLY WAS REPLACED BUT NOT THE P",
+        "pct": 6,
+        "title": "Exterior Lighting",
+        "blurb": "7 reports (6%)"
+      }
+    ]
+  }
+}

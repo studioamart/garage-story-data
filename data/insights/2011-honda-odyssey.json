@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-07-19T23:48:57.290Z",
+  "total": 232,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 65,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE DASH INDICATED \"LOW BATTERY\" ON A NEW MINIVAN 6 WEEKS OLD. THE BATTERY COULD HAVE GONE DEAD AT ANY TIME. A LETTER FROM HONDA TO DEALERS INDICATED THEY HAD MANY TECH LINE CONTACTS REGARDING THIS PROBLEM. THIS LETTER TOLD THE SERVICE DEPARTMENT THAT THE CUSTOMER SHOULD DRIVE FO",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 45,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2009 HONDA ODYSSEY EX HAS 30,000 MILES AND HAS ONGOING BRAKE ISSUES.  THE BRAKES ARE SOFT AND GOES TO THE FLOOR AND THE VAN DOES NOT STOP UNLESS I PUMP THE BRAKES.   THE BRAKES ALSO MAKE A LOUD GRINDING SOUND WHEN TRYING TO STOP QUICKLY AND WHEN GOING DOWNHILL:(FREEWAY OFF RAM",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY HONDA ODYSSEY HAS \"STALLED\" ON NUMEROUS OCCASIONS.  IT HAPPENS MOST OFTEN WHEN YOU ARE SLOWING DOWN TO NEAR STOP AND THEN NEED TO RAPIDLY ACCELERATE (IE, YOU ARE APPROACHING A RED LIGHT THAT THEN TURNS GREEN).  IT OFTEN PAUSES AND STUTTERS (ALMOST LIKE IT JUMPS) BEFORE ACTUALL",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "NEW 2011 HONDA ODYSSEY TOURING MODEL HAD A SNOWFLAKE LIKE CRACK THE SIZE OF A HALF-DOLLAR IN PASSENGER SIDE TOP CORNER OF WINDSHIELD. CRACK WAS IN THE CENTER OF THE GLASS AND COULD NOT BE FELT FROM THE INSIDE OR OUTSIDE. WINDSHIELD WAS REPLACED BY HONDA DEALER TWO TIMES AND EACH ",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2011 HONDA ODYSSEY. THE CONTACT STATED THE TRANSMISSION SHIFTED HARD WHILE SLOWING DOWN UNDER 30 MPH. THE CONTACT COULD FEEL AND HEAR THE TRANSMISSION DOWN SHIFTING, AND THE FAILURE BECAME PROGRESSIVELY WORSE. THE DEALER TEST DROVE THE VEHICLE AND CONFIRMED ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Odyssey owners report most",
+    "summary": "Across 232 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 65,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE DASH INDICATED \"LOW BATTERY\" ON A NEW MINIVAN 6 WEEKS OLD. THE BATTERY COULD HAVE GONE DEAD AT ANY TIME. A LETTER FROM HONDA TO DEALERS INDICATED THEY HAD MANY TECH LINE CONTACTS REGARDING THIS PROBLEM. THIS LETTER TOLD THE SERVICE DEPARTMENT THAT THE CUSTOMER SHOULD DRIVE FO",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "65 reports (28%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 45,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2009 HONDA ODYSSEY EX HAS 30,000 MILES AND HAS ONGOING BRAKE ISSUES.  THE BRAKES ARE SOFT AND GOES TO THE FLOOR AND THE VAN DOES NOT STOP UNLESS I PUMP THE BRAKES.   THE BRAKES ALSO MAKE A LOUD GRINDING SOUND WHEN TRYING TO STOP QUICKLY AND WHEN GOING DOWNHILL:(FREEWAY OFF RAM",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "45 reports (19%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY HONDA ODYSSEY HAS \"STALLED\" ON NUMEROUS OCCASIONS.  IT HAPPENS MOST OFTEN WHEN YOU ARE SLOWING DOWN TO NEAR STOP AND THEN NEED TO RAPIDLY ACCELERATE (IE, YOU ARE APPROACHING A RED LIGHT THAT THEN TURNS GREEN).  IT OFTEN PAUSES AND STUTTERS (ALMOST LIKE IT JUMPS) BEFORE ACTUALL",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "25 reports (11%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "NEW 2011 HONDA ODYSSEY TOURING MODEL HAD A SNOWFLAKE LIKE CRACK THE SIZE OF A HALF-DOLLAR IN PASSENGER SIDE TOP CORNER OF WINDSHIELD. CRACK WAS IN THE CENTER OF THE GLASS AND COULD NOT BE FELT FROM THE INSIDE OR OUTSIDE. WINDSHIELD WAS REPLACED BY HONDA DEALER TWO TIMES AND EACH ",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "20 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2011 HONDA ODYSSEY. THE CONTACT STATED THE TRANSMISSION SHIFTED HARD WHILE SLOWING DOWN UNDER 30 MPH. THE CONTACT COULD FEEL AND HEAR THE TRANSMISSION DOWN SHIFTING, AND THE FAILURE BECAME PROGRESSIVELY WORSE. THE DEALER TEST DROVE THE VEHICLE AND CONFIRMED ",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "19 reports (8%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

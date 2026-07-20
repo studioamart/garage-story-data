@@ -1,0 +1,128 @@
+{
+  "slug": "2012-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-07-19T23:49:06.107Z",
+  "total": 59,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 36,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "APPROXIMATELY 5 MONTHS AGO I NOTICED THAT THE ENGINE WAS MAKING A SLIGHT TICKING SOUND. I CHECKED THE OIL AND IT WAS A QUART LOW SO I ADDED A QUART. I DIDN'T CHECK IT AGAIN BECAUSE I DIDN'T HEAR THAT TICKING NOISE AGAIN. APPROXIMATELY 1 MONTH LATER I TOOK IT TO HONDA IN STOCKTON,",
+      "pct": 61
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL  MY INSIGHT WAS ON THE RECALL LIST EARLY IN 2016. LETTER THAT CAME IN MARCH SAID PART WOULD BE AVAILABLE IN MID-SUMMER. I'D CALLED DEALER WITH SIMILAR RESULTS. WAY OVER 60 DAYS SINCE THE VIN WAS POSTED ONLINE. I TRY TO DRIVE IT AS LITTLE AS POSSIBLE WHILE WAITING. S",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "[I HAVE THE SVC RECORDS FOR THIS INFO-POINTS OF CONTACT ARE AT THE END OF THE REPORT] ON JAN 8TH AT ABOUT 630 AM I WAS DRIVING ON I495W IN VA - I WAS AT THE INTERSECTION OF I495 AND THE EXITS FOR I95S AND I395 WASHINGTON. I WAS DRIVING ABOUT 55 MILES/HR AND MY CAR ENGINE SIMPLY S",
+      "pct": 5
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING WITH SPEED CONTROL ON, ON I20 EAST OF COLUMBIA SC, AUTOMOBILE BEGAN TO ACCELERATE ON ITS OWN.  WHEN IT REACHED 85 MPH I ATTEMPTED DO DECREASE SPEED USING THE DECEL/SET BUTTON, CAR CONTINUED TO ACCELERATE.  I WAS ABLE TO DISCONNECT SPEED CONTROL USING CANCEL BUTTON.  AFTER",
+      "pct": 5
+    },
+    {
+      "component": "SEATS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WITHIN A FEW WEEKS OF PURCHASING MY HONDA INSIGHT, I BEGAN TO DEVELOP LOWER BACK PAIN RELATED TO SITTING IN THE DRIVER'S SEAT.  NOT ONLY IS THERE A GENERAL LACK OF CUSHIONING IN THE BASE OF THE SEAT WHICH ALONE WOULD BE FRUSTRATING, BUT THERE ALSO IS A RIGID LOWER BACK / LUMBAR S",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Honda Insight owners report most",
+    "summary": "Across 59 owner complaints to NHTSA, the most reported area is Engine (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 36,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "APPROXIMATELY 5 MONTHS AGO I NOTICED THAT THE ENGINE WAS MAKING A SLIGHT TICKING SOUND. I CHECKED THE OIL AND IT WAS A QUART LOW SO I ADDED A QUART. I DIDN'T CHECK IT AGAIN BECAUSE I DIDN'T HEAR THAT TICKING NOISE AGAIN. APPROXIMATELY 1 MONTH LATER I TOOK IT TO HONDA IN STOCKTON,",
+        "pct": 61,
+        "title": "Engine",
+        "blurb": "36 reports (61%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL  MY INSIGHT WAS ON THE RECALL LIST EARLY IN 2016. LETTER THAT CAME IN MARCH SAID PART WOULD BE AVAILABLE IN MID-SUMMER. I'D CALLED DEALER WITH SIMILAR RESULTS. WAY OVER 60 DAYS SINCE THE VIN WAS POSTED ONLINE. I TRY TO DRIVE IT AS LITTLE AS POSSIBLE WHILE WAITING. S",
+        "pct": 19,
+        "title": "Air Bags",
+        "blurb": "11 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "[I HAVE THE SVC RECORDS FOR THIS INFO-POINTS OF CONTACT ARE AT THE END OF THE REPORT] ON JAN 8TH AT ABOUT 630 AM I WAS DRIVING ON I495W IN VA - I WAS AT THE INTERSECTION OF I495 AND THE EXITS FOR I95S AND I395 WASHINGTON. I WAS DRIVING ABOUT 55 MILES/HR AND MY CAR ENGINE SIMPLY S",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (5%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING WITH SPEED CONTROL ON, ON I20 EAST OF COLUMBIA SC, AUTOMOBILE BEGAN TO ACCELERATE ON ITS OWN.  WHEN IT REACHED 85 MPH I ATTEMPTED DO DECREASE SPEED USING THE DECEL/SET BUTTON, CAR CONTINUED TO ACCELERATE.  I WAS ABLE TO DISCONNECT SPEED CONTROL USING CANCEL BUTTON.  AFTER",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (5%) · 1 crash"
+      },
+      {
+        "component": "SEATS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WITHIN A FEW WEEKS OF PURCHASING MY HONDA INSIGHT, I BEGAN TO DEVELOP LOWER BACK PAIN RELATED TO SITTING IN THE DRIVER'S SEAT.  NOT ONLY IS THERE A GENERAL LACK OF CUSHIONING IN THE BASE OF THE SEAT WHICH ALONE WOULD BE FRUSTRATING, BUT THERE ALSO IS A RIGID LOWER BACK / LUMBAR S",
+        "pct": 3,
+        "title": "Seats",
+        "blurb": "2 reports (3%)"
+      }
+    ]
+  }
+}

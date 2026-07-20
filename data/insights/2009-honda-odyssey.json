@@ -1,0 +1,128 @@
+{
+  "slug": "2009-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-07-19T23:48:24.349Z",
+  "total": 198,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 63,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "2009 HONDA ODYSSEY. REAR HATCH DOOR IN BACK  WILL SLAM SHUT WITHOUT ANY WARNING OR BEING CLOSED.  NO WIND OR EXTERNAL FORCE CAUSED IT TO SLAM SHUT VERY FAST. THANK GOODNESS THERE WAS NO ONE UNDER THE HATCH DOOR WHEN IT HAPPENED. ALSO, REAR HATCH DOOR SOMETIMES WILL NOT STAY UP WI",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ENGINE OIL SERVICE WAS PERFORMED BY INDEPENDENT MECHANIC AT 33,599 MILES, WHO INFORMED THAT THE ENGINE OIL LEVEL WAS LOW PRIOR TO DRAINING THE CRANK CASE. I BEGAN MONITORING ENGINE OIL QUANTITY THEREAFTER.    CURRENTLY WITH 39,252 MILES ON THE VEHICLE THE ENGINE OIL CONSUMPTION R",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY BRAKES WENT COMPLETELY OUT ON MY NEW 2009 HONDA ODYSSEY EX-L WHILE ON VACATION WITH ONLY 2,000 MILES ON THE VEHICLE.  ON A FEW OCCASIONS OVER THE LAST MONTH AND A HALF THAT I HAVE OWNED MY ODYSSEY THE VSA LIGHT (VEHICLE STABILITY ASSISTANCE) HAS COME ON FOR NO REASON AND COULD",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE IS HONDA ODYSEE 2009 I PURCHASE THIS UNIT U=IN TRIANGLE DEALERS IN P.R. AND MY UNIT HAVE A DIFFICULT IN THE FRONT WITH THE PUNTA DE EJE Y TIENE QUE REEMPLAZARLA MY HUSBAND PAID FOR SECURITY BUMPER TO BUMPER AND HE SEVICE IS BAD I WAITING UP JANUARY AND THIS PIECE NO AR",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2009 HONDA ODYSSEY LX. 2 TIMES I WAS STOPPING AND PUSHED THE BRAKE AND ACCELERATOR AT SAME TIME.  MOTOR WAS RACING AND ABS WAS COMING ON - VERY FRIGHTENING AS I DID NOT KNOW WHAT THE PROBLEM WAS AND MOTOR IS VERY POWERFUL.  ALMOST ROLLED INTO BUSY 55 MPH INTERSECTION FIRST TIME A",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Honda Odyssey owners report most",
+    "summary": "Across 198 owner complaints to NHTSA, the most reported area is Structure (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 63,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "2009 HONDA ODYSSEY. REAR HATCH DOOR IN BACK  WILL SLAM SHUT WITHOUT ANY WARNING OR BEING CLOSED.  NO WIND OR EXTERNAL FORCE CAUSED IT TO SLAM SHUT VERY FAST. THANK GOODNESS THERE WAS NO ONE UNDER THE HATCH DOOR WHEN IT HAPPENED. ALSO, REAR HATCH DOOR SOMETIMES WILL NOT STAY UP WI",
+        "pct": 32,
+        "title": "Structure",
+        "blurb": "63 reports (32%) · 2 fire · 9 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ENGINE OIL SERVICE WAS PERFORMED BY INDEPENDENT MECHANIC AT 33,599 MILES, WHO INFORMED THAT THE ENGINE OIL LEVEL WAS LOW PRIOR TO DRAINING THE CRANK CASE. I BEGAN MONITORING ENGINE OIL QUANTITY THEREAFTER.    CURRENTLY WITH 39,252 MILES ON THE VEHICLE THE ENGINE OIL CONSUMPTION R",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "34 reports (17%) · 5 fire · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY BRAKES WENT COMPLETELY OUT ON MY NEW 2009 HONDA ODYSSEY EX-L WHILE ON VACATION WITH ONLY 2,000 MILES ON THE VEHICLE.  ON A FEW OCCASIONS OVER THE LAST MONTH AND A HALF THAT I HAVE OWNED MY ODYSSEY THE VSA LIGHT (VEHICLE STABILITY ASSISTANCE) HAS COME ON FOR NO REASON AND COULD",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "21 reports (11%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE IS HONDA ODYSEE 2009 I PURCHASE THIS UNIT U=IN TRIANGLE DEALERS IN P.R. AND MY UNIT HAVE A DIFFICULT IN THE FRONT WITH THE PUNTA DE EJE Y TIENE QUE REEMPLAZARLA MY HUSBAND PAID FOR SECURITY BUMPER TO BUMPER AND HE SEVICE IS BAD I WAITING UP JANUARY AND THIS PIECE NO AR",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "20 reports (10%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2009 HONDA ODYSSEY LX. 2 TIMES I WAS STOPPING AND PUSHED THE BRAKE AND ACCELERATOR AT SAME TIME.  MOTOR WAS RACING AND ABS WAS COMING ON - VERY FRIGHTENING AS I DID NOT KNOW WHAT THE PROBLEM WAS AND MOTOR IS VERY POWERFUL.  ALMOST ROLLED INTO BUSY 55 MPH INTERSECTION FIRST TIME A",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "18 reports (9%)"
+      }
+    ]
+  }
+}

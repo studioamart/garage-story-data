@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/FIESTA#complaints",
+  "generatedAt": "2026-07-19T23:58:37.638Z",
+  "total": 667,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 391,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TRANSMISSION STARTED GRINDING WHILE TRYING TO ACCELERATE FROM SITTING IDLE. BRAKES LOCKED UP 3 DIFFERENT TIMES WHILE I HAD MY FOOT ON THE BRAKE. THE TRANSMISSION REVS VERY HIGH WITH ANY STREET THAT IS NOT COMPLETELY FLAT. WHEN I SIT AT A STOP LIGHT IT WILL ROLL BACKWARD WHEN I TR",
+      "pct": 59
+    },
+    {
+      "component": "ENGINE",
+      "count": 109,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE FREEWAY MY VEHICLE GOT VERY SHAKY AND UNCONTROLLABLE TO DRIVE, THE CHECK ENGINE LIGHT CAME ON AND WE NOTICED A BURNING SMELL AND SMOKE COMING FROM UNDER THE HOOD AREA. AFTER BEING ABLE TO PULL OFF FREEWAY AND CHECK CAR WE NOTICED A HUGE TRAIL AND PUDDLE OF OI",
+      "pct": 16
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 78,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD FIESTA. THE CONTACT STATED THAT THE TRUNK FAILED TO OPEN WHEN ACCESSED WITH THE CONTROL MECHANISM  UNLESS ALL FOUR AUTOMATIC DOORS WERE ACTIVATED PREVIOUSLY. THE DEALER INFORMED THE CONTACT THAT THE VEHICLE OPERATED AS DESIGNED. THE MANUFACTURER W",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 62,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FIRST TIME IT ALMOST COMPLETELY DIED ON ME GETTING ON THE HIGHWAY, THEN ALL OF THE SUDDEN IT GUNNED IT AND TOOK OFF.  ABOUT 3 MILES DOWN THE HIGH WAY ENGINE LIGHTS AND SERVICE LIGHTS CAME ON.  I GOT TO WORK AND THEY TOWED IT.  THEY SAID THEY CHANGED SOME KIND OF WIRING UNDER THE ",
+      "pct": 9
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 47,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I HAVE THE S PACKAGE, SO THE DOORS CAN ONLY BE LOCKED BY KEY OR BY THE INTERIOR POWER DOOR LOCK BUTTON.  IF THE DOORS ARE LOCKED BY KEY (WHICH IS HOW I USUALLY LOCK MY CAR), AND THEN THE PASSENGER DOOR IS UNLOCKED FIRST, THE INTERIOR POWER DOOR LOCK BUTTON DOES NOT OPERATE.  THIS",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford Fiesta owners report most",
+    "summary": "Across 667 owner complaints to NHTSA, the most reported area is Power Train (59% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 391,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TRANSMISSION STARTED GRINDING WHILE TRYING TO ACCELERATE FROM SITTING IDLE. BRAKES LOCKED UP 3 DIFFERENT TIMES WHILE I HAD MY FOOT ON THE BRAKE. THE TRANSMISSION REVS VERY HIGH WITH ANY STREET THAT IS NOT COMPLETELY FLAT. WHEN I SIT AT A STOP LIGHT IT WILL ROLL BACKWARD WHEN I TR",
+        "pct": 59,
+        "title": "Power Train",
+        "blurb": "391 reports (59%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 109,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE FREEWAY MY VEHICLE GOT VERY SHAKY AND UNCONTROLLABLE TO DRIVE, THE CHECK ENGINE LIGHT CAME ON AND WE NOTICED A BURNING SMELL AND SMOKE COMING FROM UNDER THE HOOD AREA. AFTER BEING ABLE TO PULL OFF FREEWAY AND CHECK CAR WE NOTICED A HUGE TRAIL AND PUDDLE OF OI",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "109 reports (16%) · 4 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 78,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD FIESTA. THE CONTACT STATED THAT THE TRUNK FAILED TO OPEN WHEN ACCESSED WITH THE CONTROL MECHANISM  UNLESS ALL FOUR AUTOMATIC DOORS WERE ACTIVATED PREVIOUSLY. THE DEALER INFORMED THE CONTACT THAT THE VEHICLE OPERATED AS DESIGNED. THE MANUFACTURER W",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "78 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 62,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FIRST TIME IT ALMOST COMPLETELY DIED ON ME GETTING ON THE HIGHWAY, THEN ALL OF THE SUDDEN IT GUNNED IT AND TOOK OFF.  ABOUT 3 MILES DOWN THE HIGH WAY ENGINE LIGHTS AND SERVICE LIGHTS CAME ON.  I GOT TO WORK AND THEY TOWED IT.  THEY SAID THEY CHANGED SOME KIND OF WIRING UNDER THE ",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "62 reports (9%) · 1 fire"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 47,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I HAVE THE S PACKAGE, SO THE DOORS CAN ONLY BE LOCKED BY KEY OR BY THE INTERIOR POWER DOOR LOCK BUTTON.  IF THE DOORS ARE LOCKED BY KEY (WHICH IS HOW I USUALLY LOCK MY CAR), AND THEN THE PASSENGER DOOR IS UNLOCKED FIRST, THE INTERIOR POWER DOOR LOCK BUTTON DOES NOT OPERATE.  THIS",
+        "pct": 7,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "47 reports (7%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

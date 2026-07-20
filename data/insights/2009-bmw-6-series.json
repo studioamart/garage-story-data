@@ -1,0 +1,128 @@
+{
+  "slug": "2009-bmw-6-series",
+  "make": "BMW",
+  "model": "6 Series",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/BMW/6%20SERIES#complaints",
+  "generatedAt": "2026-07-19T23:49:38.221Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A PROBLEM WITH THE TRANSMISSION OF THIS VEHICLE, AND IT IS DANGEROUS....EXAMPLE IS WHEN I WAS AT A STOP SIGN FOR EXAMPLE, AND I WOULD ACCELERATE TO NAVIGATE THE INTERSECTION THE GEAR WOULD JUMP INTO NEUTRAL FOR NO REASON, AND LEAVE ME STUCK IN THE INTERSECTION, ANY ONCOMIN",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 BMW 650I. WHEN THE IGNITION WAS TURNED TO THE ON POSITION, THE FRONT PASSENGER SIDE AIR BAG RESTRAINT MALFUNCTION WARNING INDICATOR ILLUMINATED CONTINUOUSLY. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED ",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT CAR FROM DEALER W/18K MILES, TEST DROVE AND NOTICED NOISE/VIBRATION UNDER FEET, STEERING WHEEL SHAKES, (SAID IT WAS THE \"SPORT PACKAGE, RAIN, TIRES\".) THEY HAD EXCUSE FOR EVERYTHING. THIS IS THE THIRD CAR I HAVE OWNED LIKED THIS AND NO ISSUES OF THIS KIND. FINALLY TOOK TO ",
+      "pct": 25
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT CAR FROM DEALER W/18K MILES, TEST DROVE AND NOTICED NOISE/VIBRATION UNDER FEET, STEERING WHEEL SHAKES, (SAID IT WAS THE \"SPORT PACKAGE, RAIN, TIRES\".) THEY HAD EXCUSE FOR EVERYTHING. THIS IS THE THIRD CAR I HAVE OWNED LIKED THIS AND NO ISSUES OF THIS KIND. FINALLY TOOK TO ",
+      "pct": 25
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT CAR FROM DEALER W/18K MILES, TEST DROVE AND NOTICED NOISE/VIBRATION UNDER FEET, STEERING WHEEL SHAKES, (SAID IT WAS THE \"SPORT PACKAGE, RAIN, TIRES\".) THEY HAD EXCUSE FOR EVERYTHING. THIS IS THE THIRD CAR I HAVE OWNED LIKED THIS AND NO ISSUES OF THIS KIND. FINALLY TOOK TO ",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Bmw 6 Series owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Power Train (25% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A PROBLEM WITH THE TRANSMISSION OF THIS VEHICLE, AND IT IS DANGEROUS....EXAMPLE IS WHEN I WAS AT A STOP SIGN FOR EXAMPLE, AND I WOULD ACCELERATE TO NAVIGATE THE INTERSECTION THE GEAR WOULD JUMP INTO NEUTRAL FOR NO REASON, AND LEAVE ME STUCK IN THE INTERSECTION, ANY ONCOMIN",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 BMW 650I. WHEN THE IGNITION WAS TURNED TO THE ON POSITION, THE FRONT PASSENGER SIDE AIR BAG RESTRAINT MALFUNCTION WARNING INDICATOR ILLUMINATED CONTINUOUSLY. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED ",
+        "pct": 25,
+        "title": "Air Bags",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT CAR FROM DEALER W/18K MILES, TEST DROVE AND NOTICED NOISE/VIBRATION UNDER FEET, STEERING WHEEL SHAKES, (SAID IT WAS THE \"SPORT PACKAGE, RAIN, TIRES\".) THEY HAD EXCUSE FOR EVERYTHING. THIS IS THE THIRD CAR I HAVE OWNED LIKED THIS AND NO ISSUES OF THIS KIND. FINALLY TOOK TO ",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT CAR FROM DEALER W/18K MILES, TEST DROVE AND NOTICED NOISE/VIBRATION UNDER FEET, STEERING WHEEL SHAKES, (SAID IT WAS THE \"SPORT PACKAGE, RAIN, TIRES\".) THEY HAD EXCUSE FOR EVERYTHING. THIS IS THE THIRD CAR I HAVE OWNED LIKED THIS AND NO ISSUES OF THIS KIND. FINALLY TOOK TO ",
+        "pct": 25,
+        "title": "Suspension",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT CAR FROM DEALER W/18K MILES, TEST DROVE AND NOTICED NOISE/VIBRATION UNDER FEET, STEERING WHEEL SHAKES, (SAID IT WAS THE \"SPORT PACKAGE, RAIN, TIRES\".) THEY HAD EXCUSE FOR EVERYTHING. THIS IS THE THIRD CAR I HAVE OWNED LIKED THIS AND NO ISSUES OF THIS KIND. FINALLY TOOK TO ",
+        "pct": 25,
+        "title": "Wheels",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

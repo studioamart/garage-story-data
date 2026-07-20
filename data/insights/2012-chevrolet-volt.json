@@ -1,0 +1,128 @@
+{
+  "slug": "2012-chevrolet-volt",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/CHEVROLET/VOLT#complaints",
+  "generatedAt": "2026-07-19T23:56:47.321Z",
+  "total": 245,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 86,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THERE IS AN APPARENT DESIGN FLAW IN THE CHEVY VOLT RELATED TO AN INDIVIDUAL EXITING THE VEHICLE WITHOUT POWERING DOWN THE SYSTEMS WHICH COULD RESULT IN CO POISONING OR DEATH AND POSSIBLE FIRE HAZARDS IN THE RIGHT SITUATION.    THE VOLT USES A KEY FOB SYSTEM AND PUSH BUTTON START.",
+      "pct": 35
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 86,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I WAS MAKING A LEFT HAND TURN AND WAS HIT BY AN SUV WHO RAN A RED LIGHT DOING ABOUT 35 OR 40 MILES PER HOUR ON FRONT OF MY CAR. IT HIT THE FRONT OF MY CAR SPINNING IT TO THE RIGHT [ABOUT 160 DEGREE TURN] WHEN MY CAR SPUN I HIT THE BACK OF MY HEAD AND LEFT SHOULDER ON THE DOOR PIL",
+      "pct": 35
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NO ACCIDENT: THE DEGREE OF DISTORTION IN REAR GLASS IS UNSAFE. OPTICS MAY NOT MEET AUTO GLASS AND OR FEDERAL SAFETY REQUIREMENTS. I HAVE WORKED IN THE GLASS INDUSTRY IN QUALITY CONTROL AND THIS GLASS WOULD NOT MEET COMPANY OR FEDERAL STANDARDS. WITH DISTORTION THIS BAD THE PARTIC",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE IS AN APPARENT DESIGN FLAW IN THE CHEVY VOLT RELATED TO AN INDIVIDUAL EXITING THE VEHICLE WITHOUT POWERING DOWN THE SYSTEMS WHICH COULD RESULT IN CO POISONING OR DEATH AND POSSIBLE FIRE HAZARDS IN THE RIGHT SITUATION.    THE VOLT USES A KEY FOB SYSTEM AND PUSH BUTTON START.",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 23,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON BRAKING AND PASSIVE DECELERATION THE CAR MAKES A LOUD AUDIBLE WHINING NOISE COMING FROM THE ENGINE COMPARTMENT. THE DEALER STATES IT IS A REGENERATIVE BRAKE BEARING FAILURE. THIS ISSUE IS RELATED TO THE BEARING CAGE FAILING CAUSING THE BEARING TO LOSE ITS INTEGRITY.  HTTP://",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Chevrolet Volt owners report most",
+    "summary": "Across 245 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 86,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THERE IS AN APPARENT DESIGN FLAW IN THE CHEVY VOLT RELATED TO AN INDIVIDUAL EXITING THE VEHICLE WITHOUT POWERING DOWN THE SYSTEMS WHICH COULD RESULT IN CO POISONING OR DEATH AND POSSIBLE FIRE HAZARDS IN THE RIGHT SITUATION.    THE VOLT USES A KEY FOB SYSTEM AND PUSH BUTTON START.",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "86 reports (35%) · 1 fire · 2 crash · 5 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 86,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I WAS MAKING A LEFT HAND TURN AND WAS HIT BY AN SUV WHO RAN A RED LIGHT DOING ABOUT 35 OR 40 MILES PER HOUR ON FRONT OF MY CAR. IT HIT THE FRONT OF MY CAR SPINNING IT TO THE RIGHT [ABOUT 160 DEGREE TURN] WHEN MY CAR SPUN I HIT THE BACK OF MY HEAD AND LEFT SHOULDER ON THE DOOR PIL",
+        "pct": 35,
+        "title": "Air Bags",
+        "blurb": "86 reports (35%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NO ACCIDENT: THE DEGREE OF DISTORTION IN REAR GLASS IS UNSAFE. OPTICS MAY NOT MEET AUTO GLASS AND OR FEDERAL SAFETY REQUIREMENTS. I HAVE WORKED IN THE GLASS INDUSTRY IN QUALITY CONTROL AND THIS GLASS WOULD NOT MEET COMPANY OR FEDERAL STANDARDS. WITH DISTORTION THIS BAD THE PARTIC",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "37 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE IS AN APPARENT DESIGN FLAW IN THE CHEVY VOLT RELATED TO AN INDIVIDUAL EXITING THE VEHICLE WITHOUT POWERING DOWN THE SYSTEMS WHICH COULD RESULT IN CO POISONING OR DEATH AND POSSIBLE FIRE HAZARDS IN THE RIGHT SITUATION.    THE VOLT USES A KEY FOB SYSTEM AND PUSH BUTTON START.",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "26 reports (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 23,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON BRAKING AND PASSIVE DECELERATION THE CAR MAKES A LOUD AUDIBLE WHINING NOISE COMING FROM THE ENGINE COMPARTMENT. THE DEALER STATES IT IS A REGENERATIVE BRAKE BEARING FAILURE. THIS ISSUE IS RELATED TO THE BEARING CAGE FAILING CAUSING THE BEARING TO LOSE ITS INTEGRITY.  HTTP://",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "23 reports (9%) · 2 crash"
+      }
+    ]
+  }
+}

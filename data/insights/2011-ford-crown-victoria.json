@@ -1,0 +1,128 @@
+{
+  "slug": "2011-ford-crown-victoria",
+  "make": "Ford",
+  "model": "Crown Victoria",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/FORD/CROWN%20VICTORIA#complaints",
+  "generatedAt": "2026-07-19T23:55:19.667Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STEERING THIS CAR WAS A NIGHTMARE ALWAYS PULLING TO THE RIGHT.  ALSO BRAKES CONSTANTLY GRABBING AND SCREECHING.  ALSO HEADLIGHT AND SUSPENSION PROBLEMS.  WAS NOT HAPPY WITH THIS CAR FROM START BUT WAS SLAMMED INTO BY DEALERSHIP AND CHASE... I AM A SENIOR CITIZEN 76 YEARS OLD.  PL",
+      "pct": 52
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STEERING THIS CAR WAS A NIGHTMARE ALWAYS PULLING TO THE RIGHT.  ALSO BRAKES CONSTANTLY GRABBING AND SCREECHING.  ALSO HEADLIGHT AND SUSPENSION PROBLEMS.  WAS NOT HAPPY WITH THIS CAR FROM START BUT WAS SLAMMED INTO BY DEALERSHIP AND CHASE... I AM A SENIOR CITIZEN 76 YEARS OLD.  PL",
+      "pct": 17
+    },
+    {
+      "component": "SEATS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I AM A DETECTIVE WITH THE BELLEVILLE POLICE DEPARTMENT, NJ. WE ARE HAVING AN ONGOING PROBLEM WITH THE FORD CROWN VICTORIA 2011 POLICE INTERTCEPTOR WITH MANUAL SEATS. ALL OUR OFFICERS ARE REPORTING LOWER BACK PAIN DUE TO A LOWER BACK BOLSTER BUILT IN AS PART OF THE SEAT. THIS BOLS",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE JUST EJECTED THE #7 SPARK PLUG WHILE DRIVING STRAIGHT ON CITY, PUBLIC ROADS AND CAUSED THE CAR TO DANGEROUSLY AND SUDDENLY SLOW DOWN.  THE CAR JUST BEHIND ME HAD TO MANEUVER TO AVOID ME.",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR STALLS WHEN IN HIGH SPEED PASSING GEAR. TURNS OVER, WILL NOT RESTART. HAPPENED MULTIPLE TIMES. WAS TOLD BY DEALER THIS MODEL HAS A HISTORY OF THIS EVENT.  *TR",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Ford Crown Victoria owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Steering (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STEERING THIS CAR WAS A NIGHTMARE ALWAYS PULLING TO THE RIGHT.  ALSO BRAKES CONSTANTLY GRABBING AND SCREECHING.  ALSO HEADLIGHT AND SUSPENSION PROBLEMS.  WAS NOT HAPPY WITH THIS CAR FROM START BUT WAS SLAMMED INTO BY DEALERSHIP AND CHASE... I AM A SENIOR CITIZEN 76 YEARS OLD.  PL",
+        "pct": 52,
+        "title": "Steering",
+        "blurb": "12 reports (52%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STEERING THIS CAR WAS A NIGHTMARE ALWAYS PULLING TO THE RIGHT.  ALSO BRAKES CONSTANTLY GRABBING AND SCREECHING.  ALSO HEADLIGHT AND SUSPENSION PROBLEMS.  WAS NOT HAPPY WITH THIS CAR FROM START BUT WAS SLAMMED INTO BY DEALERSHIP AND CHASE... I AM A SENIOR CITIZEN 76 YEARS OLD.  PL",
+        "pct": 17,
+        "title": "Suspension",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I AM A DETECTIVE WITH THE BELLEVILLE POLICE DEPARTMENT, NJ. WE ARE HAVING AN ONGOING PROBLEM WITH THE FORD CROWN VICTORIA 2011 POLICE INTERTCEPTOR WITH MANUAL SEATS. ALL OUR OFFICERS ARE REPORTING LOWER BACK PAIN DUE TO A LOWER BACK BOLSTER BUILT IN AS PART OF THE SEAT. THIS BOLS",
+        "pct": 17,
+        "title": "Seats",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE JUST EJECTED THE #7 SPARK PLUG WHILE DRIVING STRAIGHT ON CITY, PUBLIC ROADS AND CAUSED THE CAR TO DANGEROUSLY AND SUDDENLY SLOW DOWN.  THE CAR JUST BEHIND ME HAD TO MANEUVER TO AVOID ME.",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "3 reports (13%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR STALLS WHEN IN HIGH SPEED PASSING GEAR. TURNS OVER, WILL NOT RESTART. HAPPENED MULTIPLE TIMES. WAS TOLD BY DEALER THIS MODEL HAS A HISTORY OF THIS EVENT.  *TR",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "2 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

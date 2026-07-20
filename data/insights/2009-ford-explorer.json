@@ -1,0 +1,128 @@
+{
+  "slug": "2009-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-07-19T23:52:57.386Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 FORD EXPLORER.  THE CONTACT WAS DRIVING 40 MPH WHEN THE ACCELERATOR PEDAL BECAME STUCK IN THE OPEN THROTTLE POSITION, CAUSING THE VEHICLE TO ABNORMALLY ACCELERATE.  THE BRAKES WOULD NOT STOP THE ACCELERATION AND THE CONTACT SHIFTED INTO NEUTRAL TO STOP",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN FIRST STARTING THE VEHICLE, THERE IS A LOUD TICKING NOISE.  AFTER RESEARCHING IT ONLINE, IT APPEARED TO BE A VERY COMMON PROBLEM WITH SOME OF THE EXHAUST MANIFOLD BOLTS SNAPPING OFF CAUSING A LEAK OF EXHAUST GASES.  WE TOOK THE CAR TO A SHOP AND THE PROBLEM WAS CONFIRMED.  T",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SUV SEEMS TO BE IDLED DURING START UP OR EVEN WHEN DRIVING. SOUNDS AIRY LIKE ITS TRYING TO ACCELERATE. ALSO I HAVE HAD BREAK PADS REPLACED MORE THAN USUAL. MECHANIC SAID IT WAS REPORTED THAT THEY HAVE GONE OUT MORE THAN NORMAL. EACH TIME GOING OUT BEFORE WARRANTY EXPIRED.  TODAY,",
+      "pct": 9
+    },
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WITHIN THE FIRST 12 MONTHS AND LESS THAN 25K MILES HAD TO REPLACE BOTH FRONT FIRESTONE TIRES DUE TO THE INSIDE WEARING BALD ON MY 2009 FORD EXPLORER. JUNE 2011, 23 MONTHS OLD AND WITH 42K MILES RIGHT REAR TIRE WEARING DIFFERENTLY THAN THE OTHERS, CAME OFF WHILE DRIVING THROUGH PA",
+      "pct": 9
+    },
+    {
+      "component": "SEATS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 FORD EXPLORER.  WHEN THE CONTACT ENTERED THE VEHICLE, HE NOTICED THAT THE HEAD REST PUSHES THE DRIVER'S HEAD TOWARDS THE WINDSHIELD DUE TO ITS PERPENDICULAR DESIGN.  THE CONTACT FEELS THAT SOMEONE WITH A SHORT STATURE WOULD HAVE TO DRIVE WITH HIS/HER HE",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Ford Explorer owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (15% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 FORD EXPLORER.  THE CONTACT WAS DRIVING 40 MPH WHEN THE ACCELERATOR PEDAL BECAME STUCK IN THE OPEN THROTTLE POSITION, CAUSING THE VEHICLE TO ABNORMALLY ACCELERATE.  THE BRAKES WOULD NOT STOP THE ACCELERATION AND THE CONTACT SHIFTED INTO NEUTRAL TO STOP",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (15%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN FIRST STARTING THE VEHICLE, THERE IS A LOUD TICKING NOISE.  AFTER RESEARCHING IT ONLINE, IT APPEARED TO BE A VERY COMMON PROBLEM WITH SOME OF THE EXHAUST MANIFOLD BOLTS SNAPPING OFF CAUSING A LEAK OF EXHAUST GASES.  WE TOOK THE CAR TO A SHOP AND THE PROBLEM WAS CONFIRMED.  T",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "4 reports (12%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SUV SEEMS TO BE IDLED DURING START UP OR EVEN WHEN DRIVING. SOUNDS AIRY LIKE ITS TRYING TO ACCELERATE. ALSO I HAVE HAD BREAK PADS REPLACED MORE THAN USUAL. MECHANIC SAID IT WAS REPORTED THAT THEY HAVE GONE OUT MORE THAN NORMAL. EACH TIME GOING OUT BEFORE WARRANTY EXPIRED.  TODAY,",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "3 reports (9%) · 1 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WITHIN THE FIRST 12 MONTHS AND LESS THAN 25K MILES HAD TO REPLACE BOTH FRONT FIRESTONE TIRES DUE TO THE INSIDE WEARING BALD ON MY 2009 FORD EXPLORER. JUNE 2011, 23 MONTHS OLD AND WITH 42K MILES RIGHT REAR TIRE WEARING DIFFERENTLY THAN THE OTHERS, CAME OFF WHILE DRIVING THROUGH PA",
+        "pct": 9,
+        "title": "Wheels",
+        "blurb": "3 reports (9%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 FORD EXPLORER.  WHEN THE CONTACT ENTERED THE VEHICLE, HE NOTICED THAT THE HEAD REST PUSHES THE DRIVER'S HEAD TOWARDS THE WINDSHIELD DUE TO ITS PERPENDICULAR DESIGN.  THE CONTACT FEELS THAT SOMEONE WITH A SHORT STATURE WOULD HAVE TO DRIVE WITH HIS/HER HE",
+        "pct": 9,
+        "title": "Seats",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

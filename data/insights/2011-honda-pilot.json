@@ -1,0 +1,128 @@
+{
+  "slug": "2011-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2011,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2011/HONDA/PILOT#complaints",
+  "generatedAt": "2026-07-19T23:48:58.911Z",
+  "total": 292,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 68,
+      "crash": 14,
+      "fire": 1,
+      "injuries": 22,
+      "deaths": 0,
+      "sample": "I MAKE REFERENCE TO 2011 HONDA PILOT RECALL FROM NHTSA:  10V640000 OF 12/16/2010.  SINCE I BOUGHT A SIMILAR VEHICLE ON 12/11/2010, I WOULD LIKE TO FIND OUT IF MY CAR IS INCLUDED IN THIS RECALL. I WROTE TO THE MANUFACTURER ADDRESS IN CALIFORNIA SEVERAL WEEKS AGO REQUESTING INFORMA",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 41,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "WHEEL SENSOR WIRES ON 2011 HONDA PILOT ARE EXPOSED AND UNPROTECTED UNDER THE VEHICLE WHICH WHEN DAMAGED, DISABLE ANTI-LOCK BRAKING SYSTEM (ABS),  VEHICLE STABILITY ASSIST (VSA), AND THE VARIABLE TORQUE MANAGEMENT (VTM-4) SYSTEMS.  EXPOSED WIRES ARE PRONE TO BE CUT OR DAMAGED BY R",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY WIFE AND I WERE DRIVING HOME ON THE NIGHT OF JUNE 2ND, 2010 AND WERE TURNING ON THE STREET WE LIVE ON WHEN THE RIGHT FRONT WHEEL JUST LAID OVER. WE HAD IT TOWED TO THE DEALERSHIP AND THEY INFORMED US THAT THEY THOUGHT THAT EITHER THE BOLTS WERE NOT PROPERLY TORQUED AT THE FACT",
+      "pct": 12
+    },
+    {
+      "component": "STEERING",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2011 HONDA PILOT. THE CONTACT STATED THAT WHILE DRIVING THE VEHICLE WOULD VEER TO ONE SIDE WITHOUT EXPLANATION. IN ADDITION, WHEN DEPRESSING THE ACCELERATOR AND STEERING TO THE LEFT HE WOULD MOMENTARILY LOSE CONTROL OF THE VEHICLE.  THE VEHICLE WAS TAKEN TO",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I STARTED THE CAR THIS MORNING, I HEARD A HIGH-PITCHED GRINDING NOISE - SOMETHING I'VE NEVER HEARD BEFORE.   DRIVING AT 30MPH, THE CAR SUDDENLY ACCELERATED AS I APPLIED THE BRAKES ROUNDING A CORNER. I COULD HEAR THE ENGINE REVVING UP SO I QUICKLY SHIFTED IT INTO NEUTRAL UNTI",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2011 Honda Pilot owners report most",
+    "summary": "Across 292 owner complaints to NHTSA, the most reported area is Air Bags (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 68,
+        "crash": 14,
+        "fire": 1,
+        "injuries": 22,
+        "deaths": 0,
+        "sample": "I MAKE REFERENCE TO 2011 HONDA PILOT RECALL FROM NHTSA:  10V640000 OF 12/16/2010.  SINCE I BOUGHT A SIMILAR VEHICLE ON 12/11/2010, I WOULD LIKE TO FIND OUT IF MY CAR IS INCLUDED IN THIS RECALL. I WROTE TO THE MANUFACTURER ADDRESS IN CALIFORNIA SEVERAL WEEKS AGO REQUESTING INFORMA",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "68 reports (23%) · 1 fire · 14 crash · 22 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 41,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "WHEEL SENSOR WIRES ON 2011 HONDA PILOT ARE EXPOSED AND UNPROTECTED UNDER THE VEHICLE WHICH WHEN DAMAGED, DISABLE ANTI-LOCK BRAKING SYSTEM (ABS),  VEHICLE STABILITY ASSIST (VSA), AND THE VARIABLE TORQUE MANAGEMENT (VTM-4) SYSTEMS.  EXPOSED WIRES ARE PRONE TO BE CUT OR DAMAGED BY R",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "41 reports (14%) · 1 fire · 7 crash · 5 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY WIFE AND I WERE DRIVING HOME ON THE NIGHT OF JUNE 2ND, 2010 AND WERE TURNING ON THE STREET WE LIVE ON WHEN THE RIGHT FRONT WHEEL JUST LAID OVER. WE HAD IT TOWED TO THE DEALERSHIP AND THEY INFORMED US THAT THEY THOUGHT THAT EITHER THE BOLTS WERE NOT PROPERLY TORQUED AT THE FACT",
+        "pct": 12,
+        "title": "Suspension",
+        "blurb": "34 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2011 HONDA PILOT. THE CONTACT STATED THAT WHILE DRIVING THE VEHICLE WOULD VEER TO ONE SIDE WITHOUT EXPLANATION. IN ADDITION, WHEN DEPRESSING THE ACCELERATOR AND STEERING TO THE LEFT HE WOULD MOMENTARILY LOSE CONTROL OF THE VEHICLE.  THE VEHICLE WAS TAKEN TO",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "34 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I STARTED THE CAR THIS MORNING, I HEARD A HIGH-PITCHED GRINDING NOISE - SOMETHING I'VE NEVER HEARD BEFORE.   DRIVING AT 30MPH, THE CAR SUDDENLY ACCELERATED AS I APPLIED THE BRAKES ROUNDING A CORNER. I COULD HEAR THE ENGINE REVVING UP SO I QUICKLY SHIFTED IT INTO NEUTRAL UNTI",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "31 reports (11%) · 3 fire · 1 crash"
+      }
+    ]
+  }
+}

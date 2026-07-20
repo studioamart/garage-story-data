@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-crosstour",
+  "make": "Honda",
+  "model": "Crosstour",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/CROSSTOUR#complaints",
+  "generatedAt": "2026-07-19T23:49:23.305Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON A STREET GOING 35 MPH AND ALL OF A SUDDEN MY WHEEL LOCKED UP AND I WAS UNABLE TO TURN THE WHEEL AT ALL. I LOOKED AT THE DASH AND THE LIGHT WITH THE STEERING WHEEL AND THE EXCLAMATION MARK WAS ON. I PROCEEDED TO DRIVE AT A SLOWER SPEED BECAUSE I WAS RIGHT UP THE R",
+      "pct": 44
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HESITATION:  WHEN TRYING TO ACCELERATE, AFTER STOPPING, IN MANY INSTANCES THERE IS A VERY PRONOUNCED HESITATION BEFORE THE CAR STARTS FORWARD.  THIS IS A REAL PROBLEM WHEN ATTEMPTING TO MERGE INTO TRAFFIC OR ACCELERATE FROM A STOP SIGN OR TRAFFIC LIGHT.   THERE IS A SAFETY PROBLE",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 HONDA CROSSTOUR. AFTER STARTING THE VEHICLE, A GRINDING NOISE WAS HEARD FROM THE FRONT OF THE VEHICLE. THE CONTACT MENTIONED THAT THE VEHICLE HAD TO BE RESTARTED EVERY TIME FOR THE NOISE TO STOP. THE FAILURE RECURRED NUMEROUS TIMES. IN ADDITION, THE VE",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STOPPED AT INTERSECTION AND TAKING FOOT OFF BRAKE TO PROCEED, OCCASIONALLY CAR WILL NOT MOVE FORWARD WITH MODERATE GAS PEDAL PRESSURE. BACKING OFF THE GAS SLIGHTLY GETS CAR GOING FORWARD.  ENGINE DOES NOT QUIT DURING THESE EPISODES, IT JUST WILL NOT MOVE CAR UNLESS GAS PEDAL",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "All warning lights came on-LDW/ABS/VSA/FCW at first around 7/25/23  . Called Honda service-told to bring it in for diagnostic check. Then on 7/27/23 power steering went out-had car towed in to dealer-they fixed/replaced EPS Control unit under extended warranty extension 19-036. T",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Crosstour owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Steering (44% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON A STREET GOING 35 MPH AND ALL OF A SUDDEN MY WHEEL LOCKED UP AND I WAS UNABLE TO TURN THE WHEEL AT ALL. I LOOKED AT THE DASH AND THE LIGHT WITH THE STEERING WHEEL AND THE EXCLAMATION MARK WAS ON. I PROCEEDED TO DRIVE AT A SLOWER SPEED BECAUSE I WAS RIGHT UP THE R",
+        "pct": 44,
+        "title": "Steering",
+        "blurb": "21 reports (44%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HESITATION:  WHEN TRYING TO ACCELERATE, AFTER STOPPING, IN MANY INSTANCES THERE IS A VERY PRONOUNCED HESITATION BEFORE THE CAR STARTS FORWARD.  THIS IS A REAL PROBLEM WHEN ATTEMPTING TO MERGE INTO TRAFFIC OR ACCELERATE FROM A STOP SIGN OR TRAFFIC LIGHT.   THERE IS A SAFETY PROBLE",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "6 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 HONDA CROSSTOUR. AFTER STARTING THE VEHICLE, A GRINDING NOISE WAS HEARD FROM THE FRONT OF THE VEHICLE. THE CONTACT MENTIONED THAT THE VEHICLE HAD TO BE RESTARTED EVERY TIME FOR THE NOISE TO STOP. THE FAILURE RECURRED NUMEROUS TIMES. IN ADDITION, THE VE",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STOPPED AT INTERSECTION AND TAKING FOOT OFF BRAKE TO PROCEED, OCCASIONALLY CAR WILL NOT MOVE FORWARD WITH MODERATE GAS PEDAL PRESSURE. BACKING OFF THE GAS SLIGHTLY GETS CAR GOING FORWARD.  ENGINE DOES NOT QUIT DURING THESE EPISODES, IT JUST WILL NOT MOVE CAR UNLESS GAS PEDAL",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "All warning lights came on-LDW/ABS/VSA/FCW at first around 7/25/23  . Called Honda service-told to bring it in for diagnostic check. Then on 7/27/23 power steering went out-had car towed in to dealer-they fixed/replaced EPS Control unit under extended warranty extension 19-036. T",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (8%)"
+      }
+    ]
+  }
+}

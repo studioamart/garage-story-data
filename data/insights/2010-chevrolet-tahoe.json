@@ -1,0 +1,128 @@
+{
+  "slug": "2010-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2010,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2010/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-07-19T23:53:36.833Z",
+  "total": 319,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 118,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY DASHBOARD HAD CRACKED IN 2 PLACES. ONE IS RIGHT NEXT TO THE AIRBAG AND ITS FORCING THE WHOLE DASH TO SHAKE. I'M HOPING THE CRACKS DON'T AFFECT THE AIRBAG IF IT'S EVER NEEDED. I HAVE READ THOUSANDS OF COMPLAINTS ABOUT THE TAHOE DASHBOARD CRACKING. I'M WONDERING WHY THEIR ISN'T ",
+      "pct": 37
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 90,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "DASHBOARD IS CRACKED CLEARLY DEFECTIVE LEAVING WIRES EXPOSED TO TEMP DIFFERENCES THAT CAN CAUSE EXPOSURE TO MOISTURE ON ELECTRICAL WIRES,CIRCUITS INSIDE DASH THAT WORRIES ME OF ELECTRIC FIRES GM WONT REPLACE DASH AT 100% COST AND THEIR ARE CLEARLY ISSUES REGARDING THEIR DASHBOARD",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE PURCHASED A NEW 2010 CHEVY TAHOE WITH A TRAILER PACKAGE.  WHEN WE PLUGGED THE TRAILER PLUG IN, WE FOUND THAT THE NO ELECTRICITY WAS TRANSMITTED TO THE TRAILER LIGHTS AND BRAKES.  WHEN WE BROUGHT TO VEHICLE TO A CHEVY DEALER, THEY INFORMED US THAT THE WIRES WERE NOT CONNECTED A",
+      "pct": 5
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET TAHOE. WHILE DRIVING 45 MPH, THE VEHICLE FAILED TO ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED AND THE ENGINE REDUCE POWER WARNING INDICATOR ILLUMINATED. THE INDEPENDENT MECHANIC CLEANED THE THROTTLE, BUT THE FAILURE RECURRED. THE MEC",
+      "pct": 3
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SUPPORT BRACKET WELD TO TRANSMISSION DIPSTICK TUBE BROKE. DIPSTICK TUBE LOOSE AND ONLY HELD IN PLACE AT TRANSMISSION. CAUGHT AT A GM LUBE LOCATION IN CHARLESTON, WV DURING ROUTINE LUBE AND OIL CHANGE. THEY STATED THEY HAVE SEEN AT LEAST 6 OF THESE BREAKS IN LATE MODEL GM SUVS. IN",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2010 Chevrolet Tahoe owners report most",
+    "summary": "Across 319 owner complaints to NHTSA, the most reported area is Air Bags (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 118,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY DASHBOARD HAD CRACKED IN 2 PLACES. ONE IS RIGHT NEXT TO THE AIRBAG AND ITS FORCING THE WHOLE DASH TO SHAKE. I'M HOPING THE CRACKS DON'T AFFECT THE AIRBAG IF IT'S EVER NEEDED. I HAVE READ THOUSANDS OF COMPLAINTS ABOUT THE TAHOE DASHBOARD CRACKING. I'M WONDERING WHY THEIR ISN'T ",
+        "pct": 37,
+        "title": "Air Bags",
+        "blurb": "118 reports (37%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 90,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "DASHBOARD IS CRACKED CLEARLY DEFECTIVE LEAVING WIRES EXPOSED TO TEMP DIFFERENCES THAT CAN CAUSE EXPOSURE TO MOISTURE ON ELECTRICAL WIRES,CIRCUITS INSIDE DASH THAT WORRIES ME OF ELECTRIC FIRES GM WONT REPLACE DASH AT 100% COST AND THEIR ARE CLEARLY ISSUES REGARDING THEIR DASHBOARD",
+        "pct": 28,
+        "title": "Structure",
+        "blurb": "90 reports (28%) · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE PURCHASED A NEW 2010 CHEVY TAHOE WITH A TRAILER PACKAGE.  WHEN WE PLUGGED THE TRAILER PLUG IN, WE FOUND THAT THE NO ELECTRICITY WAS TRANSMITTED TO THE TRAILER LIGHTS AND BRAKES.  WHEN WE BROUGHT TO VEHICLE TO A CHEVY DEALER, THEY INFORMED US THAT THE WIRES WERE NOT CONNECTED A",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "16 reports (5%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2010 CHEVROLET TAHOE. WHILE DRIVING 45 MPH, THE VEHICLE FAILED TO ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED AND THE ENGINE REDUCE POWER WARNING INDICATOR ILLUMINATED. THE INDEPENDENT MECHANIC CLEANED THE THROTTLE, BUT THE FAILURE RECURRED. THE MEC",
+        "pct": 3,
+        "title": "Engine",
+        "blurb": "11 reports (3%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SUPPORT BRACKET WELD TO TRANSMISSION DIPSTICK TUBE BROKE. DIPSTICK TUBE LOOSE AND ONLY HELD IN PLACE AT TRANSMISSION. CAUGHT AT A GM LUBE LOCATION IN CHARLESTON, WV DURING ROUTINE LUBE AND OIL CHANGE. THEY STATED THEY HAVE SEEN AT LEAST 6 OF THESE BREAKS IN LATE MODEL GM SUVS. IN",
+        "pct": 2,
+        "title": "Power Train",
+        "blurb": "6 reports (2%) · 1 crash"
+      }
+    ]
+  }
+}

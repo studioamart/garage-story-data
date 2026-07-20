@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-avalanche",
+  "make": "Chevrolet",
+  "model": "Avalanche",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/AVALANCHE#complaints",
+  "generatedAt": "2026-07-19T23:57:56.653Z",
+  "total": 82,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "THERE IS CRACK FROM THE EDGE OF THE AIRBAG ACROSS THE DASH TO THE DEFROSTER. I'VE RESEARCHED THIS AND DISCOVERED IT COULD POTENTIALLY SEND SHRAPNEL IF THE AIRBAGS ARE DEPLOYED. I'VE CONTACTED MY DEALERSHIP AND THEY SAID IT IS NOT A COVERED PART UNDER THE EXTENDED WARRANTY. I'VE A",
+      "pct": 27
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INTERIOR DOOR PULL DISINTEGRATING MORE AND MORE EACH DAY WITH NO WAY TO REPLACE JUST THIS PULL HANDLE. IT IS MADE WITH VERY CHEAP WHITE PLASTIC. EVENTUALLY THE DOOR WILL NOT BE ABLE TO CLOSE BY USING THIS HANDLE AND YOU WILL END UP HURTING YOUR HAND USING ANOTHER PART OF THE DOOR",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am an owner of a 2013 Chevy Avalanche and must say that i enjoy driving this vehicle. The problem that i have is the vehicle has been going into Engine Power Reduced Mode. This mode makes the vehicle hard to accelerate to highway speeds. The vehicle will have a code of P2128 or",
+      "pct": 5
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STABILITRAK AND TRACTION CONTROL LIGHTS KEEP COMING ON AND CHECK ENGINE LIGHT.  LOSES POWER AND STABILITY WHILE GOING UPHILL OR ACCELERATING. GM SERVICE OUT OF WARRANTY. LOOKED AT POSSIBLE RECALLS NONE AVAILABLE. NOTICED ALOT OF ISSUES REGARDING 5.3 V8 FROM 2010 TO 2013 GM MODELS",
+      "pct": 5
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TRYING TO GET INSPECTION WAS TOLD SEALED THIRD BRAKE LIGHT HAS WATER IN LIGHT CAUSING FAILURE OF LIGHT TO FUNCTION AS REQUIRED BY LAW. HOW DOES A SEALED LED LIGHT GET WATER IN IT. COST WILL EXCEED WELL OVER $700.00. FOR A PART THAT WILL FAIL AGAIN AFTER SEEING OTHER COMPLAINTS. T",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Avalanche owners report most",
+    "summary": "Across 82 owner complaints to NHTSA, the most reported area is Air Bags (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "THERE IS CRACK FROM THE EDGE OF THE AIRBAG ACROSS THE DASH TO THE DEFROSTER. I'VE RESEARCHED THIS AND DISCOVERED IT COULD POTENTIALLY SEND SHRAPNEL IF THE AIRBAGS ARE DEPLOYED. I'VE CONTACTED MY DEALERSHIP AND THEY SAID IT IS NOT A COVERED PART UNDER THE EXTENDED WARRANTY. I'VE A",
+        "pct": 27,
+        "title": "Air Bags",
+        "blurb": "22 reports (27%) · 2 crash · 6 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INTERIOR DOOR PULL DISINTEGRATING MORE AND MORE EACH DAY WITH NO WAY TO REPLACE JUST THIS PULL HANDLE. IT IS MADE WITH VERY CHEAP WHITE PLASTIC. EVENTUALLY THE DOOR WILL NOT BE ABLE TO CLOSE BY USING THIS HANDLE AND YOU WILL END UP HURTING YOUR HAND USING ANOTHER PART OF THE DOOR",
+        "pct": 23,
+        "title": "Structure",
+        "blurb": "19 reports (23%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am an owner of a 2013 Chevy Avalanche and must say that i enjoy driving this vehicle. The problem that i have is the vehicle has been going into Engine Power Reduced Mode. This mode makes the vehicle hard to accelerate to highway speeds. The vehicle will have a code of P2128 or",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "4 reports (5%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STABILITRAK AND TRACTION CONTROL LIGHTS KEEP COMING ON AND CHECK ENGINE LIGHT.  LOSES POWER AND STABILITY WHILE GOING UPHILL OR ACCELERATING. GM SERVICE OUT OF WARRANTY. LOOKED AT POSSIBLE RECALLS NONE AVAILABLE. NOTICED ALOT OF ISSUES REGARDING 5.3 V8 FROM 2010 TO 2013 GM MODELS",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "4 reports (5%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TRYING TO GET INSPECTION WAS TOLD SEALED THIRD BRAKE LIGHT HAS WATER IN LIGHT CAUSING FAILURE OF LIGHT TO FUNCTION AS REQUIRED BY LAW. HOW DOES A SEALED LED LIGHT GET WATER IN IT. COST WILL EXCEED WELL OVER $700.00. FOR A PART THAT WILL FAIL AGAIN AFTER SEEING OTHER COMPLAINTS. T",
+        "pct": 4,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (4%)"
+      }
+    ]
+  }
+}

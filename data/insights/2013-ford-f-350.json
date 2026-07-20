@@ -1,0 +1,128 @@
+{
+  "slug": "2013-ford-f-350",
+  "make": "Ford",
+  "model": "F-350",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/FORD/F-350#complaints",
+  "generatedAt": "2026-07-19T23:58:33.741Z",
+  "total": 85,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 32,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE OUR TRUCK ON A NORMAL HIGHWAY WITH MINOR IRREGULARITIES AND SOME ROUGH SURFACES AT A SPEED OF 60 TO 70 MPH, THE TRUCK WILL START TO OSCILLATE TO THE POINT OF INDUCING A VIOLENTLY STEERING WHEEL SHIMMY AND AN UNCONTROLLABLE BOUNCE OF THE FRONT WHEELS. THIS HAS HAPPENED TWICE",
+      "pct": 38
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD F-350. ON SEVERAL OCCASIONS, WHILE DRIVING 55 MPH, THE VEHICLE VIOLENTLY SHOOK WHEN MAKING CONTACT WITH A BUMP. THE CONTACT STATED THAT THE STEERING WHEEL BECAME DIFFICULT TO MANEUVER WHEN THE SHAKING OCCURRED AND THE CHECK ENGINE WARNING INDICATO",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 17,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1.  SEVERE ENGINE RATTLE AND THEN SEVERE SHAKING OF ENTIRE TRUCK DUE TO EXHAUST REGENERATIVE SYSTEM.  TRUCK BECOMES HARD TO CONTROL ON HIGHWAY AND PRESENTS DANGER IN HEAVY TRAFFIC SITUATIONS.  FIRST INCIDENT WAS TAKEN IN FOR REPAIR; SECOND INCIDENT OCCURRED APPROXIMATELY SEVEN MO",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 FORD F-350. WHILE DRIVING AT AN UNKNOWN SPEED, THE CHECK ENGINE WARNING LIGHT ILLUMINATED CONTINUOUSLY. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE EGR COOLER AND FUEL PUMP ASSEMBLY NEEDED TO BE REPAIRED. THE VEHICLE WAS NOT REPAI",
+      "pct": 8
+    },
+    {
+      "component": "WHEELS",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED TRUCK USED CAME WITH NEW TIRES, UNICORN CREATION   LT265/70R-17  LOAD RANGE  E. PURCHASED TRUCK 8/12/2015 , THE DATE CODE ON TIRES (2312) ON ALL 4 TIRES. IN LESS THAN 6000 MILES 3 TIRES HAD BROKEN STEEL BELTS.  4800 MILE VACATION   FIRST LEG  1300 MILES MOSTLY INTERSTAT",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Ford F-350 owners report most",
+    "summary": "Across 85 owner complaints to NHTSA, the most reported area is Steering (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 32,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE OUR TRUCK ON A NORMAL HIGHWAY WITH MINOR IRREGULARITIES AND SOME ROUGH SURFACES AT A SPEED OF 60 TO 70 MPH, THE TRUCK WILL START TO OSCILLATE TO THE POINT OF INDUCING A VIOLENTLY STEERING WHEEL SHIMMY AND AN UNCONTROLLABLE BOUNCE OF THE FRONT WHEELS. THIS HAS HAPPENED TWICE",
+        "pct": 38,
+        "title": "Steering",
+        "blurb": "32 reports (38%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD F-350. ON SEVERAL OCCASIONS, WHILE DRIVING 55 MPH, THE VEHICLE VIOLENTLY SHOOK WHEN MAKING CONTACT WITH A BUMP. THE CONTACT STATED THAT THE STEERING WHEEL BECAME DIFFICULT TO MANEUVER WHEN THE SHAKING OCCURRED AND THE CHECK ENGINE WARNING INDICATO",
+        "pct": 36,
+        "title": "Suspension",
+        "blurb": "31 reports (36%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 17,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1.  SEVERE ENGINE RATTLE AND THEN SEVERE SHAKING OF ENTIRE TRUCK DUE TO EXHAUST REGENERATIVE SYSTEM.  TRUCK BECOMES HARD TO CONTROL ON HIGHWAY AND PRESENTS DANGER IN HEAVY TRAFFIC SITUATIONS.  FIRST INCIDENT WAS TAKEN IN FOR REPAIR; SECOND INCIDENT OCCURRED APPROXIMATELY SEVEN MO",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "17 reports (20%) · 3 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 FORD F-350. WHILE DRIVING AT AN UNKNOWN SPEED, THE CHECK ENGINE WARNING LIGHT ILLUMINATED CONTINUOUSLY. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE EGR COOLER AND FUEL PUMP ASSEMBLY NEEDED TO BE REPAIRED. THE VEHICLE WAS NOT REPAI",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (8%) · 1 fire"
+      },
+      {
+        "component": "WHEELS",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED TRUCK USED CAME WITH NEW TIRES, UNICORN CREATION   LT265/70R-17  LOAD RANGE  E. PURCHASED TRUCK 8/12/2015 , THE DATE CODE ON TIRES (2312) ON ALL 4 TIRES. IN LESS THAN 6000 MILES 3 TIRES HAD BROKEN STEEL BELTS.  4800 MILE VACATION   FIRST LEG  1300 MILES MOSTLY INTERSTAT",
+        "pct": 6,
+        "title": "Wheels",
+        "blurb": "5 reports (6%)"
+      }
+    ]
+  }
+}

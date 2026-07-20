@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-spark",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/SPARK#complaints",
+  "generatedAt": "2026-07-19T23:57:49.993Z",
+  "total": 146,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS I AM DRIVING THE CAR, THE ENGINE WILL REV AS THOUGH THE CAR IS IN NEUTRAL AND THE CAR NO LONGER MOVES FORWARD (NO POWER TO THE DRIVE WHEELS.)  THE TRANSMISSION APPEARS TO BE SLIPPING.  THIS PROBLEM IS INTERMITTENT AND HAS OCCURRED DURING ALL WEATHER AND VEHICLE TEMPERATURE CON",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE STEERING WHEEL CONTROLS (CRUISE CONTROL, AUDIO ETC) DO NOT ILLUMINATE.  AFTER SOME RESEARCH, I HAVE FOUND THAT GM HAS REMEDIED THIS ISSUE WITH MODELS MANUFACTURED AFTER NOVEMBER 2012.   THIS IS A SAFETY HAZARD AT NIGHT BECAUSE IF I USE MY CRUISE CONTROL, I HAVE TO TURN ON MY ",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WHILE COASTING IN GEAR WILL ACCELERATE ON IT`S OWN. ENGINE RPM INCREASES APPROX 300 RPM.. HAPPENS 10- 15 TIMES DAILY. I DRIVE 120 MILES ONE WAY TO WORK. CAR NOW HAS 7000 MILES. PURCHASED IN DEC 2012. KINDA SCARY WHEN IT HAPPENS IN TRAFFIC MAY CAUSE AN ACCIDENT IF NOT PAYI",
+      "pct": 23
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 14,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "LACK OF BUTTON ILLUMINATION LIGHTS FOR THE CRUISE CONTROL, HANDS-FREE PHONE CONTROL AND AUDIO CONTROL ON THE STEERING WHEEL FOR NIGHT DRIVING.  THE LACK OF ILLUMINATION LIGHTS ON THESE BUTTONS CREATES POTENTIAL SAFETY ISSUE WHEN ATTEMPTING TO USE THE CRUISE CONTROL, PHONE CALL OR",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 13,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AIR BAG LIGHT LIT, CODE 95 (AIRBAG MALFUNCTION) LIGHT LIT AND SERVICE ENGINE SOON LIGHT LIT ON VEHICLE.  HAVE TAKEN  VEHICLE BACK TO DEALERSHIP 5 TIMES IN THE PAST 40 DAYS AND PROBLEM IS STILL APPARENT.  CHEVROLET ENGINEERING HAS BEEN INVOLVED FOR PAST 10 DAYS AND THEY ARE ALSO U",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Spark owners report most",
+    "summary": "Across 146 owner complaints to NHTSA, the most reported area is Engine (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS I AM DRIVING THE CAR, THE ENGINE WILL REV AS THOUGH THE CAR IS IN NEUTRAL AND THE CAR NO LONGER MOVES FORWARD (NO POWER TO THE DRIVE WHEELS.)  THE TRANSMISSION APPEARS TO BE SLIPPING.  THIS PROBLEM IS INTERMITTENT AND HAS OCCURRED DURING ALL WEATHER AND VEHICLE TEMPERATURE CON",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "35 reports (24%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE STEERING WHEEL CONTROLS (CRUISE CONTROL, AUDIO ETC) DO NOT ILLUMINATE.  AFTER SOME RESEARCH, I HAVE FOUND THAT GM HAS REMEDIED THIS ISSUE WITH MODELS MANUFACTURED AFTER NOVEMBER 2012.   THIS IS A SAFETY HAZARD AT NIGHT BECAUSE IF I USE MY CRUISE CONTROL, I HAVE TO TURN ON MY ",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "34 reports (23%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WHILE COASTING IN GEAR WILL ACCELERATE ON IT`S OWN. ENGINE RPM INCREASES APPROX 300 RPM.. HAPPENS 10- 15 TIMES DAILY. I DRIVE 120 MILES ONE WAY TO WORK. CAR NOW HAS 7000 MILES. PURCHASED IN DEC 2012. KINDA SCARY WHEN IT HAPPENS IN TRAFFIC MAY CAUSE AN ACCIDENT IF NOT PAYI",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "34 reports (23%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 14,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "LACK OF BUTTON ILLUMINATION LIGHTS FOR THE CRUISE CONTROL, HANDS-FREE PHONE CONTROL AND AUDIO CONTROL ON THE STEERING WHEEL FOR NIGHT DRIVING.  THE LACK OF ILLUMINATION LIGHTS ON THESE BUTTONS CREATES POTENTIAL SAFETY ISSUE WHEN ATTEMPTING TO USE THE CRUISE CONTROL, PHONE CALL OR",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "14 reports (10%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 13,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AIR BAG LIGHT LIT, CODE 95 (AIRBAG MALFUNCTION) LIGHT LIT AND SERVICE ENGINE SOON LIGHT LIT ON VEHICLE.  HAVE TAKEN  VEHICLE BACK TO DEALERSHIP 5 TIMES IN THE PAST 40 DAYS AND PROBLEM IS STILL APPARENT.  CHEVROLET ENGINEERING HAS BEEN INVOLVED FOR PAST 10 DAYS AND THEY ARE ALSO U",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "13 reports (9%) · 1 fire · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

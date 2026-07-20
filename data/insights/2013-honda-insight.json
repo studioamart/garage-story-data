@@ -1,0 +1,128 @@
+{
+  "slug": "2013-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-07-19T23:49:18.112Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "EXCESSIVELY BURN ENGINE OIL. DEFECTIVE PISTON RINGS      CAR WAS STALLING ON FREEWAY WITH \"CHECK ENGINE\" \"CHECK BRAKE\" \" \"CHECK HILL START ASSISTANT\" \"CHECK VSA\" LIGHT FLASHING.    I RESEARCHED AND FOUND EXACT SAME SYMPTONS WHICH WAS FILED FOR 2012 HONDA INSIGHT.  REFER TO NHTSA ",
+      "pct": 69
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY CAR WAS HIT AT 60MPH, FROM A RUN AWAY CAR FLEEING THE POLICE, ON THE FRONT PASSENGER SIDE. MY CAR THEN FLIPPED ONTO THE DRIVER SIDE ROTATED 180 DEGREE, ROLLED OVER AND SLID 100FT TO STOPPED ON THE PASSENGER SIDE. MY CAR STOPPED WITH TWO WHEELS IN THE AIR. THE MAJOR COMPLAINT I",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR HAD BEEN SITTING FOR 2 AND A HALF WEEKS WHILE I WAS OUT OF THE COUNTRY. UPON STARTING THE CAR, CHECK BRAKE SYSTEM, CHECK VSA SYSTEM, CHECK HILL START ASSIST SYSTEM, SERVICE DUE SOON AND CHECK EMISSION LIGHTS ILLUMINATED ON MY DASHBOARD. WHEN I BEGAN TO ACCELERATE, THE CAR ",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SO MY 2013 HONDA INSIGHT HAS ALWAYS CONSUMED OIL. I DROVE FROM IDAHO TO UTAH STOPPED AT THE STORE WHEN I STARTED MY VEHICLE UP MY DISPLAY HAS CHECK VSA, CHECK HILL START ASSIST SYSTEM, AND CHECK TPMS. I TRIED DRIVING AWAY FROM THE STORE TO GET TO HONDA AND IT LOSES ALL POWER AND ",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE HONDA INSIGHT 2013 APPARENTLY HAS DEFECTS IN THE OIL CONSUMPTION LEVEL.  I WAS DRIVING MY CAR A MONTH AGO WITH MY OIL SERVICE RENEWED COMPLETELY AT A DEALERSHOP AND SUDDENLY A MONTH LATER THE CAR STARTED TO SHOW ME SIGNS OF (OIL CHANGE NEED TO REPAIR) AND AN EMISSION SYSTEM S",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Honda Insight owners report most",
+    "summary": "Across 45 owner complaints to NHTSA, the most reported area is Engine (69% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "EXCESSIVELY BURN ENGINE OIL. DEFECTIVE PISTON RINGS      CAR WAS STALLING ON FREEWAY WITH \"CHECK ENGINE\" \"CHECK BRAKE\" \" \"CHECK HILL START ASSISTANT\" \"CHECK VSA\" LIGHT FLASHING.    I RESEARCHED AND FOUND EXACT SAME SYMPTONS WHICH WAS FILED FOR 2012 HONDA INSIGHT.  REFER TO NHTSA ",
+        "pct": 69,
+        "title": "Engine",
+        "blurb": "31 reports (69%) · 2 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY CAR WAS HIT AT 60MPH, FROM A RUN AWAY CAR FLEEING THE POLICE, ON THE FRONT PASSENGER SIDE. MY CAR THEN FLIPPED ONTO THE DRIVER SIDE ROTATED 180 DEGREE, ROLLED OVER AND SLID 100FT TO STOPPED ON THE PASSENGER SIDE. MY CAR STOPPED WITH TWO WHEELS IN THE AIR. THE MAJOR COMPLAINT I",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "8 reports (18%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR HAD BEEN SITTING FOR 2 AND A HALF WEEKS WHILE I WAS OUT OF THE COUNTRY. UPON STARTING THE CAR, CHECK BRAKE SYSTEM, CHECK VSA SYSTEM, CHECK HILL START ASSIST SYSTEM, SERVICE DUE SOON AND CHECK EMISSION LIGHTS ILLUMINATED ON MY DASHBOARD. WHEN I BEGAN TO ACCELERATE, THE CAR ",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "7 reports (16%) · 2 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SO MY 2013 HONDA INSIGHT HAS ALWAYS CONSUMED OIL. I DROVE FROM IDAHO TO UTAH STOPPED AT THE STORE WHEN I STARTED MY VEHICLE UP MY DISPLAY HAS CHECK VSA, CHECK HILL START ASSIST SYSTEM, AND CHECK TPMS. I TRIED DRIVING AWAY FROM THE STORE TO GET TO HONDA AND IT LOSES ALL POWER AND ",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "4 reports (9%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE HONDA INSIGHT 2013 APPARENTLY HAS DEFECTS IN THE OIL CONSUMPTION LEVEL.  I WAS DRIVING MY CAR A MONTH AGO WITH MY OIL SERVICE RENEWED COMPLETELY AT A DEALERSHOP AND SUDDENLY A MONTH LATER THE CAR STARTED TO SHOW ME SIGNS OF (OIL CHANGE NEED TO REPAIR) AND AN EMISSION SYSTEM S",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (9%) · 1 fire"
+      }
+    ]
+  }
+}

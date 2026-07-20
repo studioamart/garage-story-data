@@ -1,0 +1,128 @@
+{
+  "slug": "2012-ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "year": 2012,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2012/FORD/FOCUS#complaints",
+  "generatedAt": "2026-07-19T23:57:19.416Z",
+  "total": 3789,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1455,
+      "crash": 31,
+      "fire": 3,
+      "injuries": 15,
+      "deaths": 2,
+      "sample": "I WAS DRIVING AND STUCK IN TRAFFIC.  GOING SLOW, 5-10MPH, THE CAR STARTED SHIFTING REALLY STRANGE, NOT MOVING WHEN INITIALLY ACCELERATING AND THEN JERKING FROM FIRST TO SECOND GEAR.  MY DESTINATION WAS 3 BLOCKS AHEAD OF ME SO I STAYED ON ROUTE AND PARKED WHEN I ARRIVED.  AS I GOT",
+      "pct": 38
+    },
+    {
+      "component": "STEERING",
+      "count": 932,
+      "crash": 23,
+      "fire": 2,
+      "injuries": 25,
+      "deaths": 5,
+      "sample": "TL* THE CONTACT OWNS A 2012 FORD FOCUS. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE VEHICLE WOULD PULL TO THE RIGHT AND SHE WOULD HAVE TO USE EXCESSIVE FORCE TO CONTINUE STEERING STRAIGHT. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHERE THE CONTACT WAS INF",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 475,
+      "crash": 9,
+      "fire": 4,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THIS IS A ONGOING PROBLEM WITH MY FOCUS.  WHEN ACCELERATING FROM A STOP THE FOCUS'S AUTOMATIC DSG TRANSMISSION (IN D) WILL QUICKLY SHIFT TO A HIGHER GEAR IN AN EFFORT TO MINIMIZE FUEL CONSUMPTION.  DURING A STOPPED TURN AT A INTERSECTION THIS LEADS TO A UNSAFE CONDITION WHERE COM",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 366,
+      "crash": 9,
+      "fire": 4,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "AFTER A WEEK OF PURCHASING OUR BRAND NEW FOCUS STARTED NOTICING THE AUTOMATIC TRANNY SURGES AND SLIPS. LIKE ITS BUCKING FEELING. SOMETIMES IT SURGES ALMOST HARD ENOUGH TO PUT YOU ON THE DASH. KINDA SCARY IN TRAFFIC. CAR HAS ONLY 4500 MILES ON IT AND NOW HAS ELECTRICAL PROBLEMS IN",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 330,
+      "crash": 9,
+      "fire": 2,
+      "injuries": 13,
+      "deaths": 0,
+      "sample": "2012 FORD FOCUS. CONSUMER WRITES IN REGARDS TO TRUNK LID, WIRING AND WATER FLOWING DOWN REAR WINDOW *TGW  THE CONSUMER STATED WHEN THE TRUNK WAS ACTIVATED, THE LID WENT FROM FULLY CLOSED TO FULLY OPENED AT A HIGH VELOCITY IN A VERY SHORT PERIOD OF TIME. THE WIRING ROUTED TO THE I",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2012 Ford Focus owners report most",
+    "summary": "Across 3,789 owner complaints to NHTSA, the most reported area is Power Train (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1455,
+        "crash": 31,
+        "fire": 3,
+        "injuries": 15,
+        "deaths": 2,
+        "sample": "I WAS DRIVING AND STUCK IN TRAFFIC.  GOING SLOW, 5-10MPH, THE CAR STARTED SHIFTING REALLY STRANGE, NOT MOVING WHEN INITIALLY ACCELERATING AND THEN JERKING FROM FIRST TO SECOND GEAR.  MY DESTINATION WAS 3 BLOCKS AHEAD OF ME SO I STAYED ON ROUTE AND PARKED WHEN I ARRIVED.  AS I GOT",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "1,455 reports (38%) · 3 fire · 31 crash · 15 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 932,
+        "crash": 23,
+        "fire": 2,
+        "injuries": 25,
+        "deaths": 5,
+        "sample": "TL* THE CONTACT OWNS A 2012 FORD FOCUS. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE VEHICLE WOULD PULL TO THE RIGHT AND SHE WOULD HAVE TO USE EXCESSIVE FORCE TO CONTINUE STEERING STRAIGHT. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHERE THE CONTACT WAS INF",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "932 reports (25%) · 2 fire · 23 crash · 25 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 475,
+        "crash": 9,
+        "fire": 4,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THIS IS A ONGOING PROBLEM WITH MY FOCUS.  WHEN ACCELERATING FROM A STOP THE FOCUS'S AUTOMATIC DSG TRANSMISSION (IN D) WILL QUICKLY SHIFT TO A HIGHER GEAR IN AN EFFORT TO MINIMIZE FUEL CONSUMPTION.  DURING A STOPPED TURN AT A INTERSECTION THIS LEADS TO A UNSAFE CONDITION WHERE COM",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "475 reports (13%) · 4 fire · 9 crash · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 366,
+        "crash": 9,
+        "fire": 4,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "AFTER A WEEK OF PURCHASING OUR BRAND NEW FOCUS STARTED NOTICING THE AUTOMATIC TRANNY SURGES AND SLIPS. LIKE ITS BUCKING FEELING. SOMETIMES IT SURGES ALMOST HARD ENOUGH TO PUT YOU ON THE DASH. KINDA SCARY IN TRAFFIC. CAR HAS ONLY 4500 MILES ON IT AND NOW HAS ELECTRICAL PROBLEMS IN",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "366 reports (10%) · 4 fire · 9 crash · 4 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 330,
+        "crash": 9,
+        "fire": 2,
+        "injuries": 13,
+        "deaths": 0,
+        "sample": "2012 FORD FOCUS. CONSUMER WRITES IN REGARDS TO TRUNK LID, WIRING AND WATER FLOWING DOWN REAR WINDOW *TGW  THE CONSUMER STATED WHEN THE TRUNK WAS ACTIVATED, THE LID WENT FROM FULLY CLOSED TO FULLY OPENED AT A HIGH VELOCITY IN A VERY SHORT PERIOD OF TIME. THE WIRING ROUTED TO THE I",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "330 reports (9%) · 2 fire · 9 crash · 13 injured"
+      }
+    ]
+  }
+}

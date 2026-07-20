@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-07-19T23:57:43.889Z",
+  "total": 921,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 423,
+      "crash": 7,
+      "fire": 6,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "OUR MALIBU WAS JUST PURCHASED WITH 9 MILES NEW ON JANUARY 31ST AND HAS THE EASIEST ECO FEATURE WHICH IS SUPPOSED TO SHUT DOWN THE VEHICLE AT STOPS. OUR VEHICLE IS NOT SHUTTING DOWN. THE DEALERSHIP STATES THERE IS NO KNOWN ISSUE, BULLETIN, OR RECALL FOR THIS. ANY INFORMATION WOULD",
+      "pct": 46
+    },
+    {
+      "component": "ENGINE",
+      "count": 226,
+      "crash": 4,
+      "fire": 4,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "OUR MALIBU WAS JUST PURCHASED WITH 9 MILES NEW ON JANUARY 31ST AND HAS THE EASIEST ECO FEATURE WHICH IS SUPPOSED TO SHUT DOWN THE VEHICLE AT STOPS. OUR VEHICLE IS NOT SHUTTING DOWN. THE DEALERSHIP STATES THERE IS NO KNOWN ISSUE, BULLETIN, OR RECALL FOR THIS. ANY INFORMATION WOULD",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 197,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY SON WAS DRIVING DOWN THE ROAD WHEN THE  CARS STEERING DRASTICALLY PULLED HIM TOTALLY OFF THE ROAD !!!! LUCKY THERE WAS NO ONE TO THE RIGHT OF HIM THEY WOULD OF BEAN KILLED .THIS IS A VERY SERIOUS PROBLEM! THE DEALER IS TRYING TO BRUSH IT OFF LIKE NOTHING HAPPENED. NILES SALES ",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 84,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "3/20 I WAS GOING 35 WHEN IT LOST POWER AND BRAKE.ONSTAR TOWED TO DEALER 4 DAYS LATER WAS TOLD IT WAS TRACTION CONTROL AND FIXED. 4/29 GOING 50 AND LOST POWER, AND BRAKED TO 28 MPH. ONSTAR AGAIN TOWED TO DEALER HAS SAT THERE FOR 24 DAYS AND COUNTING WITH NO RESOLUTION FROM GM. THI",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 69,
+      "crash": 16,
+      "fire": 0,
+      "injuries": 22,
+      "deaths": 0,
+      "sample": "FIRST NOTICED A CREASE IN REAR SEAT SIDE AIRBAGS CAUSED BY REAR DOOR PANEL RESTING ON IT RATHER THAN HAVING CLEARANCE. AFTER THE DOOR HAD BEEN OPENED/CLOSED THROUGH USE OVER A PERIOD OF ONLY 6 MONTHS, IT IS BEGINNING TO RUB A POSSIBLE HOLE IN THE MATERIAL CONTAINING THE AIRBAG. D",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Malibu owners report most",
+    "summary": "Across 921 owner complaints to NHTSA, the most reported area is Electrical System (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 423,
+        "crash": 7,
+        "fire": 6,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "OUR MALIBU WAS JUST PURCHASED WITH 9 MILES NEW ON JANUARY 31ST AND HAS THE EASIEST ECO FEATURE WHICH IS SUPPOSED TO SHUT DOWN THE VEHICLE AT STOPS. OUR VEHICLE IS NOT SHUTTING DOWN. THE DEALERSHIP STATES THERE IS NO KNOWN ISSUE, BULLETIN, OR RECALL FOR THIS. ANY INFORMATION WOULD",
+        "pct": 46,
+        "title": "Electrical System",
+        "blurb": "423 reports (46%) · 6 fire · 7 crash · 5 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 226,
+        "crash": 4,
+        "fire": 4,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "OUR MALIBU WAS JUST PURCHASED WITH 9 MILES NEW ON JANUARY 31ST AND HAS THE EASIEST ECO FEATURE WHICH IS SUPPOSED TO SHUT DOWN THE VEHICLE AT STOPS. OUR VEHICLE IS NOT SHUTTING DOWN. THE DEALERSHIP STATES THERE IS NO KNOWN ISSUE, BULLETIN, OR RECALL FOR THIS. ANY INFORMATION WOULD",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "226 reports (25%) · 4 fire · 4 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 197,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY SON WAS DRIVING DOWN THE ROAD WHEN THE  CARS STEERING DRASTICALLY PULLED HIM TOTALLY OFF THE ROAD !!!! LUCKY THERE WAS NO ONE TO THE RIGHT OF HIM THEY WOULD OF BEAN KILLED .THIS IS A VERY SERIOUS PROBLEM! THE DEALER IS TRYING TO BRUSH IT OFF LIKE NOTHING HAPPENED. NILES SALES ",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "197 reports (21%) · 8 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 84,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "3/20 I WAS GOING 35 WHEN IT LOST POWER AND BRAKE.ONSTAR TOWED TO DEALER 4 DAYS LATER WAS TOLD IT WAS TRACTION CONTROL AND FIXED. 4/29 GOING 50 AND LOST POWER, AND BRAKED TO 28 MPH. ONSTAR AGAIN TOWED TO DEALER HAS SAT THERE FOR 24 DAYS AND COUNTING WITH NO RESOLUTION FROM GM. THI",
+        "pct": 9,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "84 reports (9%) · 2 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 69,
+        "crash": 16,
+        "fire": 0,
+        "injuries": 22,
+        "deaths": 0,
+        "sample": "FIRST NOTICED A CREASE IN REAR SEAT SIDE AIRBAGS CAUSED BY REAR DOOR PANEL RESTING ON IT RATHER THAN HAVING CLEARANCE. AFTER THE DOOR HAD BEEN OPENED/CLOSED THROUGH USE OVER A PERIOD OF ONLY 6 MONTHS, IT IS BEGINNING TO RUB A POSSIBLE HOLE IN THE MATERIAL CONTAINING THE AIRBAG. D",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "69 reports (7%) · 16 crash · 22 injured"
+      }
+    ]
+  }
+}

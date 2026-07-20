@@ -1,0 +1,128 @@
+{
+  "slug": "2013-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2013,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2013/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-07-19T23:57:55.614Z",
+  "total": 161,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 53,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET TRAVERSE. THE CONTACT STATED THAT THE GLOBAL POSITIONING NAVIGATIONAL SYSTEM WAS DIFFICULT TO READ BECAUSE THE FONT WAS ENTIRELY TOO SMALL.  THE NAVIGATIONAL SYSTEM ALSO EXHIBITED WHITE LETTERING ON A LIGHT GREEN BACKGROUND, WHICH DID NOT PRO",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 45,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING ON A HIGHWAY I STEPPED ON THE ACCELERATOR AND THE CAR DID NOT RESPOND AND CAME TO A SUDDEN STOP IN THE MIDDLE OF THE HIGHWAY.  I HAD NO WARNING AND NO ABILITY TO PULL OFF TO THE SIDE OF THE ROAD.  I COULD NOT RESTART THE CAR AND I HAD NO POWER STEERING OR BRAKES.",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 43,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS HAS NOW OCCURRED TWICE WITHIN THE PAST 30 DAYS. WHILE IN MOTION, THE VEHICLE TRANSMISSIONS JERKS, AND SPEED IS IMMEDIATELY REDUCED TO 5MPH. THE STABILITY CONTROL LIGHT COMES ON AS DOES THE CHECK ENGINE LIGHT. A REMOTE DIAGNOSTICS SCAN FROM ON-STAR IDENTIFIED 3 ERROR CODES: C",
+      "pct": 27
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 28,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TRANSMISSION WAS SURGING AND ABRUPTLY SHIFTING FROM SECOND TO THIRD GEAR AND AGAIN FROM FIFTH TO SIXTH GEAR. THE MORE IT WAS DRIVEN THE WORSE IT WAS GETTING. BROUGHT IT TO THE DEALER AND THE TRANSMISSION NEEDED TO BE REPAIRED. WAVE PLATE AND PISTONS AND SEALS GEARS 3, 5 AND REVER",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 26,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SERVICE AIR BAG SIGNS CAME ON WHEN VEHICLE IS STARTED FROM COLD FOR THE FIRST TIME IN THE MORNING.  IT ALSO HAPPENED ON 12/06/2014 AND 12/11/2014. I TOOK IT TO DEALERSHIP AND THEY REPLACED N-TENSIONER KIT ON 12/12/2014. THIS MORNING \"SERVICE AIR BAG\" SIGN CAME ON AGAIN AS SOON AS",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "What 2013 Chevrolet Traverse owners report most",
+    "summary": "Across 161 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 53,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2013 CHEVROLET TRAVERSE. THE CONTACT STATED THAT THE GLOBAL POSITIONING NAVIGATIONAL SYSTEM WAS DIFFICULT TO READ BECAUSE THE FONT WAS ENTIRELY TOO SMALL.  THE NAVIGATIONAL SYSTEM ALSO EXHIBITED WHITE LETTERING ON A LIGHT GREEN BACKGROUND, WHICH DID NOT PRO",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "53 reports (33%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 45,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING ON A HIGHWAY I STEPPED ON THE ACCELERATOR AND THE CAR DID NOT RESPOND AND CAME TO A SUDDEN STOP IN THE MIDDLE OF THE HIGHWAY.  I HAD NO WARNING AND NO ABILITY TO PULL OFF TO THE SIDE OF THE ROAD.  I COULD NOT RESTART THE CAR AND I HAD NO POWER STEERING OR BRAKES.",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "45 reports (28%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 43,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS HAS NOW OCCURRED TWICE WITHIN THE PAST 30 DAYS. WHILE IN MOTION, THE VEHICLE TRANSMISSIONS JERKS, AND SPEED IS IMMEDIATELY REDUCED TO 5MPH. THE STABILITY CONTROL LIGHT COMES ON AS DOES THE CHECK ENGINE LIGHT. A REMOTE DIAGNOSTICS SCAN FROM ON-STAR IDENTIFIED 3 ERROR CODES: C",
+        "pct": 27,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "43 reports (27%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 28,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TRANSMISSION WAS SURGING AND ABRUPTLY SHIFTING FROM SECOND TO THIRD GEAR AND AGAIN FROM FIFTH TO SIXTH GEAR. THE MORE IT WAS DRIVEN THE WORSE IT WAS GETTING. BROUGHT IT TO THE DEALER AND THE TRANSMISSION NEEDED TO BE REPAIRED. WAVE PLATE AND PISTONS AND SEALS GEARS 3, 5 AND REVER",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "28 reports (17%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 26,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SERVICE AIR BAG SIGNS CAME ON WHEN VEHICLE IS STARTED FROM COLD FOR THE FIRST TIME IN THE MORNING.  IT ALSO HAPPENED ON 12/06/2014 AND 12/11/2014. I TOOK IT TO DEALERSHIP AND THEY REPLACED N-TENSIONER KIT ON 12/12/2014. THIS MORNING \"SERVICE AIR BAG\" SIGN CAME ON AGAIN AS SOON AS",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "26 reports (16%) · 1 crash"
+      }
+    ]
+  }
+}

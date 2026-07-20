@@ -1,0 +1,128 @@
+{
+  "slug": "2009-chevrolet-aveo",
+  "make": "Chevrolet",
+  "model": "Aveo",
+  "year": 2009,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2009/CHEVROLET/AVEO#complaints",
+  "generatedAt": "2026-07-19T23:52:33.711Z",
+  "total": 169,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 50,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2009 CHEVY AVEO - SINCE PURCHASED LAST JULY HAVE HAD INTERMITTENT SHUT DOWNS. WILL BE DRIVING AND GO TO MAKE A TURN AND WITH OUT ANY WARNING THE CAR SHUTS OFF. I HAVE BROUGHT IT BACK TO CHEVY NUMEROUS TIMES AND THEY CANT SEEM TO FIND THE PROBLEM. TOLD THEM THIS IS A SAFETY ISSUE ",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 36,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1ST TIME-I WAS DRIVING AND MY CAR STARTED TO SPUTTER AND WHEN I HIT THE GAS PEDAL FOR ACCELERATION NOTHING WOULD HAPPEN,THE RPM WOULD RAISE AND THE CAR WOULDN'T ACCELERATE.   2ND TIME- SAME AS ABOVE BUT STALLED AFTER SPUTTERING  3RD TIME-SITTING AT A LIGHT WHEN THE LIGHT TURNED G",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET AVEO.  THE CONTACT STATED THAT GASOLINE WAS LEAKING INTO THE OIL NEAR THE OIL LEVER.  WHENEVER SHE CHECKS THE OIL, SHE SMELLS GASOLINE ON THE DIPSTICK.  THE DEALER STATED THAT THERE WAS NO ISSUE WITH THE DIPSTICK.  THE CONTACT HAS TAKEN THE VE",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 22,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVEO. THE CONTACT STATED THE FRONT TIRES WERE REPLACED FOUR TIMES . THE DEALER ADVISED THE FAILURE WAS DUE TO THE CONTACT DRIVING AGGRESSIVELY. THE TIRES WERE REPLACED WITH 8,621 MILES. THE CONTACT STATED ALL FOUR TIRES NEEDED REPLACING AT 15",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVEO. WHEN DRIVING AT SPEEDS OF AT LEAST 35 MPH, THE VEHICLE WOULD LOSE POWER AND DECREASE IN SPEED WITHOUT WARRANT. THE CONTACT WOULD APPLY CONSTANT, STEADY PRESSURE TO THE ACCELERATOR PEDAL UNTIL THE VEHICLE WOULD REGAIN SPEED AND RESUME NO",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2009 Chevrolet Aveo owners report most",
+    "summary": "Across 169 owner complaints to NHTSA, the most reported area is Electrical System (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 50,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2009 CHEVY AVEO - SINCE PURCHASED LAST JULY HAVE HAD INTERMITTENT SHUT DOWNS. WILL BE DRIVING AND GO TO MAKE A TURN AND WITH OUT ANY WARNING THE CAR SHUTS OFF. I HAVE BROUGHT IT BACK TO CHEVY NUMEROUS TIMES AND THEY CANT SEEM TO FIND THE PROBLEM. TOLD THEM THIS IS A SAFETY ISSUE ",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "50 reports (30%) · 1 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 36,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1ST TIME-I WAS DRIVING AND MY CAR STARTED TO SPUTTER AND WHEN I HIT THE GAS PEDAL FOR ACCELERATION NOTHING WOULD HAPPEN,THE RPM WOULD RAISE AND THE CAR WOULDN'T ACCELERATE.   2ND TIME- SAME AS ABOVE BUT STALLED AFTER SPUTTERING  3RD TIME-SITTING AT A LIGHT WHEN THE LIGHT TURNED G",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "36 reports (21%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*THE CONTACT OWNS A 2009 CHEVROLET AVEO.  THE CONTACT STATED THAT GASOLINE WAS LEAKING INTO THE OIL NEAR THE OIL LEVER.  WHENEVER SHE CHECKS THE OIL, SHE SMELLS GASOLINE ON THE DIPSTICK.  THE DEALER STATED THAT THERE WAS NO ISSUE WITH THE DIPSTICK.  THE CONTACT HAS TAKEN THE VE",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "29 reports (17%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 22,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVEO. THE CONTACT STATED THE FRONT TIRES WERE REPLACED FOUR TIMES . THE DEALER ADVISED THE FAILURE WAS DUE TO THE CONTACT DRIVING AGGRESSIVELY. THE TIRES WERE REPLACED WITH 8,621 MILES. THE CONTACT STATED ALL FOUR TIRES NEEDED REPLACING AT 15",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "22 reports (13%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2009 CHEVROLET AVEO. WHEN DRIVING AT SPEEDS OF AT LEAST 35 MPH, THE VEHICLE WOULD LOSE POWER AND DECREASE IN SPEED WITHOUT WARRANT. THE CONTACT WOULD APPLY CONSTANT, STEADY PRESSURE TO THE ACCELERATOR PEDAL UNTIL THE VEHICLE WOULD REGAIN SPEED AND RESUME NO",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "22 reports (13%)"
+      }
+    ]
+  }
+}
