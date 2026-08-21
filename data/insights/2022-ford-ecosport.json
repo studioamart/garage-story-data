@@ -45,7 +45,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "The vehicle was built at the Chennai, India plant on April 22, 2022. Official NHTSA recall 25V126 (Ford 25S12) covers 2021‑2022 EcoSports built between April 1, 2021 and July 20, 2022—my build date falls inside that window.  The vehicle exhibits the exact symptoms described in th",
+      "sample": "The vehicle was built at the Chennai, India plant on April 22, 2022. Official NHTSA recall 25V126 (Ford 25S12) covers 2021‑2022 EcoSports built between April 1, 2021 and July 20, 2022. My build date falls inside that window.  The vehicle exhibits the exact symptoms described in th",
       "pct": 10
     },
     {
@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2022 Ford Ecosport owners report most",
-    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Structure (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Structure (20% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "STRUCTURE",
@@ -106,7 +106,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "The vehicle was built at the Chennai, India plant on April 22, 2022. Official NHTSA recall 25V126 (Ford 25S12) covers 2021‑2022 EcoSports built between April 1, 2021 and July 20, 2022—my build date falls inside that window.  The vehicle exhibits the exact symptoms described in th",
+        "sample": "The vehicle was built at the Chennai, India plant on April 22, 2022. Official NHTSA recall 25V126 (Ford 25S12) covers 2021‑2022 EcoSports built between April 1, 2021 and July 20, 2022. My build date falls inside that window.  The vehicle exhibits the exact symptoms described in th",
         "pct": 10,
         "title": "Power Train",
         "blurb": "1 report (10%)"

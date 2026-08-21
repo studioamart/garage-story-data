@@ -88,7 +88,7 @@
     "classb",
     "classc"
    ],
-   "description": "Chassis engine oil per mileage or annually — RV engines idle long and sit longer; time matters as much as miles.",
+   "description": "Chassis engine oil per mileage or annually. RV engines idle long and sit longer; time matters as much as miles.",
    "requires": []
   },
   {
@@ -152,7 +152,7 @@
     "classc",
     "fifthwheel"
    ],
-   "description": "Run 30+ minutes under half load monthly — sitting kills generators via varnished carbs.",
+   "description": "Run 30+ minutes under half load monthly. Sitting kills generators via varnished carbs.",
    "requires": [
     "generator"
    ]
@@ -257,7 +257,7 @@
     "traveltrailer",
     "fifthwheel"
    ],
-   "description": "Towable axles need bearing repacks — annually or per mileage; a failed bearing takes the axle with it.",
+   "description": "Towable axles need bearing repacks annually or per mileage; a failed bearing takes the axle with it.",
    "requires": []
   },
   {
@@ -320,7 +320,7 @@
     "traveltrailer",
     "fifthwheel"
    ],
-   "description": "Re-caulk lap seals around vents, skylights, and edges with compatible sealant — the single highest-ROI RV task.",
+   "description": "Re-caulk lap seals around vents, skylights, and edges with compatible sealant, the single highest-ROI RV task.",
    "requires": []
   },
   {
@@ -568,7 +568,7 @@
     "traveltrailer",
     "fifthwheel"
    ],
-   "description": "Test monthly in season; propane and CO detectors have hard expiry dates printed on them — replace per label.",
+   "description": "Test monthly in season; propane and CO detectors have hard expiry dates printed on them. Replace per label.",
    "requires": []
   },
   {
@@ -740,7 +740,7 @@
     "traveltrailer",
     "fifthwheel"
    ],
-   "description": "Test every light, fan, jack, and slide on battery alone — find issues at home, not at the campsite.",
+   "description": "Test every light, fan, jack, and slide on battery alone. Find issues at home, not at the campsite.",
    "requires": []
   },
   {
@@ -834,7 +834,7 @@
     "traveltrailer",
     "fifthwheel"
    ],
-   "description": "Mud daubers love RV appliance vents — screen and check fridge, furnace, and water heater vents.",
+   "description": "Mud daubers love RV appliance vents. Screen and check fridge, furnace, and water heater vents.",
    "requires": []
   },
   {
@@ -856,7 +856,7 @@
     "traveltrailer",
     "fifthwheel"
    ],
-   "description": "Blow out lines or pump pink antifreeze through every fixture, bypass the water heater, drain tanks — before first freeze.",
+   "description": "Blow out lines or pump pink antifreeze through every fixture, bypass the water heater, drain tanks before first freeze.",
    "requires": []
   },
   {

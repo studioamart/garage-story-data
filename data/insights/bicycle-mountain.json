@@ -19,12 +19,12 @@
     "headline": "What mountain bike owners report most",
     "summary": "These are issues commonly reported by mountain bikers as a general reference, not expert-verified data and possibly outdated. Suspension service, the dropper post, and brakes tend to come up most given the rough terrain.",
     "issues": [
-      { "component": "Suspension Service (Fork / Shock)", "title": "Suspension Service (Fork & Shock)", "pct": 26, "blurb": "Commonly reported (~26%) — forks and shocks need seal and oil service; skipped intervals cause leaks and stiction." },
-      { "component": "Dropper Post", "title": "Dropper Post", "pct": 20, "blurb": "Often reported (~20%) — droppers sag, return slowly, or stick as internals wear and contaminate." },
-      { "component": "Brake Pads / Rotors", "title": "Brake Pads & Rotors", "pct": 18, "blurb": "Often reported (~18%) — pads and rotors wear fast on steep, gritty descents." },
-      { "component": "Drivetrain Wear (Mud)", "title": "Drivetrain Wear (Mud)", "pct": 16, "blurb": "Reported (~16%) — mud and grit wear chains and cassettes far faster than pavement." },
-      { "component": "Bearing Wear (Pivots / Headset)", "title": "Bearing Wear (Pivots & Headset)", "pct": 14, "blurb": "Reported (~14%) — pivot and headset bearings take impacts and water, developing play and creaks." },
-      { "component": "Tubeless", "title": "Tubeless", "pct": 6, "blurb": "Reported (~6%) — sealant dries out and setups burp air on hard hits." }
+      { "component": "Suspension Service (Fork / Shock)", "title": "Suspension Service (Fork & Shock)", "pct": 26, "blurb": "Commonly reported (~26%): forks and shocks need seal and oil service; skipped intervals cause leaks and stiction." },
+      { "component": "Dropper Post", "title": "Dropper Post", "pct": 20, "blurb": "Often reported (~20%): droppers sag, return slowly, or stick as internals wear and contaminate." },
+      { "component": "Brake Pads / Rotors", "title": "Brake Pads & Rotors", "pct": 18, "blurb": "Often reported (~18%): pads and rotors wear fast on steep, gritty descents." },
+      { "component": "Drivetrain Wear (Mud)", "title": "Drivetrain Wear (Mud)", "pct": 16, "blurb": "Reported (~16%): mud and grit wear chains and cassettes far faster than pavement." },
+      { "component": "Bearing Wear (Pivots / Headset)", "title": "Bearing Wear (Pivots & Headset)", "pct": 14, "blurb": "Reported (~14%): pivot and headset bearings take impacts and water, developing play and creaks." },
+      { "component": "Tubeless", "title": "Tubeless", "pct": 6, "blurb": "Reported (~6%): sealant dries out and setups burp air on hard hits." }
     ]
   }
 }

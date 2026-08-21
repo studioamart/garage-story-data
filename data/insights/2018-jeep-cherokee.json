@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Jeep Cherokee: the power train drives most owner complaints",
-    "summary": "Power train issues dominate owner complaints for this model, with transmission overheating being the most common reported symptom, often accompanied by simultaneous warning light activation. Electrical system faults rank second, with some owners reporting the vehicle autonomously engaging systems — such as park assist — without driver input while at highway speed. Engine and brake concerns round out the complaint picture, with some reports involving fire or crash events across multiple categories.",
+    "summary": "Power train issues dominate owner complaints for this model, with transmission overheating being the most common reported symptom, often accompanied by simultaneous warning light activation. Electrical system faults rank second, with some owners reporting the vehicle autonomously engaging systems (such as park assist) without driver input while at highway speed. Engine and brake concerns round out the complaint picture, with some reports involving fire or crash events across multiple categories.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "I PURCHASE THE VEHICLE NEW ON MARCH 30.  ON SUNDAY, APRIL 1 THE CAR AUTOMATICALLY WENT INTO PARK ASSIST MODE WITHOUT THE BUTTON BEING PUSHED.  THIS HAPPENED WHILE DRIVING 50 MPH DOWN THE HIGHWAY CAUSING THE TRANSMISSION TO SHIFT INTO NEUTRAL.  IT WOULD NOT SHIFT BACK TO DRIVE.  W",
         "pct": 28,
         "title": "Electrical System",
-        "blurb": "Owners report the vehicle activating systems such as park assist on its own — without the driver pressing the button — including while traveling at highway speeds, which affected transmission behavior. · 1 fire · 2 crash"
+        "blurb": "Owners report the vehicle activating systems such as park assist on its own, without the driver pressing the button, including while traveling at highway speeds, which affected transmission behavior. · 1 fire · 2 crash"
       },
       {
         "component": "ENGINE",

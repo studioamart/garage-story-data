@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Kia Sorento owners report most",
-    "summary": "Engine problems dominate owner complaints, with reports of sudden, complete power loss while driving at speed — in some cases linked to fires or crashes. Exterior lighting failures and electrical system malfunctions involving multiple simultaneous warning lights also appear frequently. Steering complaints describe a drifting sensation combined with sluggish, sticky response when correcting course.",
+    "summary": "Engine problems dominate owner complaints, with reports of sudden, complete power loss while driving at speed, in some cases linked to fires or crashes. Exterior lighting failures and electrical system malfunctions involving multiple simultaneous warning lights also appear frequently. Steering complaints describe a drifting sensation combined with sluggish, sticky response when correcting course.",
     "issues": [
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "THIS PROBLEM IS IDENTICAL TO NHTSA ID NUMBER 10917569. ON THREE DIFFERENT OCCASIONS THE SMART CRUISE CONTROL/ABS/STABILITY CONTROL WARNING: BASICALLY ALL WARNING LIGHTS LIT ON THE DASHBOARD. CAR HAD LESS THAN 500 MILES, DOING 65MPH ON A CLEAR DAY.  STOPPED AND RESTARTED CAR, ALL ",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "Multiple warning lights — including those for cruise control, ABS, and stability control — have been reported illuminating simultaneously at very low mileage, on more than one occasion in the same vehicle. · 4 fire"
+        "blurb": "Multiple warning lights (including those for cruise control, ABS, and stability control) have been reported illuminating simultaneously at very low mileage, on more than one occasion in the same vehicle. · 4 fire"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",

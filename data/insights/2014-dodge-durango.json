@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Dodge Durango owners report most",
-    "summary": "Exterior lighting problems make up the largest share of owner complaints, with rear lighting described as dangerously bright to following drivers. Seat ventilation malfunctions and electrical system issues — sometimes tied to acceleration hesitation — round out the most frequently reported concerns. A smaller portion of reports involve the engine, with some complaints in both the electrical and engine categories noting fires or crashes.",
+    "summary": "Exterior lighting problems make up the largest share of owner complaints, with rear lighting described as dangerously bright to following drivers. Seat ventilation malfunctions and electrical system issues, sometimes tied to acceleration hesitation, round out the most frequently reported concerns. A smaller portion of reports involve the engine, with some complaints in both the electrical and engine categories noting fires or crashes.",
     "issues": [
       {
         "component": "EXTERIOR LIGHTING",
@@ -73,7 +73,7 @@
         "sample": "I WAS FOLLOWING A DODGE DURANGO SUV IN HEAVY TRAFFIC ON EISENHOWER EXPRESSWAY GOING INTO CHICAGO AT DUSK AND THE LIGHTS SURROUNDING THE TAIL LIGHTS AND ACROSS THE REAR OF THE DURANGO WERE SO BRIGHT I COULD NOT SEE ALL THE OTHER TRAFFIC SATISFACTORILY.  I COULDN'T GET AHEAD OF THE",
         "pct": 33,
         "title": "Exterior Lighting",
-        "blurb": "Owners report that rear lighting — including lights surrounding the tail lights and spanning across the rear of the vehicle — appears excessively bright to trailing drivers, to the point of obstructing their view of the road ahead. · 2 fire · 1 injured"
+        "blurb": "Owners report that rear lighting (including lights surrounding the tail lights and spanning across the rear of the vehicle) appears excessively bright to trailing drivers, to the point of obstructing their view of the road ahead. · 2 fire · 1 injured"
       },
       {
         "component": "SEATS",

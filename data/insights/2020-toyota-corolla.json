@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2020 Toyota Corolla: engine and drivetrain complaints lead, brakes and airbags carry the most risk",
-    "summary": "Owners filed 301 complaints to NHTSA. By far the biggest theme is the engine, named in 36% of reports, with the powertrain adding another 11% — together nearly half of all complaints point at how the car drives and shifts. The next areas are the electrical system (10%), service brakes (7%), and airbags (6%). The two smaller categories are the ones to take most seriously: brakes appear in 6 crashes, and airbags in 9 crashes with 12 people injured.",
+    "summary": "Owners filed 301 complaints to NHTSA. By far the biggest theme is the engine, named in 36% of reports, with the powertrain adding another 11%: together nearly half of all complaints point at how the car drives and shifts. The next areas are the electrical system (10%), service brakes (7%), and airbags (6%). The two smaller categories are the ones to take most seriously: brakes appear in 6 crashes, and airbags in 9 crashes with 12 people injured.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "ENGINE ABNORMAL SHIFT DOWNWARD WHILE DRIVING REGULARLY.  I FEEL THE SHIFT IS NOT SMOOTH EVEN FEELS LIKE A DEFECT IN THE ENGINE SHIFT SYSTEM  17,000 MILES   MOSTLY HAPPENS REGULARLY DRIVING ON CITY STREETS AND A BIT LESS HAPPENS ON THE PARKWAY BUT DOES HAPPEN.  THE SHIFTS ARE HARD",
         "pct": 36,
         "title": "Engine",
-        "blurb": "The most reported area: 107 complaints (36%). Mostly drivability gripes like rough or hard shifts. Rarely dangerous here — 1 crash, 1 fire, and 2 injuries across all 107."
+        "blurb": "The most reported area: 107 complaints (36%). Mostly drivability gripes like rough or hard shifts. Rarely dangerous here: 1 crash, 1 fire, and 2 injuries across all 107."
       },
       {
         "component": "POWER TRAIN",

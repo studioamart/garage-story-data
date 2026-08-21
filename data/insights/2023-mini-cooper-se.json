@@ -25,7 +25,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+      "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect",
       "pct": 20
     },
     {
@@ -35,7 +35,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+      "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect",
       "pct": 20
     },
     {
@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2023 Mini Cooper Se owners report most",
-    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (80% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (80% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -82,7 +82,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+        "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect",
         "pct": 20,
         "title": "Suspension",
         "blurb": "1 report (20%)"
@@ -94,7 +94,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+        "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect",
         "pct": 20,
         "title": "Wheels",
         "blurb": "1 report (20%)"

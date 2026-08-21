@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Powertrain dominates 2021 Highlander owner complaints",
-    "summary": "Of 458 complaints owners filed with NHTSA, the power train is by far the biggest theme at 177 reports (39%) — more than the next four problem areas combined. Brakes, body structure, engine, and air bags round out the top five. A few reports in each area mention a crash or injuries, and two engine reports involved a fire. No deaths were reported in any category.",
+    "summary": "Of 458 complaints owners filed with NHTSA, the power train is by far the biggest theme at 177 reports (39%): more than the next four problem areas combined. Brakes, body structure, engine, and air bags round out the top five. A few reports in each area mention a crash or injuries, and two engine reports involved a fire. No deaths were reported in any category.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "VEHICLE HAS 3400 MILES AND STARTING HAVING LONGER THAN NORMAL CRANKING WHEN STARTING THE VEHICLE.  SHORTLY AFTER THAT OCCURRED THE VEHICLE BEGAN TO STALL WHILE PULLING INTO TRAFFIC.  VEHICLE WAS REPAIRED WHERE THEY INSTALLED SOME FUEL SENSORS.  2 DAYS LATER THE VEHICLE STALLED AG",
         "pct": 9,
         "title": "Engine",
-        "blurb": "43 reports (9%) — the only area with fire reports (2), plus 3 crashes and 2 injuries. Worth a careful check despite the lower count."
+        "blurb": "43 reports (9%): the only area with fire reports (2), plus 3 crashes and 2 injuries. Worth a careful check despite the lower count."
       },
       {
         "component": "AIR BAGS",

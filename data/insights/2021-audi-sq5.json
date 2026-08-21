@@ -25,7 +25,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "Component/System: Engine and Cooling — Water Pump / Coolant System Vehicle: 2021 Audi SQ5 Engine Code: CWGD Mileage at Failure: 71,000 Date of Incident: 8/6/2025 Audi Denver   I’m reporting a known defect affecting my 2021 Audi SQ5 with engine code CWGD. The engine experienced an",
+      "sample": "Component/System: Engine and Cooling, Water Pump / Coolant System Vehicle: 2021 Audi SQ5 Engine Code: CWGD Mileage at Failure: 71,000 Date of Incident: 8/6/2025 Audi Denver   I’m reporting a known defect affecting my 2021 Audi SQ5 with engine code CWGD. The engine experienced an",
       "pct": 27
     },
     {
@@ -82,7 +82,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "Component/System: Engine and Cooling — Water Pump / Coolant System Vehicle: 2021 Audi SQ5 Engine Code: CWGD Mileage at Failure: 71,000 Date of Incident: 8/6/2025 Audi Denver   I’m reporting a known defect affecting my 2021 Audi SQ5 with engine code CWGD. The engine experienced an",
+        "sample": "Component/System: Engine and Cooling, Water Pump / Coolant System Vehicle: 2021 Audi SQ5 Engine Code: CWGD Mileage at Failure: 71,000 Date of Incident: 8/6/2025 Audi Denver   I’m reporting a known defect affecting my 2021 Audi SQ5 with engine code CWGD. The engine experienced an",
         "pct": 27,
         "title": "Power Train",
         "blurb": "3 reports (27%)"

@@ -35,7 +35,7 @@
       "fire": 0,
       "injuries": 3,
       "deaths": 0,
-      "sample": "While driving normally at highway speed on I-880 South, the braking system failed to decelerate the vehicle. When the brake pedal was pressed firmly, there was no normal slowing—only a sliding sensation, as if the wheels locked and the car moved forward on ice. This led to a coll",
+      "sample": "While driving normally at highway speed on I-880 South, the braking system failed to decelerate the vehicle. When the brake pedal was pressed firmly, there was no normal slowing, only a sliding sensation, as if the wheels locked and the car moved forward on ice. This led to a coll",
       "pct": 15
     },
     {
@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2024 Mazda Cx-30 owners report most",
-    "summary": "Across 27 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 27 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (30% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -94,7 +94,7 @@
         "fire": 0,
         "injuries": 3,
         "deaths": 0,
-        "sample": "While driving normally at highway speed on I-880 South, the braking system failed to decelerate the vehicle. When the brake pedal was pressed firmly, there was no normal slowing—only a sliding sensation, as if the wheels locked and the car moved forward on ice. This led to a coll",
+        "sample": "While driving normally at highway speed on I-880 South, the braking system failed to decelerate the vehicle. When the brake pedal was pressed firmly, there was no normal slowing, only a sliding sensation, as if the wheels locked and the car moved forward on ice. This led to a coll",
         "pct": 15,
         "title": "Service Brakes",
         "blurb": "4 reports (15%) · 2 crash · 3 injured"

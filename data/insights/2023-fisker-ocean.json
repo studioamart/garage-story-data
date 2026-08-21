@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2023 Fisker Ocean owners report most",
-    "summary": "Electrical system faults are the most-reported pattern, with owners describing vehicles that become undrivable due to cascading errors and unavailable functions. Brake-related complaints are nearly as common, centered on a confirmed issue where braking over bumps produces an unsafe response. Advanced driver-assistance systems — forward collision avoidance and lane departure — are also widely reported, with owners describing unintended lurching acceleration and false warning messages tied to road conditions and sun angle.",
+    "summary": "Electrical system faults are the most-reported pattern, with owners describing vehicles that become undrivable due to cascading errors and unavailable functions. Brake-related complaints are nearly as common, centered on a confirmed issue where braking over bumps produces an unsafe response. Advanced driver-assistance systems (forward collision avoidance and lane departure) are also widely reported, with owners describing unintended lurching acceleration and false warning messages tied to road conditions and sun angle.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",

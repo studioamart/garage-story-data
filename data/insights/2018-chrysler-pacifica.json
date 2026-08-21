@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2018 Chrysler Pacifica owners report most",
-    "summary": "The most-reported pattern for this model centers on the engine and electrical system failing together while the vehicle is in motion or at a stop, leaving owners unable to proceed even with the ignition in the run position. A secondary cluster of complaints describes the powertrain and steering losing function progressively — warning systems dropping out, speed becoming restricted, and power steering disappearing — often in vehicles with very low accumulated mileage. Some incidents across multiple component areas involved fires or crashes.",
+    "summary": "The most-reported pattern for this model centers on the engine and electrical system failing together while the vehicle is in motion or at a stop, leaving owners unable to proceed even with the ignition in the run position. A secondary cluster of complaints describes the powertrain and steering losing function progressively (warning systems dropping out, speed becoming restricted, and power steering disappearing), often in vehicles with very low accumulated mileage. Some incidents across multiple component areas involved fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "CAR SHUT OFF WITH THE \"PUT CAR IN PARK AND RESTART\" MESSAGE.  IT TOOK 2 ATTEMPTS TO RESTART.  CAR HAS ONLY 795 MILES ON IT.   WHEN THE CAR SHUTS OFF THERE IS NO POWER STEERING CREATING A VERY DANGEROUS SITUATION.  THE CAR WAS STOPPED AT A TRAFFIC LIGHT WHEN THIS HAPPENED WITH THE",
         "pct": 18,
         "title": "Steering",
-        "blurb": "Owners report the vehicle shutting off unexpectedly — sometimes displaying a message to park and restart — and losing power steering in the process, which owners describe as dangerous. · 8 crash · 2 injured"
+        "blurb": "Owners report the vehicle shutting off unexpectedly (sometimes displaying a message to park and restart) and losing power steering in the process, which owners describe as dangerous. · 8 crash · 2 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",

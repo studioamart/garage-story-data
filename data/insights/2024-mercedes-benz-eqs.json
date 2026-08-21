@@ -55,13 +55,13 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "While driving, the vehicle’s lane keeping system applied an unintended and aggressive steering input during a lane change. I was merging left when the system suddenly forced the steering sharply to the right without driver command. This was not a gentle correction—it was a strong",
+      "sample": "While driving, the vehicle’s lane keeping system applied an unintended and aggressive steering input during a lane change. I was merging left when the system suddenly forced the steering sharply to the right without driver command. This was not a gentle correction. It was a strong",
       "pct": 17
     }
   ],
   "narrative": {
     "headline": "What 2024 Mercedes-Benz Eqs owners report most",
-    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Structure (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Structure (33% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "STRUCTURE",
@@ -118,7 +118,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "While driving, the vehicle’s lane keeping system applied an unintended and aggressive steering input during a lane change. I was merging left when the system suddenly forced the steering sharply to the right without driver command. This was not a gentle correction—it was a strong",
+        "sample": "While driving, the vehicle’s lane keeping system applied an unintended and aggressive steering input during a lane change. I was merging left when the system suddenly forced the steering sharply to the right without driver command. This was not a gentle correction. It was a strong",
         "pct": 17,
         "title": "Steering",
         "blurb": "2 reports (17%)"

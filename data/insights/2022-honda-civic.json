@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2022 Honda Civic: steering dominates the owner complaints",
-    "summary": "Steering problems — particularly vibration in the steering wheel at highway speeds — are the most commonly reported issue for this model, with a substantial majority of owner complaints falling in that area. A secondary cluster of complaints covers the driver-assistance suite, where owners describe the adaptive cruise control disengaging without warning and lane-keep assist making erratic lateral corrections, especially near lane markings, curves, and large vehicles. These assist-system behaviors appear across both the forward collision avoidance and lane departure components, suggesting a broader pattern in the sensing or control logic.",
+    "summary": "Steering problems, particularly vibration in the steering wheel at highway speeds, are the most commonly reported issue for this model, with a substantial majority of owner complaints falling in that area. A secondary cluster of complaints covers the driver-assistance suite, where owners describe the adaptive cruise control disengaging without warning and lane-keep assist making erratic lateral corrections, especially near lane markings, curves, and large vehicles. These assist-system behaviors appear across both the forward collision avoidance and lane departure components, suggesting a broader pattern in the sensing or control logic.",
     "issues": [
       {
         "component": "STEERING",
@@ -85,7 +85,7 @@
         "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
         "pct": 8,
         "title": "Forward Collision Avoidance",
-        "blurb": "Owners report the cruise control — whether in adaptive or standard mode — disengaging randomly and refusing to re-engage, with the cruise control icon appearing on the center display during the event. · 4 crash · 5 injured"
+        "blurb": "Owners report the cruise control, whether in adaptive or standard mode, disengaging randomly and refusing to re-engage, with the cruise control icon appearing on the center display during the event. · 4 crash · 5 injured"
       },
       {
         "component": "LANE DEPARTURE",

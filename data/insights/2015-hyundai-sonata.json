@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Hyundai Sonata owners report most",
-    "summary": "Engine problems dominate owner complaints for this Sonata model year, with reports of erratic running, unexpected stalling, and check-engine light activation — including incidents involving fire. Electrical faults and powertrain failures also appear frequently, with owners describing inaccurate gauge readings and transmission-like slipping under acceleration. Service brake concerns round out the pattern, with some incidents occurring in active traffic.",
+    "summary": "Engine problems dominate owner complaints for this Sonata model year, with reports of erratic running, unexpected stalling, and check-engine light activation, including incidents involving fire. Electrical faults and powertrain failures also appear frequently, with owners describing inaccurate gauge readings and transmission-like slipping under acceleration. Service brake concerns round out the pattern, with some incidents occurring in active traffic.",
     "issues": [
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "BRAND NEW CAR PURCHASED AND FEW ISSUES.  1. GAS GAUGE ONLY GOES UP TO 7/8 EVEN WITH FULL TANK FILL UP.  2. GAS MILEAGE DOES NOT SEEM TO INDICATE CORRECT MILEAGE. WITH FULL TANK GAS, THE INDICATOR SHOWS 450+ MILES, BUT ACTUAL MILEAGE IS 300~350 MILES.  3. ERROR OCCURS WHEN PLAYING",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "Owners report inaccurate fuel gauge readings — the gauge fails to reach full even after a complete fill-up — along with incorrect range estimates displayed by the vehicle. · 16 fire · 3 crash · 7 injured"
+        "blurb": "Owners report inaccurate fuel gauge readings (the gauge fails to reach full even after a complete fill-up), along with incorrect range estimates displayed by the vehicle. · 16 fire · 3 crash · 7 injured"
       },
       {
         "component": "POWER TRAIN",

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2022 GMC Sierra 1500: engine problems dominate owner complaints",
-    "summary": "Across 523 owner complaints to NHTSA, the engine is by far the most-reported area at 210 reports (40%) — more than the next two categories combined. Power train (96 reports, 18%) and structure (91 reports, 17%) follow, then the electrical system (78 reports, 15%) and service brakes (29 reports, 6%). Most complaints did not involve a crash, fire, or injury. The few that did are spread across categories: 3 fires each in the engine and electrical system reports, 3 crashes in the power train reports, and one injury each in power train, structure, and electrical.",
+    "summary": "Across 523 owner complaints to NHTSA, the engine is by far the most-reported area at 210 reports (40%): more than the next two categories combined. Power train (96 reports, 18%) and structure (91 reports, 17%) follow, then the electrical system (78 reports, 15%) and service brakes (29 reports, 6%). Most complaints did not involve a crash, fire, or injury. The few that did are spread across categories: 3 fires each in the engine and electrical system reports, 3 crashes in the power train reports, and one injury each in power train, structure, and electrical.",
     "issues": [
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "On 05/28/2022 my family was driving my brand new 2022 GMC Sierra 1500 3.0 Diesel at a rate of 60mph. There was suddenly a loud clunk (transmission) after proceeding a little further and getting speed back to 60mph there was a similar “clunk”… the diesel truck then immediately gai",
         "pct": 18,
         "title": "Power Train",
-        "blurb": "96 complaints (18%), including 3 crashes, 1 fire, and 1 injury — the most crashes of any category here. Owners describe a loud clunk from the transmission while driving at highway speed."
+        "blurb": "96 complaints (18%), including 3 crashes, 1 fire, and 1 injury, the most crashes of any category here. Owners describe a loud clunk from the transmission while driving at highway speed."
       },
       {
         "component": "STRUCTURE",

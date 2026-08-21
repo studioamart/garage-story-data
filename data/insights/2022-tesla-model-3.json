@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2022 Tesla Model 3: driver-assist complaints dominate",
-    "summary": "The dominant pattern in owner complaints centers on the forward collision avoidance system triggering unexpectedly during normal highway and rural driving, often with no apparent hazard present. A closely related set of reports describes sudden, unintended braking events — sometimes severe — occurring while Autopilot or Traffic-Aware Cruise Control is engaged on clear roads. Electrical system issues and concerns about the speed control system round out the complaint profile, with some incidents involving actual crashes or fires.",
+    "summary": "The dominant pattern in owner complaints centers on the forward collision avoidance system triggering unexpectedly during normal highway and rural driving, often with no apparent hazard present. A closely related set of reports describes sudden, unintended braking events, sometimes severe, occurring while Autopilot or Traffic-Aware Cruise Control is engaged on clear roads. Electrical system issues and concerns about the speed control system round out the complaint profile, with some incidents involving actual crashes or fires.",
     "issues": [
       {
         "component": "FORWARD COLLISION AVOIDANCE",

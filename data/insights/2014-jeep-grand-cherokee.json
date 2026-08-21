@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Jeep Grand Cherokee owners report most",
-    "summary": "Electrical and powertrain complaints dominate owner reports for this model year, with instrument cluster failures and unexpected gear shifts or stalls representing the most common patterns. Engine stalling — sometimes requiring many restart attempts before the vehicle can sustain movement — is also a frequent theme. A smaller but notable share of complaints involves seat track displacement in rear-impact collisions.",
+    "summary": "Electrical and powertrain complaints dominate owner reports for this model year, with instrument cluster failures and unexpected gear shifts or stalls representing the most common patterns. Engine stalling, sometimes requiring many restart attempts before the vehicle can sustain movement, is also a frequent theme. A smaller but notable share of complaints involves seat track displacement in rear-impact collisions.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "INSTRUMENT CLUSTER WENT OUT WHILE DRIVING. THIS INCLUDED THE SPEEDOMETER, FUEL GAUGE, RPM. AND ENGINE TEMPERATURE GAUGE. I HAD NO IDEA THE SPEED IN WHICH I WAS DRIVING. I HAVE HAD THE CAR FOR 10 DAYS. I WAS HEADING IN THE SAME DIRECTION AS THE DEALERSHIP WHEN THIS OCCURRED. DROVE",
         "pct": 20,
         "title": "Electrical System",
-        "blurb": "Owners report the instrument cluster going dark while driving, causing all gauges — including the speedometer, fuel gauge, tachometer, and engine temperature gauge — to stop functioning simultaneously. · 27 fire · 10 crash · 6 injured"
+        "blurb": "Owners report the instrument cluster going dark while driving, causing all gauges (including the speedometer, fuel gauge, tachometer, and engine temperature gauge) to stop functioning simultaneously. · 27 fire · 10 crash · 6 injured"
       },
       {
         "component": "POWER TRAIN",

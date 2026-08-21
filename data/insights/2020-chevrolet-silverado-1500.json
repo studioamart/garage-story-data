@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "The 2020 Silverado 1500's most-reported trouble spots: engine and drivetrain",
-    "summary": "Engine and powertrain complaints dominate owner reports for this truck, with the most common accounts describing sudden loss of power accompanied by multiple warning lights illuminating while driving. Powertrain complaints frequently involve the vehicle rolling uncontrollably after being placed in park, while braking failures — sometimes alongside electrical warning cascades — round out the major concern areas. Several reports across engine, powertrain, and electrical categories mention fire incidents.",
+    "summary": "Engine and powertrain complaints dominate owner reports for this truck, with the most common accounts describing sudden loss of power accompanied by multiple warning lights illuminating while driving. Powertrain complaints frequently involve the vehicle rolling uncontrollably after being placed in park, while braking failures, sometimes alongside electrical warning cascades, round out the major concern areas. Several reports across engine, powertrain, and electrical categories mention fire incidents.",
     "issues": [
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "BRAND NEW TRUCK WITH ONLY 450 MILES.   FIRST INCIDENT WAS CHECK ENGINE LIGHT CAME ON , BRAKE PEDAL WAS REALLY HARD TO PRESS ALMOST HIT CAR INFRONT OF ME.  SECOND INCIDENT ALL LIGHTS CAME BACK UP   ABS,SRS, TRAILER BRAKE MODULE, PARKING BRAKE,  TRUCK WILL NOT GO FASTER THAN 42MPH.",
         "pct": 14,
         "title": "Electrical System",
-        "blurb": "Owners report cascading warning lights — including check engine, ABS, SRS, and trailer brake indicators — appearing together, sometimes accompanied by a stiff, unresponsive brake pedal on vehicles with very low mileage. · 8 fire · 2 crash · 4 injured"
+        "blurb": "Owners report cascading warning lights (including check engine, ABS, SRS, and trailer brake indicators) appearing together, sometimes accompanied by a stiff, unresponsive brake pedal on vehicles with very low mileage. · 8 fire · 2 crash · 4 injured"
       },
       {
         "component": "STEERING",

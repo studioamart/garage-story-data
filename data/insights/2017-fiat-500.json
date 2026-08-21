@@ -45,7 +45,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "The PCM system does not work at all and brakes seem off—either they stop too hard or drag when pressing in them",
+      "sample": "The PCM system does not work at all and brakes seem off: either they stop too hard or drag when pressing in them",
       "pct": 15
     },
     {
@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Fiat 500 owners report most",
-    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -106,7 +106,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "The PCM system does not work at all and brakes seem off—either they stop too hard or drag when pressing in them",
+        "sample": "The PCM system does not work at all and brakes seem off: either they stop too hard or drag when pressing in them",
         "pct": 15,
         "title": "Service Brakes",
         "blurb": "2 reports (15%)"

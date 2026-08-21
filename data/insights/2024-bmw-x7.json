@@ -15,7 +15,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "Vehicle would not start after repeated attempts. Several warning alerts — brake malfunction, parking brake malfunction, chassis malfunction, reduced driver assistance warning, drive vehicle to nearest service center.  Vehicle started, parking brake would not initially release, th",
+      "sample": "Vehicle would not start after repeated attempts. Several warning alerts: brake malfunction, parking brake malfunction, chassis malfunction, reduced driver assistance warning, drive vehicle to nearest service center.  Vehicle started, parking brake would not initially release, th",
       "pct": 77
     },
     {
@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2024 Bmw X7 owners report most",
-    "summary": "Across 52 owner complaints to NHTSA, the most reported area is Service Brakes (77% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 52 owner complaints to NHTSA, the most reported area is Service Brakes (77% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "SERVICE BRAKES",
@@ -70,7 +70,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "Vehicle would not start after repeated attempts. Several warning alerts — brake malfunction, parking brake malfunction, chassis malfunction, reduced driver assistance warning, drive vehicle to nearest service center.  Vehicle started, parking brake would not initially release, th",
+        "sample": "Vehicle would not start after repeated attempts. Several warning alerts: brake malfunction, parking brake malfunction, chassis malfunction, reduced driver assistance warning, drive vehicle to nearest service center.  Vehicle started, parking brake would not initially release, th",
         "pct": 77,
         "title": "Service Brakes",
         "blurb": "40 reports (77%) · 1 crash"

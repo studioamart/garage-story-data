@@ -45,7 +45,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+      "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure, creating crash risks.",
       "pct": 25
     },
     {
@@ -55,7 +55,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+      "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure, creating crash risks.",
       "pct": 25
     }
   ],
@@ -106,7 +106,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+        "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure, creating crash risks.",
         "pct": 25,
         "title": "Power Train",
         "blurb": "1 report (25%)"
@@ -118,7 +118,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+        "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure, creating crash risks.",
         "pct": 25,
         "title": "Engine",
         "blurb": "1 report (25%)"

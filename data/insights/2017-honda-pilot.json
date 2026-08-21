@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Honda Pilot owners report most",
-    "summary": "Engine-related complaints dominate owner reports for this model, with the most common symptom being sudden loss of acceleration accompanied by transmission warning messages while driving at highway speeds. Electrical system faults are the second most frequently reported area, with owners describing multiple warning lights and system failures — including power steering and the speedometer — appearing simultaneously at startup. Powertrain and fuel system complaints round out the picture, with some owners reporting transmission-related acceleration failures and others encountering physical obstructions that prevent normal refueling.",
+    "summary": "Engine-related complaints dominate owner reports for this model, with the most common symptom being sudden loss of acceleration accompanied by transmission warning messages while driving at highway speeds. Electrical system faults are the second most frequently reported area, with owners describing multiple warning lights and system failures (including power steering and the speedometer) appearing simultaneously at startup. Powertrain and fuel system complaints round out the picture, with some owners reporting transmission-related acceleration failures and others encountering physical obstructions that prevent normal refueling.",
     "issues": [
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "THIS IS THE 4TH TIME NOW THAT WE HAVE HAD TO BRING OUT PILOT IN TO BE SERVICED FOR THE SAME THING.  WHEN WE TURN THE CAR ON, MULTIPLE ERRORS COME ON OUT OF NOWHERE.  POWER STEERING, THE SPEEDOMETER AND MANY OTHER THINGS STOP WORKING.  THEY RESET IT AND IT HAPPENS AGAIN.  THEY HAV",
         "pct": 29,
         "title": "Electrical System",
-        "blurb": "Owners describe multiple warning lights and system errors — including power steering and speedometer failures — appearing simultaneously and without warning when starting the vehicle, with some cases recurring after service. · 2 fire · 1 crash"
+        "blurb": "Owners describe multiple warning lights and system errors (including power steering and speedometer failures) appearing simultaneously and without warning when starting the vehicle, with some cases recurring after service. · 2 fire · 1 crash"
       },
       {
         "component": "POWER TRAIN",

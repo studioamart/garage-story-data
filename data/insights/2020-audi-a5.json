@@ -25,7 +25,7 @@
       "fire": 0,
       "injuries": 0,
       "deaths": 0,
-      "sample": "The MMI screen in my 2020 Audi A5 Sportback randomly reboots while driving, with no consistent pattern. These reboots occur regardless of whether a phone is connected—via USB-C, Bluetooth, or not connected at all. The issue is highly distracting and often occurs during critical m",
+      "sample": "The MMI screen in my 2020 Audi A5 Sportback randomly reboots while driving, with no consistent pattern. These reboots occur regardless of whether a phone is connected, via USB-C, Bluetooth, or not connected at all. The issue is highly distracting and often occurs during critical m",
       "pct": 25
     },
     {
@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2020 Audi A5 owners report most",
-    "summary": "Across 60 owner complaints to NHTSA, the most reported area is Electrical System (68% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Across 60 owner complaints to NHTSA, the most reported area is Electrical System (68% of reports). Some reports involve a fire or crash. Read the details below.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -82,7 +82,7 @@
         "fire": 0,
         "injuries": 0,
         "deaths": 0,
-        "sample": "The MMI screen in my 2020 Audi A5 Sportback randomly reboots while driving, with no consistent pattern. These reboots occur regardless of whether a phone is connected—via USB-C, Bluetooth, or not connected at all. The issue is highly distracting and often occurs during critical m",
+        "sample": "The MMI screen in my 2020 Audi A5 Sportback randomly reboots while driving, with no consistent pattern. These reboots occur regardless of whether a phone is connected, via USB-C, Bluetooth, or not connected at all. The issue is highly distracting and often occurs during critical m",
         "pct": 25,
         "title": "Back Over Prevention",
         "blurb": "15 reports (25%)"
