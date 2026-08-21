@@ -59,7 +59,7 @@ App flow: user picks a sub-type (e.g. RV class A/B/C, bike road/mountain/ebike) 
 
 Merged from the per-vertical datasets behind the former standalone apps (carstory-data,
 motostory-data, rvstory-data, bikestory-data). Those repos remain; this is the consolidated
-source for Vehicle Story (Team AM Story consolidation, 2026-06-23).
+source for Vehicle Story (Studio AM Story consolidation, 2026-06-23).
 
 ## Hosting
 
