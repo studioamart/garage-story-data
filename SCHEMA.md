@@ -1,67 +1,78 @@
-# Vehicle Story data schema
+# Garage Story schedule data schema
 
-Public reference data for the native **Vehicle Story** app. One repo, four vehicle types,
-served via GitHub Pages. The app fetches `manifest.json`, then the per-type file for the
-vehicle the user selected.
+Public reference schedules for Garage Story, delivered over HTTPS through the
+digest-verified `vehicle-manifest.json` release.
 
-> Reference only — not professional mechanical advice. Intervals are typical/generic and
-> can be outdated; always defer to the owner's manual.
+> Reference only — not professional mechanical advice. Intervals are typical or
+> model-specific reference values and may be outdated; defer to the owner's manual.
 
-## manifest.json
+## Manifest
 
 ```json
 {
-  "schema": 1,
-  "version": 1,
-  "vehicleTypes": [
-    { "type": "car", "dataModel": "vehicleDB", "url": ".../data/car.json", "vehicleCount": 1004 },
-    { "type": "motorcycle", "dataModel": "vehicleDB", "url": ".../data/motorcycle.json", "vehicleCount": 111 },
-    { "type": "rv", "dataModel": "taskTemplate", "url": ".../data/rv.json", "taskCount": 40 },
-    { "type": "bicycle", "dataModel": "taskTemplate", "url": ".../data/bicycle.json", "taskCount": 30 }
-  ]
+  "schema": 3,
+  "version": 7,
+  "url": "https://studioamart.github.io/garage-story-data/data/all-vehicles.json",
+  "sha256": "<sha256 of the exact payload bytes>",
+  "vehicleCount": 1424
 }
 ```
 
-`version` bumps on any data change (the app caches by version, like the other Story datasets).
+`version` increases for every published payload change. The app verifies the
+schema, count, SHA-256 digest, size limits, and every row before activating a
+download. RV task templates are currently bundled with the binary and therefore
+are deliberately not advertised by this OTA manifest.
 
-## Two data models
+## Vehicle payload (schema 3)
 
-The app branches on `dataModel`:
-
-### 1. `vehicleDB` — make/model/year → OEM-style schedule (car, motorcycle)
 ```json
-{ "vehicles": [ {
-  "make": "Toyota", "model": "RAV4", "years": "2019-2023", "generation": "5th Gen (XA50)",
-  "scheduleSource": "generic",
-  "schedule": [ {
-    "service": "Oil Change", "mileInterval": 5000, "monthInterval": 6,
-    "estimatedCost": [30, 75], "category": "engine", "description": "..."
-  } ]
-} ] }
+{
+  "schema": 3,
+  "vehicles": [{
+    "make": "Toyota",
+    "model": "RAV4",
+    "years": "2019-2023",
+    "generation": "5th Gen (XA50)",
+    "vehicleType": "car",
+    "scheduleSource": "generic",
+    "schedule": [{
+      "taskId": "service:oil-change",
+      "service": "Oil Change",
+      "mileInterval": 5000,
+      "monthInterval": 6,
+      "estimatedCost": [30, 75],
+      "category": "engine",
+      "description": "..."
+    }]
+  }]
+}
 ```
-App flow: user picks make/model/year → look up the vehicle → render its `schedule`, driving
-reminders off `mileInterval` (odometer) and `monthInterval` (calendar).
 
-### 2. `taskTemplate` — generic tasks by sub-type (rv, bicycle)
-```json
-{ "schema": 1, "version": 1, "tasks": [ {
-  "id": "chain-lube", "task": "Chain Clean & Lube", "system": "drivetrain",
-  "hourInterval": null, "monthInterval": 1, "season": null,
-  "estimatedCost": [3, 15], "diy": true,
-  "appliesTo": ["road", "mountain", "hybrid", "ebike", "kids"],
-  "description": "..."
-} ] }
+Every schedule row must publish a permanent, namespaced `taskId`. It is identity,
+not display copy: after an ID is released, changing `service` must not change the
+ID. Schema 3's initial IDs intentionally equal the app's prior deterministic
+`service:<normalized-label>` compatibility IDs. That makes the one-time migration
+exact; legacy records without IDs still match only when their normalized label is
+unique in that vehicle's active schedule.
+
+Task IDs must be unique within each vehicle schedule. The release builder also
+enforces row, schedule, string, interval, and payload-size limits.
+
+## Bundled RV task template
+
+`data/rv-tasks.json` remains the reviewed source mirrored into the app bundle.
+Its curated source `id` becomes runtime `taskId` `rv:<id>`. Interval dimensions
+are literal: `mileInterval` is chassis mileage, `hourInterval` is an equipment
+hour meter, and `monthInterval` is calendar time. A missing dimension stays null.
+
+## Release validation
+
+Run:
+
+```sh
+node scripts/build-vehicle-manifest.mjs
+node scripts/build-vehicle-manifest.mjs --check
 ```
-App flow: user picks a sub-type (e.g. RV class A/B/C, bike road/mountain/ebike) → filter
-`tasks` by `appliesTo` → render. RV uses `hourInterval` (engine/generator hours) where present.
 
-## Provenance
-
-Merged from the per-vertical datasets behind the former standalone apps (carstory-data,
-motostory-data, rvstory-data, bikestory-data). Those repos remain; this is the consolidated
-source for Vehicle Story (Team AM Story consolidation, 2026-06-23).
-
-## Hosting
-
-Enable GitHub Pages (branch `main`, root) so the `https://support-teamam.github.io/vehiclestory-data/`
-URLs in `manifest.json` resolve.
+The first command validates the complete payload and writes the derived digest
+and count. `--check` fails when the checked-in manifest differs.

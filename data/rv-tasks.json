@@ -75,7 +75,7 @@
    "id": "engine-oil",
    "task": "Engine Oil & Filter Change",
    "system": "chassis",
-   "hourInterval": 5000,
+   "hourInterval": null,
    "monthInterval": 12,
    "season": null,
    "estimatedCost": [
@@ -89,13 +89,14 @@
     "classc"
    ],
    "description": "Chassis engine oil per mileage or annually — RV engines idle long and sit longer; time matters as much as miles.",
-   "requires": []
+   "requires": [],
+   "mileInterval": 5000
   },
   {
    "id": "chassis-service",
    "task": "Chassis Lube & Inspection",
    "system": "chassis",
-   "hourInterval": 7500,
+   "hourInterval": null,
    "monthInterval": 12,
    "season": "spring",
    "estimatedCost": [
@@ -109,7 +110,8 @@
     "classc"
    ],
    "description": "Grease points, belts, hoses, and fluid levels on the drivetrain side.",
-   "requires": []
+   "requires": [],
+   "mileInterval": 7500
   },
   {
    "id": "gen-oil",
@@ -161,7 +163,7 @@
    "id": "trans-service",
    "task": "Transmission Service",
    "system": "chassis",
-   "hourInterval": 50000,
+   "hourInterval": null,
    "monthInterval": null,
    "season": null,
    "estimatedCost": [
@@ -175,13 +177,14 @@
     "classc"
    ],
    "description": "Fluid and filter per chassis schedule.",
-   "requires": []
+   "requires": [],
+   "mileInterval": 50000
   },
   {
    "id": "chassis-brakes",
    "task": "Brake Inspection (Chassis)",
    "system": "chassis",
-   "hourInterval": 12000,
+   "hourInterval": null,
    "monthInterval": 12,
    "season": null,
    "estimatedCost": [
@@ -195,7 +198,8 @@
     "classc"
    ],
    "description": "Pads, rotors, and fluid on the drivable chassis.",
-   "requires": []
+   "requires": [],
+   "mileInterval": 12000
   },
   {
    "id": "tire-age",
