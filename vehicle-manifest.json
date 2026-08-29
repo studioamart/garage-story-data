@@ -1,8 +1,9 @@
 {
-  "schema": 2,
-  "version": 6,
+  "schema": 3,
+  "version": 7,
   "url": "https://studioamart.github.io/garage-story-data/data/all-vehicles.json",
   "vehicleCount": 1424,
+  "sha256": "f9596f89a68156aa108ba8e8cbae96c551538969985a9d9b9de75c403047db82",
   "rvTasksUrl": "https://studioamart.github.io/garage-story-data/data/rv-tasks.json",
   "rvTaskCount": 40
 }

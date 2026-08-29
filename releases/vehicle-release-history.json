@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "releases": [
+    {
+      "version": 6,
+      "schema": 2,
+      "vehicleCount": 1424,
+      "sha256": "084499712f702247ae4dd06ea5237adddeb37dcf4b77b174c238135bc107a700",
+      "contract": "releases/contracts/v6.json",
+      "contractSha256": "9844cbc2c92ac7cdd62c2dad59842a5e9566719f26fff0e8b548ebf35afcfcc6"
+    },
+    {
+      "version": 7,
+      "schema": 3,
+      "vehicleCount": 1424,
+      "sha256": "f9596f89a68156aa108ba8e8cbae96c551538969985a9d9b9de75c403047db82",
+      "previousSha256": "084499712f702247ae4dd06ea5237adddeb37dcf4b77b174c238135bc107a700",
+      "contract": "releases/contracts/v7.json",
+      "contractSha256": "a39a7e2df7865f4218446a6ed6dad3dc5e6f403292432fe645c5710cb2a3e139",
+      "transition": "releases/transitions/v6-to-v7.json",
+      "transitionSha256": "23ab294befdb402859536e59fca2807f8a568ceddd8be518ab3b6e23b13e7276"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "fromVersion": 6,
+  "toVersion": 7,
+  "legacyGeneratedTaskIds": true,
+  "requireExactVehicleSet": true,
+  "requireExactTaskSet": true,
+  "exceptions": {
+    "removedVehicles": [],
+    "removedTaskIds": [],
+    "provenanceChanges": [],
+    "taskSemanticChanges": []
+  }
+}
